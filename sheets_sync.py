@@ -2,12 +2,17 @@
 Push the scraped, scored, sponsor-checked jobs into a Google Sheet — the
 "loop that keeps updating the sheet" piece.
 
-This is the fourth stage of the pipeline, run after scrape_jobs.py and
-sponsor_check.py in CI:
+This is the last stage of the pipeline, run after scrape_jobs.py,
+sponsor_check.py and us_sponsor_check.py in CI:
 
-    scrape_jobs.py  -->  output/all_jobs.json
-    sponsor_check.py -->  output/sponsor_status.json
-    sheets_sync.py   -->  writes a "Live Jobs Feed" tab in your Google Sheet
+    scrape_jobs.py      -->  output/all_jobs.json
+    sponsor_check.py    -->  output/sponsor_status.json      (UK)
+    us_sponsor_check.py -->  output/us_sponsor_status.json   (USA)
+    sheets_sync.py      -->  writes a "Live Jobs Feed" tab in your Google Sheet
+
+Both sponsor-check files are optional — if either hasn't run yet (or a fork
+only cares about one region), its column just shows "unknown" instead of
+failing the sync.
 
 It owns ONE tab only (default name "Live Jobs Feed", override with the
 GOOGLE_SHEET_TAB variable) and fully rewrites it every run — your other
@@ -50,6 +55,7 @@ SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 OUTPUT_DIR = os.path.join(SCRIPT_DIR, "output")
 ALL_JOBS_PATH = os.path.join(OUTPUT_DIR, "all_jobs.json")
 SPONSOR_STATUS_PATH = os.path.join(OUTPUT_DIR, "sponsor_status.json")
+US_SPONSOR_STATUS_PATH = os.path.join(OUTPUT_DIR, "us_sponsor_status.json")
 CONFIG_PATH = os.path.join(SCRIPT_DIR, "config.json")
 PRIORITY_COMPANIES_PATH = os.path.join(SCRIPT_DIR, "priority_companies.json")
 
@@ -61,8 +67,8 @@ MAX_ROWS = 400  # keep the sheet from growing without bound
 AUTO_COLUMNS = [
     "Fit Score", "Curated Match", "Title", "Company", "Sector Stream",
     "Suggested Roles", "Location", "Sponsor Status", "Licence Route",
-    "Salary", "Salary vs Skilled Worker", "Priority Topics", "Role Category",
-    "Date Posted", "Source", "URL",
+    "US H-1B Sponsor", "Salary", "Salary vs Skilled Worker", "Priority Topics",
+    "Role Category", "Date Posted", "Source", "URL",
 ]
 USER_COLUMNS = ["Status", "Notes"]
 ALL_COLUMNS = AUTO_COLUMNS + USER_COLUMNS
@@ -123,8 +129,8 @@ def match_all(text: str, terms: list[tuple[str, re.Pattern]]) -> str:
     return ", ".join(hits)
 
 
-def build_rows(jobs: list[dict], sponsor_companies: dict, priority_companies: dict,
-                config: dict, notify_mod) -> list[list[str]]:
+def build_rows(jobs: list[dict], sponsor_companies: dict, us_sponsor_companies: dict,
+                priority_companies: dict, config: dict, notify_mod) -> list[list[str]]:
     role_terms = _compile_category_terms(config, "role_categories")
     topic_terms = _compile_category_terms(config, "priority_topics")
 
@@ -148,6 +154,13 @@ def build_rows(jobs: list[dict], sponsor_companies: dict, priority_companies: di
         sponsor_matched = sponsor.get("matched_name", "") or ""
         licence_route = curated.get("licence_route", "") if curated else ""
 
+        us_sponsor = us_sponsor_companies.get(company, {})
+        us_sponsor_status = us_sponsor.get("status", "unknown")
+        us_sponsor_count = us_sponsor.get("certified_lca_count", 0) or 0
+        us_sponsor_cell = us_sponsor_status
+        if us_sponsor_status in ("confirmed", "likely") and us_sponsor_count:
+            us_sponsor_cell = f"{us_sponsor_status} ({us_sponsor_count} certified LCA{'s' if us_sponsor_count != 1 else ''})"
+
         salary = job.get("salary", "") or ""
 
         rows.append([
@@ -160,6 +173,7 @@ def build_rows(jobs: list[dict], sponsor_companies: dict, priority_companies: di
             job.get("location", "") or "",
             f"{sponsor_status}" + (f" ({sponsor_matched})" if sponsor_matched and sponsor_matched != company else ""),
             licence_route,
+            us_sponsor_cell,
             salary,
             job.get("salary_vs_skilled_worker", "") or "",  # filled in below if present
             match_all(text, topic_terms),
@@ -201,12 +215,15 @@ def main() -> int:
     sponsor_doc = _load_json(SPONSOR_STATUS_PATH, {"companies": {}})
     sponsor_companies = sponsor_doc.get("companies", {})
 
+    us_sponsor_doc = _load_json(US_SPONSOR_STATUS_PATH, {"companies": {}})
+    us_sponsor_companies = us_sponsor_doc.get("companies", {})
+
     priority_raw = _load_json(PRIORITY_COMPANIES_PATH, {})
     config = _load_json(CONFIG_PATH, {})
     notify_mod = _import_notify()
 
     print("📊 Building Google Sheet rows...")
-    rows = build_rows(jobs, sponsor_companies, priority_raw, config, notify_mod)
+    rows = build_rows(jobs, sponsor_companies, us_sponsor_companies, priority_raw, config, notify_mod)
 
     # Merge in salary-vs-threshold from sponsor_check's per-job CSV if present
     # (sponsor_check.py computes this per-posting, not per-company).
