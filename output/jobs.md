@@ -1,23 +1,20 @@
-# 🏛 Priority Employers — Environmental / Toxicology Roles
-*Last updated: 2026-08-28 15:39 UTC*
+# 🏛 Priority Employers — Sumit's Planning & PropTech Roles
+*Last updated: 2026-08-29 10:27 UTC*
 
-**4 new role(s)** since last run · 5 total in last 24h
+**4 new role(s)** since last run · 4 total in last 24h
 
-### [Principal Geologist - Environmental Assessment and Remediation](https://www.linkedin.com/jobs/view/4440795550/) — Geosyntec Consultants
-- 📍 **Location:** Fresno, CA
-- 💰 **Salary:** $135,070/year - $189,100/year
+### [Associate Town Planning](https://www.linkedin.com/jobs/view/4460507611/) — Ramboll
+- 📍 **Location:** London, England, United Kingdom
 - 🕒 **Posted:** 2026-08-28
 
-### [Environmental Specialist](https://www.linkedin.com/jobs/view/4458043756/) — Tetra Tech
-- 📍 **Location:** Rancho Cordova, CA
+### [Town Planning | Expression of Interest](https://www.linkedin.com/jobs/view/4198704067/) — Stantec
+- 📍 **Location:** Bristol, England, United Kingdom
 - 🕒 **Posted:** 2026-08-28
 
-### [Managing Scientist- Water Resources, Agricultural, or Nutrient Management (Ph.D.)](https://www.linkedin.com/jobs/view/4391892654/) — Exponent
-- 📍 **Location:** Pasadena, CA
-- 💰 **Salary:** USD $136,000.00 - USD $166,000.00 /Yr
-- 🕒 **Posted:** 2026-08-27
+### [Principal Urban Designer](https://www.linkedin.com/jobs/view/4448775487/) — Mott MacDonald
+- 📍 **Location:** Manchester, England, United Kingdom
+- 🕒 **Posted:** 2026-08-28
 
-### [Environmental Chemist (Corvallis, OR)](https://www.linkedin.com/jobs/view/4458665300/) — ICF
-- 📍 **Location:** Salem, OR
-- 💰 **Salary:** $50,364.00 - $85,618.00
-- 🕒 **Posted:** 2026-08-27
+### [Compliance Analyst - GRC](https://www.linkedin.com/jobs/view/4458423545/) — Rightmove
+- 📍 **Location:** London, England, United Kingdom
+- 🕒 **Posted:** 2026-08-28
