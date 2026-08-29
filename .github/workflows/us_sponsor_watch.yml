@@ -1,0 +1,46 @@
+name: US H-1B Sponsor Check
+
+on:
+  # Runs after the other daily/hourly watchers have had a chance to update
+  # all_jobs.json, and a few minutes after the UK Sponsor & Salary Check so
+  # the two don't fight over the same commit lock at the same second.
+  schedule:
+    - cron: "20 6 * * *"
+  workflow_dispatch: {}
+
+concurrency:
+  group: job-scraper-commit-push
+  cancel-in-progress: false
+
+jobs:
+  us-sponsor-check:
+    name: US H-1B LCA disclosure cross-check
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install openpyxl
+
+      - name: Cross-check companies against US H-1B LCA disclosure data
+        run: python us_sponsor_check.py
+
+      - name: Commit results to repo
+        if: vars.ENABLE_DATA_COMMITS == 'true'
+        run: |
+          git config user.name  "${{ github.actor }}"
+          git config user.email "${{ github.actor }}@users.noreply.github.com"
+          git add -f output/us_sponsor_status.json output/jobs_with_us_sponsor.csv
+          git diff --cached --quiet || git commit -m "chore: update US H-1B sponsor check [$(date -u '+%Y-%m-%d %H:%MZ')]"
+          git pull --rebase -X ours origin main
+          git push
