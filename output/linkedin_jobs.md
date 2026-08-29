@@ -1,24 +1,20 @@
 # 🔥 LinkedIn — Sumit's Planning & PropTech Roles
-*Last updated: 2026-08-29 18:52 UTC*
+*Last updated: 2026-08-29 22:09 UTC*
 
-**5 new role(s)** since last run · 5 total in last 1h
+**4 new role(s)** since last run · 4 total in last 1h
 
-### [Associate Town Planner (Infrastructure Planning)](https://www.linkedin.com/jobs/view/4414570686/) — WSP in the UK & Ireland
-- 📍 **Location:** Leeds, England, United Kingdom
+### [Material Planning Analyst - 1st Shift](https://www.linkedin.com/jobs/view/4460853264/) — GXO Logistics, Inc.
+- 📍 **Location:** Oklahoma, United States
 - 🕒 **Posted:** 2026-08-29
 
-### [Senior Town Planner ( Infrastructure Planning)](https://www.linkedin.com/jobs/view/4433077966/) — WSP in the UK & Ireland
-- 📍 **Location:** Glasgow, Scotland, United Kingdom
+### [Customer Success Specialist, Entry Level](https://www.linkedin.com/jobs/view/4459707009/) — Jobright.ai
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-08-29
 
-### [Senior Town Planner ( Infrastructure Planning)](https://www.linkedin.com/jobs/view/4433876546/) — WSP in the UK & Ireland
-- 📍 **Location:** London, England, United Kingdom
+### [Compliance Analyst](https://www.linkedin.com/jobs/view/4459700863/) — RemoteHunter
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-08-29
 
-### [Senior Presales Solutions Consultant, Card Issuing & Processing](https://www.linkedin.com/jobs/view/4432832006/) — FIS
-- 📍 **Location:** London, England, United Kingdom
-- 🕒 **Posted:** 2026-08-29
-
-### [Implementation Consultant](https://www.linkedin.com/jobs/view/4451074356/) — Klipboard
-- 📍 **Location:** Gouda, South Holland, Netherlands
+### [Compliance Analyst, Entry Level](https://www.linkedin.com/jobs/view/4459484922/) — Jobright.ai
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-08-29
