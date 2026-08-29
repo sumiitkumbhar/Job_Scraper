@@ -1,0 +1,41 @@
+name: Google Sheet Sync
+
+on:
+  # Refreshes the "Live Jobs Feed" tab hourly, offset to :50 so it runs after
+  # the hourly LinkedIn (:17), Indeed (:47), Google Jobs (:37) and HiringCafe
+  # (:57 — runs just after, picks up next hour) watchers, and after the daily
+  # sponsor/salary check has had a chance to run earlier that day.
+  schedule:
+    - cron: "50 * * * *"
+  workflow_dispatch: {}
+
+concurrency:
+  group: job-scraper-commit-push
+  cancel-in-progress: false
+
+jobs:
+  sheets-sync:
+    name: Sync jobs to Google Sheet
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install gspread google-auth
+
+      - name: Sync to Google Sheet
+        run: python sheets_sync.py
+        env:
+          GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
+          GOOGLE_SHEET_ID: ${{ vars.GOOGLE_SHEET_ID }}
+          GOOGLE_SHEET_TAB: ${{ vars.GOOGLE_SHEET_TAB }}
+
+      # No commit step: this workflow only writes to Google Sheets, not to
+      # the repo, so it needs none of the other watchers' write permissions.
