@@ -79,7 +79,6 @@ ORG_SUFFIX_RE = re.compile(
 )
 NON_ALNUM_RE = re.compile(r"[^a-z0-9]+")
 
-
 def normalize_org(name: str) -> str:
     if not name:
         return ""
@@ -88,7 +87,6 @@ def normalize_org(name: str) -> str:
     n = NON_ALNUM_RE.sub(" ", n)
     return " ".join(n.split())
 
-
 def _load_json(path: str, default):
     try:
         with open(path, encoding="utf-8") as f:
@@ -96,14 +94,12 @@ def _load_json(path: str, default):
     except (FileNotFoundError, json.JSONDecodeError):
         return default
 
-
 def _import_notify():
     """Reuse notify.py's deterministic _fit() scorer instead of duplicating it."""
     spec = importlib.util.spec_from_file_location("notify", os.path.join(SCRIPT_DIR, "notify.py"))
     mod = importlib.util.module_from_spec(spec)
     spec.loader.exec_module(mod)
     return mod
-
 
 def _compile_category_terms(config: dict, key: str) -> list[tuple[str, re.Pattern]]:
     terms = (config.get(key, {}) or {}).get("terms", [])
@@ -116,18 +112,15 @@ def _compile_category_terms(config: dict, key: str) -> list[tuple[str, re.Patter
             continue
     return out
 
-
 def match_first(text: str, terms: list[tuple[str, re.Pattern]]) -> str:
     for name, rx in terms:
         if rx.search(text):
             return name
     return ""
 
-
 def match_all(text: str, terms: list[tuple[str, re.Pattern]]) -> str:
     hits = [name for name, rx in terms if rx.search(text)]
     return ", ".join(hits)
-
 
 def build_rows(jobs: list[dict], sponsor_companies: dict, us_sponsor_companies: dict,
                 priority_companies: dict, config: dict, notify_mod) -> list[list[str]]:
@@ -183,7 +176,6 @@ def build_rows(jobs: list[dict], sponsor_companies: dict, us_sponsor_companies: 
             job.get("url", "") or "",
         ])
     return rows
-
 
 def main() -> int:
     sa_json = os.environ.get("GOOGLE_SERVICE_ACCOUNT_JSON")
@@ -285,7 +277,7 @@ def main() -> int:
         final_rows.append(row + user_vals)
 
     ws.clear()
-    ws.update(values=final_rows, range_name="A1")
+    ws.update(values=final_rows, range_name="A1", value_input_option="USER_ENTERED")
     try:
         ws.freeze(rows=1)
     except Exception:
@@ -295,7 +287,6 @@ def main() -> int:
           f"({len(preserved)} rows had Status/Notes preserved from before).")
     print(f"  Updated: {datetime.now(timezone.utc).isoformat()}")
     return 0
-
 
 if __name__ == "__main__":
     sys.exit(main())
