@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Sumit's Planning & PropTech Roles
-*Last updated: 2026-08-29 07:35 UTC*
+*Last updated: 2026-08-29 08:10 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Customer Success Associate](https://www.linkedin.com/jobs/view/4460593323/) — AgileGrid Solutions
+- 📍 **Location:** United Kingdom
+- 🕒 **Posted:** 2026-08-29
