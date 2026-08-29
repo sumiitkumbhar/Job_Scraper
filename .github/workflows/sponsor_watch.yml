@@ -1,0 +1,43 @@
+name: Sponsor & Salary Check
+
+on:
+  # Runs after the other daily/hourly watchers have had a chance to update
+  # all_jobs.json. Offset to :05 so it reads a fresh file most days without
+  # racing any single watcher's own commit.
+  schedule:
+    - cron: "5 6 * * *"
+  workflow_dispatch: {}
+
+concurrency:
+  group: job-scraper-commit-push
+  cancel-in-progress: false
+
+jobs:
+  sponsor-check:
+    name: UK sponsor-licence + salary-threshold check
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Cross-check companies against the UK sponsor register
+        run: python sponsor_check.py
+
+      - name: Commit results to repo
+        if: vars.ENABLE_DATA_COMMITS == 'true'
+        run: |
+          git config user.name  "${{ github.actor }}"
+          git config user.email "${{ github.actor }}@users.noreply.github.com"
+          git add -f output/sponsor_status.json output/jobs_with_sponsor.csv
+          git diff --cached --quiet || git commit -m "chore: update sponsor/salary check [$(date -u '+%Y-%m-%d %H:%MZ')]"
+          git pull --rebase -X ours origin main
+          git push
