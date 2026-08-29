@@ -2,7 +2,7 @@
   "_README": "Sumit Kumbhar's UK/Europe spatial planning + PropTech tracker. Generated from CV + job-search research (Aug 2026).",
   "profile": {
     "title": "Sumit's Planning & PropTech Tracker",
-    "subtitle": "UK \u00b7 Ireland \u00b7 Netherlands \u00b7 Germany \u2014 sponsorship-aware",
+    "subtitle": "UK \u00b7 Ireland \u00b7 Netherlands \u00b7 Germany \u00b7 USA \u2014 sponsorship-aware",
     "emoji": "\ud83d\uddfa\ufe0f"
   },
   "keywords": {
@@ -172,6 +172,26 @@
         "name": "Germany",
         "location": "Germany",
         "geoId": ""
+      },
+      {
+        "name": "United States",
+        "location": "United States",
+        "geoId": ""
+      },
+      {
+        "name": "New York City Area",
+        "location": "New York, United States",
+        "geoId": ""
+      },
+      {
+        "name": "San Francisco Bay Area",
+        "location": "San Francisco Bay Area, United States",
+        "geoId": ""
+      },
+      {
+        "name": "Austin",
+        "location": "Austin, Texas, United States",
+        "geoId": ""
       }
     ],
     "indeed": [
@@ -182,18 +202,30 @@
       {
         "location": "Ireland",
         "country": "Ireland"
+      },
+      {
+        "location": "United States",
+        "country": "USA"
       }
     ],
     "glassdoor": [
       {
         "location": "United Kingdom",
         "country": "UK"
+      },
+      {
+        "location": "United States",
+        "country": "USA"
       }
     ],
     "ziprecruiter": [
       {
         "location": "United Kingdom",
         "country": "UK"
+      },
+      {
+        "location": "United States",
+        "country": "USA"
       }
     ],
     "google_jobs": [
@@ -204,11 +236,18 @@
       {
         "location": "Ireland",
         "country": "Ireland"
+      },
+      {
+        "location": "United States",
+        "country": "USA"
       }
     ],
     "hiring_cafe": [
       {
         "location": "United Kingdom"
+      },
+      {
+        "location": "United States"
       }
     ]
   },
@@ -237,6 +276,21 @@
       "germany",
       "berlin",
       "frankfurt",
+      "united states",
+      "usa",
+      "u.s.",
+      "new york",
+      "san francisco",
+      "bay area",
+      "austin",
+      "chicago",
+      "boston",
+      "seattle",
+      "denver",
+      "atlanta",
+      "los angeles",
+      "washington, dc",
+      "washington dc",
       "remote",
       "hybrid"
     ]
