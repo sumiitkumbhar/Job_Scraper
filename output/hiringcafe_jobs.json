@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-28 13:45 UTC",
-  "total": 70,
-  "new_count": 3,
+  "scraped_at": "2026-08-29 01:50 UTC",
+  "total": 69,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Cordant Health Solutions",
@@ -169,20 +169,6 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Amgen",
-      "title": "Scientific Associate Director - Project Toxicologist",
-      "location": "United States or Thousand Oaks",
-      "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Scientific-Associate-Director---Project-Toxicologist_R-251972",
-      "direct_url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Scientific-Associate-Director---Project-Toxicologist_R-251972",
-      "date_posted": "2026-08-20T00:00:00.000Z",
-      "description": "PhD, PharmD, or MD with 4 years of toxicology experience; master's with 7 years; or bachelor's with 9 years. Preferred: 8+ years drug development, regulatory experience, and toxicology expertise.",
-      "salary": "$194k–$263k/yr",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
       "ats": "HiringCafe"
     },
     {
@@ -984,48 +970,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Boston Scientific",
-      "title": "Medical Device Toxicologist III",
-      "location": "Arden Hills or Marlborough",
-      "url": "https://jobs.bostonscientific.com/job/Arden-Hills-Medical-Device-Toxicologist-III-MN-55112/1424107000/",
-      "direct_url": "https://jobs.bostonscientific.com/job/Arden-Hills-Medical-Device-Toxicologist-III-MN-55112/1424107000/",
-      "date_posted": "2026-08-27T00:00:00.000Z",
-      "description": "Bachelor's degree in toxicology or related field and 3+ years of related experience required; knowledge of medical device biological evaluation required. Master's or doctoral degree and regulatory experience preferred.",
-      "salary": "$78k–$149k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "State of Nevada",
-      "title": "ENVIRONMENTAL SCIENTIST 4",
-      "location": "Carson City, Nevada, United States",
-      "url": "https://www.governmentjobs.com/careers/nv/jobs/5463725",
-      "direct_url": "https://www.governmentjobs.com/careers/nv/jobs/5463725",
-      "date_posted": "2026-08-27T18:53:40.000Z",
-      "description": "Requires a bachelor's degree in a relevant science or engineering field plus 4 years of environmental experience, or equivalent alternatives; driver's license required; supervisory or expert-level environmental program experience.",
-      "salary": "$73k–$110k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "TD Bank Group",
-      "title": "Senior Manager, Regulatory Compliance Risk Assessment (US)",
-      "location": "New York City or Charlotte",
-      "url": "https://td.wd3.myworkdayjobs.com/td_bank_careers/job/New-York-New-York/Senior-Manager--Regulatory-Compliance-Risk-Assessment--US--5223_R_1506099",
-      "direct_url": "https://td.wd3.myworkdayjobs.com/td_bank_careers/job/New-York-New-York/Senior-Manager--Regulatory-Compliance-Risk-Assessment--US--5223_R_1506099",
-      "date_posted": "2026-08-27T00:00:00.000Z",
-      "description": "Bachelor's degree or equivalent experience; 8–10+ years in compliance, risk management, internal audit, or related fields; people leadership; advanced Excel and PowerPoint skills; risk assessment expertise.",
-      "salary": "$115k–$186k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
