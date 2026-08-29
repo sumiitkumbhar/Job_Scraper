@@ -3,3 +3,6 @@ python-jobspy>=1.1.82
 # Only needed if you use sheets_sync.py (see SETUP.md):
 gspread>=6.0.0
 google-auth>=2.0.0
+
+# Only needed by us_sponsor_check.py (reads the DOL LCA disclosure .xlsx files):
+openpyxl>=3.1.0
