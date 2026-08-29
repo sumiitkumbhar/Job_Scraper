@@ -1,0 +1,3271 @@
+{
+  "updated_at": "2026-08-29T21:34:15.370464+00:00",
+  "source_files": [
+    "https://www.dol.gov/media/LCA_Disclosure_Data_FY2026_Q3.xlsx",
+    "https://www.dol.gov/sites/dolgov/files/ETA/oflc/pdfs/LCA_Disclosure_Data_FY2025_Q4.xlsx"
+  ],
+  "employer_count": 60026,
+  "company_counts": {
+    "confirmed": 105,
+    "likely": 232,
+    "not_found": 313,
+    "unknown": 1
+  },
+  "companies": {
+    "WSP in the UK & Ireland": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "FIS": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Klipboard": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Mott MacDonald": {
+      "status": "confirmed",
+      "matched_name": "Mott MacDonald Group Inc.",
+      "certified_lca_count": 25
+    },
+    "Rightmove": {
+      "status": "likely",
+      "matched_name": "Move Company LLC",
+      "certified_lca_count": 1
+    },
+    "AgileGrid Solutions": {
+      "status": "likely",
+      "matched_name": "SOLUTIONS INC",
+      "certified_lca_count": 1
+    },
+    "Renfrewshire Council": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Maidstone Borough Council": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Ipswich Borough Council": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "ELLIOT THOMAS": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Fisher German": {
+      "status": "likely",
+      "matched_name": "Fisher & Company, Inc.",
+      "certified_lca_count": 1
+    },
+    "Rother District Council": {
+      "status": "likely",
+      "matched_name": "ROTH & COMPANY LLP",
+      "certified_lca_count": 3
+    },
+    "TUNBRIDGE WELLS BOROUGH COUNCIL": {
+      "status": "likely",
+      "matched_name": "Bridge Group, LLC",
+      "certified_lca_count": 6
+    },
+    "Falkirk Council & Falkirk Community Trust": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Civic Recruitment Limited": {
+      "status": "likely",
+      "matched_name": "Civic Group Inc.",
+      "certified_lca_count": 1
+    },
+    "Bromsgrove District Council": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Braintree District Council": {
+      "status": "likely",
+      "matched_name": "Brain Corporation",
+      "certified_lca_count": 23
+    },
+    "PublicaGroupWODC": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "The City of London Corporation": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Runnymede": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "University of Westminster": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "AECOM": {
+      "status": "confirmed",
+      "matched_name": "AECOM",
+      "certified_lca_count": 1
+    },
+    "North Devon Council": {
+      "status": "likely",
+      "matched_name": "North, Inc.",
+      "certified_lca_count": 6
+    },
+    "Hull City Council": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "MORAY COUNCIL": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Arup": {
+      "status": "likely",
+      "matched_name": "ARUP Laboratories",
+      "certified_lca_count": 96
+    },
+    "Michael Kors": {
+      "status": "likely",
+      "matched_name": "MICHAEL KORS USA, INC.",
+      "certified_lca_count": 14
+    },
+    "Local Government Jobs Ireland": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Unknown": {
+      "status": "likely",
+      "matched_name": "Known Holdings LLC",
+      "certified_lca_count": 2
+    },
+    "South Dublin County Council": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Ramboll": {
+      "status": "likely",
+      "matched_name": "Ramboll Americas Engineering Solutions, Inc",
+      "certified_lca_count": 16
+    },
+    "Norwich City Council": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Propel": {
+      "status": "likely",
+      "matched_name": "Propelsys Technologies LLC",
+      "certified_lca_count": 15
+    },
+    "Planet": {
+      "status": "likely",
+      "matched_name": "rPlanet Earth Los Angeles, LLC",
+      "certified_lca_count": 4
+    },
+    "Perceptyx": {
+      "status": "confirmed",
+      "matched_name": "Perceptyx, Inc.",
+      "certified_lca_count": 1
+    },
+    "AXIS (AXIS Capital)": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Cobalt Recruitment": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Verdantix": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "AllSite Staffing": {
+      "status": "likely",
+      "matched_name": "Staffing Inc.",
+      "certified_lca_count": 1
+    },
+    "PropVeritas": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Shiftbase": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Renor": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Rohlik Group": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Spacewell": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Stantec": {
+      "status": "likely",
+      "matched_name": "Stantec Architecture Inc.",
+      "certified_lca_count": 25
+    },
+    "Synthesia": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Plentific": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Vencora": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "BBC Studios": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Heathrow": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Ministerie van Defensie": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Kustwacht Nederland": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Deloitte": {
+      "status": "confirmed",
+      "matched_name": "Deloitte LLP",
+      "certified_lca_count": 11
+    },
+    "Vella Recruitment": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "GREEN PLANNING SERVICES": {
+      "status": "likely",
+      "matched_name": "Corporation Service Company",
+      "certified_lca_count": 21
+    },
+    "Grey Matter Recruitment": {
+      "status": "likely",
+      "matched_name": "Matter RE LLC",
+      "certified_lca_count": 1
+    },
+    "InTouch Case Management": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Insite Energy": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Tesco": {
+      "status": "likely",
+      "matched_name": "Vitesco Technologies USA, LLC",
+      "certified_lca_count": 19
+    },
+    "TipTopJob": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "London Borough of Hackney": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Autoglass\u00ae": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Cellebrite": {
+      "status": "likely",
+      "matched_name": "The Brite Group, Inc.",
+      "certified_lca_count": 1
+    },
+    "Exiger": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Distilled": {
+      "status": "likely",
+      "matched_name": "Fifth Generation Distilled Spirits, Inc.",
+      "certified_lca_count": 1
+    },
+    "Darwin Hawkins": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Aivory": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "WMJobs": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "SYSTRA UK & Ireland": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Cosmic Partners": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Moody's Corporation": {
+      "status": "likely",
+      "matched_name": "Moody's Analytics, Inc.",
+      "certified_lca_count": 189
+    },
+    "Asta Capital Limited": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "NewSpace Technical": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Octus": {
+      "status": "likely",
+      "matched_name": "Octus Intelligence, Inc.",
+      "certified_lca_count": 7
+    },
+    "Gold Group Ltd": {
+      "status": "likely",
+      "matched_name": "GOLDMAN SACHS SERVICES LLC",
+      "certified_lca_count": 661
+    },
+    "Jacobs": {
+      "status": "confirmed",
+      "matched_name": "Jacobs Corporation",
+      "certified_lca_count": 1
+    },
+    "Perrigo Company plc": {
+      "status": "likely",
+      "matched_name": "Perrigo Company",
+      "certified_lca_count": 1
+    },
+    "Harnham": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "FarmAct": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "JetBrains": {
+      "status": "likely",
+      "matched_name": "AINS, LLC",
+      "certified_lca_count": 6
+    },
+    "National Highways": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Studiorogers Architects": {
+      "status": "likely",
+      "matched_name": "CO Architects",
+      "certified_lca_count": 5
+    },
+    "Stoke-on-Trent City Council": {
+      "status": "likely",
+      "matched_name": "Stok, LLC",
+      "certified_lca_count": 1
+    },
+    "Newmark UK": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Whitbread": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "MERJE": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Lewisham Council": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Global Professional Consultants": {
+      "status": "likely",
+      "matched_name": "Ulta, Inc.",
+      "certified_lca_count": 20
+    },
+    "UpGuard": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Tap Retail - Shop Local": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Fin": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Veeva Systems": {
+      "status": "confirmed",
+      "matched_name": "Veeva Systems Inc.",
+      "certified_lca_count": 87
+    },
+    "Tangent": {
+      "status": "likely",
+      "matched_name": "Tangent Technologies, LLC.",
+      "certified_lca_count": 1
+    },
+    "Rentman": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Flexxter GmbH": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Mentimeter": {
+      "status": "likely",
+      "matched_name": "Meter, Inc.",
+      "certified_lca_count": 17
+    },
+    "Just Eat Takeaway.com": {
+      "status": "likely",
+      "matched_name": "Way.com Inc.",
+      "certified_lca_count": 3
+    },
+    "Millennium": {
+      "status": "likely",
+      "matched_name": "Millennium Advisors, LLC",
+      "certified_lca_count": 6
+    },
+    "Brown&Co LLP": {
+      "status": "likely",
+      "matched_name": "Brown Brothers Harriman & Co.",
+      "certified_lca_count": 26
+    },
+    "Watershed": {
+      "status": "likely",
+      "matched_name": "Watershed Technology, Inc.",
+      "certified_lca_count": 13
+    },
+    "Jennings O'Donovan & Partners": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Avison Young": {
+      "status": "likely",
+      "matched_name": "Aviso, Inc.",
+      "certified_lca_count": 1
+    },
+    "West Northamptonshire Council": {
+      "status": "likely",
+      "matched_name": "North, Inc.",
+      "certified_lca_count": 6
+    },
+    "Palo Alto Networks": {
+      "status": "confirmed",
+      "matched_name": "Palo Alto Networks, Inc.",
+      "certified_lca_count": 522
+    },
+    "Nicholas O'Dwyer Ltd": {
+      "status": "likely",
+      "matched_name": "Nicholas & Company, Inc.",
+      "certified_lca_count": 2
+    },
+    "EirGrid Group": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "HoorayHR": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Vivid Resourcing": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Newmark": {
+      "status": "likely",
+      "matched_name": "Newmark & Company Real Estate, Inc.",
+      "certified_lca_count": 7
+    },
+    "Royal Borough of Kensington and Chelsea": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Certinia": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "The Guildhall Northampton": {
+      "status": "likely",
+      "matched_name": "North, Inc.",
+      "certified_lca_count": 6
+    },
+    "Elmbridge Borough Council": {
+      "status": "likely",
+      "matched_name": "Bridge Group, LLC",
+      "certified_lca_count": 6
+    },
+    "PropSource Consulting": {
+      "status": "likely",
+      "matched_name": "Source Consulting, LLC",
+      "certified_lca_count": 25
+    },
+    "ThreatModeler": {
+      "status": "likely",
+      "matched_name": "Threatmodeler Software Inc.",
+      "certified_lca_count": 1
+    },
+    "humm group": {
+      "status": "likely",
+      "matched_name": "Hummingbird TekSystems Inc",
+      "certified_lca_count": 7
+    },
+    "AXA XL": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "John Paul Construction": {
+      "status": "likely",
+      "matched_name": "Struction Incorporated",
+      "certified_lca_count": 1
+    },
+    "InSpace": {
+      "status": "likely",
+      "matched_name": "Plainspace Architecture and Design DPC",
+      "certified_lca_count": 1
+    },
+    "Proliance": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Companyon Analytics GmbH": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "DEG": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Plymouth City Council": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Wirral Council": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Rapleys": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Binnies": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Frive": {
+      "status": "likely",
+      "matched_name": "Rive Inc.",
+      "certified_lca_count": 2
+    },
+    "Amazon": {
+      "status": "confirmed",
+      "matched_name": "Amazon LLC",
+      "certified_lca_count": 2
+    },
+    "IDEX Consulting Ltd": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Brit Insurance": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Smartling": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Trustpilot": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Predium": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Balfour Beatty plc": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Tetra Tech Europe": {
+      "status": "likely",
+      "matched_name": "Tetra Tech, Inc.",
+      "certified_lca_count": 11
+    },
+    "Sensat": {
+      "status": "likely",
+      "matched_name": "Sensata Technologies, Inc.",
+      "certified_lca_count": 42
+    },
+    "Ascot Group": {
+      "status": "likely",
+      "matched_name": "MASCOT INTERNATIONAL LOGISTICS, INC.",
+      "certified_lca_count": 2
+    },
+    "Royal Borough of Greenwich": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Fitch Ratings": {
+      "status": "confirmed",
+      "matched_name": "Fitch Ratings, Inc.",
+      "certified_lca_count": 25
+    },
+    "Blenheim Chalcot": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Actavo": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Chargebee": {
+      "status": "confirmed",
+      "matched_name": "Chargebee Inc.",
+      "certified_lca_count": 1
+    },
+    "Dalux": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "BISSELL Homecare, Inc.": {
+      "status": "likely",
+      "matched_name": "CARE",
+      "certified_lca_count": 1
+    },
+    "LiveEO": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Teignbridge District Council": {
+      "status": "likely",
+      "matched_name": "Bridge Group, LLC",
+      "certified_lca_count": 6
+    },
+    "The Crown Estate": {
+      "status": "likely",
+      "matched_name": "Esta Co Inc",
+      "certified_lca_count": 2
+    },
+    "West Dunbartonshire Council": {
+      "status": "likely",
+      "matched_name": "Barton LLP",
+      "certified_lca_count": 1
+    },
+    "AtkinsR\u00e9alis": {
+      "status": "likely",
+      "matched_name": "AtkinsR\u00e9alis USA Inc.",
+      "certified_lca_count": 11
+    },
+    "Street Group": {
+      "status": "likely",
+      "matched_name": "State Street Bank and Trust Company",
+      "certified_lca_count": 357
+    },
+    "Propelr": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Harvey": {
+      "status": "confirmed",
+      "matched_name": "Harvey & Company LLC",
+      "certified_lca_count": 1
+    },
+    "Rent a Recruiter": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "GreenSketch": {
+      "status": "likely",
+      "matched_name": "ETCH, INC.",
+      "certified_lca_count": 2
+    },
+    "JP.cars": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Scrumconnect Consulting": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Momentus Technologies": {
+      "status": "likely",
+      "matched_name": "US Technologies Corporation",
+      "certified_lca_count": 3
+    },
+    "immowelt": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Local Government South East": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Liverpool City Region Combined Authority": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "ThoughtSpot": {
+      "status": "confirmed",
+      "matched_name": "ThoughtSpot, Inc.",
+      "certified_lca_count": 17
+    },
+    "Keeper Security, Inc.": {
+      "status": "likely",
+      "matched_name": "Curi Holdings, Inc",
+      "certified_lca_count": 2
+    },
+    "Struck": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Soluso": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Rural Solutions": {
+      "status": "likely",
+      "matched_name": "SOLUTIONS INC",
+      "certified_lca_count": 1
+    },
+    "Anderson Global": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "ABR Talent l Customer Success Recruitment for Start-up & Scale-up SaaS businesses": {
+      "status": "likely",
+      "matched_name": "Talent Corporation, LLC",
+      "certified_lca_count": 1
+    },
+    "CFC": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Key Talent Solutions": {
+      "status": "likely",
+      "matched_name": "SOLUTIONS INC",
+      "certified_lca_count": 1
+    },
+    "Payslip": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Datadog": {
+      "status": "confirmed",
+      "matched_name": "Datadog, Inc.",
+      "certified_lca_count": 87
+    },
+    "Van den Bosch": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Meltwater": {
+      "status": "likely",
+      "matched_name": "Meltwater News US Inc.",
+      "certified_lca_count": 5
+    },
+    "StraTopo": {
+      "status": "likely",
+      "matched_name": "Strato, Inc.",
+      "certified_lca_count": 1
+    },
+    "CoCrafter (YC W24)": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Bath & North East Somerset Council": {
+      "status": "likely",
+      "matched_name": "Bath Group, LLC",
+      "certified_lca_count": 1
+    },
+    "Atrium": {
+      "status": "likely",
+      "matched_name": "Carolinas Physicians Network, Inc. d/b/a Atrium Health Medical Group",
+      "certified_lca_count": 14
+    },
+    "Factory": {
+      "status": "likely",
+      "matched_name": "FACTORY MUTUAL INSURANCE COMPANY",
+      "certified_lca_count": 26
+    },
+    "Novata": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Bluebeam": {
+      "status": "confirmed",
+      "matched_name": "Bluebeam, Inc.",
+      "certified_lca_count": 1
+    },
+    "Confero": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Tate Recruitment": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Fisher Investments GmbH": {
+      "status": "likely",
+      "matched_name": "Fisher & Company, Inc.",
+      "certified_lca_count": 1
+    },
+    "33Floors": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Dacorum Borough Council": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Clay": {
+      "status": "likely",
+      "matched_name": "Barclays Services Corp.",
+      "certified_lca_count": 614
+    },
+    "CRH": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Cato Networks": {
+      "status": "confirmed",
+      "matched_name": "Cato Networks Inc.",
+      "certified_lca_count": 2
+    },
+    "Atlantic": {
+      "status": "likely",
+      "matched_name": "GLOBAL ATLANTIC FINANCIAL COMPANY",
+      "certified_lca_count": 40
+    },
+    "Copeland": {
+      "status": "likely",
+      "matched_name": "Copeland LP",
+      "certified_lca_count": 7
+    },
+    "Aphex": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "ACA Group": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Docusign": {
+      "status": "confirmed",
+      "matched_name": "Docusign Inc.",
+      "certified_lca_count": 322
+    },
+    "SalesViewer\u00ae": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Quod": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "DualEntry": {
+      "status": "likely",
+      "matched_name": "Entry Inc",
+      "certified_lca_count": 1
+    },
+    "Globality, Inc.": {
+      "status": "confirmed",
+      "matched_name": "Globality, Inc.",
+      "certified_lca_count": 1
+    },
+    "Quest Software": {
+      "status": "confirmed",
+      "matched_name": "Quest Software Inc.",
+      "certified_lca_count": 2
+    },
+    "Ford Credit": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "GRAHAM Group": {
+      "status": "likely",
+      "matched_name": "Fehr-Graham & Associates LLC",
+      "certified_lca_count": 2
+    },
+    "ImmoScout24": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Gloucestershire County Council": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "bet365": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Urban Digital Recruitment Ltd": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Cinfield": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "KNOWRON": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Beach Baker": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Bidwells": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Department for Transport (DfT), United Kingdom": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Board Intelligence": {
+      "status": "likely",
+      "matched_name": "Intel Corporation",
+      "certified_lca_count": 2012
+    },
+    "Perspix.ai GmbH": {
+      "status": "likely",
+      "matched_name": "X.AI Corp.",
+      "certified_lca_count": 62
+    },
+    "Alderson James": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Vusion": {
+      "status": "likely",
+      "matched_name": "Innovusion, Inc.",
+      "certified_lca_count": 2
+    },
+    "Simvia": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "epilot GmbH": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Acrotrend - A NowVertical Company": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Carter Jonas": {
+      "status": "likely",
+      "matched_name": "Jona Inc",
+      "certified_lca_count": 1
+    },
+    "fs talent": {
+      "status": "likely",
+      "matched_name": "Talent Corporation, LLC",
+      "certified_lca_count": 1
+    },
+    "Draaijer Heyday": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Rhythm Careers": {
+      "status": "likely",
+      "matched_name": "REER INC",
+      "certified_lca_count": 3
+    },
+    "Spelthorne Borough Council": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Zuba": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Datarotonde": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Superchat": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Exponent": {
+      "status": "confirmed",
+      "matched_name": "Exponent, Inc.",
+      "certified_lca_count": 11
+    },
+    "ICF": {
+      "status": "confirmed",
+      "matched_name": "ICF Incorporated, LLC",
+      "certified_lca_count": 58
+    },
+    "State of Nevada": {
+      "status": "confirmed",
+      "matched_name": "State of Nevada",
+      "certified_lca_count": 1
+    },
+    "TD Bank Group": {
+      "status": "likely",
+      "matched_name": "TD Bank, National Association",
+      "certified_lca_count": 69
+    },
+    "Metropolitan Water District of Southern California": {
+      "status": "likely",
+      "matched_name": "The Metro Group, Inc.",
+      "certified_lca_count": 1
+    },
+    "Tetra Tech": {
+      "status": "confirmed",
+      "matched_name": "Tetra Tech, Inc.",
+      "certified_lca_count": 11
+    },
+    "DEPARTMENT OF FISH AND WILDLIFE": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "California Department of Pesticide Regulation": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Department Of Food & Agriculture": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "CA Coastal Commission": {
+      "status": "likely",
+      "matched_name": "MMIS, Inc.",
+      "certified_lca_count": 2
+    },
+    "DEPARTMENT OF WATER RESOURCES": {
+      "status": "confirmed",
+      "matched_name": "Department of Water Resources",
+      "certified_lca_count": 5
+    },
+    "Department Of Parks & Recreation": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "CA Tahoe Conservancy": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "BKF Engineers": {
+      "status": "confirmed",
+      "matched_name": "BKF ENGINEERS",
+      "certified_lca_count": 6
+    },
+    "State of Oregon": {
+      "status": "confirmed",
+      "matched_name": "State of Oregon",
+      "certified_lca_count": 4
+    },
+    "Onterris": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Boston Scientific": {
+      "status": "confirmed",
+      "matched_name": "Boston Scientific Corporation",
+      "certified_lca_count": 104
+    },
+    "JPMorgan Chase": {
+      "status": "confirmed",
+      "matched_name": "JPMorgan Chase & Co.",
+      "certified_lca_count": 3358
+    },
+    "GHD": {
+      "status": "confirmed",
+      "matched_name": "GHD, Inc.",
+      "certified_lca_count": 5
+    },
+    "County of Lake": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "City of Palo Alto": {
+      "status": "likely",
+      "matched_name": "Palo",
+      "certified_lca_count": 1
+    },
+    "City Of Folsom": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "ARAcademics": {
+      "status": "likely",
+      "matched_name": "Emics, Inc.",
+      "certified_lca_count": 1
+    },
+    "NSW Government": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "WSP in Australia": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "FlatironDragados": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Eurofins Environment Testing (USA)": {
+      "status": "likely",
+      "matched_name": "Test Corporation LLC",
+      "certified_lca_count": 5
+    },
+    "Lawrence Livermore National Laboratory": {
+      "status": "likely",
+      "matched_name": "More, Inc.",
+      "certified_lca_count": 1
+    },
+    "Johnson & Johnson Innovative Medicine": {
+      "status": "likely",
+      "matched_name": "Innov Corp",
+      "certified_lca_count": 1
+    },
+    "Paragon Professional Services": {
+      "status": "likely",
+      "matched_name": "Corporation Service Company",
+      "certified_lca_count": 21
+    },
+    "Jefferson County Public Schools": {
+      "status": "likely",
+      "matched_name": "Jefferson County Public Schools District R1",
+      "certified_lca_count": 3
+    },
+    "BNY": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Abt Global": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Hayward": {
+      "status": "likely",
+      "matched_name": "Hayward Sisters Hospital",
+      "certified_lca_count": 5
+    },
+    "County of San Benito": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "City of Watsonville": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "City of Corvallis": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Santa Margarita Water District": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "HDR": {
+      "status": "confirmed",
+      "matched_name": "HDR, Inc.",
+      "certified_lca_count": 7
+    },
+    "Lincoln Financial": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Arcadis": {
+      "status": "confirmed",
+      "matched_name": "Arcadis Inc.",
+      "certified_lca_count": 17
+    },
+    "Eurofins": {
+      "status": "likely",
+      "matched_name": "Eurofins EAG Materials Science, LLC",
+      "certified_lca_count": 6
+    },
+    "RedBrick Staffing": {
+      "status": "likely",
+      "matched_name": "Staffing Inc.",
+      "certified_lca_count": 1
+    },
+    "San Francisco Public Utilities Commission": {
+      "status": "likely",
+      "matched_name": "MMIS, Inc.",
+      "certified_lca_count": 2
+    },
+    "City and County of San Francisco": {
+      "status": "confirmed",
+      "matched_name": "CITY AND COUNTY OF SAN FRANCISCO",
+      "certified_lca_count": 8
+    },
+    "Oakgov": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Apex Companies": {
+      "status": "confirmed",
+      "matched_name": "Apex Companies, LLC",
+      "certified_lca_count": 5
+    },
+    "CAMRIS International LLC": {
+      "status": "confirmed",
+      "matched_name": "CAMRIS International, LLC",
+      "certified_lca_count": 1
+    },
+    "Zonberation Group": {
+      "status": "likely",
+      "matched_name": "Onbe, Inc.",
+      "certified_lca_count": 4
+    },
+    "University of California Berkeley": {
+      "status": "confirmed",
+      "matched_name": "University of California, Berkeley",
+      "certified_lca_count": 230
+    },
+    "BECA": {
+      "status": "likely",
+      "matched_name": "Becausal, Inc.",
+      "certified_lca_count": 4
+    },
+    "Verex Engineering LLC": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Gather Recruitment": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "North Dakota Department of Agriculture": {
+      "status": "likely",
+      "matched_name": "North, Inc.",
+      "certified_lca_count": 6
+    },
+    "Pond & Company": {
+      "status": "confirmed",
+      "matched_name": "Pond & Company Inc.",
+      "certified_lca_count": 2
+    },
+    "DDG": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Lipovectra": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Kelly": {
+      "status": "likely",
+      "matched_name": "Kelly Services, Inc.",
+      "certified_lca_count": 62
+    },
+    "Women in Cleantech and Sustainability": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Medtronic": {
+      "status": "confirmed",
+      "matched_name": "Medtronic, Inc.",
+      "certified_lca_count": 268
+    },
+    "University of Massachusetts System": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "CDM Smith": {
+      "status": "confirmed",
+      "matched_name": "CDM Smith Inc.",
+      "certified_lca_count": 36
+    },
+    "Texas Commission on Environmental Quality": {
+      "status": "likely",
+      "matched_name": "MMIS, Inc.",
+      "certified_lca_count": 2
+    },
+    "SciPro": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Credit Bureau Of Vernon County": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "County of Monterey, CA": {
+      "status": "likely",
+      "matched_name": "County of Monterey",
+      "certified_lca_count": 9
+    },
+    "STATE WATER RESOURCES CONTROL BOARD": {
+      "status": "confirmed",
+      "matched_name": "State Water Resources Control Board",
+      "certified_lca_count": 2
+    },
+    "U.S. Marine Corps": {
+      "status": "likely",
+      "matched_name": "Arine Inc.",
+      "certified_lca_count": 5
+    },
+    "City of Santa Rosa, CA": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Colusa Indian Community Council": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "City of Burbank, CA": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Aramark": {
+      "status": "likely",
+      "matched_name": "Paramark, Inc.",
+      "certified_lca_count": 2
+    },
+    "Revolution Medicines": {
+      "status": "confirmed",
+      "matched_name": "REVOLUTION MEDICINES, INC.",
+      "certified_lca_count": 30
+    },
+    "Aureon": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Salt Lake County": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "California Department of Water Resources": {
+      "status": "confirmed",
+      "matched_name": "California Department of Water Resources",
+      "certified_lca_count": 2
+    },
+    "NATIONAL GRID UK LIMITED": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Cardinal CT": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Amgen": {
+      "status": "confirmed",
+      "matched_name": "Amgen Inc.",
+      "certified_lca_count": 376
+    },
+    "GSI Environmental": {
+      "status": "confirmed",
+      "matched_name": "GSI Environmental Inc.",
+      "certified_lca_count": 3
+    },
+    "United States Army": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Northeast Healthcare Recruitment, Inc. (NEHCR)": {
+      "status": "likely",
+      "matched_name": "Group Health, Inc.",
+      "certified_lca_count": 41
+    },
+    "Dane Street, LLC": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "HNTB": {
+      "status": "confirmed",
+      "matched_name": "HNTB Corporation",
+      "certified_lca_count": 36
+    },
+    "Toeroek Associates": {
+      "status": "likely",
+      "matched_name": "SOCi, Inc.",
+      "certified_lca_count": 1
+    },
+    "California Air Resources Board": {
+      "status": "confirmed",
+      "matched_name": "California Air Resources Board",
+      "certified_lca_count": 26
+    },
+    "California State University, Fresno": {
+      "status": "confirmed",
+      "matched_name": "California State University, Fresno",
+      "certified_lca_count": 21
+    },
+    "Nikkiso Clean Energy & Industrial Gases": {
+      "status": "likely",
+      "matched_name": "INDUS GROUP, INC.",
+      "certified_lca_count": 47
+    },
+    "Zintellect": {
+      "status": "likely",
+      "matched_name": "Intel Corporation",
+      "certified_lca_count": 2012
+    },
+    "KUBOTA Membrane USA Corporation": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Haley & Aldrich": {
+      "status": "confirmed",
+      "matched_name": "Haley & Aldrich, Inc.",
+      "certified_lca_count": 11
+    },
+    "PROPEL-TT Group Limited": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Dewberry": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Seranbio": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "State Air Resources Board": {
+      "status": "likely",
+      "matched_name": "Source LLC",
+      "certified_lca_count": 1
+    },
+    "Advantmed": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "PwC Australia": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Exponent Inc.": {
+      "status": "confirmed",
+      "matched_name": "Exponent, Inc.",
+      "certified_lca_count": 11
+    },
+    "Integral Consulting Inc.": {
+      "status": "likely",
+      "matched_name": "Ntegral Inc",
+      "certified_lca_count": 1
+    },
+    "Alpine County California": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Mortenson": {
+      "status": "likely",
+      "matched_name": "M. A. Mortenson Company",
+      "certified_lca_count": 39
+    },
+    "MyRemoteTeam Inc": {
+      "status": "likely",
+      "matched_name": "ETEAM INC",
+      "certified_lca_count": 17
+    },
+    "John C. Stennis Space Center": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Construction Sciences": {
+      "status": "likely",
+      "matched_name": "Science Corporation",
+      "certified_lca_count": 5
+    },
+    "State of Washington": {
+      "status": "likely",
+      "matched_name": "Credit Unions in the State of Washington Boeing Employees Credit Union",
+      "certified_lca_count": 2
+    },
+    "Enhesa": {
+      "status": "confirmed",
+      "matched_name": "Enhesa, Inc.",
+      "certified_lca_count": 2
+    },
+    "Washington State Department of Ecology": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Department of Pesticide Regulation": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "121 Altasciences Preclinical Scranton, Inc": {
+      "status": "likely",
+      "matched_name": "Science Corporation",
+      "certified_lca_count": 5
+    },
+    "Deschutes County Human Resources": {
+      "status": "likely",
+      "matched_name": "Huma, Inc.",
+      "certified_lca_count": 3
+    },
+    "PacifiCorp": {
+      "status": "confirmed",
+      "matched_name": "PacifiCorp",
+      "certified_lca_count": 10
+    },
+    "HireIQ Solutions": {
+      "status": "likely",
+      "matched_name": "Q Solutions, LLC",
+      "certified_lca_count": 1
+    },
+    "Aztech Services Australia": {
+      "status": "likely",
+      "matched_name": "Corporation Service Company",
+      "certified_lca_count": 21
+    },
+    "Synensys LLC": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "AF Installation and Mission Support Center": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Clark Pacific": {
+      "status": "confirmed",
+      "matched_name": "Clark Pacific",
+      "certified_lca_count": 2
+    },
+    "City of Austin": {
+      "status": "confirmed",
+      "matched_name": "City of Austin",
+      "certified_lca_count": 2
+    },
+    "UC Davis": {
+      "status": "likely",
+      "matched_name": "UC Davis Agriculture and Natural Resources",
+      "certified_lca_count": 1
+    },
+    "COPAN Diagnostics, Inc.": {
+      "status": "confirmed",
+      "matched_name": "Copan Diagnostics, Inc.",
+      "certified_lca_count": 1
+    },
+    "State of Rhode Island": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Greenman-Pedersen, Inc.": {
+      "status": "confirmed",
+      "matched_name": "Greenman-Pedersen, Inc.",
+      "certified_lca_count": 6
+    },
+    "Pacific Commercial Services": {
+      "status": "likely",
+      "matched_name": "Corporation Service Company",
+      "certified_lca_count": 21
+    },
+    "Certerra": {
+      "status": "likely",
+      "matched_name": "Certerra Northwest, LLC",
+      "certified_lca_count": 1
+    },
+    "HALEY & ALDRICH": {
+      "status": "confirmed",
+      "matched_name": "Haley & Aldrich, Inc.",
+      "certified_lca_count": 11
+    },
+    "Pala Band of Mission Indians": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "GrayMar Environmental Services": {
+      "status": "likely",
+      "matched_name": "Corporation Service Company",
+      "certified_lca_count": 21
+    },
+    "Quanta Infrastructure Solutions Group": {
+      "status": "likely",
+      "matched_name": "Quant Inc.",
+      "certified_lca_count": 2
+    },
+    "Amentum": {
+      "status": "likely",
+      "matched_name": "AMENTUM SERVICES INC.",
+      "certified_lca_count": 2
+    },
+    "Inotivco": {
+      "status": "likely",
+      "matched_name": "Inotiv, Inc.",
+      "certified_lca_count": 1
+    },
+    "CDMS": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Barr": {
+      "status": "likely",
+      "matched_name": "Barracuda Networks, Inc.",
+      "certified_lca_count": 6
+    },
+    "Bayer": {
+      "status": "likely",
+      "matched_name": "Bayer CropScience LP",
+      "certified_lca_count": 4
+    },
+    "GondolaBio": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Barton & Loguidice, D.P.C.": {
+      "status": "likely",
+      "matched_name": "Barton LLP",
+      "certified_lca_count": 1
+    },
+    "ONYX Exposure Science, LLC": {
+      "status": "likely",
+      "matched_name": "Science Corporation",
+      "certified_lca_count": 5
+    },
+    "\u683c\u5170\u8fbe\u516c\u53f8": {
+      "status": "unknown",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Altria": {
+      "status": "likely",
+      "matched_name": "Altria Client Services LLC",
+      "certified_lca_count": 11
+    },
+    "UL Research Institutes": {
+      "status": "likely",
+      "matched_name": "Search Institute",
+      "certified_lca_count": 1
+    },
+    "Sasol": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "dsm-firmenich": {
+      "status": "likely",
+      "matched_name": "Firmenich Incorporated",
+      "certified_lca_count": 2
+    },
+    "Syngenta": {
+      "status": "likely",
+      "matched_name": "Syngenta Crop Protection LLC",
+      "certified_lca_count": 18
+    },
+    "State of Michigan": {
+      "status": "confirmed",
+      "matched_name": "State of Michigan",
+      "certified_lca_count": 1
+    },
+    "Leidos": {
+      "status": "confirmed",
+      "matched_name": "Leidos, Inc.",
+      "certified_lca_count": 53
+    },
+    "The Scotts Miracle-Gro Company": {
+      "status": "likely",
+      "matched_name": "The Scotts Company LLC",
+      "certified_lca_count": 13
+    },
+    "TRC Companies, Inc.": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Ddcdine": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "U.S. Coast Guard": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Alignerr": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Office of Energy Infrastructure Safety": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Dudek": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Kentucky Energy & Environment Cabinet": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "UES": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Baxter International Inc.": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "APTIM": {
+      "status": "confirmed",
+      "matched_name": "APTIM Corp",
+      "certified_lca_count": 1
+    },
+    "South Dakota State Government": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Ethos": {
+      "status": "likely",
+      "matched_name": "Ethos Systems, Inc.",
+      "certified_lca_count": 2
+    },
+    "WSP": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Allied Universal": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Glaukos Corporation": {
+      "status": "confirmed",
+      "matched_name": "Glaukos Corporation",
+      "certified_lca_count": 7
+    },
+    "State of South Dakota": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Johnson, Mirmiran & Thompson, Inc.": {
+      "status": "confirmed",
+      "matched_name": "Johnson, Mirmiran & Thompson, Inc.",
+      "certified_lca_count": 9
+    },
+    "California Department of Public Health": {
+      "status": "confirmed",
+      "matched_name": "California Department of Public Health",
+      "certified_lca_count": 1
+    },
+    "Langan Engineering & Environmental Services": {
+      "status": "likely",
+      "matched_name": "Corporation Service Company",
+      "certified_lca_count": 21
+    },
+    "Kimley-Horn": {
+      "status": "likely",
+      "matched_name": "Kimley-Horn and Associates, Inc.",
+      "certified_lca_count": 17
+    },
+    "WSP in the U.S.": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Geosyntec Consultants, Inc.": {
+      "status": "confirmed",
+      "matched_name": "Geosyntec Consultants, Inc.",
+      "certified_lca_count": 50
+    },
+    "Goldman Sachs": {
+      "status": "confirmed",
+      "matched_name": "GOLDMAN SACHS & CO. LLC",
+      "certified_lca_count": 1219
+    },
+    "Weber County Careers": {
+      "status": "likely",
+      "matched_name": "REER INC",
+      "certified_lca_count": 3
+    },
+    "Cherokee Federal": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "ING": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Bureau of Engraving and Printing": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "SLR Consulting": {
+      "status": "likely",
+      "matched_name": "LR Consulting LLC",
+      "certified_lca_count": 1
+    },
+    "California Department of Toxic Substances Control": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Battelle": {
+      "status": "likely",
+      "matched_name": "UT-BATTELLE, LLC (OAK RIDGE NATIONAL LABORATORY)",
+      "certified_lca_count": 266
+    },
+    "Calista Brice": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Airswift": {
+      "status": "likely",
+      "matched_name": "SWIFT, Inc.",
+      "certified_lca_count": 1
+    },
+    "City of Port Adelaide Enfield": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Bechtel": {
+      "status": "likely",
+      "matched_name": "Bechtel Energy Inc.",
+      "certified_lca_count": 51
+    },
+    "LHH": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Environmental Science and Assessment": {
+      "status": "likely",
+      "matched_name": "Science Corporation",
+      "certified_lca_count": 5
+    },
+    "Caltrans": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Recology": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Jobs in Council": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "The Davey Tree Expert Company": {
+      "status": "confirmed",
+      "matched_name": "The Davey Tree Expert Company",
+      "certified_lca_count": 1
+    },
+    "Tecolote Research, Inc.": {
+      "status": "likely",
+      "matched_name": "Arch Group LLC",
+      "certified_lca_count": 2
+    },
+    "Atlas Technical Consultants": {
+      "status": "confirmed",
+      "matched_name": "Atlas Technical Consultants LLC",
+      "certified_lca_count": 9
+    },
+    "Wsc": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Brunel": {
+      "status": "likely",
+      "matched_name": "Brunel Energy, Inc.",
+      "certified_lca_count": 1
+    },
+    "Veterans Health Administration": {
+      "status": "confirmed",
+      "matched_name": "Veterans Health Administration",
+      "certified_lca_count": 4
+    },
+    "Prime Analytical Laboratories, LLC": {
+      "status": "likely",
+      "matched_name": "Prime Group Holdings LLC",
+      "certified_lca_count": 2
+    },
+    "Sarpy County": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "MPHI": {
+      "status": "likely",
+      "matched_name": "The University of Memphis",
+      "certified_lca_count": 33
+    },
+    "EnSafe Inc.": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "RoseyFields": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "CDR Companies": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Department of Energy Headquarters": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Air Force Materiel Command": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "County of San Luis Obispo": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Tower Semiconductor": {
+      "status": "likely",
+      "matched_name": "SEMI",
+      "certified_lca_count": 2
+    },
+    "Ayres Associates": {
+      "status": "likely",
+      "matched_name": "SOCi, Inc.",
+      "certified_lca_count": 1
+    },
+    "EKI Environment & Water, Inc.": {
+      "status": "confirmed",
+      "matched_name": "EKI Environment & Water, Inc.",
+      "certified_lca_count": 3
+    },
+    "BayOne Solutions": {
+      "status": "confirmed",
+      "matched_name": "BAYONE SOLUTIONS INC.",
+      "certified_lca_count": 27
+    },
+    "Meta": {
+      "status": "likely",
+      "matched_name": "Meta Platforms, Inc",
+      "certified_lca_count": 6004
+    },
+    "Energy Northwest": {
+      "status": "likely",
+      "matched_name": "North, Inc.",
+      "certified_lca_count": 6
+    },
+    "Queensland Government": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Abbott": {
+      "status": "likely",
+      "matched_name": "ABBOTT LABORATORIES",
+      "certified_lca_count": 92
+    },
+    "CA&M": {
+      "status": "likely",
+      "matched_name": "HCA Management Services LP",
+      "certified_lca_count": 114
+    },
+    "WESTWOOD PROFESSIONAL SERVICES INC": {
+      "status": "confirmed",
+      "matched_name": "Westwood Professional Services, Inc.",
+      "certified_lca_count": 18
+    },
+    "Salt River Project": {
+      "status": "likely",
+      "matched_name": "Rive Inc.",
+      "certified_lca_count": 2
+    },
+    "Element Materials Technology": {
+      "status": "likely",
+      "matched_name": "Element Materials Technology DC, LLC",
+      "certified_lca_count": 1
+    },
+    "Pattern Energy": {
+      "status": "likely",
+      "matched_name": "Pattern, Inc.",
+      "certified_lca_count": 33
+    },
+    "Trinity Consultants Engineering & EHS Workforce Solutions": {
+      "status": "likely",
+      "matched_name": "KFORCE INC.",
+      "certified_lca_count": 773
+    },
+    "Oracle": {
+      "status": "likely",
+      "matched_name": "Oracle America, Inc.",
+      "certified_lca_count": 1033
+    },
+    "Environmental Research Group": {
+      "status": "likely",
+      "matched_name": "Bay Area Environmental Research Institute",
+      "certified_lca_count": 10
+    },
+    "Cordant Health Solutions": {
+      "status": "likely",
+      "matched_name": "Group Health, Inc.",
+      "certified_lca_count": 41
+    },
+    "Hudbay": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "South Coast Air Quality Management District": {
+      "status": "confirmed",
+      "matched_name": "South Coast Air Quality Management District",
+      "certified_lca_count": 1
+    },
+    "State of Maryland - MDH Ofc of Chief Med Examiner": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "California State University, Chico": {
+      "status": "confirmed",
+      "matched_name": "California State University, Chico",
+      "certified_lca_count": 3
+    },
+    "COUNTY OF FRESNO": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Hunter Industries": {
+      "status": "confirmed",
+      "matched_name": "Hunter Industries, Inc.",
+      "certified_lca_count": 2
+    },
+    "United Water Conservation District": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Deringer": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Orion Group": {
+      "status": "likely",
+      "matched_name": "Orion Systems Integrators LLC",
+      "certified_lca_count": 118
+    },
+    "Summit College": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "DLA Careers": {
+      "status": "likely",
+      "matched_name": "REER INC",
+      "certified_lca_count": 3
+    },
+    "Golden State Water Company": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Commander, Navy Installations Command": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "United States Army Installation Management Command": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "SoCalGas": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "KELLER": {
+      "status": "likely",
+      "matched_name": "KELLERMEYER BERGENSONS SERVICES LLC",
+      "certified_lca_count": 2
+    },
+    "Total HRM": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Procter & Gamble": {
+      "status": "confirmed",
+      "matched_name": "The Procter & Gamble Company",
+      "certified_lca_count": 14
+    },
+    "Colliers Engineering & Design": {
+      "status": "confirmed",
+      "matched_name": "Colliers Engineering & Design, Inc.",
+      "certified_lca_count": 4
+    },
+    "New York State": {
+      "status": "confirmed",
+      "matched_name": "NEW YORK STATE",
+      "certified_lca_count": 4
+    },
+    "CALIFORNIA ENERGY COMMISSION": {
+      "status": "confirmed",
+      "matched_name": "California Energy Commission",
+      "certified_lca_count": 11
+    },
+    "Department Of Forestry & Fire Protection": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Sydney Water": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Utahcounty": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "California Department of Forestry and Fire Protection (CAL FIRE)": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "City of Redding": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Liberty": {
+      "status": "likely",
+      "matched_name": "Liberty Mutual Technology Group Inc.",
+      "certified_lca_count": 75
+    },
+    "County of Sonoma (CA)": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Oldcastle APG": {
+      "status": "confirmed",
+      "matched_name": "Oldcastle APG, Inc.",
+      "certified_lca_count": 1
+    },
+    "Astrix": {
+      "status": "likely",
+      "matched_name": "Astrix Technology, LLC",
+      "certified_lca_count": 9
+    },
+    "Kings County": {
+      "status": "likely",
+      "matched_name": "Kings County Services Inc.",
+      "certified_lca_count": 2
+    },
+    "Animal and Plant Health Inspection Service": {
+      "status": "likely",
+      "matched_name": "Corporation Service Company",
+      "certified_lca_count": 21
+    },
+    "Nutrien": {
+      "status": "likely",
+      "matched_name": "Santa Barbara Nutrients, Inc. a Delaware Benefit Corporation",
+      "certified_lca_count": 1
+    },
+    "EHSCareers": {
+      "status": "likely",
+      "matched_name": "REER INC",
+      "certified_lca_count": 3
+    },
+    "HP": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "BBN Consulting": {
+      "status": "likely",
+      "matched_name": "N CONSULTING LLC",
+      "certified_lca_count": 1
+    },
+    "State of Utah": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Alpine County District Atty": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Central Nevada Gold": {
+      "status": "likely",
+      "matched_name": "CENTRA INC.",
+      "certified_lca_count": 1
+    },
+    "Booz Allen Hamilton": {
+      "status": "confirmed",
+      "matched_name": "Booz Allen Hamilton Inc.",
+      "certified_lca_count": 11
+    },
+    "Brevard County Board of County Commissioners": {
+      "status": "likely",
+      "matched_name": "REVA, INC",
+      "certified_lca_count": 1
+    },
+    "City of Berkeley": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Muckleshoot Indian Tribe": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Bah": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Morgan Stanley": {
+      "status": "confirmed",
+      "matched_name": "Morgan Stanley & Co., LLC",
+      "certified_lca_count": 267
+    },
+    "Resourceful Recruitment": {
+      "status": "likely",
+      "matched_name": "Source LLC",
+      "certified_lca_count": 1
+    },
+    "Allen Engineering and Science, Inc.": {
+      "status": "likely",
+      "matched_name": "Science Corporation",
+      "certified_lca_count": 5
+    },
+    "OpenAI": {
+      "status": "likely",
+      "matched_name": "OpenAI OpCo, LLC",
+      "certified_lca_count": 233
+    },
+    "Trinity Consultants": {
+      "status": "confirmed",
+      "matched_name": "Trinity Consultants, Inc.",
+      "certified_lca_count": 60
+    },
+    "County of Mendocino": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "J&T Business Consulting": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Caltrans - CA Dept. of Transportation": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Department of Resources Recycling & Recovery": {
+      "status": "likely",
+      "matched_name": "Source LLC",
+      "certified_lca_count": 1
+    },
+    "American Water": {
+      "status": "likely",
+      "matched_name": "American Water Works Service Company, Inc.",
+      "certified_lca_count": 5
+    },
+    "QK": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Solano County": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Transportation Security Administration": {
+      "status": "likely",
+      "matched_name": "Curi Holdings, Inc",
+      "certified_lca_count": 2
+    },
+    "Office of the Secretary of Transportation": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Department of Toxic Substances Control": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Geosyntec Consultants": {
+      "status": "confirmed",
+      "matched_name": "Geosyntec Consultants, Inc.",
+      "certified_lca_count": 50
+    },
+    "Tetra Tech Coffey": {
+      "status": "likely",
+      "matched_name": "Tetra Tech, Inc.",
+      "certified_lca_count": 11
+    },
+    "Experis": {
+      "status": "likely",
+      "matched_name": "Experis US, LLC",
+      "certified_lca_count": 166
+    },
+    "AARC Environmental Solutions": {
+      "status": "likely",
+      "matched_name": "AARC Environmental, Inc.",
+      "certified_lca_count": 2
+    },
+    "ALRA | Australia\u2019s Leading Recruitment Agency": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "CalRecycle": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "City of Vista": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Air National Guard Units": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "County of San Diego": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Mufgub": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "LVI Associates": {
+      "status": "likely",
+      "matched_name": "SOCi, Inc.",
+      "certified_lca_count": 1
+    },
+    "Rutherford County Schools - Tennessee": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "WM": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Environmental Protection Agency": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Maryland Department of Transportation, MD": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Kentucky Energy and Environment Cabinet": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "UPMC": {
+      "status": "likely",
+      "matched_name": "UPMC Western Maryland Health Services LLC",
+      "certified_lca_count": 8
+    },
+    "Partners Personnel": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "NSW Department of Planning, Housing and Infrastructure": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "CK Associates": {
+      "status": "likely",
+      "matched_name": "SOCi, Inc.",
+      "certified_lca_count": 1
+    },
+    "County of Riverside": {
+      "status": "confirmed",
+      "matched_name": "County of Riverside",
+      "certified_lca_count": 1
+    },
+    "Luxfer Gas Cylinders": {
+      "status": "likely",
+      "matched_name": "Linde Inc.",
+      "certified_lca_count": 16
+    },
+    "State of Louisiana": {
+      "status": "likely",
+      "matched_name": "State of Louisiana / Division of Administration",
+      "certified_lca_count": 1
+    },
+    "California Water Service Group (CWSG)": {
+      "status": "likely",
+      "matched_name": "Corporation Service Company",
+      "certified_lca_count": 21
+    },
+    "Overview": {
+      "status": "confirmed",
+      "matched_name": "OVERVIEW CORPORATION",
+      "certified_lca_count": 2
+    },
+    "Metro South Health": {
+      "status": "likely",
+      "matched_name": "Group Health, Inc.",
+      "certified_lca_count": 41
+    },
+    "SWCA Environmental Consultants": {
+      "status": "likely",
+      "matched_name": "Ulta, Inc.",
+      "certified_lca_count": 20
+    },
+    "Commonwealth Bank of Australia": {
+      "status": "likely",
+      "matched_name": "NWEA LLC",
+      "certified_lca_count": 2
+    },
+    "Eisholding": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Td": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Syngenta Group": {
+      "status": "likely",
+      "matched_name": "Syngenta Crop Protection LLC",
+      "certified_lca_count": 18
+    },
+    "Peraton": {
+      "status": "likely",
+      "matched_name": "Peraton State & Local Inc.",
+      "certified_lca_count": 1
+    },
+    "Jobgether": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "BioSpace": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Hobsons Bay City Council": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Woodland": {
+      "status": "likely",
+      "matched_name": "Woodland Community Consolidated School District 50",
+      "certified_lca_count": 2
+    },
+    "Burns & McDonnell": {
+      "status": "likely",
+      "matched_name": "BURNS & MCDONNELL ENGINEERING COMPANY, INC.",
+      "certified_lca_count": 120
+    },
+    "NURIX": {
+      "status": "likely",
+      "matched_name": "Nurix Therapeutics, Inc.",
+      "certified_lca_count": 8
+    },
+    "Union Sanitary District": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Ulteig": {
+      "status": "likely",
+      "matched_name": "Ulteig Engineers, Inc.",
+      "certified_lca_count": 16
+    },
+    "Kikiktagruk Inupiat Corporation": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "University of California, Davis": {
+      "status": "confirmed",
+      "matched_name": "University of California, Davis",
+      "certified_lca_count": 221
+    },
+    "Department Of Public Health": {
+      "status": "likely",
+      "matched_name": "Group Health, Inc.",
+      "certified_lca_count": 41
+    },
+    "West Basin Municipal Water District": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "East Gippsland Water": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Downer Group": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "San Diego Gas & Electric": {
+      "status": "confirmed",
+      "matched_name": "San Diego Gas & Electric Company",
+      "certified_lca_count": 1
+    },
+    "JT4": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Invenergy": {
+      "status": "confirmed",
+      "matched_name": "Invenergy LLC",
+      "certified_lca_count": 7
+    },
+    "GFT.": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "CLS Connect": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Piper Maddox": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Precision Castparts": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "City of El Paso, TX": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "John F. Kennedy Space Center": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Federal Highway Administration": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Maritime Administration": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "CA Environmental Protection Agency": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "HCLTech": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Verdantas": {
+      "status": "confirmed",
+      "matched_name": "Verdantas LLC",
+      "certified_lca_count": 5
+    },
+    "Pondco": {
+      "status": "likely",
+      "matched_name": "Pond & Company Inc.",
+      "certified_lca_count": 2
+    },
+    "Lawrence Berkeley National Laboratory": {
+      "status": "confirmed",
+      "matched_name": "Lawrence Berkeley National Laboratory",
+      "certified_lca_count": 137
+    },
+    "Monarch Diagnostics": {
+      "status": "likely",
+      "matched_name": "Arch Group LLC",
+      "certified_lca_count": 2
+    },
+    "US Department of War": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "San Mateo County": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Schmidt Marine Technology Partners": {
+      "status": "likely",
+      "matched_name": "Arine Inc.",
+      "certified_lca_count": 5
+    },
+    "CRI Advantage": {
+      "status": "likely",
+      "matched_name": "Vanta Inc.",
+      "certified_lca_count": 28
+    },
+    "Brs": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "DEPARTMENT OF ENVIRONMENTAL QUALITY": {
+      "status": "likely",
+      "matched_name": "Arizona Department of Environmental Quality",
+      "certified_lca_count": 3
+    },
+    "True-environmental": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "American Lithium Energy (ALE)": {
+      "status": "likely",
+      "matched_name": "Merican, Inc.",
+      "certified_lca_count": 3
+    },
+    "LimnoTech": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Brown and Caldwell": {
+      "status": "confirmed",
+      "matched_name": "Brown and Caldwell",
+      "certified_lca_count": 6
+    },
+    "Department of Fish and Wildlife": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Forensic Analytical Consulting Services": {
+      "status": "likely",
+      "matched_name": "Corporation Service Company",
+      "certified_lca_count": 21
+    },
+    "Aytrium": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Axiom": {
+      "status": "confirmed",
+      "matched_name": "Axiom Group LLC",
+      "certified_lca_count": 10
+    },
+    "BHE Renewables": {
+      "status": "confirmed",
+      "matched_name": "BHE Renewables, LLC",
+      "certified_lca_count": 3
+    },
+    "Kelly Services": {
+      "status": "confirmed",
+      "matched_name": "Kelly Services, Inc.",
+      "certified_lca_count": 62
+    },
+    "Evommune, Inc.": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Hueman People Solutions": {
+      "status": "confirmed",
+      "matched_name": "Hueman People Solutions, LLC",
+      "certified_lca_count": 1
+    },
+    "Hims & Hers": {
+      "status": "likely",
+      "matched_name": "Hims, Inc.",
+      "certified_lca_count": 25
+    },
+    "East Bay Municipal Utility District": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "National Oceanic and Atmospheric Administration": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Rippling": {
+      "status": "likely",
+      "matched_name": "People Center, Inc. d/b/a Rippling",
+      "certified_lca_count": 108
+    },
+    "Veolia": {
+      "status": "likely",
+      "matched_name": "Veolia North America LLC",
+      "certified_lca_count": 23
+    },
+    "EHS Support": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "ERM": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Altria Client Services, LLC.": {
+      "status": "confirmed",
+      "matched_name": "Altria Client Services LLC",
+      "certified_lca_count": 11
+    },
+    "University of Cincinnati": {
+      "status": "confirmed",
+      "matched_name": "UNIVERSITY OF CINCINNATI",
+      "certified_lca_count": 80
+    },
+    "Spire Inc.": {
+      "status": "confirmed",
+      "matched_name": "Spire Inc.",
+      "certified_lca_count": 14
+    },
+    "Icf": {
+      "status": "confirmed",
+      "matched_name": "ICF Incorporated, LLC",
+      "certified_lca_count": 58
+    },
+    "City of Loveland": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Verdantas-1": {
+      "status": "likely",
+      "matched_name": "Verdantas LLC",
+      "certified_lca_count": 5
+    },
+    "GSI Environmental Inc.": {
+      "status": "confirmed",
+      "matched_name": "GSI Environmental Inc.",
+      "certified_lca_count": 3
+    },
+    "LAUKOA": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Mainspring Energy": {
+      "status": "confirmed",
+      "matched_name": "Mainspring Energy, Inc.",
+      "certified_lca_count": 24
+    },
+    "aptim": {
+      "status": "confirmed",
+      "matched_name": "APTIM Corp",
+      "certified_lca_count": 1
+    },
+    "Triumvirate Environmental": {
+      "status": "confirmed",
+      "matched_name": "Triumvirate Environmental, Inc.",
+      "certified_lca_count": 2
+    },
+    "Redwood AR": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Kern County": {
+      "status": "likely",
+      "matched_name": "Kern County Hospital Authority",
+      "certified_lca_count": 1
+    },
+    "Regional Government Services": {
+      "status": "likely",
+      "matched_name": "Corporation Service Company",
+      "certified_lca_count": 21
+    },
+    "Bureau of Prisons/Federal Prison System": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "DirectShifts": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Federal Transit Administration": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "University of California Office of the President": {
+      "status": "likely",
+      "matched_name": "IDEN GROUP HOLDING INC.",
+      "certified_lca_count": 1
+    },
+    "U.S. Department of Veterans Affairs": {
+      "status": "likely",
+      "matched_name": "Department of Veterans Affairs",
+      "certified_lca_count": 8
+    },
+    "Omega Technical Services": {
+      "status": "likely",
+      "matched_name": "Corporation Service Company",
+      "certified_lca_count": 21
+    },
+    "Department of Defense": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "San Diego State University": {
+      "status": "confirmed",
+      "matched_name": "San Diego State University",
+      "certified_lca_count": 16
+    },
+    "SPECTRAFORCE": {
+      "status": "likely",
+      "matched_name": "SPECTRAFORCE TECHNOLOGIES INC",
+      "certified_lca_count": 7
+    },
+    "Penncolor": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Acorn Environmental": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Apera": {
+      "status": "likely",
+      "matched_name": "APERA INSTRUMENTS, LLC",
+      "certified_lca_count": 3
+    },
+    "City of Moreton Bay": {
+      "status": "likely",
+      "matched_name": "More, Inc.",
+      "certified_lca_count": 1
+    },
+    "California Board of Forestry & Fire Protection": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Ri": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Environmental Science Associates": {
+      "status": "likely",
+      "matched_name": "Science Corporation",
+      "certified_lca_count": 5
+    },
+    "Yagroup": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Brody School of Medicine at East Carolina University": {
+      "status": "likely",
+      "matched_name": "East Carolina University",
+      "certified_lca_count": 21
+    },
+    "Madrigalpharma": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Marin Municipal Water District": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Remedial Construction Services, L.P. (RECON)": {
+      "status": "likely",
+      "matched_name": "Corporation Service Company",
+      "certified_lca_count": 21
+    },
+    "Pacific Power": {
+      "status": "likely",
+      "matched_name": "Sierra Pacific Power Company",
+      "certified_lca_count": 1
+    },
+    "Timmons Group": {
+      "status": "confirmed",
+      "matched_name": "Timmons Group",
+      "certified_lca_count": 1
+    },
+    "Coinbase": {
+      "status": "confirmed",
+      "matched_name": "Coinbase, Inc.",
+      "certified_lca_count": 145
+    },
+    "City of Gresham, OR": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Bechtel Corporation": {
+      "status": "likely",
+      "matched_name": "Bechtel Energy Inc.",
+      "certified_lca_count": 51
+    },
+    "NatureBridge": {
+      "status": "likely",
+      "matched_name": "Bridge Group, LLC",
+      "certified_lca_count": 6
+    },
+    "hims & hers": {
+      "status": "likely",
+      "matched_name": "Hims, Inc.",
+      "certified_lca_count": 25
+    },
+    "State of Michigan, MI": {
+      "status": "likely",
+      "matched_name": "State of Michigan",
+      "certified_lca_count": 1
+    },
+    "Carlsbad, City of (CA)": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "CA HIGH SPEED RAIL AUTHORITY": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "City of Salem, Oregon": {
+      "status": "likely",
+      "matched_name": "City of Salem",
+      "certified_lca_count": 2
+    },
+    "Pacific Seafood": {
+      "status": "likely",
+      "matched_name": "Pacific Seafood - Portland, LLC",
+      "certified_lca_count": 1
+    },
+    "District of Columbia Government": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Vantage Point Solutions": {
+      "status": "likely",
+      "matched_name": "Vanta Inc.",
+      "certified_lca_count": 28
+    },
+    "About Exponent": {
+      "status": "likely",
+      "matched_name": "Exponent, Inc.",
+      "certified_lca_count": 11
+    },
+    "New Mexico Environment Department (NMED)": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "SOCOTEC US": {
+      "status": "likely",
+      "matched_name": "Socotec, Inc.",
+      "certified_lca_count": 2
+    },
+    "WESA": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Valley Water": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Republic Services": {
+      "status": "confirmed",
+      "matched_name": "Republic Services, Inc.",
+      "certified_lca_count": 15
+    },
+    "South Western Sydney Local Health District": {
+      "status": "likely",
+      "matched_name": "Group Health, Inc.",
+      "certified_lca_count": 41
+    },
+    "Six Flags Entertainment Corporation": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Utah Department of Environmental Quality": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Southern California Edison (SCE)": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Clean Water Services": {
+      "status": "likely",
+      "matched_name": "Corporation Service Company",
+      "certified_lca_count": 21
+    },
+    "Proclinical Staffing": {
+      "status": "likely",
+      "matched_name": "Staffing Inc.",
+      "certified_lca_count": 1
+    },
+    "Rosendin": {
+      "status": "likely",
+      "matched_name": "Rosendin Electric Inc.",
+      "certified_lca_count": 6
+    },
+    "Cedarville Engineering Group": {
+      "status": "confirmed",
+      "matched_name": "Cedarville Engineering Group, LLC",
+      "certified_lca_count": 1
+    },
+    "Mortenson Construction": {
+      "status": "likely",
+      "matched_name": "Struction Incorporated",
+      "certified_lca_count": 1
+    },
+    "State of Nevada (NV)": {
+      "status": "likely",
+      "matched_name": "State of Nevada",
+      "certified_lca_count": 1
+    }
+  }
+}
