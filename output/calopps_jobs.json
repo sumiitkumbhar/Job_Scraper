@@ -1,17 +1,7 @@
 {
-  "scraped_at": "2026-08-28 00:58 UTC",
-  "total": 1,
+  "scraped_at": "2026-08-29 19:27 UTC",
+  "total": 0,
   "new_count": 0,
-  "jobs": [
-    {
-      "company": "Hayward",
-      "title": "Water Pollution Control Facility Lead Operator",
-      "location": "East Bay",
-      "url": "https://www.calopps.org/hayward/job-20768822",
-      "date_posted": "",
-      "salary": "$67.30-$78.68 Hourly",
-      "ats": "CalOpps"
-    }
-  ],
+  "jobs": [],
   "new_jobs": []
 }
