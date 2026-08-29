@@ -1,1 +1,5 @@
 python-jobspy>=1.1.82
+
+# Only needed if you use sheets_sync.py (see SETUP.md):
+gspread>=6.0.0
+google-auth>=2.0.0

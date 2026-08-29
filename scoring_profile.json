@@ -1,0 +1,139 @@
+{
+  "version": 1,
+  "description": "Fit scoring for a first international role combining RTPI-accredited UK spatial planning with PropTech/AI compliance-tooling experience. No LLM needed — deterministic keyword model used by notify.py's weekly digest and instant-alert fallback.",
+  "settings": {
+    "title_multiplier": 3,
+    "body_multiplier": 1,
+    "score_multiplier": 1.6,
+    "generic_cap": 35,
+    "standout_threshold": 60
+  },
+  "fit_terms": [
+    {
+      "pattern": "\\bgraduate (?:town )?planner\\b|\\bassistant planner\\b|\\bjunior planner\\b|\\bplanner i\\b",
+      "weight": 8
+    },
+    {
+      "pattern": "\\bplanning technolog(?:y|ist)\\b|\\bproptech\\b|\\bprop-tech\\b|\\bprop tech\\b|\\bplanning software\\b|\\breal estate technology\\b",
+      "weight": 15
+    },
+    {
+      "pattern": "\\bspatial planning\\b|\\btown planning\\b|\\burban planning\\b|\\burban planner\\b|\\bplanning consultant\\b",
+      "weight": 12
+    },
+    {
+      "pattern": "\\bRTPI\\b|\\broyal town planning institute\\b|\\brtpi licentiate\\b|\\brtpi accredited\\b",
+      "weight": 10
+    },
+    {
+      "pattern": "\\bapproved document\\b|\\bbuilding regulations?\\b|\\bfire safety compliance\\b|\\b(?:ADB|part\\s?b)\\b",
+      "weight": 11
+    },
+    {
+      "pattern": "\\bdevelopment management\\b|\\bplanning polic(?:y|ies)\\b|\\bplanning applications?\\b|\\binfrastructure planning\\b",
+      "weight": 10
+    },
+    {
+      "pattern": "\\bartificial intelligence\\b|\\bmachine learning\\b|\\bretrieval[- ]augmented\\b|\\bRAG\\b|\\bAI (?:tool|product|assistant|workflow)\\b",
+      "weight": 9
+    },
+    {
+      "pattern": "\\bGIS\\b|\\bgeospatial\\b|\\bspatial data\\b|\\bQGIS\\b|\\bArcGIS\\b",
+      "weight": 7
+    },
+    {
+      "pattern": "\\bsolutions consultant\\b|\\bimplementation consultant\\b|\\bcustomer success\\b|\\bsolution configuration\\b",
+      "weight": 8
+    },
+    {
+      "pattern": "\\bcompliance analyst\\b|\\bcompliance consultant\\b|\\bregulatory analyst\\b|\\bregulatory interpretation\\b",
+      "weight": 9
+    },
+    {
+      "pattern": "\\bhousing delivery\\b|\\bsustainab\\w*\\b|\\bnet zero\\b|\\bregeneration\\b",
+      "weight": 6
+    },
+    {
+      "pattern": "\\bconstruction project management\\b|\\bBIM\\b|\\bproject coordination\\b|\\bstakeholder (?:management|engagement)\\b",
+      "weight": 5
+    },
+    {
+      "pattern": "\\btechnical report writing\\b|\\bclient documentation\\b|\\bcross-functional collaboration\\b",
+      "weight": 4
+    }
+  ],
+  "signature_terms": [
+    "\\b(?:planning|spatial|urban)\\b.{0,25}\\b(?:technolog\\w*|proptech|software|AI)\\b",
+    "\\b(?:technolog\\w*|proptech|software|AI)\\b.{0,25}\\b(?:planning|spatial|urban)\\b",
+    "\\bRTPI\\b|\\broyal town planning institute\\b",
+    "\\bapproved document\\b.{0,25}\\b(?:compliance|fire safety)\\b",
+    "\\bgraduate (?:town )?planner\\b"
+  ],
+  "poor_fit_terms": [
+    {
+      "pattern": "\\bdirector\\b|\\bhead of\\b|\\bpartner\\b|\\bprincipal planner\\b|\\bchief\\b|\\bvp\\b|\\bvice president\\b",
+      "penalty": 40
+    },
+    {
+      "pattern": "\\bstructural engineer\\b|\\bcivil engineer\\b|\\bsite engineer\\b|\\bquantity surveyor\\b|\\bsite manager\\b",
+      "penalty": 30
+    },
+    {
+      "pattern": "\\bsales executive\\b|\\bestate agent\\b|\\bletting agent\\b|\\blettings negotiator\\b|\\bbusiness development manager\\b",
+      "penalty": 35
+    },
+    {
+      "pattern": "\\bsoftware engineer\\b|\\bbackend developer\\b|\\bfrontend developer\\b|\\bfull stack developer\\b|\\bdevops\\b",
+      "penalty": 25
+    },
+    {
+      "pattern": "\\bfinancial analyst\\b|\\binvestment banking\\b|\\baccountant\\b|\\bauditor\\b",
+      "penalty": 30
+    },
+    {
+      "pattern": "\\bintern\\b|\\binternship\\b|\\bplacement year\\b|\\bwork experience\\b",
+      "penalty": 25
+    },
+    {
+      "pattern": "\\bteacher\\b|\\blecturer\\b|\\bprofessor\\b|\\bacademic\\b",
+      "penalty": 20
+    }
+  ],
+  "test_cases": [
+    {
+      "title": "Graduate Planning Technology Consultant",
+      "company": "PropTech / built-environment software company",
+      "description": "RTPI-accredited graduate role combining UK planning policy research with AI-powered compliance and planning-data products. Interpret planning applications and Approved Document B requirements, translate them into structured digital workflows, and support clients configuring the platform. Uses GIS/spatial data and works closely with the product team.",
+      "expected_score_range": [100, 100],
+      "rationale": "Exact target profile: RTPI planning knowledge plus AI/PropTech product work, matching both independent projects on the CV."
+    },
+    {
+      "title": "Graduate Town Planner",
+      "company": "National planning consultancy",
+      "description": "RTPI-accredited graduate programme covering development management, planning applications, infrastructure planning and client advice across a range of projects.",
+      "expected_score_range": [70, 88],
+      "rationale": "Strong core-planning match and the right seniority, but no PropTech/AI/technology angle, so it stays below the gold-standard combined role."
+    },
+    {
+      "title": "Solutions Consultant",
+      "company": "General B2B SaaS company",
+      "description": "Configure the platform for new enterprise clients, gather requirements, run onboarding calls, and coordinate with the product team.",
+      "expected_score_range": [20, 40],
+      "rationale": "Generic client-facing tech role with real overlap to the 'solutions consultant' signal, but no planning/spatial/built-environment domain content, so it should not score as a standout."
+    },
+    {
+      "title": "Site Engineer",
+      "company": "Construction contractor",
+      "description": "On-site engineering role reviewing drawings, managing subcontractors, and overseeing groundworks and structural installation.",
+      "expected_score_range": [0, 10],
+      "rationale": "Overlaps with the civil-engineering degree but is exactly the hands-on construction track the candidate is moving away from; explicitly penalized down to (or near) zero."
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Unrelated fintech startup",
+      "description": "Build and maintain backend services in a microservices architecture; no built-environment or planning domain.",
+      "expected_score_range": [0, 15],
+      "rationale": "Pure software engineering with no planning/PropTech domain content should not surface as a match even though the candidate has some AI-tooling experience."
+    }
+  ]
+}

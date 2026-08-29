@@ -1,0 +1,430 @@
+{
+  "_README": "Sumit Kumbhar's UK/Europe spatial planning + PropTech tracker. Generated from CV + job-search research (Aug 2026).",
+  "profile": {
+    "title": "Sumit's Planning & PropTech Tracker",
+    "subtitle": "UK \u00b7 Ireland \u00b7 Netherlands \u00b7 Germany \u2014 sponsorship-aware",
+    "emoji": "\ud83d\uddfa\ufe0f"
+  },
+  "keywords": {
+    "_comment": "A job TITLE is kept if it contains any of these.",
+    "include": [
+      "graduate planner",
+      "graduate town planner",
+      "assistant planner",
+      "spatial planner",
+      "planning consultant",
+      "planning officer",
+      "planning technologist",
+      "junior planner",
+      "town planner",
+      "town planning",
+      "urban planner",
+      "urban planning",
+      "urban designer",
+      "development management",
+      "planning policy",
+      "infrastructure planner",
+      "infrastructure planning",
+      "regeneration officer",
+      "housing delivery",
+      "spatial planning",
+      "planning analyst",
+      "planning technology",
+      "proptech",
+      "prop-tech",
+      "prop tech",
+      "real estate technology",
+      "compliance analyst",
+      "compliance consultant",
+      "building regulations",
+      "fire safety compliance",
+      "gis analyst",
+      "gis officer",
+      "geospatial analyst",
+      "spatial data analyst",
+      "solutions consultant",
+      "implementation consultant",
+      "customer success",
+      "planning research",
+      "policy researcher",
+      "regulatory analyst",
+      "land assembly",
+      "site assessment",
+      "planning technology consultant",
+      "digital planning"
+    ],
+    "_exclude_comment": "Titles containing any of these are dropped.",
+    "exclude": [
+      "intern",
+      "internship",
+      "co-op",
+      "apprentice",
+      "work experience",
+      "unpaid",
+      "volunteer",
+      "director",
+      "head of",
+      "partner",
+      "principal planner",
+      "chief",
+      "vp ",
+      "vice president",
+      "sales executive",
+      "estate agent",
+      "letting agent",
+      "lettings negotiator"
+    ]
+  },
+  "search_terms": {
+    "linkedin": [
+      "graduate planner",
+      "graduate town planner",
+      "assistant planner",
+      "spatial planner",
+      "planning consultant",
+      "town planning",
+      "urban planner",
+      "planning technologist",
+      "PropTech",
+      "planning technology",
+      "GIS analyst planning",
+      "development management",
+      "solutions consultant real estate",
+      "customer success PropTech",
+      "compliance analyst planning",
+      "building regulations analyst",
+      "AI planning",
+      "real estate technology",
+      "housing delivery officer",
+      "infrastructure planning graduate",
+      "digital planning"
+    ],
+    "indeed": [
+      "graduate planner",
+      "town planner",
+      "spatial planning",
+      "PropTech",
+      "planning technology",
+      "urban planner",
+      "GIS planning",
+      "assistant planner"
+    ],
+    "glassdoor": [
+      "graduate planner",
+      "town planner",
+      "spatial planning",
+      "PropTech",
+      "planning technology",
+      "urban planner",
+      "assistant planner"
+    ],
+    "ziprecruiter": [
+      "town planner",
+      "PropTech",
+      "urban planner",
+      "planning technology"
+    ],
+    "google_jobs": [
+      "graduate planner",
+      "town planner",
+      "spatial planning",
+      "PropTech",
+      "planning technology",
+      "urban planner",
+      "assistant planner"
+    ],
+    "hiring_cafe": [
+      "town planner",
+      "PropTech",
+      "urban planner",
+      "planning technology"
+    ]
+  },
+  "locations": {
+    "_comment": "geoId 101165590 = United Kingdom (LinkedIn). Others left blank so LinkedIn resolves the text.",
+    "linkedin": [
+      {
+        "name": "United Kingdom",
+        "location": "United Kingdom",
+        "geoId": "101165590"
+      },
+      {
+        "name": "London",
+        "location": "London, England, United Kingdom",
+        "geoId": ""
+      },
+      {
+        "name": "Reading / Thames Valley",
+        "location": "Reading, England, United Kingdom",
+        "geoId": ""
+      },
+      {
+        "name": "Ireland",
+        "location": "Ireland",
+        "geoId": ""
+      },
+      {
+        "name": "Netherlands",
+        "location": "Netherlands",
+        "geoId": ""
+      },
+      {
+        "name": "Germany",
+        "location": "Germany",
+        "geoId": ""
+      }
+    ],
+    "indeed": [
+      {
+        "location": "United Kingdom",
+        "country": "UK"
+      },
+      {
+        "location": "Ireland",
+        "country": "Ireland"
+      }
+    ],
+    "glassdoor": [
+      {
+        "location": "United Kingdom",
+        "country": "UK"
+      }
+    ],
+    "ziprecruiter": [
+      {
+        "location": "United Kingdom",
+        "country": "UK"
+      }
+    ],
+    "google_jobs": [
+      {
+        "location": "United Kingdom",
+        "country": "UK"
+      },
+      {
+        "location": "Ireland",
+        "country": "Ireland"
+      }
+    ],
+    "hiring_cafe": [
+      {
+        "location": "United Kingdom"
+      }
+    ]
+  },
+  "location_filter": {
+    "_comment": "Case-insensitive substrings used to post-filter boards without geo-scoping.",
+    "terms": [
+      "united kingdom",
+      "uk",
+      "england",
+      "scotland",
+      "wales",
+      "northern ireland",
+      "london",
+      "reading",
+      "manchester",
+      "birmingham",
+      "leeds",
+      "bristol",
+      "cambridge",
+      "oxford",
+      "southampton",
+      "ireland",
+      "dublin",
+      "netherlands",
+      "amsterdam",
+      "germany",
+      "berlin",
+      "frankfurt",
+      "remote",
+      "hybrid"
+    ]
+  },
+  "google_jobs": {
+    "queries": [],
+    "serpapi_api_key": "",
+    "oxylabs_username": "",
+    "oxylabs_password": ""
+  },
+  "jobspy": {
+    "proxies": [],
+    "user_agent": ""
+  },
+  "hiring_cafe": {
+    "max_pages": 3
+  },
+  "employers": {
+    "_priority_comment": "Real, licence-confirmed companies from Sumit's own curated Ranked Shortlist (score >= 60 out of 100), cross-checked against the 24 Aug 2026 Home Office register. Replaces the earlier guessed list.",
+    "priority": [
+      "AECOM ENGINEERING TECHNOLOGY SERVICES LTD",
+      "AECOM LIMITED",
+      "ARB PLANNING LTD",
+      "Arcadis LLP",
+      "AtkinsRealis PPS Limited",
+      "AtkinsRealis UK Limited",
+      "Autodesk Ltd",
+      "Avison Young (UK) Limited",
+      "BNP Paribas real Estate Advisory & Property Management UK Limited",
+      "BOUYGUES (U.K.) LIMITED",
+      "BOUYGUES ENERGIES & SERVICES",
+      "Balfour Beatty Group Employment Limited",
+      "Bentley Systems (UK) Ltd",
+      "Bidwells LLP",
+      "Bluestone Planning Partnership LLP",
+      "Bouygues E&S Solutions Limited",
+      "Brook Street Planning Ltd",
+      "Buro Happold Engineers Limited",
+      "CBRE Limited",
+      "Capita Property and Infrastructure Ltd",
+      "Carter Jonas Service Company",
+      "CoStar UK Limited",
+      "Cogeo Planning & Environmental Services Ltd",
+      "Colliers International Property Consultants Limited",
+      "Colour urban design limited",
+      "Cushman & Wakefield Debenham Tie Leung Limited",
+      "Define Planning and Design Limited",
+      "Dynamic Planner Limited",
+      "ESRI Global Inc.",
+      "ET Planning Ltd",
+      "Esri (UK) Ltd",
+      "Ferrovial Construction UK Ltd",
+      "GVA GROUP LTD",
+      "Galliford Try Plc",
+      "Gleeds LLP",
+      "H S PLANNING LIMITED",
+      "HOCHTIEF PPP SOLUTIONS (UK) LIMITED",
+      "Hochtief (UK) Construction Limited",
+      "Houseful Limited",
+      "ICENI PROJECTS LIMITED",
+      "IMA Transport Planning Ltd",
+      "Idox Software Ltd.",
+      "Juno Planning and Environmental Ltd",
+      "KAPPA PLANNING LTD",
+      "KMA Planning LLP",
+      "Kier Group plc",
+      "Knight Frank LLP",
+      "LOFTI PROPTECH LTD",
+      "Laing O'Rourke PLC",
+      "Land Technologies Limited (LandInsight)",
+      "Landmark Planning Ltd.",
+      "Leith Planning Limited",
+      "LendLease Europe Holdings Limited",
+      "MONTAGU EVANS LLP",
+      "MRI Software Limited",
+      "Mace Consult Limited",
+      "Momentum Transport Planning Limited",
+      "Morgan Sindall Construction & Infrastructure Ltd",
+      "Mott MacDonald Ltd",
+      "Multiplex Construction Europe Limited",
+      "Multiplex Engineering Limited",
+      "Murphy Geospatial UK Ltd",
+      "National Highways",
+      "Network Rail Infrastructure",
+      "NextGen Planners Limited",
+      "Nexus Planning Ltd",
+      "Node Urban Design Ltd",
+      "Ove Arup and Partners International Ltd",
+      "Pegasus Planning Group Ltd",
+      "Place Design and Planning",
+      "Planning Additions Limited",
+      "Planning Dimensions Ltd",
+      "Planning Potential Ltd",
+      "Plentific",
+      "Procore UK Limited",
+      "PropTech Connect",
+      "Ramboll UK Limited",
+      "Rapleys LLP",
+      "Rightmove Group Ltd",
+      "Rolfe Judd Planning",
+      "SCOTT HOBBS PLANNING LTD",
+      "SF Planning Limited",
+      "STRABAG AG UK Branch",
+      "SYSTRA Ltd",
+      "Savills plc",
+      "Searchland LTD",
+      "Skanska UK Plc",
+      "Stantec UK Ltd",
+      "Strabag UK Limited",
+      "Sweco UK Holding Ltd",
+      "Systematic Software Engineering Limited",
+      "Tetra Tech Group Limited",
+      "Tibbalds Planning and Urban Design Ltd",
+      "Transport Planning Practice Limited",
+      "Turley Associates Limited",
+      "Turner & Townsend Ltd",
+      "ULI- The Urban Land Institute",
+      "VINCI CONSTRUCTION GRANDS PROJETS UK BRANCH",
+      "VINCI Construction GeoInfrastructure UK Limited",
+      "VINCI Construction Management Limited",
+      "Vail Williams Employment Services Limited",
+      "VolkerWessels UK Limited",
+      "WSP Engineering Ltd",
+      "WSP Group Limited",
+      "Wates Group Ltd",
+      "Yardi Systems Limited",
+      "Zoopla Ltd"
+    ],
+    "_exclude_comment": "Recruiters are kept \u2014 a large share of genuine UK planning postings run through agencies.",
+    "exclude": []
+  },
+  "priority_topics": {
+    "terms": [
+      [
+        "AI & PropTech",
+        "\\bai\\b|proptech|prop-tech|artificial intelligence|machine learning"
+      ],
+      [
+        "Compliance & Building Regs",
+        "approved document|building regulation|fire safety|compliance"
+      ],
+      [
+        "GIS & Spatial Data",
+        "\\bgis\\b|spatial data|geospatial"
+      ],
+      [
+        "Sustainability & Housing",
+        "sustainab|housing deliver|net zero"
+      ]
+    ]
+  },
+  "role_categories": {
+    "terms": [
+      [
+        "Planning Technology / PropTech",
+        "proptech|prop-tech|planning technolog|planning software|real estate technology"
+      ],
+      [
+        "Graduate / Assistant Planner",
+        "graduate planner|assistant planner|graduate town planner|junior planner"
+      ],
+      [
+        "Town Planning / Development Management",
+        "town plann|development management|planning consultant|planning officer"
+      ],
+      [
+        "GIS / Spatial Analysis",
+        "\\bgis\\b|spatial analy|geospatial"
+      ],
+      [
+        "Compliance / Building Regulations",
+        "building regulation|approved document|compliance"
+      ],
+      [
+        "Solutions / Customer Success",
+        "solutions consultant|customer success|implementation"
+      ],
+      [
+        "Infrastructure / Housing",
+        "infrastructure|housing deliver|regeneration"
+      ]
+    ]
+  },
+  "notify": {
+    "min_fit": 70,
+    "weekly_digest": {
+      "enabled": false,
+      "days": 7
+    }
+  }
+}

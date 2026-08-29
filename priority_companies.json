@@ -1,0 +1,2711 @@
+{
+  "aecom engineering technology services": {
+    "official_name": "AECOM ENGINEERING TECHNOLOGY SERVICES LTD",
+    "town": "London",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 100,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "aecom": {
+    "official_name": "AECOM LIMITED",
+    "town": "London",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 100,
+    "licence_route": "Global Business Mobility: Senior or Specialist Worker; Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "arcadis": {
+    "official_name": "Arcadis LLP",
+    "town": "London",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 100,
+    "licence_route": "Global Business Mobility: Graduate Trainee; Global Business Mobility: Senior or Specialist Worker; Skilled Worker",
+    "type_rating": "Temporary Worker (A rating); Worker (A rating)"
+  },
+  "atkinsrealis": {
+    "official_name": "AtkinsRealis UK Limited",
+    "town": "London",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 100,
+    "licence_route": "Global Business Mobility: Graduate Trainee; Global Business Mobility: Senior or Specialist Worker; Skilled Worker",
+    "type_rating": "Temporary Worker (A rating); Worker (A rating)"
+  },
+  "autodesk": {
+    "official_name": "Autodesk Ltd",
+    "town": "Birmingham",
+    "sector_stream": "PropTech & Implementation",
+    "suggested_roles": "Implementation Consultant / Product Specialist / Solutions Consultant",
+    "relevance_score": 100,
+    "licence_route": "Global Business Mobility: Senior or Specialist Worker; Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "avison young": {
+    "official_name": "Avison Young (UK) Limited",
+    "town": "Birmingham",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 100,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "bnp paribas real estate advisory property management": {
+    "official_name": "BNP Paribas real Estate Advisory & Property Management UK Limited",
+    "town": "London",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 100,
+    "licence_route": "Global Business Mobility: Senior or Specialist Worker; Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "bentley systems": {
+    "official_name": "Bentley Systems (UK) Ltd",
+    "town": "London",
+    "sector_stream": "PropTech & Implementation",
+    "suggested_roles": "Implementation Consultant / Product Specialist / Solutions Consultant",
+    "relevance_score": 100,
+    "licence_route": "Global Business Mobility: Senior or Specialist Worker; Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "bidwells": {
+    "official_name": "Bidwells LLP",
+    "town": "Cambridge",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 100,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "buro happold engineers": {
+    "official_name": "Buro Happold Engineers Limited",
+    "town": "Bath",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 100,
+    "licence_route": "Global Business Mobility: Graduate Trainee; Global Business Mobility: Senior or Specialist Worker; Skilled Worker",
+    "type_rating": "Temporary Worker (A rating); Worker (A rating)"
+  },
+  "cbre": {
+    "official_name": "CBRE Limited",
+    "town": "London",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 100,
+    "licence_route": "Global Business Mobility: Senior or Specialist Worker; Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "carter jonas service company": {
+    "official_name": "Carter Jonas Service Company",
+    "town": "Peterborough",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 100,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "costar": {
+    "official_name": "CoStar UK Limited",
+    "town": "London",
+    "sector_stream": "PropTech & Implementation",
+    "suggested_roles": "Implementation Consultant / Product Specialist / Solutions Consultant",
+    "relevance_score": 100,
+    "licence_route": "Global Business Mobility: Senior or Specialist Worker; Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "colliers international property consultants": {
+    "official_name": "Colliers International Property Consultants Limited",
+    "town": "London",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 100,
+    "licence_route": "Global Business Mobility: Graduate Trainee; Global Business Mobility: Senior or Specialist Worker; Skilled Worker",
+    "type_rating": "Temporary Worker (A rating); Worker (A rating)"
+  },
+  "cushman wakefield debenham tie leung": {
+    "official_name": "Cushman & Wakefield Debenham Tie Leung Limited",
+    "town": "London",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 100,
+    "licence_route": "Global Business Mobility: Senior or Specialist Worker; Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "define planning and design": {
+    "official_name": "Define Planning and Design Limited",
+    "town": "Birmingham",
+    "sector_stream": "Planning & Development",
+    "suggested_roles": "Graduate Planner / Planning Consultant / Planning Assistant",
+    "relevance_score": 100,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "esri": {
+    "official_name": "Esri (UK) Ltd",
+    "town": "Aylesbury",
+    "sector_stream": "PropTech & Implementation",
+    "suggested_roles": "Implementation Consultant / Product Specialist / Solutions Consultant",
+    "relevance_score": 100,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "gleeds": {
+    "official_name": "Gleeds LLP",
+    "town": "London",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 100,
+    "licence_route": "Global Business Mobility: Graduate Trainee; Global Business Mobility: Senior or Specialist Worker; Skilled Worker",
+    "type_rating": "Temporary Worker (A rating); Worker (A rating)"
+  },
+  "iceni projects": {
+    "official_name": "ICENI PROJECTS LIMITED",
+    "town": "London",
+    "sector_stream": "Planning & Development",
+    "suggested_roles": "Graduate Planner / Planning Consultant / Planning Assistant",
+    "relevance_score": 100,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "idox software": {
+    "official_name": "Idox Software Ltd.",
+    "town": "Woking",
+    "sector_stream": "PropTech & Implementation",
+    "suggested_roles": "Implementation Consultant / Product Specialist / Solutions Consultant",
+    "relevance_score": 100,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "knight frank": {
+    "official_name": "Knight Frank LLP",
+    "town": "London",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 100,
+    "licence_route": "Global Business Mobility: Senior or Specialist Worker; Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "land technologies landinsight": {
+    "official_name": "Land Technologies Limited (LandInsight)",
+    "town": "London",
+    "sector_stream": "PropTech & Implementation",
+    "suggested_roles": "Implementation Consultant / Product Specialist / Solutions Consultant",
+    "relevance_score": 100,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "montagu evans": {
+    "official_name": "MONTAGU EVANS LLP",
+    "town": "London",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 100,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "mri software": {
+    "official_name": "MRI Software Limited",
+    "town": "London",
+    "sector_stream": "PropTech & Implementation",
+    "suggested_roles": "Implementation Consultant / Product Specialist / Solutions Consultant",
+    "relevance_score": 100,
+    "licence_route": "Global Business Mobility: Senior or Specialist Worker; Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "morgan sindall construction infrastructure": {
+    "official_name": "Morgan Sindall Construction & Infrastructure Ltd",
+    "town": "Rugby",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 100,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "mott macdonald": {
+    "official_name": "Mott MacDonald Ltd",
+    "town": "London",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 100,
+    "licence_route": "Global Business Mobility: Graduate Trainee; Global Business Mobility: Senior or Specialist Worker; Skilled Worker",
+    "type_rating": "Temporary Worker (A rating); Worker (A rating)"
+  },
+  "nexus planning": {
+    "official_name": "Nexus Planning Ltd",
+    "town": "London",
+    "sector_stream": "Planning & Development",
+    "suggested_roles": "Graduate Planner / Planning Consultant / Planning Assistant",
+    "relevance_score": 100,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "ove arup and partners international": {
+    "official_name": "Ove Arup and Partners International Ltd",
+    "town": "London",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 100,
+    "licence_route": "Global Business Mobility: Senior or Specialist Worker; Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "pegasus planning": {
+    "official_name": "Pegasus Planning Group Ltd",
+    "town": "London",
+    "sector_stream": "Planning & Development",
+    "suggested_roles": "Graduate Planner / Planning Consultant / Planning Assistant",
+    "relevance_score": 100,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "ramboll": {
+    "official_name": "Ramboll UK Limited",
+    "town": "London",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 100,
+    "licence_route": "Global Business Mobility: Senior or Specialist Worker; Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "rapleys": {
+    "official_name": "Rapleys LLP",
+    "town": "Huntingdon",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 100,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "rightmove": {
+    "official_name": "Rightmove Group Ltd",
+    "town": "Milton Keynes",
+    "sector_stream": "PropTech & Implementation",
+    "suggested_roles": "Implementation Consultant / Product Specialist / Solutions Consultant",
+    "relevance_score": 100,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "rolfe judd planning": {
+    "official_name": "Rolfe Judd Planning",
+    "town": "London",
+    "sector_stream": "Planning & Development",
+    "suggested_roles": "Graduate Planner / Planning Consultant / Planning Assistant",
+    "relevance_score": 100,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "savills": {
+    "official_name": "Savills plc",
+    "town": "London",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 100,
+    "licence_route": "Global Business Mobility: Senior or Specialist Worker; Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "stantec": {
+    "official_name": "Stantec UK Ltd",
+    "town": "Warrington",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 100,
+    "licence_route": "Global Business Mobility: Senior or Specialist Worker; Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "tibbalds planning and urban design": {
+    "official_name": "Tibbalds Planning and Urban Design Ltd",
+    "town": "London",
+    "sector_stream": "Planning & Development",
+    "suggested_roles": "Graduate Planner / Planning Consultant / Planning Assistant",
+    "relevance_score": 100,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "turley associates": {
+    "official_name": "Turley Associates Limited",
+    "town": "Manchester",
+    "sector_stream": "Planning & Development",
+    "suggested_roles": "Graduate Planner / Planning Consultant / Planning Assistant",
+    "relevance_score": 100,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "turner townsend": {
+    "official_name": "Turner & Townsend Ltd",
+    "town": "Leeds",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 100,
+    "licence_route": "Global Business Mobility: Senior or Specialist Worker; Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "wsp": {
+    "official_name": "WSP Group Limited",
+    "town": "London",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 100,
+    "licence_route": "Global Business Mobility: Senior or Specialist Worker; Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "zoopla": {
+    "official_name": "Zoopla Ltd",
+    "town": "London",
+    "sector_stream": "PropTech & Implementation",
+    "suggested_roles": "Implementation Consultant / Product Specialist / Solutions Consultant",
+    "relevance_score": 100,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "arb planning": {
+    "official_name": "ARB PLANNING LTD",
+    "town": "Romford,",
+    "sector_stream": "Planning & Development",
+    "suggested_roles": "Graduate Planner / Planning Consultant / Planning Assistant",
+    "relevance_score": 60,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "atkinsrealis pps": {
+    "official_name": "AtkinsRealis PPS Limited",
+    "town": "London",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 60,
+    "licence_route": "Global Business Mobility: Senior or Specialist Worker; Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "bouygues u k": {
+    "official_name": "BOUYGUES (U.K.) LIMITED",
+    "town": "London",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 60,
+    "licence_route": "Global Business Mobility: Senior or Specialist Worker; Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "bouygues energies services": {
+    "official_name": "BOUYGUES ENERGIES & SERVICES",
+    "town": "Motherwell",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 60,
+    "licence_route": "Global Business Mobility: Senior or Specialist Worker; Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "balfour beatty employment": {
+    "official_name": "Balfour Beatty Group Employment Limited",
+    "town": "London",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 60,
+    "licence_route": "Global Business Mobility: Senior or Specialist Worker; Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "bluestone planning partnership": {
+    "official_name": "Bluestone Planning Partnership LLP",
+    "town": "Wantage",
+    "sector_stream": "Planning & Development",
+    "suggested_roles": "Graduate Planner / Planning Consultant / Planning Assistant",
+    "relevance_score": 60,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "bouygues e s solutions": {
+    "official_name": "Bouygues E&S Solutions Limited",
+    "town": "London",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 60,
+    "licence_route": "Global Business Mobility: Senior or Specialist Worker; Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "brook street planning": {
+    "official_name": "Brook Street Planning Ltd",
+    "town": "London",
+    "sector_stream": "Planning & Development",
+    "suggested_roles": "Graduate Planner / Planning Consultant / Planning Assistant",
+    "relevance_score": 60,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "capita property and infrastructure": {
+    "official_name": "Capita Property and Infrastructure Ltd",
+    "town": "London",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 60,
+    "licence_route": "Global Business Mobility: Senior or Specialist Worker; Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "cogeo planning environmental services": {
+    "official_name": "Cogeo Planning & Environmental Services Ltd",
+    "town": "Glasgow",
+    "sector_stream": "Planning & Development",
+    "suggested_roles": "Graduate Planner / Planning Consultant / Planning Assistant",
+    "relevance_score": 60,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "colour urban design": {
+    "official_name": "Colour urban design limited",
+    "town": "Newcastle-upon-Tyne",
+    "sector_stream": "Planning & Development",
+    "suggested_roles": "Graduate Planner / Planning Consultant / Planning Assistant",
+    "relevance_score": 60,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "dynamic planner": {
+    "official_name": "Dynamic Planner Limited",
+    "town": "Reading",
+    "sector_stream": "Built Environment / General",
+    "suggested_roles": "Graduate Consultant / Planning & Development Analyst",
+    "relevance_score": 60,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "esri global": {
+    "official_name": "ESRI Global Inc.",
+    "town": "Edinburgh",
+    "sector_stream": "PropTech & Implementation",
+    "suggested_roles": "Implementation Consultant / Product Specialist / Solutions Consultant",
+    "relevance_score": 60,
+    "licence_route": "Global Business Mobility: Senior or Specialist Worker; Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "et planning": {
+    "official_name": "ET Planning Ltd",
+    "town": "Crowthorne",
+    "sector_stream": "Planning & Development",
+    "suggested_roles": "Graduate Planner / Planning Consultant / Planning Assistant",
+    "relevance_score": 60,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "ferrovial construction": {
+    "official_name": "Ferrovial Construction UK Ltd",
+    "town": "London",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 60,
+    "licence_route": "Global Business Mobility: Graduate Trainee; Global Business Mobility: Senior or Specialist Worker; Skilled Worker",
+    "type_rating": "Temporary Worker (A rating); Worker (A rating)"
+  },
+  "gva": {
+    "official_name": "GVA GROUP LTD",
+    "town": "Slough",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 60,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "galliford try": {
+    "official_name": "Galliford Try Plc",
+    "town": "Uxbridge",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 60,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "h s planning": {
+    "official_name": "H S PLANNING LIMITED",
+    "town": "Staines-Upon-Thames",
+    "sector_stream": "Planning & Development",
+    "suggested_roles": "Graduate Planner / Planning Consultant / Planning Assistant",
+    "relevance_score": 60,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "hochtief ppp solutions": {
+    "official_name": "HOCHTIEF PPP SOLUTIONS (UK) LIMITED",
+    "town": "SWINDON",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 60,
+    "licence_route": "Global Business Mobility: Senior or Specialist Worker; Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "hochtief construction": {
+    "official_name": "Hochtief (UK) Construction Limited",
+    "town": "Swindon",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 60,
+    "licence_route": "Global Business Mobility: Senior or Specialist Worker; Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "houseful": {
+    "official_name": "Houseful Limited",
+    "town": "London",
+    "sector_stream": "PropTech & Implementation",
+    "suggested_roles": "Implementation Consultant / Product Specialist / Solutions Consultant",
+    "relevance_score": 60,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "ima transport planning": {
+    "official_name": "IMA Transport Planning Ltd",
+    "town": "Bath",
+    "sector_stream": "Planning & Development",
+    "suggested_roles": "Graduate Planner / Planning Consultant / Planning Assistant",
+    "relevance_score": 60,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "juno planning and environmental": {
+    "official_name": "Juno Planning and Environmental Ltd",
+    "town": "Belfast",
+    "sector_stream": "Planning & Development",
+    "suggested_roles": "Graduate Planner / Planning Consultant / Planning Assistant",
+    "relevance_score": 60,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "kappa planning": {
+    "official_name": "KAPPA PLANNING LTD",
+    "town": "London",
+    "sector_stream": "Planning & Development",
+    "suggested_roles": "Graduate Planner / Planning Consultant / Planning Assistant",
+    "relevance_score": 60,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "kma planning": {
+    "official_name": "KMA Planning LLP",
+    "town": "London",
+    "sector_stream": "Planning & Development",
+    "suggested_roles": "Graduate Planner / Planning Consultant / Planning Assistant",
+    "relevance_score": 60,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "kier": {
+    "official_name": "Kier Group plc",
+    "town": "Salford",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 60,
+    "licence_route": "Global Business Mobility: Senior or Specialist Worker; Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "lofti proptech": {
+    "official_name": "LOFTI PROPTECH LTD",
+    "town": "London",
+    "sector_stream": "PropTech & Implementation",
+    "suggested_roles": "Implementation Consultant / Product Specialist / Solutions Consultant",
+    "relevance_score": 60,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "laing o rourke": {
+    "official_name": "Laing O'Rourke PLC",
+    "town": "Dartford",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 60,
+    "licence_route": "Global Business Mobility: Senior or Specialist Worker; Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "landmark planning": {
+    "official_name": "Landmark Planning Ltd.",
+    "town": "Leicester",
+    "sector_stream": "Planning & Development",
+    "suggested_roles": "Graduate Planner / Planning Consultant / Planning Assistant",
+    "relevance_score": 60,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "leith planning": {
+    "official_name": "Leith Planning Limited",
+    "town": "London",
+    "sector_stream": "Planning & Development",
+    "suggested_roles": "Graduate Planner / Planning Consultant / Planning Assistant",
+    "relevance_score": 60,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "lendlease europe": {
+    "official_name": "LendLease Europe Holdings Limited",
+    "town": "London",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 60,
+    "licence_route": "Global Business Mobility: Senior or Specialist Worker; Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "mace consult": {
+    "official_name": "Mace Consult Limited",
+    "town": "London",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 60,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "momentum transport planning": {
+    "official_name": "Momentum Transport Planning Limited",
+    "town": "london",
+    "sector_stream": "Planning & Development",
+    "suggested_roles": "Graduate Planner / Planning Consultant / Planning Assistant",
+    "relevance_score": 60,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "multiplex construction europe": {
+    "official_name": "Multiplex Construction Europe Limited",
+    "town": "London",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 60,
+    "licence_route": "Global Business Mobility: Senior or Specialist Worker; Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "multiplex engineering": {
+    "official_name": "Multiplex Engineering Limited",
+    "town": "Chesterfield",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 60,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "murphy geospatial": {
+    "official_name": "Murphy Geospatial UK Ltd",
+    "town": "Watford",
+    "sector_stream": "Planning & Development",
+    "suggested_roles": "Graduate Planner / Planning Consultant / Planning Assistant",
+    "relevance_score": 60,
+    "licence_route": "Global Business Mobility: Senior or Specialist Worker; Global Business Mobility: Service Supplier; Skilled Worker",
+    "type_rating": "Temporary Worker (A rating); Worker (A rating)"
+  },
+  "national highways": {
+    "official_name": "National Highways",
+    "town": "Birmingham",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 60,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "network rail infrastructure": {
+    "official_name": "Network Rail Infrastructure",
+    "town": "Manchetser",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 60,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "nextgen planners": {
+    "official_name": "NextGen Planners Limited",
+    "town": "Manchester",
+    "sector_stream": "Built Environment / General",
+    "suggested_roles": "Graduate Consultant / Planning & Development Analyst",
+    "relevance_score": 60,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "node urban design": {
+    "official_name": "Node Urban Design Ltd",
+    "town": "Birmingham",
+    "sector_stream": "Planning & Development",
+    "suggested_roles": "Graduate Planner / Planning Consultant / Planning Assistant",
+    "relevance_score": 60,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "place design and planning": {
+    "official_name": "Place Design and Planning",
+    "town": "London",
+    "sector_stream": "Planning & Development",
+    "suggested_roles": "Graduate Planner / Planning Consultant / Planning Assistant",
+    "relevance_score": 60,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "planning additions": {
+    "official_name": "Planning Additions Limited",
+    "town": "London",
+    "sector_stream": "Planning & Development",
+    "suggested_roles": "Graduate Planner / Planning Consultant / Planning Assistant",
+    "relevance_score": 60,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "planning dimensions": {
+    "official_name": "Planning Dimensions Ltd",
+    "town": "London",
+    "sector_stream": "Planning & Development",
+    "suggested_roles": "Graduate Planner / Planning Consultant / Planning Assistant",
+    "relevance_score": 60,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "planning potential": {
+    "official_name": "Planning Potential Ltd",
+    "town": "London",
+    "sector_stream": "Planning & Development",
+    "suggested_roles": "Graduate Planner / Planning Consultant / Planning Assistant",
+    "relevance_score": 60,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "plentific": {
+    "official_name": "Plentific",
+    "town": "London",
+    "sector_stream": "PropTech & Implementation",
+    "suggested_roles": "Implementation Consultant / Product Specialist / Solutions Consultant",
+    "relevance_score": 60,
+    "licence_route": "Scale-up; Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "procore": {
+    "official_name": "Procore UK Limited",
+    "town": "London",
+    "sector_stream": "PropTech & Implementation",
+    "suggested_roles": "Implementation Consultant / Product Specialist / Solutions Consultant",
+    "relevance_score": 60,
+    "licence_route": "Global Business Mobility: Senior or Specialist Worker; Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "proptech connect": {
+    "official_name": "PropTech Connect",
+    "town": "London",
+    "sector_stream": "PropTech & Implementation",
+    "suggested_roles": "Implementation Consultant / Product Specialist / Solutions Consultant",
+    "relevance_score": 60,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "scott hobbs planning": {
+    "official_name": "SCOTT HOBBS PLANNING LTD",
+    "town": "Edinburgh",
+    "sector_stream": "Planning & Development",
+    "suggested_roles": "Graduate Planner / Planning Consultant / Planning Assistant",
+    "relevance_score": 60,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "sf planning": {
+    "official_name": "SF Planning Limited",
+    "town": "Cheltenham",
+    "sector_stream": "Planning & Development",
+    "suggested_roles": "Graduate Planner / Planning Consultant / Planning Assistant",
+    "relevance_score": 60,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "strabag ag branch": {
+    "official_name": "STRABAG AG UK Branch",
+    "town": "London",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 60,
+    "licence_route": "Global Business Mobility: Graduate Trainee; Global Business Mobility: Senior or Specialist Worker; Skilled Worker",
+    "type_rating": "Temporary Worker (A rating); Worker (A rating)"
+  },
+  "systra": {
+    "official_name": "SYSTRA Ltd",
+    "town": "London",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 60,
+    "licence_route": "Global Business Mobility: Senior or Specialist Worker; Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "searchland": {
+    "official_name": "Searchland LTD",
+    "town": "London",
+    "sector_stream": "PropTech & Implementation",
+    "suggested_roles": "Implementation Consultant / Product Specialist / Solutions Consultant",
+    "relevance_score": 60,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "skanska": {
+    "official_name": "Skanska UK Plc",
+    "town": "Watford",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 60,
+    "licence_route": "Global Business Mobility: Senior or Specialist Worker; Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "strabag": {
+    "official_name": "Strabag UK Limited",
+    "town": "London",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 60,
+    "licence_route": "Global Business Mobility: Graduate Trainee; Global Business Mobility: Senior or Specialist Worker; Skilled Worker",
+    "type_rating": "Temporary Worker (A rating); Worker (A rating)"
+  },
+  "sweco": {
+    "official_name": "Sweco UK Holding Ltd",
+    "town": "Leeds",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 60,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "systematic software engineering": {
+    "official_name": "Systematic Software Engineering Limited",
+    "town": "Farnborough",
+    "sector_stream": "Built Environment / General",
+    "suggested_roles": "Graduate Consultant / Planning & Development Analyst",
+    "relevance_score": 60,
+    "licence_route": "Global Business Mobility: Senior or Specialist Worker; Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "tetra tech": {
+    "official_name": "Tetra Tech Group Limited",
+    "town": "Leeds",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 60,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "transport planning practice": {
+    "official_name": "Transport Planning Practice Limited",
+    "town": "London",
+    "sector_stream": "Planning & Development",
+    "suggested_roles": "Graduate Planner / Planning Consultant / Planning Assistant",
+    "relevance_score": 60,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "uli urban land institute": {
+    "official_name": "ULI- The Urban Land Institute",
+    "town": "London",
+    "sector_stream": "Built Environment / General",
+    "suggested_roles": "Graduate Consultant / Planning & Development Analyst",
+    "relevance_score": 60,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "vinci construction grands projets branch": {
+    "official_name": "VINCI CONSTRUCTION GRANDS PROJETS UK BRANCH",
+    "town": "London",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 60,
+    "licence_route": "Global Business Mobility: Senior or Specialist Worker; Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "vinci construction geoinfrastructure": {
+    "official_name": "VINCI Construction GeoInfrastructure UK Limited",
+    "town": "London",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 60,
+    "licence_route": "Global Business Mobility: Senior or Specialist Worker; Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "vinci construction management": {
+    "official_name": "VINCI Construction Management Limited",
+    "town": "Horsham",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 60,
+    "licence_route": "Global Business Mobility: Senior or Specialist Worker; Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "vail williams employment services": {
+    "official_name": "Vail Williams Employment Services Limited",
+    "town": "Southampton",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 60,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "volkerwessels": {
+    "official_name": "VolkerWessels UK Limited",
+    "town": "Hoddesdon",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 60,
+    "licence_route": "Global Business Mobility: Senior or Specialist Worker; Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "wsp engineering": {
+    "official_name": "WSP Engineering Ltd",
+    "town": "LEICESTER",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 60,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "wates": {
+    "official_name": "Wates Group Ltd",
+    "town": "Surrey",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 60,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "yardi systems": {
+    "official_name": "Yardi Systems Limited",
+    "town": "Milton Keynes",
+    "sector_stream": "PropTech & Implementation",
+    "suggested_roles": "Implementation Consultant / Product Specialist / Solutions Consultant",
+    "relevance_score": 60,
+    "licence_route": "Global Business Mobility: Senior or Specialist Worker; Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "automotive regenerations": {
+    "official_name": "AUTOMOTIVE REGENERATIONS LTD",
+    "town": "Oldbury",
+    "sector_stream": "Planning & Development",
+    "suggested_roles": "Graduate Planner / Planning Consultant / Planning Assistant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "brymbo tanyfron regeneration trust": {
+    "official_name": "BRYMBO & TANYFRON REGENERATION TRUST",
+    "town": "Brymbo Wrexham",
+    "sector_stream": "Planning & Development",
+    "suggested_roles": "Graduate Planner / Planning Consultant / Planning Assistant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "be first regeneration": {
+    "official_name": "Be First (Regeneration) Ltd",
+    "town": "London",
+    "sector_stream": "Planning & Development",
+    "suggested_roles": "Graduate Planner / Planning Consultant / Planning Assistant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "cpc planning consultants": {
+    "official_name": "CPC Planning Consultants Limited",
+    "town": "Southbourne",
+    "sector_stream": "Planning & Development",
+    "suggested_roles": "Graduate Planner / Planning Consultant / Planning Assistant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "dwd property and planning": {
+    "official_name": "DWD Property and Planning Limited",
+    "town": "London",
+    "sector_stream": "Planning & Development",
+    "suggested_roles": "Graduate Planner / Planning Consultant / Planning Assistant",
+    "relevance_score": 40,
+    "licence_route": "Global Business Mobility: Senior or Specialist Worker; Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "information control and planning": {
+    "official_name": "Information Control and Planning Ltd",
+    "town": "Milton Keynes",
+    "sector_stream": "Planning & Development",
+    "suggested_roles": "Graduate Planner / Planning Consultant / Planning Assistant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "m e planning solutions": {
+    "official_name": "M&E PLANNING SOLUTIONS LTD",
+    "town": "MANCHESTER",
+    "sector_stream": "Planning & Development",
+    "suggested_roles": "Graduate Planner / Planning Consultant / Planning Assistant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "planning gain specialist": {
+    "official_name": "PLANNING GAIN SPECIALIST LTD",
+    "town": "Harrow",
+    "sector_stream": "Planning & Development",
+    "suggested_roles": "Graduate Planner / Planning Consultant / Planning Assistant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "partnering regeneration development": {
+    "official_name": "Partnering Regeneration Development Ltd",
+    "town": "London",
+    "sector_stream": "Planning & Development",
+    "suggested_roles": "Graduate Planner / Planning Consultant / Planning Assistant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "pesto construction planning": {
+    "official_name": "Pesto Construction Planning LTD",
+    "town": "Tyne and Wear",
+    "sector_stream": "Planning & Development",
+    "suggested_roles": "Graduate Planner / Planning Consultant / Planning Assistant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "poplar housing and regeneration community association": {
+    "official_name": "Poplar Housing and Regeneration Community Association Limited",
+    "town": "London",
+    "sector_stream": "Planning & Development",
+    "suggested_roles": "Graduate Planner / Planning Consultant / Planning Assistant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "t p regeneration": {
+    "official_name": "T&P Regeneration Ltd",
+    "town": "Bristol",
+    "sector_stream": "Planning & Development",
+    "suggested_roles": "Graduate Planner / Planning Consultant / Planning Assistant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "varsity town planning": {
+    "official_name": "Varsity Town Planning Limited",
+    "town": "Leighton Buzzard",
+    "sector_stream": "Planning & Development",
+    "suggested_roles": "Graduate Planner / Planning Consultant / Planning Assistant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "proptech aero": {
+    "official_name": "PROPTECH AERO LTD",
+    "town": "Lee-On-The-Solent",
+    "sector_stream": "PropTech & Implementation",
+    "suggested_roles": "Implementation Consultant / Product Specialist / Solutions Consultant",
+    "relevance_score": 40,
+    "licence_route": "Global Business Mobility: Senior or Specialist Worker; Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "ace engineering consultants": {
+    "official_name": "ACE UK ENGINEERING CONSULTANTS LTD",
+    "town": "Reading",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "acoustic engineering consultants": {
+    "official_name": "Acoustic & Engineering Consultants Limited",
+    "town": "Stockport",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "agile engineering consultancy": {
+    "official_name": "Agile Engineering Consultancy Ltd",
+    "town": "Frognall",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "andun engineering consultants": {
+    "official_name": "Andun Engineering Consultants Ltd",
+    "town": "Nottingham",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "beyond engineering consulting": {
+    "official_name": "Beyond Engineering Consulting Ltd",
+    "town": "Wembley",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "capital property construction consultants": {
+    "official_name": "CAPITAL PROPERTY & CONSTRUCTION CONSULTANTS LTD",
+    "town": "London",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "cullinan construction consultants": {
+    "official_name": "CULLINAN CONSTRUCTION CONSULTANTS LTD",
+    "town": "SOLIHULL",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "concept engineering consultants": {
+    "official_name": "Concept Engineering Consultants Ltd",
+    "town": "Leicester",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "contract construction consultants southern": {
+    "official_name": "Contract & Construction Consultants (Southern) Limited",
+    "town": "Bristod",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "core engineering consulting": {
+    "official_name": "Core Engineering Consulting Group Limited",
+    "town": "London",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "daci utilities engineering consultancy": {
+    "official_name": "DACI Utilities Engineering Consultancy Limited",
+    "town": "Salford",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "dama engineering consultants": {
+    "official_name": "DAMA Engineering Consultants Limited",
+    "town": "London",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "dream property development construction": {
+    "official_name": "Dream Property Development & Construction Limited",
+    "town": "London,",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "engineering consultancy services": {
+    "official_name": "ENGINEERING CONSULTANCY SERVICES LIMITED",
+    "town": "Derby",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "fellows construction consultants": {
+    "official_name": "Fellows Construction Consultants Ltd",
+    "town": "Birmingham",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "ferguson engineering consultants": {
+    "official_name": "Ferguson Engineering Consultants Ltd",
+    "town": "Newcastle",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "hv engineering consultancy": {
+    "official_name": "HV Engineering Consultancy Ltd",
+    "town": "Edinburgh",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "hale engineering consultancy services": {
+    "official_name": "Hale Engineering Consultancy Services Ltd",
+    "town": "Islington",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "i d p engineering consultancy": {
+    "official_name": "I D P ENGINEERING CONSULTANCY UK LTD",
+    "town": "Birmingham",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "kers engineering consultancy": {
+    "official_name": "KERS ENGINEERING CONSULTANCY LTD",
+    "town": "London",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "liwan engineering consultancy": {
+    "official_name": "LIWAN ENGINEERING CONSULTANCY UK LIMITED",
+    "town": "CHEADLE",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "lsy engineering consultants": {
+    "official_name": "LSY Engineering Consultants LTD",
+    "town": "London",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "link engineering consultancy": {
+    "official_name": "Link Engineering Consultancy Ltd",
+    "town": "Birmingham",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "novel engineering consultants": {
+    "official_name": "Novel Engineering Consultants ltd",
+    "town": "Nailsworth",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "o neill engineering consultancy": {
+    "official_name": "O'Neill Engineering Consultancy Limited",
+    "town": "High Wycombe",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "offshore construction consultants": {
+    "official_name": "OFFSHORE CONSTRUCTION CONSULTANTS LIMITED",
+    "town": "London",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "pds engineering consultants": {
+    "official_name": "PDS Engineering Consultants LTD",
+    "town": "Kent",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "power engineering consultants": {
+    "official_name": "Power Engineering Consultants plc",
+    "town": "Alderley Edge",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "priyansh engineering consultancy": {
+    "official_name": "Priyansh Engineering Consultancy Limited",
+    "town": "Watford",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "rizq architecture and constructions": {
+    "official_name": "RIZQ ARCHITECTURE AND CONSTRUCTIONS LTD",
+    "town": "Birmingham",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "radcliffes construction consultants": {
+    "official_name": "Radcliffes Construction Consultants Ltd",
+    "town": "London",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "sands civil engineering consultancy": {
+    "official_name": "SANDS CIVIL ENGINEERING CONSULTANCY LIMITED",
+    "town": "London",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "sevengineering consultancy": {
+    "official_name": "SEVENGINEERING CONSULTANCY LTD",
+    "town": "London",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "sheen engineering consultants": {
+    "official_name": "SHEEN ENGINEERING CONSULTANTS LTD",
+    "town": "Essex",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "system engineering consulting": {
+    "official_name": "SYSTEM ENGINEERING CONSULTING LIMITED",
+    "town": "West Sussex",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "simetri architecture construction": {
+    "official_name": "Simetri Architecture & Construction Ltd",
+    "town": "London",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "spires engineering consultancy": {
+    "official_name": "Spires Engineering Consultancy Ltd",
+    "town": "London",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "tsm engineering consultancy": {
+    "official_name": "TSM Engineering Consultancy Ltd",
+    "town": "Kent",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "trident engineering consultants": {
+    "official_name": "Trident Engineering Consultants",
+    "town": "Renfrew",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "valiant engineering consulting services": {
+    "official_name": "VALIANT ENGINEERING CONSULTING SERVICES LTD",
+    "town": "Huntingdon",
+    "sector_stream": "Construction & Infrastructure",
+    "suggested_roles": "Graduate Project Manager / Digital Construction Consultant / Project Controls",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "90 north real estate partners": {
+    "official_name": "90 North Real Estate Partners LLP",
+    "town": "London",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "a z real estate": {
+    "official_name": "A Z REAL ESTATE LIMITED",
+    "town": "London",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "aajo real estate": {
+    "official_name": "AAJO Real Estate UK Ltd",
+    "town": "Chessington",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "aberdeen property consultants": {
+    "official_name": "ABERDEEN PROPERTY CONSULTANTS LTD",
+    "town": "Aberdeen",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "adeo estates property consultants": {
+    "official_name": "ADEO ESTATES PROPERTY CONSULTANTS LIMITED",
+    "town": "England",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "aroundtown real estate management": {
+    "official_name": "AROUNDTOWN REAL ESTATE MANAGEMENT (UK) LIMITED",
+    "town": "London",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Global Business Mobility: Senior or Specialist Worker; Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "ahil real estate tourism investments": {
+    "official_name": "Ahil Real Estate & Tourism Investments Co.",
+    "town": "Manchester",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "amro real estate partners": {
+    "official_name": "Amro Real Estate Partners Limited",
+    "town": "London",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "art invest real estate management": {
+    "official_name": "Art-Invest Real Estate Management UK Limited",
+    "town": "London",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Global Business Mobility: Graduate Trainee; Skilled Worker",
+    "type_rating": "Temporary Worker (A rating); Worker (A rating)"
+  },
+  "b m real estate": {
+    "official_name": "B & M Real Estate Ltd",
+    "town": "Bexleyheath",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "baumont real estate capital": {
+    "official_name": "BAUMONT REAL ESTATE CAPITAL LIMITED",
+    "town": "LONDON",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Global Business Mobility: Senior or Specialist Worker; Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "bd property consultants": {
+    "official_name": "BD PROPERTY CONSULTANTS Ltd",
+    "town": "LONDON",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "bgv real estate": {
+    "official_name": "BGV REAL ESTATE LIMITED",
+    "town": "London",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "bridge real estate investments": {
+    "official_name": "BRIDGE REAL ESTATE INVESTMENTS GROUP LTD",
+    "town": "London",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Global Business Mobility: Senior or Specialist Worker; Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "best star real estate 2": {
+    "official_name": "Best Star Real Estate 2 Limited",
+    "town": "London",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "brilliance real estate": {
+    "official_name": "Brilliance Real Estate UK LTD",
+    "town": "Berwick Upon Tweed",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "brio real estate": {
+    "official_name": "Brio Real Estate (UK) Limited",
+    "town": "London",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "cambridge real estate investments": {
+    "official_name": "CAMBRIDGE REAL ESTATE INVESTMENTS LIMITED",
+    "town": "Oban",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "capman real estate": {
+    "official_name": "CapMan Real Estate UK Ltd",
+    "town": "London",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "cheng gong real estate": {
+    "official_name": "Cheng Gong Real Estate Limited",
+    "town": "Manchester",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "city offices real estate": {
+    "official_name": "City Offices Real Estate Limited",
+    "town": "London",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "compassrock real estate": {
+    "official_name": "CompassRock Real Estate Ltd",
+    "town": "London",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "conduit real estate": {
+    "official_name": "Conduit Real Estate Ltd",
+    "town": "London",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "consul chartered surveyors": {
+    "official_name": "Consul Chartered Surveyors",
+    "town": "London",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "ebenezer property consultants": {
+    "official_name": "EBENEZER PROPERTY CONSULTANTS LTD",
+    "town": "Milton Keynes",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "eatos real estate": {
+    "official_name": "Eatos Group Real Estate Limited",
+    "town": "London",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "european real estate company": {
+    "official_name": "European Real Estate Company Limited",
+    "town": "Coventry",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "fhi real estate": {
+    "official_name": "FHI Real Estate Limited",
+    "town": "London",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "frontiera real estate": {
+    "official_name": "Frontiera Real Estate Ltd",
+    "town": "London",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "gaea real estate company": {
+    "official_name": "GAEA Real Estate Company UK Ltd",
+    "town": "London",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Global Business Mobility: UK Expansion Worker; Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "galaxy real estate": {
+    "official_name": "GALAXY REAL ESTATE LIMITED",
+    "town": "Hayes",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "gfs real estate marketing": {
+    "official_name": "GFS Real Estate Marketing UK Limited",
+    "town": "London",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "gs real estate development company london": {
+    "official_name": "GS REAL ESTATE DEVELOPMENT COMPANY LONDON LTD",
+    "town": "LONDON",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Global Business Mobility: Senior or Specialist Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "gtc real estate investment": {
+    "official_name": "GTC UK Real Estate Investment Ltd",
+    "town": "London",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "generali real estate s p a": {
+    "official_name": "Generali Real Estate S.P.A",
+    "town": "London",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Global Business Mobility: Senior or Specialist Worker; Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "global real estate and investments": {
+    "official_name": "Global Real Estate and Investments Ltd",
+    "town": "London",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "hmr real estate": {
+    "official_name": "HMR Real Estate Limited",
+    "town": "London",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "harrison street real estate capital": {
+    "official_name": "Harrison Street Real Estate Capital Ltd.",
+    "town": "London",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Global Business Mobility: Senior or Specialist Worker; Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "hines europe real estate investments": {
+    "official_name": "Hines Europe Real Estate Investments Limited",
+    "town": "London",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Global Business Mobility: Senior or Specialist Worker; Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "homes and homes real estate solution": {
+    "official_name": "Homes And Homes Real Estate Solution LTD",
+    "town": "Norbury",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "homes partner real estate mss": {
+    "official_name": "Homes Partner Real Estate MSS UK Limited",
+    "town": "London",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "international real estate investment solutions": {
+    "official_name": "INTERNATIONAL REAL ESTATE INVESTMENT SOLUTIONS LTD",
+    "town": "London",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "ideal property consultant": {
+    "official_name": "Ideal Property Consultant",
+    "town": "London",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "ivory real estate": {
+    "official_name": "Ivory Group Real Estate LTD",
+    "town": "London",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "jlvo french real estate consulting": {
+    "official_name": "JLVO French Real Estate Consulting Limited",
+    "town": "Hove",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "keypro real estate": {
+    "official_name": "Keypro Real Estate LTD",
+    "town": "London",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "keystone property consultants": {
+    "official_name": "Keystone Property Consultants Ltd",
+    "town": "Hornchurch",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "kimmeridge real estate": {
+    "official_name": "Kimmeridge Real Estate Ltd",
+    "town": "London",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "l catterton real estate advisors": {
+    "official_name": "L Catterton Real Estate Advisors UK Ltd",
+    "town": "London",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "lead property consultants": {
+    "official_name": "LEAD PROPERTY CONSULTANTS LIMITED",
+    "town": "LONDON",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "longfellow real estate investment management": {
+    "official_name": "LONGFELLOW REAL ESTATE INVESTMENT MANAGEMENT UK, LIMITED",
+    "town": "London",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "lemas real estate 15362523": {
+    "official_name": "Lemas Real Estate UK Ltd 15362523",
+    "town": "England",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Global Business Mobility: UK Expansion Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "london eye real estates": {
+    "official_name": "London Eye Real Estates Uk Ltd",
+    "town": "Hounslow London",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "london key real estate t a isthomes": {
+    "official_name": "London Key Real Estate Limited T/A ISTHomes",
+    "town": "London",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "m7 real estate": {
+    "official_name": "M7 REAL ESTATE LTD",
+    "town": "London",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Global Business Mobility: Senior or Specialist Worker; Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "money box property consultants": {
+    "official_name": "MONEY BOX PROPERTY CONSULTANTS LTD",
+    "town": "Stoke-On-Trent",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "mov8 real estate": {
+    "official_name": "MOV8 REAL ESTATE LIMITED",
+    "town": "EDINBURGH",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "mander real estates t a fine country high peak": {
+    "official_name": "Mander Real Estates Ltd t/a Fine & Country High Peak",
+    "town": "Chapel-en-le-Frith",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "marick real estate": {
+    "official_name": "Marick Real Estate Ltd",
+    "town": "London",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "martley capital real estate investment management": {
+    "official_name": "Martley Capital Real Estate Investment Management Ltd",
+    "town": "London",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "matter real estate": {
+    "official_name": "Matter Real Estate LLP",
+    "town": "London",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "mirastar real estate investment management": {
+    "official_name": "Mirastar Real Estate Investment Management Limited",
+    "town": "London",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Global Business Mobility: Senior or Specialist Worker; Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "morrison property consultants": {
+    "official_name": "Morrison Property Consultants Limited",
+    "town": "Chesterton",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "navana london real estate": {
+    "official_name": "NAVANA LONDON REAL ESTATE LTD",
+    "town": "London",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "northland real estate properties": {
+    "official_name": "NORTHLAND REAL ESTATE PROPERTIES (UK) LIMITED",
+    "town": "Aberdeen",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Global Business Mobility: Senior or Specialist Worker; Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "naman real estate investor": {
+    "official_name": "Naman Real Estate & Investor Ltd",
+    "town": "Wolverhampton",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "naxos real estate": {
+    "official_name": "Naxos Real Estate Ltd",
+    "town": "London",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "new vision real estate": {
+    "official_name": "New Vision Real Estate Ltd",
+    "town": "London",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "nomura real estate": {
+    "official_name": "Nomura Real Estate UK Limited",
+    "town": "London",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Global Business Mobility: Senior or Specialist Worker; Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "orange county real estate": {
+    "official_name": "ORANGE COUNTY REAL ESTATE UK LIMITED",
+    "town": "London",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "orient real estates t a century21 barking and dagenham": {
+    "official_name": "Orient Real Estates Ltd T/A Century21 Barking and Dagenham",
+    "town": "Barking",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "oxenwood real estate": {
+    "official_name": "Oxenwood Real Estate LLP",
+    "town": "London",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "p p real estate": {
+    "official_name": "P&P Real Estate Limited",
+    "town": "London",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "pak real estate": {
+    "official_name": "PAK REAL ESTATE LIMITED",
+    "town": "Oldham",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "peninsula real estate": {
+    "official_name": "PENINSULA REAL ESTATE LTD",
+    "town": "London",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "pimco prime real estate gmbh": {
+    "official_name": "PIMCO Prime Real Estate GmbH",
+    "town": "London",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Global Business Mobility: Senior or Specialist Worker; Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "pps real estate": {
+    "official_name": "PPS REAL ESTATE LTD",
+    "town": "NOTTINGHAM",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "paragon real estate developments": {
+    "official_name": "Paragon Real Estate Developments LTD",
+    "town": "Stevenage",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "partner property consultants": {
+    "official_name": "Partner Property Consultants Limited",
+    "town": "London",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Global Business Mobility: Senior or Specialist Worker; Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "pembroke real estate llc": {
+    "official_name": "Pembroke Real Estate LLC",
+    "town": "London",
+    "sector_stream": "Property & Real Estate",
+    "suggested_roles": "Property Analyst / Development Analyst / Graduate Surveying Consultant",
+    "relevance_score": 40,
+    "licence_route": "Global Business Mobility: Senior or Specialist Worker; Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "105 west architects": {
+    "official_name": "105 West Architects Ltd",
+    "town": "Bristol",
+    "sector_stream": "Built Environment / General",
+    "suggested_roles": "Graduate Consultant / Planning & Development Analyst",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "23 architecture": {
+    "official_name": "23 Architecture Ltd",
+    "town": "London",
+    "sector_stream": "Built Environment / General",
+    "suggested_roles": "Graduate Consultant / Planning & Development Analyst",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "360 property development": {
+    "official_name": "360 Property Development Limited",
+    "town": "Penge",
+    "sector_stream": "Built Environment / General",
+    "suggested_roles": "Graduate Consultant / Planning & Development Analyst",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "3x architecture": {
+    "official_name": "3X Architecture LLP",
+    "town": "London",
+    "sector_stream": "Built Environment / General",
+    "suggested_roles": "Graduate Consultant / Planning & Development Analyst",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "56three architects": {
+    "official_name": "56Three Architects Limited",
+    "town": "Edinburgh",
+    "sector_stream": "Built Environment / General",
+    "suggested_roles": "Graduate Consultant / Planning & Development Analyst",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "7n architects randolph": {
+    "official_name": "7N Architects (Randolph) Ltd",
+    "town": "Edinburgh",
+    "sector_stream": "Built Environment / General",
+    "suggested_roles": "Graduate Consultant / Planning & Development Analyst",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "a property developments": {
+    "official_name": "A PROPERTY DEVELOPMENTS LTD",
+    "town": "Ilford",
+    "sector_stream": "Built Environment / General",
+    "suggested_roles": "Graduate Consultant / Planning & Development Analyst",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "a is for architecture": {
+    "official_name": "A is for Architecture Ltd",
+    "town": "LONDON",
+    "sector_stream": "Built Environment / General",
+    "suggested_roles": "Graduate Consultant / Planning & Development Analyst",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "a zero architects": {
+    "official_name": "A-Zero Architects",
+    "town": "London",
+    "sector_stream": "Built Environment / General",
+    "suggested_roles": "Graduate Consultant / Planning & Development Analyst",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "ad architects": {
+    "official_name": "AD Architects",
+    "town": "Hertford",
+    "sector_stream": "Built Environment / General",
+    "suggested_roles": "Graduate Consultant / Planning & Development Analyst",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "adam architecture": {
+    "official_name": "ADAM Architecture Ltd",
+    "town": "Winchester",
+    "sector_stream": "Built Environment / General",
+    "suggested_roles": "Graduate Consultant / Planning & Development Analyst",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "adp architecture": {
+    "official_name": "ADP Architecture Limited",
+    "town": "London",
+    "sector_stream": "Built Environment / General",
+    "suggested_roles": "Graduate Consultant / Planning & Development Analyst",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "aja architects": {
+    "official_name": "AJA Architects LLP",
+    "town": "Coventry",
+    "sector_stream": "Built Environment / General",
+    "suggested_roles": "Graduate Consultant / Planning & Development Analyst",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "aoc architecture": {
+    "official_name": "AOC Architecture Ltd",
+    "town": "London",
+    "sector_stream": "Built Environment / General",
+    "suggested_roles": "Graduate Consultant / Planning & Development Analyst",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "ar architecture": {
+    "official_name": "AR Architecture Ltd",
+    "town": "London",
+    "sector_stream": "Built Environment / General",
+    "suggested_roles": "Graduate Consultant / Planning & Development Analyst",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "ares landscape architects": {
+    "official_name": "ARES Landscape Architects",
+    "town": "Sheffield",
+    "sector_stream": "Built Environment / General",
+    "suggested_roles": "Graduate Consultant / Planning & Development Analyst",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "asa landscape architects": {
+    "official_name": "ASA Landscape Architects Ltd",
+    "town": "Abingdon",
+    "sector_stream": "Built Environment / General",
+    "suggested_roles": "Graduate Consultant / Planning & Development Analyst",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "adrian hill architects": {
+    "official_name": "Adrian Hill Architects",
+    "town": "London",
+    "sector_stream": "Built Environment / General",
+    "suggested_roles": "Graduate Consultant / Planning & Development Analyst",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "agenda 21 architects studio": {
+    "official_name": "Agenda 21 Architects Studio Ltd",
+    "town": "London",
+    "sector_stream": "Built Environment / General",
+    "suggested_roles": "Graduate Consultant / Planning & Development Analyst",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "alastair coey architects": {
+    "official_name": "Alastair Coey Architects Ltd",
+    "town": "BELFAST",
+    "sector_stream": "Built Environment / General",
+    "suggested_roles": "Graduate Consultant / Planning & Development Analyst",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "alexander martin architects": {
+    "official_name": "Alexander Martin Architects Limited",
+    "town": "LONDON",
+    "sector_stream": "Built Environment / General",
+    "suggested_roles": "Graduate Consultant / Planning & Development Analyst",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "alison brooks architects": {
+    "official_name": "Alison Brooks Architects Limited",
+    "town": "London",
+    "sector_stream": "Built Environment / General",
+    "suggested_roles": "Graduate Consultant / Planning & Development Analyst",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "amanda levete architects": {
+    "official_name": "Amanda Levete Architects",
+    "town": "London",
+    "sector_stream": "Built Environment / General",
+    "suggested_roles": "Graduate Consultant / Planning & Development Analyst",
+    "relevance_score": 40,
+    "licence_route": "Creative Worker; Skilled Worker",
+    "type_rating": "Temporary Worker (A rating); Worker (A rating)"
+  },
+  "andreas krause architects t a krause architects": {
+    "official_name": "Andreas Krause Architects Ltd t/a Krause Architects",
+    "town": "London",
+    "sector_stream": "Built Environment / General",
+    "suggested_roles": "Graduate Consultant / Planning & Development Analyst",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "angus pond architects": {
+    "official_name": "Angus Pond Architects Ltd",
+    "town": "London",
+    "sector_stream": "Built Environment / General",
+    "suggested_roles": "Graduate Consultant / Planning & Development Analyst",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "architects registration board": {
+    "official_name": "Architects Registration Board",
+    "town": "London",
+    "sector_stream": "Built Environment / General",
+    "suggested_roles": "Graduate Consultant / Planning & Development Analyst",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "architectural association school of architecture": {
+    "official_name": "Architectural Association School of Architecture",
+    "town": "London",
+    "sector_stream": "Built Environment / General",
+    "suggested_roles": "Graduate Consultant / Planning & Development Analyst",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "architecture assembly": {
+    "official_name": "Architecture Assembly Ltd",
+    "town": "London - UK",
+    "sector_stream": "Built Environment / General",
+    "suggested_roles": "Graduate Consultant / Planning & Development Analyst",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "architecture north": {
+    "official_name": "Architecture North Ltd",
+    "town": "Nottingham",
+    "sector_stream": "Built Environment / General",
+    "suggested_roles": "Graduate Consultant / Planning & Development Analyst",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "architecture unknown": {
+    "official_name": "Architecture Unknown Limited",
+    "town": "Manchester",
+    "sector_stream": "Built Environment / General",
+    "suggested_roles": "Graduate Consultant / Planning & Development Analyst",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "architecture for london": {
+    "official_name": "Architecture for London",
+    "town": "London",
+    "sector_stream": "Built Environment / General",
+    "suggested_roles": "Graduate Consultant / Planning & Development Analyst",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "architecture00": {
+    "official_name": "Architecture00",
+    "town": "London",
+    "sector_stream": "Built Environment / General",
+    "suggested_roles": "Graduate Consultant / Planning & Development Analyst",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "architectureplb": {
+    "official_name": "ArchitecturePLB",
+    "town": "Winchester",
+    "sector_stream": "Built Environment / General",
+    "suggested_roles": "Graduate Consultant / Planning & Development Analyst",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "artform architects": {
+    "official_name": "Artform Architects",
+    "town": "Manchester",
+    "sector_stream": "Built Environment / General",
+    "suggested_roles": "Graduate Consultant / Planning & Development Analyst",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "assael architecture": {
+    "official_name": "Assael Architecture Ltd",
+    "town": "London",
+    "sector_stream": "Built Environment / General",
+    "suggested_roles": "Graduate Consultant / Planning & Development Analyst",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "associated architects": {
+    "official_name": "Associated Architects UK Limited",
+    "town": "Birmingham",
+    "sector_stream": "Built Environment / General",
+    "suggested_roles": "Graduate Consultant / Planning & Development Analyst",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "atelier u w a architects": {
+    "official_name": "Atelier U W A Architects Limited",
+    "town": "London",
+    "sector_stream": "Built Environment / General",
+    "suggested_roles": "Graduate Consultant / Planning & Development Analyst",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "bcr infinity architects": {
+    "official_name": "BCR Infinity Architects",
+    "town": "Cambridge",
+    "sector_stream": "Built Environment / General",
+    "suggested_roles": "Graduate Consultant / Planning & Development Analyst",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "bd landscape architects": {
+    "official_name": "BD landscape architects ltd",
+    "town": "Tewkesbury",
+    "sector_stream": "Built Environment / General",
+    "suggested_roles": "Graduate Consultant / Planning & Development Analyst",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "bennys property development": {
+    "official_name": "BENNYS PROPERTY DEVELOPMENT LTD",
+    "town": "OLDHAM",
+    "sector_stream": "Built Environment / General",
+    "suggested_roles": "Graduate Consultant / Planning & Development Analyst",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "bvn architecture": {
+    "official_name": "BVN UK Architecture Ltd",
+    "town": "London",
+    "sector_stream": "Built Environment / General",
+    "suggested_roles": "Graduate Consultant / Planning & Development Analyst",
+    "relevance_score": 40,
+    "licence_route": "Global Business Mobility: Senior or Specialist Worker; Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "baca architects": {
+    "official_name": "Baca Architects Limited",
+    "town": "London",
+    "sector_stream": "Built Environment / General",
+    "suggested_roles": "Graduate Consultant / Planning & Development Analyst",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "bell phillips architects": {
+    "official_name": "Bell Phillips Architects Limited",
+    "town": "London",
+    "sector_stream": "Built Environment / General",
+    "suggested_roles": "Graduate Consultant / Planning & Development Analyst",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "belsize architects": {
+    "official_name": "Belsize Architects Limited",
+    "town": "London",
+    "sector_stream": "Built Environment / General",
+    "suggested_roles": "Graduate Consultant / Planning & Development Analyst",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "ben adams architects": {
+    "official_name": "Ben Adams Architects Limited",
+    "town": "London",
+    "sector_stream": "Built Environment / General",
+    "suggested_roles": "Graduate Consultant / Planning & Development Analyst",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "benedetti architects": {
+    "official_name": "Benedetti Architects Limited",
+    "town": "London",
+    "sector_stream": "Built Environment / General",
+    "suggested_roles": "Graduate Consultant / Planning & Development Analyst",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "bere associates t a bere architects": {
+    "official_name": "Bere Associates Limited T/A bere:architects",
+    "town": "London",
+    "sector_stream": "Built Environment / General",
+    "suggested_roles": "Graduate Consultant / Planning & Development Analyst",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "bogle architects": {
+    "official_name": "Bogle Architects Ltd",
+    "town": "London",
+    "sector_stream": "Built Environment / General",
+    "suggested_roles": "Graduate Consultant / Planning & Development Analyst",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "bolton chalklin architects": {
+    "official_name": "Bolton Chalklin Architects",
+    "town": "London",
+    "sector_stream": "Built Environment / General",
+    "suggested_roles": "Graduate Consultant / Planning & Development Analyst",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "bowman riley architects": {
+    "official_name": "Bowman Riley Architects Ltd",
+    "town": "Skipton",
+    "sector_stream": "Built Environment / General",
+    "suggested_roles": "Graduate Consultant / Planning & Development Analyst",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "bradley hole schoenaich landscape architects": {
+    "official_name": "Bradley-Hole Schoenaich Landscape Architects Limited",
+    "town": "London",
+    "sector_stream": "Built Environment / General",
+    "suggested_roles": "Graduate Consultant / Planning & Development Analyst",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "brookes architects": {
+    "official_name": "Brookes Architects Ltd",
+    "town": "London",
+    "sector_stream": "Built Environment / General",
+    "suggested_roles": "Graduate Consultant / Planning & Development Analyst",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "brooks murray architects": {
+    "official_name": "Brooks Murray Architects Limited",
+    "town": "London",
+    "sector_stream": "Built Environment / General",
+    "suggested_roles": "Graduate Consultant / Planning & Development Analyst",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "brown company architects": {
+    "official_name": "Brown & Company Architects Ltd",
+    "town": "York",
+    "sector_stream": "Built Environment / General",
+    "suggested_roles": "Graduate Consultant / Planning & Development Analyst",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "bubble architects": {
+    "official_name": "Bubble Architects Ltd",
+    "town": "London",
+    "sector_stream": "Built Environment / General",
+    "suggested_roles": "Graduate Consultant / Planning & Development Analyst",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "built environment support and training": {
+    "official_name": "Built Environment Support and Training Ltd",
+    "town": "Glasgow",
+    "sector_stream": "Built Environment / General",
+    "suggested_roles": "Graduate Consultant / Planning & Development Analyst",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "cae engineering architecture": {
+    "official_name": "CAE ENGINEERING & ARCHITECTURE LTD",
+    "town": "Bournemouth",
+    "sector_stream": "Built Environment / General",
+    "suggested_roles": "Graduate Consultant / Planning & Development Analyst",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "capital wealth property development": {
+    "official_name": "CAPITAL WEALTH PROPERTY DEVELOPMENT LIMITED",
+    "town": "Southall",
+    "sector_stream": "Built Environment / General",
+    "suggested_roles": "Graduate Consultant / Planning & Development Analyst",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "chris dyson architects": {
+    "official_name": "CHRIS DYSON ARCHITECTS LLP",
+    "town": "LONDON",
+    "sector_stream": "Built Environment / General",
+    "suggested_roles": "Graduate Consultant / Planning & Development Analyst",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  },
+  "cpmg architects": {
+    "official_name": "CPMG Architects Limited",
+    "town": "Nottingham",
+    "sector_stream": "Built Environment / General",
+    "suggested_roles": "Graduate Consultant / Planning & Development Analyst",
+    "relevance_score": 40,
+    "licence_route": "Skilled Worker",
+    "type_rating": "Worker (A rating)"
+  }
+}
