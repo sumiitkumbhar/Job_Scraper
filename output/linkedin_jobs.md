@@ -1,20 +1,21 @@
 # 🔥 LinkedIn — Sumit's Planning & PropTech Roles
-*Last updated: 2026-08-29 22:09 UTC*
+*Last updated: 2026-08-30 00:45 UTC*
 
 **4 new role(s)** since last run · 4 total in last 1h
 
-### [Material Planning Analyst - 1st Shift](https://www.linkedin.com/jobs/view/4460853264/) — GXO Logistics, Inc.
-- 📍 **Location:** Oklahoma, United States
-- 🕒 **Posted:** 2026-08-29
+### [Senior Customer Success Manager (490DBFB)](https://www.linkedin.com/jobs/view/4460853512/) — Referment
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $110,000.00/yr - $125,000.00/yr
+- 🕒 **Posted:** 2026-08-30
 
-### [Customer Success Specialist, Entry Level](https://www.linkedin.com/jobs/view/4459707009/) — Jobright.ai
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-08-29
+### [Senior Compliance Analyst (MS), AML (Anti-Money Laundering)](https://www.linkedin.com/jobs/view/4458813282/) — ACA Group
+- 📍 **Location:** Rutherford, NJ
+- 🕒 **Posted:** 2026-08-30
 
-### [Compliance Analyst](https://www.linkedin.com/jobs/view/4459700863/) — RemoteHunter
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-08-29
+### [Senior Compliance Analyst (MS), AML (Anti-Money Laundering)](https://www.linkedin.com/jobs/view/4458820173/) — ACA Group
+- 📍 **Location:** North Dakota, United States
+- 🕒 **Posted:** 2026-08-30
 
-### [Compliance Analyst, Entry Level](https://www.linkedin.com/jobs/view/4459484922/) — Jobright.ai
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-08-29
+### [Senior Compliance Analyst (MS), AML (Anti-Money Laundering)](https://www.linkedin.com/jobs/view/4458820174/) — ACA Group
+- 📍 **Location:** Wisconsin, United States
+- 🕒 **Posted:** 2026-08-30
