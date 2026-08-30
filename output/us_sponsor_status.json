@@ -1,17 +1,62 @@
 {
-  "updated_at": "2026-08-29T21:34:15.370464+00:00",
+  "updated_at": "2026-08-30T12:06:15.921814+00:00",
   "source_files": [
     "https://www.dol.gov/media/LCA_Disclosure_Data_FY2026_Q3.xlsx",
     "https://www.dol.gov/sites/dolgov/files/ETA/oflc/pdfs/LCA_Disclosure_Data_FY2025_Q4.xlsx"
   ],
   "employer_count": 60026,
   "company_counts": {
-    "confirmed": 105,
-    "likely": 232,
-    "not_found": 313,
+    "confirmed": 104,
+    "likely": 230,
+    "not_found": 317,
     "unknown": 1
   },
   "companies": {
+    "One99 Consulting & Services": {
+      "status": "likely",
+      "matched_name": "Corporation Service Company",
+      "certified_lca_count": 21
+    },
+    "Docplanner": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Town Of Cary": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "COCONINO COUNTY, AZ": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Referment": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "ACA Group": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "GXO Logistics, Inc.": {
+      "status": "likely",
+      "matched_name": "GXO Logistics Supply Chain, Inc.",
+      "certified_lca_count": 19
+    },
+    "Jobright.ai": {
+      "status": "likely",
+      "matched_name": "Jobright Inc.",
+      "certified_lca_count": 1
+    },
+    "RemoteHunter": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
     "WSP in the UK & Ireland": {
       "status": "not_found",
       "matched_name": null,
@@ -963,11 +1008,6 @@
       "certified_lca_count": 7
     },
     "Aphex": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "ACA Group": {
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
@@ -3231,41 +3271,6 @@
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
-    },
-    "Southern California Edison (SCE)": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Clean Water Services": {
-      "status": "likely",
-      "matched_name": "Corporation Service Company",
-      "certified_lca_count": 21
-    },
-    "Proclinical Staffing": {
-      "status": "likely",
-      "matched_name": "Staffing Inc.",
-      "certified_lca_count": 1
-    },
-    "Rosendin": {
-      "status": "likely",
-      "matched_name": "Rosendin Electric Inc.",
-      "certified_lca_count": 6
-    },
-    "Cedarville Engineering Group": {
-      "status": "confirmed",
-      "matched_name": "Cedarville Engineering Group, LLC",
-      "certified_lca_count": 1
-    },
-    "Mortenson Construction": {
-      "status": "likely",
-      "matched_name": "Struction Incorporated",
-      "certified_lca_count": 1
-    },
-    "State of Nevada (NV)": {
-      "status": "likely",
-      "matched_name": "State of Nevada",
-      "certified_lca_count": 1
     }
   }
 }
