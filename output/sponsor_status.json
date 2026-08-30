@@ -1,14 +1,62 @@
 {
-  "updated_at": "2026-08-29T12:30:47.272278+00:00",
+  "updated_at": "2026-08-30T11:33:50.775092+00:00",
   "register_source": "https://assets.publishing.service.gov.uk/media/6a91566801bbff0bf8f97b48/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-08-28.csv",
   "register_org_count": 126413,
   "company_counts": {
-    "confirmed": 91,
-    "likely": 290,
-    "not_found": 273,
+    "confirmed": 92,
+    "likely": 287,
+    "not_found": 272,
     "unknown": 1
   },
   "companies": {
+    "One99 Consulting & Services": {
+      "status": "likely",
+      "matched_name": "ING Services Limited"
+    },
+    "Docplanner": {
+      "status": "likely",
+      "matched_name": "Plan Limited"
+    },
+    "Town Of Cary": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "COCONINO COUNTY, AZ": {
+      "status": "likely",
+      "matched_name": "Count LTD"
+    },
+    "Referment": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "ACA Group": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "GXO Logistics, Inc.": {
+      "status": "confirmed",
+      "matched_name": "GXO Logistics UK Limited"
+    },
+    "Jobright.ai": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "RemoteHunter": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "WSP in the UK & Ireland": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "FIS": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Klipboard": {
+      "status": "not_found",
+      "matched_name": null
+    },
     "Mott MacDonald": {
       "status": "confirmed",
       "matched_name": "Mott MacDonald Ltd"
@@ -393,10 +441,6 @@
       "status": "likely",
       "matched_name": "AW Brown Dental Practice"
     },
-    "WSP in the UK & Ireland": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "Watershed": {
       "status": "likely",
       "matched_name": "La Tahzan Centre Limited T/A Watershed Customs Services"
@@ -762,10 +806,6 @@
       "matched_name": null
     },
     "Aphex": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "ACA Group": {
       "status": "not_found",
       "matched_name": null
     },
@@ -2576,58 +2616,6 @@
     "Utah Department of Environmental Quality": {
       "status": "likely",
       "matched_name": "The Department UK Ltd"
-    },
-    "Southern California Edison (SCE)": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Clean Water Services": {
-      "status": "likely",
-      "matched_name": "Vice UK Limited"
-    },
-    "Proclinical Staffing": {
-      "status": "likely",
-      "matched_name": "NICA LTD"
-    },
-    "Rosendin": {
-      "status": "likely",
-      "matched_name": "ROSEN(UK)"
-    },
-    "Cedarville Engineering Group": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Mortenson Construction": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "State of Nevada (NV)": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "County of San Mateo": {
-      "status": "likely",
-      "matched_name": "Count LTD"
-    },
-    "City of Naples": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Lyndon B. Johnson Space Center": {
-      "status": "likely",
-      "matched_name": "JOHNS&CO"
-    },
-    "Hydranautics - A Nitto Group Company": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Alliance Technical Group": {
-      "status": "likely",
-      "matched_name": "Allia Ltd"
-    },
-    "Insignia Environmental": {
-      "status": "not_found",
-      "matched_name": null
     }
   }
 }
