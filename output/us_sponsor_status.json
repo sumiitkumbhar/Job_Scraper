@@ -1,17 +1,117 @@
 {
-  "updated_at": "2026-08-30T12:06:15.921814+00:00",
+  "updated_at": "2026-08-31T14:10:52.214256+00:00",
   "source_files": [
     "https://www.dol.gov/media/LCA_Disclosure_Data_FY2026_Q3.xlsx",
     "https://www.dol.gov/sites/dolgov/files/ETA/oflc/pdfs/LCA_Disclosure_Data_FY2025_Q4.xlsx"
   ],
   "employer_count": 60026,
   "company_counts": {
-    "confirmed": 104,
-    "likely": 230,
-    "not_found": 317,
+    "confirmed": 107,
+    "likely": 234,
+    "not_found": 323,
     "unknown": 1
   },
   "companies": {
+    "Williams": {
+      "status": "likely",
+      "matched_name": "The Sherwin-Williams Company",
+      "certified_lca_count": 71
+    },
+    "HelioCampus": {
+      "status": "confirmed",
+      "matched_name": "HelioCampus, Inc.",
+      "certified_lca_count": 3
+    },
+    "Dot Compliance": {
+      "status": "confirmed",
+      "matched_name": "DOT COMPLIANCE INC",
+      "certified_lca_count": 2
+    },
+    "Tangent": {
+      "status": "likely",
+      "matched_name": "Tangent Technologies, LLC.",
+      "certified_lca_count": 1
+    },
+    "Crossover": {
+      "status": "likely",
+      "matched_name": "TCG Crossover Management LLC",
+      "certified_lca_count": 2
+    },
+    "Tobii Dynavox\u00ae": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "IPC Groene Ruimte": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "pso vertriebsprogramme GmbH": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "DTAD GmbH": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Check Point Software": {
+      "status": "likely",
+      "matched_name": "Check Point Software Technologies, Inc.",
+      "certified_lca_count": 2
+    },
+    "MaineHealth": {
+      "status": "confirmed",
+      "matched_name": "MaineHealth",
+      "certified_lca_count": 17
+    },
+    "Sovos Latinoam\u00e9rica": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "ACA Group": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Jobgether": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Culture Amp": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "AppCard, Inc.": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Jobright.ai": {
+      "status": "likely",
+      "matched_name": "Jobright Inc.",
+      "certified_lca_count": 1
+    },
+    "Avid": {
+      "status": "likely",
+      "matched_name": "Metropolitan Government of Nashville and Davidson County",
+      "certified_lca_count": 5
+    },
+    "epilot GmbH": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "SLB": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
     "One99 Consulting & Services": {
       "status": "likely",
       "matched_name": "Corporation Service Company",
@@ -37,20 +137,10 @@
       "matched_name": null,
       "certified_lca_count": 0
     },
-    "ACA Group": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
     "GXO Logistics, Inc.": {
       "status": "likely",
       "matched_name": "GXO Logistics Supply Chain, Inc.",
       "certified_lca_count": 19
-    },
-    "Jobright.ai": {
-      "status": "likely",
-      "matched_name": "Jobright Inc.",
-      "certified_lca_count": 1
     },
     "RemoteHunter": {
       "status": "not_found",
@@ -516,11 +606,6 @@
       "status": "confirmed",
       "matched_name": "Veeva Systems Inc.",
       "certified_lca_count": 87
-    },
-    "Tangent": {
-      "status": "likely",
-      "matched_name": "Tangent Technologies, LLC.",
-      "certified_lca_count": 1
     },
     "Rentman": {
       "status": "not_found",
@@ -1118,11 +1203,6 @@
       "certified_lca_count": 2
     },
     "Simvia": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "epilot GmbH": {
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
@@ -2702,11 +2782,6 @@
       "matched_name": "Peraton State & Local Inc.",
       "certified_lca_count": 1
     },
-    "Jobgether": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
     "BioSpace": {
       "status": "not_found",
       "matched_name": null,
@@ -3261,16 +3336,6 @@
       "status": "likely",
       "matched_name": "Group Health, Inc.",
       "certified_lca_count": 41
-    },
-    "Six Flags Entertainment Corporation": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Utah Department of Environmental Quality": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
     }
   }
 }
