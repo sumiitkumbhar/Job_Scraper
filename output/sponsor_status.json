@@ -1,14 +1,94 @@
 {
-  "updated_at": "2026-08-30T11:33:50.775092+00:00",
+  "updated_at": "2026-08-31T13:07:57.335229+00:00",
   "register_source": "https://assets.publishing.service.gov.uk/media/6a91566801bbff0bf8f97b48/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-08-28.csv",
   "register_org_count": 126413,
   "company_counts": {
-    "confirmed": 92,
-    "likely": 287,
-    "not_found": 272,
+    "confirmed": 94,
+    "likely": 290,
+    "not_found": 280,
     "unknown": 1
   },
   "companies": {
+    "Williams": {
+      "status": "likely",
+      "matched_name": "A D WILLIAMS & CO LTD"
+    },
+    "HelioCampus": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Dot Compliance": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Tangent": {
+      "status": "likely",
+      "matched_name": "Tang & Co Limited"
+    },
+    "Crossover": {
+      "status": "likely",
+      "matched_name": "Crossover Care Ltd"
+    },
+    "Tobii Dynavox\u00ae": {
+      "status": "confirmed",
+      "matched_name": "Tobii Dynavox Limited"
+    },
+    "IPC Groene Ruimte": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "pso vertriebsprogramme GmbH": {
+      "status": "likely",
+      "matched_name": "GRAM-UK Limited"
+    },
+    "DTAD GmbH": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Check Point Software": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "MaineHealth": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Sovos Latinoam\u00e9rica": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "ACA Group": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Jobgether": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Culture Amp": {
+      "status": "confirmed",
+      "matched_name": "Culture Amp Limited"
+    },
+    "AppCard, Inc.": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Jobright.ai": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Avid": {
+      "status": "likely",
+      "matched_name": "A. H. J. David Limited"
+    },
+    "epilot GmbH": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "SLB": {
+      "status": "not_found",
+      "matched_name": null
+    },
     "One99 Consulting & Services": {
       "status": "likely",
       "matched_name": "ING Services Limited"
@@ -29,17 +109,9 @@
       "status": "not_found",
       "matched_name": null
     },
-    "ACA Group": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "GXO Logistics, Inc.": {
       "status": "confirmed",
       "matched_name": "GXO Logistics UK Limited"
-    },
-    "Jobright.ai": {
-      "status": "not_found",
-      "matched_name": null
     },
     "RemoteHunter": {
       "status": "not_found",
@@ -412,10 +484,6 @@
     "Veeva Systems": {
       "status": "confirmed",
       "matched_name": "Veeva Systems UK Ltd"
-    },
-    "Tangent": {
-      "status": "likely",
-      "matched_name": "Tang & Co Limited"
     },
     "Rentman": {
       "status": "not_found",
@@ -894,10 +962,6 @@
       "matched_name": "VusionGroup UK Ltd"
     },
     "Simvia": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "epilot GmbH": {
       "status": "not_found",
       "matched_name": null
     },
@@ -2161,10 +2225,6 @@
       "status": "not_found",
       "matched_name": null
     },
-    "Jobgether": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "BioSpace": {
       "status": "not_found",
       "matched_name": null
@@ -2608,14 +2668,6 @@
     "South Western Sydney Local Health District": {
       "status": "likely",
       "matched_name": "Tern PLC"
-    },
-    "Six Flags Entertainment Corporation": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Utah Department of Environmental Quality": {
-      "status": "likely",
-      "matched_name": "The Department UK Ltd"
     }
   }
 }
