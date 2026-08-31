@@ -1,8 +1,17 @@
 {
-  "scraped_at": "2026-08-28 00:36 UTC",
-  "total": 12,
-  "new_count": 1,
+  "scraped_at": "2026-08-30 18:48 UTC",
+  "total": 9,
+  "new_count": 0,
   "jobs": [
+    {
+      "company": "Defense Health Agency",
+      "title": "TOXICOLOGIST (FORENSIC)",
+      "location": "Dover AFB, Delaware",
+      "url": "https://www.usajobs.gov/job/882264900",
+      "date_posted": "2026-08-29",
+      "salary": "Starting at $138,595 Per year (GS 14)",
+      "ats": "USAJOBS"
+    },
     {
       "company": "Air Force Materiel Command",
       "title": "Risk Assessor/Toxicologist Interdisciplinary (Environmental) - DIRECT HIRE AUTHORITY",
@@ -19,15 +28,6 @@
       "url": "https://www.usajobs.gov/job/882102500",
       "date_posted": "2026-08-26",
       "salary": "Starting at $117,402 Per year (GS 13)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Environmental Protection Specialist - GEMS Program Manager",
-      "location": "Minneapolis, Minnesota",
-      "url": "https://www.usajobs.gov/job/881705500",
-      "date_posted": "2026-08-24",
-      "salary": "Starting at $97,582 Per year (GS 12)",
       "ats": "USAJOBS"
     },
     {
@@ -67,33 +67,6 @@
       "ats": "USAJOBS"
     },
     {
-      "company": "U.S. Coast Guard",
-      "title": "Environmental Protection Specialist",
-      "location": "Boston, Massachusetts",
-      "url": "https://www.usajobs.gov/job/880971300",
-      "date_posted": "2026-08-18",
-      "salary": "Starting at $69,905 Per year (GS 9)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Bureau of Engraving and Printing",
-      "title": "Environmental Protection Specialist",
-      "location": "Fort Worth, Texas",
-      "url": "https://www.usajobs.gov/job/880524700",
-      "date_posted": "2026-08-14",
-      "salary": "Starting at $115,711 Per year (GS 13)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Department of Energy Headquarters",
-      "title": "Environmental Protection Specialist",
-      "location": "Washington, District of Columbia",
-      "url": "https://www.usajobs.gov/job/880077600",
-      "date_posted": "2026-08-12",
-      "salary": "Starting at $143,913 Per year (GS 14)",
-      "ats": "USAJOBS"
-    },
-    {
       "company": "National Oceanic and Atmospheric Administration",
       "title": "Environmental Scientist",
       "location": "Silver Spring, Maryland",
@@ -112,15 +85,5 @@
       "ats": "USAJOBS"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "United States Army Installation Management Command",
-      "title": "Supervisory Environmental Protection Specialist",
-      "location": "Warren, Michigan",
-      "url": "https://www.usajobs.gov/job/882102500",
-      "date_posted": "2026-08-26",
-      "salary": "Starting at $117,402 Per year (GS 13)",
-      "ats": "USAJOBS"
-    }
-  ]
+  "new_jobs": []
 }
