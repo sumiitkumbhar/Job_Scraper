@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-31 07:34 UTC",
+  "scraped_at": "2026-08-31 07:42 UTC",
   "total": 1,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "HelioCampus",
@@ -22,24 +22,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "HelioCampus",
-      "title": "Technical Implementation Consultant",
-      "location": "Bethesda, MD, US",
-      "url": "https://www.indeed.com/viewjob?jk=ff0ad4cd05769a68",
-      "direct_url": "https://heliocampus.teamtailor.com/jobs/8288748-technical-implementation-consultant",
-      "company_url": "https://www.indeed.com/cmp/Heliocampus",
-      "date_posted": "2026-08-31",
-      "description": "**Who We Are:**  \n\nHelioCampus was founded with the purpose of helping college \\& university leaders navigate today’s growing pressures. As one of EdTech’s most steadily growing companies, our roots in higher ed ground us in the critical nature of this work.\n\n **What We Do:**  \n\nWe help our clients navigate today’s high stakes with data and Institutional Performance Management practices. Together with our clients, we chart a path to sustainability by borrowing practices from the most successful businesses.\n\n **How We Do It:**  \n\nWe approach our work with a “we’re on it” attitude that the higher ed community has come to know and expect from our team. We’re data geeks to our core, committed to simplifying the toughest challenges and operating with transparency. Our most successful team members are change agents who love a challenge.\n\n**How You'll Help:**  \n\nWe are seeking a Technical Implementation Consultant to lead the discovery, configuration, and validation work that brings our analytics platforms to life. You will be responsible for understanding how each institution defines and operates its business and translating that understanding into the data model configuration decisions that determine whether the resulting numbers hold up. This role works across the full range of institutional analytics we implement \\- from the student lifecycle, including admissions, enrollment, retention, completions, and student financials, to academic cost analytics, where the questions turn to what a program costs to deliver and what it earns. Which areas you work in will vary by client and by what each institution is implementing. The successful candidate will combine higher education subject matter expertise with enough comfort in data to follow a number when it stops reconciling and the ability to carry several client implementations at once.\n\n\nCandidates come to this work from a range of backgrounds. Those we have seen succeed come with backgrounds in institutional research, institutional effectiveness, budget and planning, or enrollment analytics; implementation or delivery roles at companies serving higher education; and functional offices such as the registrar, admissions, financial aid, or student accounts. This list is not exhaustive, and we encourage you to apply if the work described below is work you already know how to do.\n\n**What You Will Do:**\n\n* **Discovery and Requirements:** Lead discovery sessions with client functional offices, including institutional research, registrar, admissions, student accounts, financial aid, budget,academic affairs, etc. Draw out how the institution actually operates, including the exceptions and local practices that rarely appear in documentation.\n* **Configuration:** Own and document the configuration decisions that make a client's data model reflect their institution — field and code mappings, cohort and population definitions, and calculation rules. Resolve the definitional questions (e.g. how an institution defines a degree\\-seeking student, a first\\-generation student, or instructional faculty).Working with the client to define configurations that control how source data is transformed and parameterized and then communicating those to data engineers. Partner with stakeholders across the institution to align methodology with how the institution actually budgets and reports.\n* **Validation and Quality:** Deploy and configure Tableau workbooks or Power BI reports to support models being implemented. Run validation cycles with client stakeholders, document feedback, and drive issues to resolution before go\\-live. Investigate discrepancies raised during validation and trace them to a root cause. Provide validation and investigation support to client\\-facing teams post\\-implementation as needed.\n* **Documentation:** Document client\\-specific business rules and configuration decisions so that ongoing support teams can reference them. Support implementation handoff documentation. Provide implementation feedback and documentation for new products post product launch.\n* **Data Advisory:** Escalate common implementation hurdles to the product team for further enhancement and refinement of our products. Provide advice, subject matter expertise, and feedback on data definitions and functional client use cases to inform technical development.\n* **Training:** Help facilitate power user training sessions in partnership with our Data Analyst team during implementation go\\-live.\n* **Travel:** Travel to client/partner institution sites as needed (no more than 10%).\n\n**You Will Be a Good Fit For This Role If You Have:**\n\n* Bachelor's degree from an accredited institution of higher learning.\n* 3\\+ years working with higher education institutional data, at an institution, at a company serving institutions, or in a consulting capacity.\n* Deep working knowledge of at least one functional area of higher education (e.g. enrollment management, student financials, financial aid, registrar, budget and planning, academic affairs).\n* Familiarity with the data structures behind at least one major Student Information System (Ellucian Banner, PeopleSoft Campus Solutions, Ellucian Colleague, or Workday Student).\n* Working knowledge of standardized institutional reporting such as IPEDS.\n* Foundational knowledge of SQL.\n* A working understanding of how institutional data moves between systems, including where it originates and how it is transformed.\n* Comfort working in Tableau, Power BI, or a comparable data visualization tool, and strong Excel skills for data manipulation and reconciliation.\n* Experience leading working sessions with stakeholders and turning what you hear into clear, actionable requirements.\n* Excellent communication skills, with the ability to communicate complex technical information to non\\-technical stakeholders.\n* Proven ability to manage multiple client projects with competing priorities and tight deadlines.\n* Strong problem\\-solving skills and the persistence to cha",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
