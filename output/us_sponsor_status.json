@@ -1,17 +1,282 @@
 {
-  "updated_at": "2026-08-31T14:10:52.214256+00:00",
+  "updated_at": "2026-09-01T11:52:45.406126+00:00",
   "source_files": [
     "https://www.dol.gov/media/LCA_Disclosure_Data_FY2026_Q3.xlsx",
     "https://www.dol.gov/sites/dolgov/files/ETA/oflc/pdfs/LCA_Disclosure_Data_FY2025_Q4.xlsx"
   ],
   "employer_count": 60026,
   "company_counts": {
-    "confirmed": 107,
-    "likely": 234,
-    "not_found": 323,
+    "confirmed": 117,
+    "likely": 245,
+    "not_found": 348,
     "unknown": 1
   },
   "companies": {
+    "AECOM": {
+      "status": "confirmed",
+      "matched_name": "AECOM",
+      "certified_lca_count": 1
+    },
+    "Stantec": {
+      "status": "likely",
+      "matched_name": "Stantec Architecture Inc.",
+      "certified_lca_count": 25
+    },
+    "Fin": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Adverity": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Town of Plainville": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "El Paso County, CO": {
+      "status": "likely",
+      "matched_name": "EL PASO COUNTY HOSPITAL DISTRICT",
+      "certified_lca_count": 4
+    },
+    "City of Cedar Hill, TX": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "City of Columbia, MO": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "bp": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Dollar General": {
+      "status": "confirmed",
+      "matched_name": "Dollar General Corporation",
+      "certified_lca_count": 44
+    },
+    "Devynn Crawford Events": {
+      "status": "likely",
+      "matched_name": "Crawford & Company",
+      "certified_lca_count": 4
+    },
+    "Sowelo Consulting sp. z o.o.": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Gellert Global Group": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Plainville Community Schools": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "1Valet": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Sustainability Engineering Group LLC": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "City of Fort Lauderdale": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "AHBL, Inc.": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Ulteig": {
+      "status": "likely",
+      "matched_name": "Ulteig Engineers, Inc.",
+      "certified_lca_count": 16
+    },
+    "City of Meridian": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "ICF": {
+      "status": "confirmed",
+      "matched_name": "ICF Incorporated, LLC",
+      "certified_lca_count": 58
+    },
+    "Nufarm": {
+      "status": "likely",
+      "matched_name": "Nufarm Americas Inc.",
+      "certified_lca_count": 1
+    },
+    "commercetools": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Aikido Security": {
+      "status": "confirmed",
+      "matched_name": "Aikido Security Corp.",
+      "certified_lca_count": 1
+    },
+    "Legend Trading": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "CS Recruitment": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Ignite": {
+      "status": "likely",
+      "matched_name": "Ignite Medical Resort McHenry",
+      "certified_lca_count": 1
+    },
+    "GastroRocket GmbH": {
+      "status": "likely",
+      "matched_name": "Tror LLC",
+      "certified_lca_count": 42
+    },
+    "Civil & Environmental Consultants, Inc.": {
+      "status": "confirmed",
+      "matched_name": "Civil & Environmental Consultants, Inc.",
+      "certified_lca_count": 11
+    },
+    "Palo Alto Networks": {
+      "status": "confirmed",
+      "matched_name": "Palo Alto Networks, Inc.",
+      "certified_lca_count": 522
+    },
+    "New York Technology Partners": {
+      "status": "confirmed",
+      "matched_name": "New York Technology Partners Inc",
+      "certified_lca_count": 69
+    },
+    "HHAeXchange": {
+      "status": "likely",
+      "matched_name": "Chang LLP",
+      "certified_lca_count": 1
+    },
+    "Skopenow": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Creative Network Innovations": {
+      "status": "likely",
+      "matched_name": "Innov Corp",
+      "certified_lca_count": 1
+    },
+    "Verint": {
+      "status": "likely",
+      "matched_name": "Verint Americas, Inc.",
+      "certified_lca_count": 3
+    },
+    "UKG": {
+      "status": "confirmed",
+      "matched_name": "UKG Inc.",
+      "certified_lca_count": 21
+    },
+    "Exelon": {
+      "status": "likely",
+      "matched_name": "Exel, Inc.",
+      "certified_lca_count": 63
+    },
+    "Aimbient (formerly SST)": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Northbeam": {
+      "status": "likely",
+      "matched_name": "BEAM, ltd.",
+      "certified_lca_count": 1
+    },
+    "Stripe": {
+      "status": "confirmed",
+      "matched_name": "Stripe, Inc.",
+      "certified_lca_count": 294
+    },
+    "Rillet": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Bloomreach": {
+      "status": "confirmed",
+      "matched_name": "BloomReach, Inc.",
+      "certified_lca_count": 7
+    },
+    "ETAP Software": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "New York Law Firm": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Monument": {
+      "status": "likely",
+      "matched_name": "Monument Health Rapid City Hospital, Inc.",
+      "certified_lca_count": 24
+    },
+    "PermitFlow": {
+      "status": "confirmed",
+      "matched_name": "PermitFlow Inc.",
+      "certified_lca_count": 3
+    },
+    "talentpluto": {
+      "status": "likely",
+      "matched_name": "Pluto, Inc.",
+      "certified_lca_count": 9
+    },
+    "Evlo AI": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Wrike": {
+      "status": "confirmed",
+      "matched_name": "Wrike, Inc.",
+      "certified_lca_count": 3
+    },
+    "MicroAge": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "WillScot": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Kaltura": {
+      "status": "confirmed",
+      "matched_name": "Kaltura, Inc.",
+      "certified_lca_count": 2
+    },
+    "RJR Partners": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
     "Williams": {
       "status": "likely",
       "matched_name": "The Sherwin-Williams Company",
@@ -252,11 +517,6 @@
       "matched_name": null,
       "certified_lca_count": 0
     },
-    "AECOM": {
-      "status": "confirmed",
-      "matched_name": "AECOM",
-      "certified_lca_count": 1
-    },
     "North Devon Council": {
       "status": "likely",
       "matched_name": "North, Inc.",
@@ -366,11 +626,6 @@
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
-    },
-    "Stantec": {
-      "status": "likely",
-      "matched_name": "Stantec Architecture Inc.",
-      "certified_lca_count": 25
     },
     "Synthesia": {
       "status": "not_found",
@@ -597,11 +852,6 @@
       "matched_name": null,
       "certified_lca_count": 0
     },
-    "Fin": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
     "Veeva Systems": {
       "status": "confirmed",
       "matched_name": "Veeva Systems Inc.",
@@ -656,11 +906,6 @@
       "status": "likely",
       "matched_name": "North, Inc.",
       "certified_lca_count": 6
-    },
-    "Palo Alto Networks": {
-      "status": "confirmed",
-      "matched_name": "Palo Alto Networks, Inc.",
-      "certified_lca_count": 522
     },
     "Nicholas O'Dwyer Ltd": {
       "status": "likely",
@@ -1256,11 +1501,6 @@
       "status": "confirmed",
       "matched_name": "Exponent, Inc.",
       "certified_lca_count": 11
-    },
-    "ICF": {
-      "status": "confirmed",
-      "matched_name": "ICF Incorporated, LLC",
-      "certified_lca_count": 58
     },
     "State of Nevada": {
       "status": "confirmed",
@@ -2812,11 +3052,6 @@
       "matched_name": null,
       "certified_lca_count": 0
     },
-    "Ulteig": {
-      "status": "likely",
-      "matched_name": "Ulteig Engineers, Inc.",
-      "certified_lca_count": 16
-    },
     "Kikiktagruk Inupiat Corporation": {
       "status": "not_found",
       "matched_name": null,
@@ -3331,11 +3566,6 @@
       "status": "confirmed",
       "matched_name": "Republic Services, Inc.",
       "certified_lca_count": 15
-    },
-    "South Western Sydney Local Health District": {
-      "status": "likely",
-      "matched_name": "Group Health, Inc.",
-      "certified_lca_count": 41
     }
   }
 }
