@@ -1,14 +1,226 @@
 {
-  "updated_at": "2026-08-31T13:07:57.335229+00:00",
-  "register_source": "https://assets.publishing.service.gov.uk/media/6a91566801bbff0bf8f97b48/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-08-28.csv",
-  "register_org_count": 126413,
+  "updated_at": "2026-09-01T11:21:53.780571+00:00",
+  "register_source": "https://assets.publishing.service.gov.uk/media/6a96982c3b22fb169dc18fd3/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-09-01.csv",
+  "register_org_count": 126489,
   "company_counts": {
-    "confirmed": 94,
-    "likely": 290,
-    "not_found": 280,
+    "confirmed": 98,
+    "likely": 308,
+    "not_found": 304,
     "unknown": 1
   },
   "companies": {
+    "AECOM": {
+      "status": "confirmed",
+      "matched_name": "AECOM LIMITED"
+    },
+    "Stantec": {
+      "status": "confirmed",
+      "matched_name": "Stantec UK Ltd"
+    },
+    "Fin": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Adverity": {
+      "status": "confirmed",
+      "matched_name": "Adverity Ltd."
+    },
+    "Town of Plainville": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "El Paso County, CO": {
+      "status": "likely",
+      "matched_name": "Count LTD"
+    },
+    "City of Cedar Hill, TX": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "City of Columbia, MO": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "bp": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Dollar General": {
+      "status": "likely",
+      "matched_name": "NERA UK LIMITED"
+    },
+    "Devynn Crawford Events": {
+      "status": "likely",
+      "matched_name": "UK EVENTS LTD"
+    },
+    "Sowelo Consulting sp. z o.o.": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Gellert Global Group": {
+      "status": "likely",
+      "matched_name": "LOBA GROUP LIMITED"
+    },
+    "Plainville Community Schools": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "1Valet": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Sustainability Engineering Group LLC": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "City of Fort Lauderdale": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "AHBL, Inc.": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Ulteig": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "City of Meridian": {
+      "status": "likely",
+      "matched_name": "Ridia Limited"
+    },
+    "ICF": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Nufarm": {
+      "status": "confirmed",
+      "matched_name": "Nufarm UK Limited"
+    },
+    "commercetools": {
+      "status": "confirmed",
+      "matched_name": "Commercetools Ltd"
+    },
+    "Aikido Security": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Legend Trading": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "CS Recruitment": {
+      "status": "likely",
+      "matched_name": "A PLUS DYNAMICS RECRUITMENT LTD"
+    },
+    "Ignite": {
+      "status": "likely",
+      "matched_name": "drb Ignite Multi Academy Trust"
+    },
+    "GastroRocket GmbH": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Civil & Environmental Consultants, Inc.": {
+      "status": "likely",
+      "matched_name": "Consulta Limited"
+    },
+    "Palo Alto Networks": {
+      "status": "confirmed",
+      "matched_name": "PALO ALTO NETWORKS (UK) LIMITED"
+    },
+    "New York Technology Partners": {
+      "status": "likely",
+      "matched_name": "Partners Group (UK) Ltd."
+    },
+    "HHAeXchange": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Skopenow": {
+      "status": "likely",
+      "matched_name": "The Open Group Limited"
+    },
+    "Creative Network Innovations": {
+      "status": "likely",
+      "matched_name": "Ovation"
+    },
+    "Verint": {
+      "status": "likely",
+      "matched_name": "Verint Systems UK Limited"
+    },
+    "UKG": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Exelon": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Aimbient (formerly SST)": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Northbeam": {
+      "status": "likely",
+      "matched_name": "Beam Inc Ltd"
+    },
+    "Stripe": {
+      "status": "likely",
+      "matched_name": "Silverstripe Advisors Ltd"
+    },
+    "Rillet": {
+      "status": "likely",
+      "matched_name": "S-west retails ltd t/a Grillet"
+    },
+    "Bloomreach": {
+      "status": "confirmed",
+      "matched_name": "BloomReach UK Ltd"
+    },
+    "ETAP Software": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "New York Law Firm": {
+      "status": "likely",
+      "matched_name": "Law Firm Ltd"
+    },
+    "Monument": {
+      "status": "likely",
+      "matched_name": "African Peoples Historical Monument Foundation (Black Cultural Archives) Ltd"
+    },
+    "PermitFlow": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "talentpluto": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Evlo AI": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Wrike": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "MicroAge": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "WillScot": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Kaltura": {
+      "status": "likely",
+      "matched_name": "Kaltura Europe Limited"
+    },
+    "RJR Partners": {
+      "status": "likely",
+      "matched_name": "Partners Group (UK) Ltd."
+    },
     "Williams": {
       "status": "likely",
       "matched_name": "A D WILLIAMS & CO LTD"
@@ -201,10 +413,6 @@
       "status": "confirmed",
       "matched_name": "University of Westminster"
     },
-    "AECOM": {
-      "status": "confirmed",
-      "matched_name": "AECOM LIMITED"
-    },
     "North Devon Council": {
       "status": "not_found",
       "matched_name": null
@@ -292,10 +500,6 @@
     "Spacewell": {
       "status": "likely",
       "matched_name": "CEWE Limited"
-    },
-    "Stantec": {
-      "status": "confirmed",
-      "matched_name": "Stantec UK Ltd"
     },
     "Synthesia": {
       "status": "confirmed",
@@ -477,10 +681,6 @@
       "status": "likely",
       "matched_name": "SHOP INC LTD"
     },
-    "Fin": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "Veeva Systems": {
       "status": "confirmed",
       "matched_name": "Veeva Systems UK Ltd"
@@ -524,10 +724,6 @@
     "West Northamptonshire Council": {
       "status": "confirmed",
       "matched_name": "West Northamptonshire Council"
-    },
-    "Palo Alto Networks": {
-      "status": "confirmed",
-      "matched_name": "PALO ALTO NETWORKS (UK) LIMITED"
     },
     "Nicholas O'Dwyer Ltd": {
       "status": "not_found",
@@ -1004,10 +1200,6 @@
     "Exponent": {
       "status": "likely",
       "matched_name": "EPIIPLUS1 Ltd t/a Exponential View"
-    },
-    "ICF": {
-      "status": "not_found",
-      "matched_name": null
     },
     "State of Nevada": {
       "status": "not_found",
@@ -2249,10 +2441,6 @@
       "status": "likely",
       "matched_name": "SANITA UK LTD"
     },
-    "Ulteig": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "Kikiktagruk Inupiat Corporation": {
       "status": "not_found",
       "matched_name": null
@@ -2664,10 +2852,6 @@
     "Republic Services": {
       "status": "likely",
       "matched_name": "Food Republic Services Limited"
-    },
-    "South Western Sydney Local Health District": {
-      "status": "likely",
-      "matched_name": "Tern PLC"
     }
   }
 }
