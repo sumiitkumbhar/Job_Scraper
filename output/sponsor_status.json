@@ -1,14 +1,238 @@
 {
-  "updated_at": "2026-09-01T11:21:53.780571+00:00",
-  "register_source": "https://assets.publishing.service.gov.uk/media/6a96982c3b22fb169dc18fd3/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-09-01.csv",
-  "register_org_count": 126489,
+  "updated_at": "2026-09-02T10:55:47.747883+00:00",
+  "register_source": "https://assets.publishing.service.gov.uk/media/6a97e8bd01bbff0bf8f97c6f/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-09-02.csv",
+  "register_org_count": 126487,
   "company_counts": {
-    "confirmed": 98,
-    "likely": 308,
-    "not_found": 304,
-    "unknown": 1
+    "confirmed": 104,
+    "likely": 327,
+    "not_found": 315,
+    "unknown": 2
   },
   "companies": {
+    "Tetra Tech": {
+      "status": "confirmed",
+      "matched_name": "Tetra Tech Group Limited"
+    },
+    "Autodesk": {
+      "status": "confirmed",
+      "matched_name": "Autodesk Ltd"
+    },
+    "Flex": {
+      "status": "likely",
+      "matched_name": "Aflex Hose Limited"
+    },
+    "Bannau Brycheiniog (Brecon Beacons) National Park": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Town of Shrewsbury, Massachusetts": {
+      "status": "likely",
+      "matched_name": "MASS (UK) LTD"
+    },
+    "U.S. Fleet Forces Command": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "City of Atlanta": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Adobe": {
+      "status": "confirmed",
+      "matched_name": "ADOBE GROUP LIMITED"
+    },
+    "McGraw Hill": {
+      "status": "likely",
+      "matched_name": "McGraw Hill Education (UK) Limited"
+    },
+    "M&T Bank": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Ecommerce Guide": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Carollo Engineers": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Federal Express Corporation": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "The Wheel Group": {
+      "status": "likely",
+      "matched_name": "4Wheeler Ltd"
+    },
+    "Nodes & Links": {
+      "status": "likely",
+      "matched_name": "Node Group Ltd"
+    },
+    "ServiceTitan": {
+      "status": "likely",
+      "matched_name": "Vice UK Limited"
+    },
+    "\u30ab\u30fc\u30eb\u30b9\u30c8\u30eb\u30c4\u30fb\u30a8\u30f3\u30c9\u30b9\u30b3\u30d4\u30fc\u30fb\u30b8\u30e3\u30d1\u30f3\uff08\u682a\uff09": {
+      "status": "unknown",
+      "matched_name": null
+    },
+    "Deloitte": {
+      "status": "confirmed",
+      "matched_name": "Deloitte LLP"
+    },
+    "VARITE INC": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Amazon Web Services (AWS)": {
+      "status": "likely",
+      "matched_name": "Vice UK Limited"
+    },
+    "Referment": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "MongoDB": {
+      "status": "confirmed",
+      "matched_name": "MongoDB UK Limited"
+    },
+    "ACA Group": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Amazon": {
+      "status": "likely",
+      "matched_name": "Amazon Charitable Trust"
+    },
+    "CoderPad": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Pave Talent": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Peppy": {
+      "status": "likely",
+      "matched_name": "Peppy Health Limited"
+    },
+    "TalentCo": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "GXO Logistics, Inc.": {
+      "status": "confirmed",
+      "matched_name": "GXO Logistics UK Limited"
+    },
+    "Slalom": {
+      "status": "likely",
+      "matched_name": "Slalom Consulting Limited"
+    },
+    "Johnson Controls": {
+      "status": "likely",
+      "matched_name": "JOHNS&CO"
+    },
+    "Modern Technology Solutions, Inc. (MTSI)": {
+      "status": "likely",
+      "matched_name": "Modern"
+    },
+    "Zillow": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Kastle Systems": {
+      "status": "likely",
+      "matched_name": "System ltd"
+    },
+    "Obble": {
+      "status": "likely",
+      "matched_name": "Cobble Lane Cured Ltd"
+    },
+    "Textron Specialized Vehicles": {
+      "status": "likely",
+      "matched_name": "Textron Limited"
+    },
+    "Centene Corporation": {
+      "status": "likely",
+      "matched_name": "Nten Ltd"
+    },
+    "WOOD Federal Solutions": {
+      "status": "likely",
+      "matched_name": "Wood Group UK Limited"
+    },
+    "MANTECH": {
+      "status": "confirmed",
+      "matched_name": "Mantech UK Ltd"
+    },
+    "Jobright.ai": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Klipboard": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Bloomreach": {
+      "status": "confirmed",
+      "matched_name": "BloomReach UK Ltd"
+    },
+    "Docusign": {
+      "status": "confirmed",
+      "matched_name": "DocuSign UK Limited"
+    },
+    "OpenText": {
+      "status": "likely",
+      "matched_name": "Pentex Ltd"
+    },
+    "Giesecke+Devrient": {
+      "status": "likely",
+      "matched_name": "Evri Limited"
+    },
+    "RIB Software": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Newport News Shipbuilding, A Division of HII": {
+      "status": "likely",
+      "matched_name": "ISIO GROUP LIMITED"
+    },
+    "Fidelity Investments": {
+      "status": "likely",
+      "matched_name": "Fidel Limited"
+    },
+    "ConstructConnect": {
+      "status": "likely",
+      "matched_name": "ONNEC Group UK Limited"
+    },
+    "Kpler": {
+      "status": "confirmed",
+      "matched_name": "Kpler Limited"
+    },
+    "Estuary": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Yubico": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Salesforce": {
+      "status": "confirmed",
+      "matched_name": "Salesforce UK Limited"
+    },
+    "Suvoda": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Health Care Service Corporation": {
+      "status": "likely",
+      "matched_name": "Care & Co Ltd"
+    },
+    "talentpluto": {
+      "status": "not_found",
+      "matched_name": null
+    },
     "AECOM": {
       "status": "confirmed",
       "matched_name": "AECOM LIMITED"
@@ -173,10 +397,6 @@
       "status": "likely",
       "matched_name": "S-west retails ltd t/a Grillet"
     },
-    "Bloomreach": {
-      "status": "confirmed",
-      "matched_name": "BloomReach UK Ltd"
-    },
     "ETAP Software": {
       "status": "not_found",
       "matched_name": null
@@ -190,10 +410,6 @@
       "matched_name": "African Peoples Historical Monument Foundation (Black Cultural Archives) Ltd"
     },
     "PermitFlow": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "talentpluto": {
       "status": "not_found",
       "matched_name": null
     },
@@ -269,10 +485,6 @@
       "status": "not_found",
       "matched_name": null
     },
-    "ACA Group": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "Jobgether": {
       "status": "not_found",
       "matched_name": null
@@ -282,10 +494,6 @@
       "matched_name": "Culture Amp Limited"
     },
     "AppCard, Inc.": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Jobright.ai": {
       "status": "not_found",
       "matched_name": null
     },
@@ -317,14 +525,6 @@
       "status": "likely",
       "matched_name": "Count LTD"
     },
-    "Referment": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "GXO Logistics, Inc.": {
-      "status": "confirmed",
-      "matched_name": "GXO Logistics UK Limited"
-    },
     "RemoteHunter": {
       "status": "not_found",
       "matched_name": null
@@ -334,10 +534,6 @@
       "matched_name": null
     },
     "FIS": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Klipboard": {
       "status": "not_found",
       "matched_name": null
     },
@@ -528,10 +724,6 @@
     "Kustwacht Nederland": {
       "status": "not_found",
       "matched_name": null
-    },
-    "Deloitte": {
-      "status": "confirmed",
-      "matched_name": "Deloitte LLP"
     },
     "Vella Recruitment": {
       "status": "not_found",
@@ -817,10 +1009,6 @@
       "status": "likely",
       "matched_name": "BIDEM AFRIVENTURE LIMITED"
     },
-    "Amazon": {
-      "status": "likely",
-      "matched_name": "Amazon Charitable Trust"
-    },
     "IDEX Consulting Ltd": {
       "status": "not_found",
       "matched_name": null
@@ -1073,10 +1261,6 @@
       "status": "not_found",
       "matched_name": null
     },
-    "Docusign": {
-      "status": "confirmed",
-      "matched_name": "DocuSign UK Limited"
-    },
     "SalesViewer\u00ae": {
       "status": "not_found",
       "matched_name": null
@@ -1212,10 +1396,6 @@
     "Metropolitan Water District of Southern California": {
       "status": "not_found",
       "matched_name": null
-    },
-    "Tetra Tech": {
-      "status": "confirmed",
-      "matched_name": "Tetra Tech Group Limited"
     },
     "DEPARTMENT OF FISH AND WILDLIFE": {
       "status": "likely",
@@ -2820,38 +3000,6 @@
     "Pacific Seafood": {
       "status": "confirmed",
       "matched_name": "Pacific Seafood Ltd"
-    },
-    "District of Columbia Government": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Vantage Point Solutions": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "About Exponent": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "New Mexico Environment Department (NMED)": {
-      "status": "likely",
-      "matched_name": "The Department UK Ltd"
-    },
-    "SOCOTEC US": {
-      "status": "likely",
-      "matched_name": "Socotec UK Limited"
-    },
-    "WESA": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Valley Water": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Republic Services": {
-      "status": "likely",
-      "matched_name": "Food Republic Services Limited"
     }
   }
 }
