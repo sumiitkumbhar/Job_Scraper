@@ -1,14 +1,20 @@
 # 🏛 Priority Employers — Sumit's Planning & PropTech Roles
-*Last updated: 2026-09-01 09:20 UTC*
+*Last updated: 2026-09-02 08:36 UTC*
 
-**2 new role(s)** since last run · 6 total in last 24h
+**4 new role(s)** since last run · 4 total in last 24h
 
-### [Urban Designer](https://www.linkedin.com/jobs/view/4459429653/) — AECOM
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $102648 to $149809
+### [Graduate Environmental Planning Consultant](https://www.linkedin.com/jobs/view/4461762523/) — Tetra Tech
+- 📍 **Location:** London, England, United Kingdom
 - 🕒 **Posted:** 2026-09-01
 
-### [Corporate Land GIS Analyst](https://www.linkedin.com/jobs/view/4459281086/) — bp
-- 📍 **Location:** Houston, TX
-- 💰 **Salary:** $87,000-$102,000
+### [Town Planning | Expression of Interest](https://www.linkedin.com/jobs/view/4198702144/) — Stantec
+- 📍 **Location:** Reading, England, United Kingdom
+- 🕒 **Posted:** 2026-09-01
+
+### [Town Planner/Senior Planner](https://www.linkedin.com/jobs/view/4449010120/) — Bidwells
+- 📍 **Location:** Perth, Scotland, United Kingdom
+- 🕒 **Posted:** 2026-09-01
+
+### [Customer Success Advisor, AEC - French Speaking](https://www.linkedin.com/jobs/view/4451468095/) — Autodesk
+- 📍 **Location:** Denver, CO
 - 🕒 **Posted:** 2026-09-01
