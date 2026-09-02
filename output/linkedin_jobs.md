@@ -1,128 +1,119 @@
 # 🔥 LinkedIn — Sumit's Planning & PropTech Roles
-*Last updated: 2026-09-01 22:22 UTC*
+*Last updated: 2026-09-02 00:48 UTC*
 
-**27 new role(s)** since last run · 27 total in last 1h
+**25 new role(s)** since last run · 25 total in last 1h
 
-### [Customer Success Associate](https://www.linkedin.com/jobs/view/4458986168/) — Peppy
-- 📍 **Location:** London Area, United Kingdom
-- 🕒 **Posted:** 2026-09-01
+### [Senior Customer Success Manager (m/w/d) – B2B SaaS / eCommerce – Berlin, München, Pforzheim (Hybrid)](https://www.linkedin.com/jobs/view/4462109166/) — Ecommerce Guide
+- 📍 **Location:** Berlin, Berlin, Germany
+- 🕒 **Posted:** 2026-09-02
 
-### [Customer Success Lead (Hospitality SaaS / Hybrid)](https://www.linkedin.com/jobs/view/4456216228/) — TalentCo
-- 📍 **Location:** London Area, United Kingdom
-- 🕒 **Posted:** 2026-09-01
+### [Water Infrastructure Planning Engineer](https://www.linkedin.com/jobs/view/4459587199/) — Carollo Engineers
+- 📍 **Location:** Orlando, FL
+- 🕒 **Posted:** 2026-09-02
 
-### [Material Planning Analyst - 3rd Shift](https://www.linkedin.com/jobs/view/4462067793/) — GXO Logistics, Inc.
-- 📍 **Location:** Red Oak, TX
-- 🕒 **Posted:** 2026-09-01
+### [Sr Strategy Planning Analyst](https://www.linkedin.com/jobs/view/4462094906/) — Federal Express Corporation
+- 📍 **Location:** Collierville, TN
+- 💰 **Salary:** $6,168.90-$10,898.39/month
+- 🕒 **Posted:** 2026-09-02
 
-### [Material Planning Analyst - 2nd Shift](https://www.linkedin.com/jobs/view/4462065855/) — GXO Logistics, Inc.
-- 📍 **Location:** Midlothian, TX
-- 🕒 **Posted:** 2026-09-01
+### [Demand Planning Analyst- Automotive After Market (Wheels & Tires)](https://www.linkedin.com/jobs/view/4460669503/) — The Wheel Group
+- 📍 **Location:** Ontario, CA
+- 🕒 **Posted:** 2026-09-02
 
-### [Integrated Business Planning Consultant (Management Consulting Experience Required)](https://www.linkedin.com/jobs/view/4460657629/) — Slalom
-- 📍 **Location:** Tampa, FL
-- 💰 **Salary:** $102,000 to $147,000
-- 🕒 **Posted:** 2026-09-01
+### [Senior Customer Success Manager (Remote - MA)](https://www.linkedin.com/jobs/view/4460692432/) — Nodes & Links
+- 📍 **Location:** Boston, KY
+- 💰 **Salary:** $140,000-$155,000,
+- 🕒 **Posted:** 2026-09-02
 
-### [Integrated Business Planning Consultant (Management Consulting Experience Required)](https://www.linkedin.com/jobs/view/4460651727/) — Slalom
-- 📍 **Location:** Tallahassee, FL
-- 💰 **Salary:** $102,000 to $147,000
-- 🕒 **Posted:** 2026-09-01
-
-### [Production Planning Analyst](https://www.linkedin.com/jobs/view/4459577035/) — Johnson Controls
-- 📍 **Location:** Burlington, MA
-- 💰 **Salary:** $76,100.00/yr - $114,100.00/yr
-- 🕒 **Posted:** 2026-09-01
-
-### [AATC F-16 Mission Planning Analyst](https://www.linkedin.com/jobs/view/4460645886/) — Modern Technology Solutions, Inc. (MTSI)
-- 📍 **Location:** Tucson, AZ
-- 🕒 **Posted:** 2026-09-01
-
-### [Integrated Business Planning Consultant (Management Consulting Experience Required)](https://www.linkedin.com/jobs/view/4460657625/) — Slalom
-- 📍 **Location:** Grand Rapids, MI
-- 💰 **Salary:** $102,000 to $147,000
-- 🕒 **Posted:** 2026-09-01
-
-### [Integrated Business Planning Consultant (Management Consulting Experience Required)](https://www.linkedin.com/jobs/view/4460656673/) — Slalom
-- 📍 **Location:** Salt Lake City, UT
-- 💰 **Salary:** $102,000 to $147,000
-- 🕒 **Posted:** 2026-09-01
-
-### [Integrated Business Planning Consultant (Management Consulting Experience Required)](https://www.linkedin.com/jobs/view/4460651729/) — Slalom
-- 📍 **Location:** Detroit, MI
-- 💰 **Salary:** $102,000 to $147,000
-- 🕒 **Posted:** 2026-09-01
-
-### [Integrated Business Planning Consultant (Management Consulting Experience Required)](https://www.linkedin.com/jobs/view/4460643873/) — Slalom
-- 📍 **Location:** Jacksonville, FL
-- 💰 **Salary:** $102,000 to $147,000
-- 🕒 **Posted:** 2026-09-01
-
-### [Implementation Consultant, Follow Up Boss](https://www.linkedin.com/jobs/view/4462062586/) — Zillow
+### [Customer Success Manager, Strategic](https://www.linkedin.com/jobs/view/4462078895/) — ServiceTitan
 - 📍 **Location:** United States
-- 💰 **Salary:** $31.10 - $49.70 hourly
-- 🕒 **Posted:** 2026-09-01
+- 💰 **Salary:** $111,800 USD - $167,600 USD
+- 🕒 **Posted:** 2026-09-02
 
-### [Customer Success Manager](https://www.linkedin.com/jobs/view/4460647724/) — Kastle Systems
+### [OR1 Customer Success Manager](https://www.linkedin.com/jobs/view/4462110148/) — カールストルツ・エンドスコピー・ジャパン（株）
+- 📍 **Location:** Dallas, TX
+- 🕒 **Posted:** 2026-09-02
+
+### [Product Compliance Consultant](https://www.linkedin.com/jobs/view/4462090994/) — Deloitte
 - 📍 **Location:** Houston, TX
-- 🕒 **Posted:** 2026-09-01
+- 💰 **Salary:** $86,700 to $170,900
+- 🕒 **Posted:** 2026-09-02
 
-### [Solutions Consultant, Staffing](https://www.linkedin.com/jobs/view/4459576046/) — Obble
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-01
+### [Product Compliance Consultant](https://www.linkedin.com/jobs/view/4462094936/) — Deloitte
+- 📍 **Location:** Philadelphia, PA
+- 💰 **Salary:** $86,700 to $170,900
+- 🕒 **Posted:** 2026-09-02
 
-### [2027 Assoc Trade Compliance Analyst](https://www.linkedin.com/jobs/view/4462070484/) — Textron Specialized Vehicles
-- 📍 **Location:** Augusta, GA
-- 🕒 **Posted:** 2026-09-01
+### [Compliance Consultant, Senior](https://www.linkedin.com/jobs/view/4462095654/) — VARITE INC
+- 📍 **Location:** Oakland, CA
+- 💰 **Salary:** $58.00/hr - $60.00/hr
+- 🕒 **Posted:** 2026-09-02
 
-### [Security Compliance Analyst II](https://www.linkedin.com/jobs/view/4462063685/) — Centene Corporation
-- 📍 **Location:** Arizona, United States
-- 💰 **Salary:** $70,100.00 - $126,200.00 per year
-- 🕒 **Posted:** 2026-09-01
+### [Product Compliance Consultant](https://www.linkedin.com/jobs/view/4462109077/) — Deloitte
+- 📍 **Location:** Morristown, NJ
+- 💰 **Salary:** $86,700 to $170,900
+- 🕒 **Posted:** 2026-09-02
 
-### [Security Compliance Analyst II](https://www.linkedin.com/jobs/view/4462057821/) — Centene Corporation
-- 📍 **Location:** Virginia, United States
-- 💰 **Salary:** $70,100.00 - $126,200.00 per year
-- 🕒 **Posted:** 2026-09-01
+### [Product Compliance Consultant](https://www.linkedin.com/jobs/view/4462109084/) — Deloitte
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $86,700 to $170,900
+- 🕒 **Posted:** 2026-09-02
 
-### [Compliance Analyst Level 3](https://www.linkedin.com/jobs/view/4462066637/) — WOOD Federal Solutions
-- 📍 **Location:** Annapolis Junction, MD
-- 💰 **Salary:** $145,000 to $155,000 per year
-- 🕒 **Posted:** 2026-09-01
+### [Product Compliance Consultant](https://www.linkedin.com/jobs/view/4462102235/) — Deloitte
+- 📍 **Location:** Jersey City, NJ
+- 💰 **Salary:** $86,700 to $170,900
+- 🕒 **Posted:** 2026-09-02
 
-### [International Trade Compliance Analyst](https://www.linkedin.com/jobs/view/4459571520/) — MANTECH
-- 📍 **Location:** Charleston, SC
-- 🕒 **Posted:** 2026-09-01
-
-### [2027 Assoc Trade Compliance Analyst](https://www.linkedin.com/jobs/view/4462061673/) — Textron
-- 📍 **Location:** Augusta, GA
-- 🕒 **Posted:** 2026-09-01
-
-### [Compliance Analyst, Entry Level](https://www.linkedin.com/jobs/view/4460648760/) — Jobright.ai
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-01
-
-### [Integrated Business Planning Consultant (Management Consulting Experience Required)](https://www.linkedin.com/jobs/view/4460646878/) — Slalom
+### [Product Compliance Consultant](https://www.linkedin.com/jobs/view/4462099321/) — Deloitte
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $102,000 to $147,000
-- 🕒 **Posted:** 2026-09-01
+- 💰 **Salary:** $86,700 to $170,900
+- 🕒 **Posted:** 2026-09-02
 
-### [Security Compliance Analyst II](https://www.linkedin.com/jobs/view/4462051936/) — Centene Corporation
+### [Principal AI Transformation Specialist - Amazon Quick, Customer Success Center of Excellence](https://www.linkedin.com/jobs/view/4462103014/) — Amazon Web Services (AWS)
+- 📍 **Location:** Seattle, WA
+- 🕒 **Posted:** 2026-09-02
+
+### [Senior Customer Success Manager (A285A0C)](https://www.linkedin.com/jobs/view/4462099201/) — Referment
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $110,000.00/yr - $125,000.00/yr
+- 🕒 **Posted:** 2026-09-02
+
+### [Senior Customer Success Manager](https://www.linkedin.com/jobs/view/4462099368/) — MongoDB
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $87,000—$172,000 USD
+- 🕒 **Posted:** 2026-09-02
+
+### [Senior Compliance Analyst (MS), AML (Anti-Money Laundering)](https://www.linkedin.com/jobs/view/4459578328/) — ACA Group
 - 📍 **Location:** New York, United States
-- 💰 **Salary:** $70,100.00 - $126,200.00 per year
-- 🕒 **Posted:** 2026-09-01
+- 🕒 **Posted:** 2026-09-02
 
-### [Lead Security Compliance Analyst](https://www.linkedin.com/jobs/view/4462050983/) — Centene Corporation
-- 📍 **Location:** New York, United States
-- 💰 **Salary:** $107,700.00 - $199,300.00 per year
-- 🕒 **Posted:** 2026-09-01
+### [Principal AI Transformation Specialist - Amazon Quick, Customer Success Center of Excellence](https://www.linkedin.com/jobs/view/4462091742/) — Amazon Web Services (AWS)
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-09-02
 
-### [Integrated Business Planning Consultant (Management Consulting Experience Required)](https://www.linkedin.com/jobs/view/4460654696/) — Slalom
+### [Principal AI Transformation Specialist - Amazon Quick, Customer Success Center of Excellence](https://www.linkedin.com/jobs/view/4462084812/) — Amazon Web Services (AWS)
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $102,000 to $147,000
+- 🕒 **Posted:** 2026-09-02
+
+### [Product Compliance Consultant](https://www.linkedin.com/jobs/view/4462099318/) — Deloitte
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $86,700 to $170,900
+- 🕒 **Posted:** 2026-09-02
+
+### [Senior Customer Success Manager, Consumables](https://www.linkedin.com/jobs/view/4462102016/) — Amazon
+- 📍 **Location:** Austin, TX
+- 🕒 **Posted:** 2026-09-02
+
+### [Senior Customer Success Manager - bilingual EN/FR](https://www.linkedin.com/jobs/view/4462083687/) — CoderPad
+- 📍 **Location:** Ireland
 - 🕒 **Posted:** 2026-09-01
 
-### [Integrated Business Planning Consultant (Management Consulting Experience Required)](https://www.linkedin.com/jobs/view/4460657627/) — Slalom
-- 📍 **Location:** Austin, TX
-- 💰 **Salary:** $102,000 to $147,000
+### [Senior Customer Success Manager (Remote - MD)](https://www.linkedin.com/jobs/view/4460692322/) — Nodes & Links
+- 📍 **Location:** Annapolis, IL
+- 💰 **Salary:** $140,000-$155,000,
+- 🕒 **Posted:** 2026-09-01
+
+### [Customer Success Manager, Mid-Market Book of 20 to 30, Build the Function | 3656716](https://www.linkedin.com/jobs/view/4460682362/) — Pave Talent
+- 📍 **Location:** United States
+- 💰 **Salary:** $120,000.00/yr - $150,000.00/yr
 - 🕒 **Posted:** 2026-09-01
