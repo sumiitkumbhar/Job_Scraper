@@ -1,14 +1,198 @@
 {
-  "updated_at": "2026-09-02T10:55:47.747883+00:00",
-  "register_source": "https://assets.publishing.service.gov.uk/media/6a97e8bd01bbff0bf8f97c6f/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-09-02.csv",
-  "register_org_count": 126487,
+  "updated_at": "2026-09-03T10:54:50.471465+00:00",
+  "register_source": "https://assets.publishing.service.gov.uk/media/6a9935c5df4246cf45e4685a/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-09-03.csv",
+  "register_org_count": 126488,
   "company_counts": {
-    "confirmed": 104,
-    "likely": 327,
-    "not_found": 315,
+    "confirmed": 109,
+    "likely": 338,
+    "not_found": 326,
     "unknown": 2
   },
   "companies": {
+    "ARC Intelligence": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Clarivate": {
+      "status": "likely",
+      "matched_name": "CLARI UK LIMITED"
+    },
+    "Jobgether": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "ADP": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Fife Council": {
+      "status": "confirmed",
+      "matched_name": "Fife Council"
+    },
+    "COVENTRY CITY COUNCIL": {
+      "status": "confirmed",
+      "matched_name": "Coventry City Council"
+    },
+    "CONMED": {
+      "status": "confirmed",
+      "matched_name": "CONMED"
+    },
+    "GPA CONSULTING": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Clay County, Florida": {
+      "status": "likely",
+      "matched_name": "Count LTD"
+    },
+    "Drone.vet": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Loyola Medicine": {
+      "status": "likely",
+      "matched_name": "MEDICIN"
+    },
+    "GamblingCareers.com": {
+      "status": "likely",
+      "matched_name": "Care & Co Ltd"
+    },
+    "ACA Group": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Swooped": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Esper": {
+      "status": "confirmed",
+      "matched_name": "Esper Ltd"
+    },
+    "Arup": {
+      "status": "likely",
+      "matched_name": "Hemaraji Santharupan T/A Baba Food City"
+    },
+    "Veson Nautical": {
+      "status": "confirmed",
+      "matched_name": "Veson Nautical Limited"
+    },
+    "City of Memphis": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Hallmark: Healthcare's Workforce Operating System": {
+      "status": "likely",
+      "matched_name": "Care & Co Ltd"
+    },
+    "Jobright.ai": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Osaic": {
+      "status": "likely",
+      "matched_name": "ioMosaic International Limited"
+    },
+    "Trinity Health": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Ultimus Fund Solutions": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Cority": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "FIS": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "ElevenLabs": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Silverfin": {
+      "status": "likely",
+      "matched_name": "Silverfin Software Ltd"
+    },
+    "voize": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Fidelity Investments": {
+      "status": "likely",
+      "matched_name": "Fidel Limited"
+    },
+    "SMEUSA": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Nightwing": {
+      "status": "likely",
+      "matched_name": "Twin Group"
+    },
+    "Alpha Innovation Partners": {
+      "status": "likely",
+      "matched_name": "Ovation"
+    },
+    "LanceSoft, Inc.": {
+      "status": "confirmed",
+      "matched_name": "Lancesoft Limited"
+    },
+    "Woodstream Corporation": {
+      "status": "likely",
+      "matched_name": "Wood Group UK Limited"
+    },
+    "Smart Capital Center": {
+      "status": "likely",
+      "matched_name": "Capita Plc"
+    },
+    "RedCloud Consulting": {
+      "status": "likely",
+      "matched_name": "Cloud Consulting Group Ltd"
+    },
+    "Lanesurf": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Assembled": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "STRIVE Recruitment Inc.": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Informativ": {
+      "status": "likely",
+      "matched_name": "Inform Holdings Ltd"
+    },
+    "SHI International Corp.": {
+      "status": "likely",
+      "matched_name": "CO INTERNATIONAL LTD"
+    },
+    "SWBC": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Crawford Thomas Recruiting": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Motion Recruitment": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "American Modern Insurance Group": {
+      "status": "likely",
+      "matched_name": "Modern"
+    },
+    "Intact Technology": {
+      "status": "likely",
+      "matched_name": "Technolog Limited"
+    },
     "Tetra Tech": {
       "status": "confirmed",
       "matched_name": "Tetra Tech Group Limited"
@@ -97,10 +281,6 @@
       "status": "confirmed",
       "matched_name": "MongoDB UK Limited"
     },
-    "ACA Group": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "Amazon": {
       "status": "likely",
       "matched_name": "Amazon Charitable Trust"
@@ -165,10 +345,6 @@
       "status": "confirmed",
       "matched_name": "Mantech UK Ltd"
     },
-    "Jobright.ai": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "Klipboard": {
       "status": "not_found",
       "matched_name": null
@@ -196,10 +372,6 @@
     "Newport News Shipbuilding, A Division of HII": {
       "status": "likely",
       "matched_name": "ISIO GROUP LIMITED"
-    },
-    "Fidelity Investments": {
-      "status": "likely",
-      "matched_name": "Fidel Limited"
     },
     "ConstructConnect": {
       "status": "likely",
@@ -485,10 +657,6 @@
       "status": "not_found",
       "matched_name": null
     },
-    "Jobgether": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "Culture Amp": {
       "status": "confirmed",
       "matched_name": "Culture Amp Limited"
@@ -530,10 +698,6 @@
       "matched_name": null
     },
     "WSP in the UK & Ireland": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "FIS": {
       "status": "not_found",
       "matched_name": null
     },
@@ -620,10 +784,6 @@
     "MORAY COUNCIL": {
       "status": "confirmed",
       "matched_name": "Moray Council"
-    },
-    "Arup": {
-      "status": "likely",
-      "matched_name": "Hemaraji Santharupan T/A Baba Food City"
     },
     "Michael Kors": {
       "status": "confirmed",
@@ -2948,58 +3108,6 @@
     "Marin Municipal Water District": {
       "status": "not_found",
       "matched_name": null
-    },
-    "Remedial Construction Services, L.P. (RECON)": {
-      "status": "likely",
-      "matched_name": "On Services UK Ltd"
-    },
-    "Pacific Power": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Timmons Group": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Coinbase": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "City of Gresham, OR": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Bechtel Corporation": {
-      "status": "likely",
-      "matched_name": "Bechtel Limited"
-    },
-    "NatureBridge": {
-      "status": "likely",
-      "matched_name": "Bridge UK, Limited"
-    },
-    "hims & hers": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "State of Michigan, MI": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Carlsbad, City of (CA)": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "CA HIGH SPEED RAIL AUTHORITY": {
-      "status": "likely",
-      "matched_name": "Speed Group (Holdings) Ltd"
-    },
-    "City of Salem, Oregon": {
-      "status": "likely",
-      "matched_name": "Alem Ltd"
-    },
-    "Pacific Seafood": {
-      "status": "confirmed",
-      "matched_name": "Pacific Seafood Ltd"
     }
   }
 }
