@@ -1,17 +1,247 @@
 {
-  "updated_at": "2026-09-02T11:33:26.508986+00:00",
+  "updated_at": "2026-09-03T11:29:27.693839+00:00",
   "source_files": [
     "https://www.dol.gov/media/LCA_Disclosure_Data_FY2026_Q3.xlsx",
     "https://www.dol.gov/sites/dolgov/files/ETA/oflc/pdfs/LCA_Disclosure_Data_FY2025_Q4.xlsx"
   ],
   "employer_count": 60026,
   "company_counts": {
-    "confirmed": 131,
-    "likely": 257,
-    "not_found": 358,
+    "confirmed": 138,
+    "likely": 265,
+    "not_found": 370,
     "unknown": 2
   },
   "companies": {
+    "ARC Intelligence": {
+      "status": "likely",
+      "matched_name": "Intel Corporation",
+      "certified_lca_count": 2012
+    },
+    "Clarivate": {
+      "status": "likely",
+      "matched_name": "Clari, Inc.",
+      "certified_lca_count": 15
+    },
+    "Jobgether": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "ADP": {
+      "status": "confirmed",
+      "matched_name": "ADP, Inc.",
+      "certified_lca_count": 58
+    },
+    "Fife Council": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "COVENTRY CITY COUNCIL": {
+      "status": "likely",
+      "matched_name": "Entry Inc",
+      "certified_lca_count": 1
+    },
+    "CONMED": {
+      "status": "confirmed",
+      "matched_name": "ConMed Corporation",
+      "certified_lca_count": 2
+    },
+    "GPA CONSULTING": {
+      "status": "likely",
+      "matched_name": "PA Consulting Group, Inc.",
+      "certified_lca_count": 20
+    },
+    "Clay County, Florida": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Drone.vet": {
+      "status": "likely",
+      "matched_name": "E Vet, Inc.",
+      "certified_lca_count": 1
+    },
+    "Loyola Medicine": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "GamblingCareers.com": {
+      "status": "likely",
+      "matched_name": "REER INC",
+      "certified_lca_count": 3
+    },
+    "ACA Group": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Swooped": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Esper": {
+      "status": "likely",
+      "matched_name": "Nueva Esperanza, Inc.",
+      "certified_lca_count": 3
+    },
+    "Arup": {
+      "status": "likely",
+      "matched_name": "ARUP Laboratories",
+      "certified_lca_count": 96
+    },
+    "Veson Nautical": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "City of Memphis": {
+      "status": "confirmed",
+      "matched_name": "City of Memphis",
+      "certified_lca_count": 2
+    },
+    "Hallmark: Healthcare's Workforce Operating System": {
+      "status": "likely",
+      "matched_name": "KFORCE INC.",
+      "certified_lca_count": 773
+    },
+    "Jobright.ai": {
+      "status": "likely",
+      "matched_name": "Jobright Inc.",
+      "certified_lca_count": 1
+    },
+    "Osaic": {
+      "status": "likely",
+      "matched_name": "Mosaic Health System",
+      "certified_lca_count": 15
+    },
+    "Trinity Health": {
+      "status": "confirmed",
+      "matched_name": "Trinity Health",
+      "certified_lca_count": 17
+    },
+    "Ultimus Fund Solutions": {
+      "status": "likely",
+      "matched_name": "SOLUTIONS INC",
+      "certified_lca_count": 1
+    },
+    "Cority": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "FIS": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "ElevenLabs": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Silverfin": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "voize": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Fidelity Investments": {
+      "status": "likely",
+      "matched_name": "Fidelity Technology Group, LLC d/b/a Fidelity Investments",
+      "certified_lca_count": 2661
+    },
+    "SMEUSA": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Nightwing": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Alpha Innovation Partners": {
+      "status": "likely",
+      "matched_name": "Innov Corp",
+      "certified_lca_count": 1
+    },
+    "LanceSoft, Inc.": {
+      "status": "confirmed",
+      "matched_name": "LanceSoft Inc.",
+      "certified_lca_count": 52
+    },
+    "Woodstream Corporation": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Smart Capital Center": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "RedCloud Consulting": {
+      "status": "confirmed",
+      "matched_name": "RedCloud Consulting, Inc.",
+      "certified_lca_count": 1
+    },
+    "Lanesurf": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Assembled": {
+      "status": "confirmed",
+      "matched_name": "Assembled, Inc.",
+      "certified_lca_count": 1
+    },
+    "STRIVE Recruitment Inc.": {
+      "status": "likely",
+      "matched_name": "Rive Inc.",
+      "certified_lca_count": 2
+    },
+    "Informativ": {
+      "status": "confirmed",
+      "matched_name": "Informativ, LLC",
+      "certified_lca_count": 1
+    },
+    "SHI International Corp.": {
+      "status": "confirmed",
+      "matched_name": "SHI International Corp.",
+      "certified_lca_count": 1
+    },
+    "SWBC": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Crawford Thomas Recruiting": {
+      "status": "likely",
+      "matched_name": "Crawford & Company",
+      "certified_lca_count": 4
+    },
+    "Motion Recruitment": {
+      "status": "likely",
+      "matched_name": "Motion Recruitment Partners, LLC",
+      "certified_lca_count": 35
+    },
+    "American Modern Insurance Group": {
+      "status": "likely",
+      "matched_name": "Merican, Inc.",
+      "certified_lca_count": 3
+    },
+    "Intact Technology": {
+      "status": "likely",
+      "matched_name": "Technology Holding, LLC",
+      "certified_lca_count": 2
+    },
     "Tetra Tech": {
       "status": "confirmed",
       "matched_name": "Tetra Tech, Inc.",
@@ -122,11 +352,6 @@
       "matched_name": "MONGODB, INC.",
       "certified_lca_count": 147
     },
-    "ACA Group": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
     "Amazon": {
       "status": "confirmed",
       "matched_name": "Amazon LLC",
@@ -207,11 +432,6 @@
       "matched_name": null,
       "certified_lca_count": 0
     },
-    "Jobright.ai": {
-      "status": "likely",
-      "matched_name": "Jobright Inc.",
-      "certified_lca_count": 1
-    },
     "Klipboard": {
       "status": "not_found",
       "matched_name": null,
@@ -246,11 +466,6 @@
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
-    },
-    "Fidelity Investments": {
-      "status": "likely",
-      "matched_name": "Fidelity Technology Group, LLC d/b/a Fidelity Investments",
-      "certified_lca_count": 2661
     },
     "ConstructConnect": {
       "status": "not_found",
@@ -607,11 +822,6 @@
       "matched_name": null,
       "certified_lca_count": 0
     },
-    "Jobgether": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
     "Culture Amp": {
       "status": "not_found",
       "matched_name": null,
@@ -663,11 +873,6 @@
       "certified_lca_count": 0
     },
     "WSP in the UK & Ireland": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "FIS": {
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
@@ -776,11 +981,6 @@
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
-    },
-    "Arup": {
-      "status": "likely",
-      "matched_name": "ARUP Laboratories",
-      "certified_lca_count": 96
     },
     "Michael Kors": {
       "status": "likely",
@@ -3686,71 +3886,6 @@
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
-    },
-    "Remedial Construction Services, L.P. (RECON)": {
-      "status": "likely",
-      "matched_name": "Corporation Service Company",
-      "certified_lca_count": 21
-    },
-    "Pacific Power": {
-      "status": "likely",
-      "matched_name": "Sierra Pacific Power Company",
-      "certified_lca_count": 1
-    },
-    "Timmons Group": {
-      "status": "confirmed",
-      "matched_name": "Timmons Group",
-      "certified_lca_count": 1
-    },
-    "Coinbase": {
-      "status": "confirmed",
-      "matched_name": "Coinbase, Inc.",
-      "certified_lca_count": 145
-    },
-    "City of Gresham, OR": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Bechtel Corporation": {
-      "status": "likely",
-      "matched_name": "Bechtel Energy Inc.",
-      "certified_lca_count": 51
-    },
-    "NatureBridge": {
-      "status": "likely",
-      "matched_name": "Bridge Group, LLC",
-      "certified_lca_count": 6
-    },
-    "hims & hers": {
-      "status": "likely",
-      "matched_name": "Hims, Inc.",
-      "certified_lca_count": 25
-    },
-    "State of Michigan, MI": {
-      "status": "likely",
-      "matched_name": "State of Michigan",
-      "certified_lca_count": 1
-    },
-    "Carlsbad, City of (CA)": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "CA HIGH SPEED RAIL AUTHORITY": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "City of Salem, Oregon": {
-      "status": "likely",
-      "matched_name": "City of Salem",
-      "certified_lca_count": 2
-    },
-    "Pacific Seafood": {
-      "status": "likely",
-      "matched_name": "Pacific Seafood - Portland, LLC",
-      "certified_lca_count": 1
     }
   }
 }
