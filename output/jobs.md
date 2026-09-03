@@ -1,20 +1,12 @@
 # 🏛 Priority Employers — Sumit's Planning & PropTech Roles
-*Last updated: 2026-09-02 08:36 UTC*
+*Last updated: 2026-09-03 09:02 UTC*
 
-**4 new role(s)** since last run · 4 total in last 24h
+**2 new role(s)** since last run · 2 total in last 24h
 
-### [Graduate Environmental Planning Consultant](https://www.linkedin.com/jobs/view/4461762523/) — Tetra Tech
+### [Associate Town Planning](https://www.linkedin.com/jobs/view/4460507611/) — Ramboll
 - 📍 **Location:** London, England, United Kingdom
-- 🕒 **Posted:** 2026-09-01
+- 🕒 **Posted:** 2026-09-02
 
-### [Town Planning | Expression of Interest](https://www.linkedin.com/jobs/view/4198702144/) — Stantec
-- 📍 **Location:** Reading, England, United Kingdom
-- 🕒 **Posted:** 2026-09-01
-
-### [Town Planner/Senior Planner](https://www.linkedin.com/jobs/view/4449010120/) — Bidwells
-- 📍 **Location:** Perth, Scotland, United Kingdom
-- 🕒 **Posted:** 2026-09-01
-
-### [Customer Success Advisor, AEC - French Speaking](https://www.linkedin.com/jobs/view/4451468095/) — Autodesk
-- 📍 **Location:** Denver, CO
-- 🕒 **Posted:** 2026-09-01
+### [Town Planning | Expression of Interest](https://www.linkedin.com/jobs/view/4198703121/) — Stantec
+- 📍 **Location:** Newcastle Upon Tyne, England, United Kingdom
+- 🕒 **Posted:** 2026-09-02
