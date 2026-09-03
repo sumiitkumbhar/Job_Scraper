@@ -1,57 +1,39 @@
 # 🔥 LinkedIn — Sumit's Planning & PropTech Roles
-*Last updated: 2026-09-02 22:22 UTC*
+*Last updated: 2026-09-03 00:49 UTC*
 
-**12 new role(s)** since last run · 12 total in last 1h
+**8 new role(s)** since last run · 8 total in last 1h
 
-### [Senior Governance, Risk and Compliance Analyst](https://www.linkedin.com/jobs/view/4462488161/) — Arup
-- 📍 **Location:** Birmingham, England, United Kingdom
-- 🕒 **Posted:** 2026-09-02
+### [Senior Geospatial Analyst JSOC](https://www.linkedin.com/jobs/view/4461348517/) — Drone.vet
+- 📍 **Location:** Fort Liberty, NC
+- 🕒 **Posted:** 2026-09-03
 
-### [Senior Commercial Solutions Consultant](https://www.linkedin.com/jobs/view/4462471699/) — Veson Nautical
-- 📍 **Location:** London, England, United Kingdom
-- 🕒 **Posted:** 2026-09-02
-
-### [Senior Governance, Risk and Compliance Analyst](https://www.linkedin.com/jobs/view/4462475799/) — Arup
-- 📍 **Location:** Sheffield, England, United Kingdom
-- 🕒 **Posted:** 2026-09-02
-
-### [Senior Governance, Risk and Compliance Analyst](https://www.linkedin.com/jobs/view/4462487332/) — Arup
-- 📍 **Location:** Leeds, England, United Kingdom
-- 🕒 **Posted:** 2026-09-02
-
-### [Senior Governance, Risk and Compliance Analyst](https://www.linkedin.com/jobs/view/4462470897/) — Arup
-- 📍 **Location:** Cardiff, Wales, United Kingdom
-- 🕒 **Posted:** 2026-09-02
-
-### [Senior Governance, Risk and Compliance Analyst](https://www.linkedin.com/jobs/view/4462485438/) — Arup
-- 📍 **Location:** Manchester, England, United Kingdom
-- 🕒 **Posted:** 2026-09-02
-
-### [Office of Emergency Management Planning Officer](https://www.linkedin.com/jobs/view/4458678708/) — City of Memphis
-- 📍 **Location:** Memphis, TN
-- 💰 **Salary:** $94,759.86 - $94,759.86
-- 🕒 **Posted:** 2026-09-02
-
-### [Customer Success Manager](https://www.linkedin.com/jobs/view/4459994774/) — Hallmark: Healthcare's Workforce Operating System
-- 📍 **Location:** Dallas, TX
-- 💰 **Salary:** $71,000.00/yr - $78,000.00/yr
-- 🕒 **Posted:** 2026-09-02
-
-### [Customer Success Specialist, Entry Level](https://www.linkedin.com/jobs/view/4461348077/) — Jobright.ai
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-02
-
-### [Compliance Analyst - IA Administration](https://www.linkedin.com/jobs/view/4456290453/) — Osaic
-- 📍 **Location:** Oakdale, MN
-- 💰 **Salary:** $65k - $69k per year
-- 🕒 **Posted:** 2026-09-02
-
-### [340B Compliance Analyst](https://www.linkedin.com/jobs/view/4462470749/) — Trinity Health
+### [340B Compliance Analyst](https://www.linkedin.com/jobs/view/4462714313/) — Loyola Medicine
 - 📍 **Location:** Maywood, IL
 - 💰 **Salary:** $53,144 to $82,368
+- 🕒 **Posted:** 2026-09-03
+
+### [Cyber Compliance Analyst](https://www.linkedin.com/jobs/view/4462732234/) — GamblingCareers.com
+- 📍 **Location:** Las Vegas, NV
+- 💰 **Salary:** $104,951 - $175,500 per year
+- 🕒 **Posted:** 2026-09-03
+
+### [Senior Compliance Analyst (MS), AML (Anti-Money Laundering)](https://www.linkedin.com/jobs/view/4460433153/) — ACA Group
+- 📍 **Location:** Portland, ME
+- 🕒 **Posted:** 2026-09-03
+
+### [Senior Compliance Analyst (MS), AML (Anti-Money Laundering)](https://www.linkedin.com/jobs/view/4460440170/) — ACA Group
+- 📍 **Location:** Idaho, United States
+- 🕒 **Posted:** 2026-09-03
+
+### [Customer Success Manager - Mid-Market / Enterprise](https://www.linkedin.com/jobs/view/4462706280/) — Swooped
+- 📍 **Location:** United States
+- 💰 **Salary:** $100,000.00/yr - $100,000.00/yr
 - 🕒 **Posted:** 2026-09-02
 
-### [Senior Compliance Analyst - Due Diligence & Compliance Testing](https://www.linkedin.com/jobs/view/4459988953/) — Ultimus Fund Solutions
-- 📍 **Location:** Hauppauge, NY
-- 💰 **Salary:** $75,000.00/yr - $87,000.00/yr
+### [Customer Success Lead](https://www.linkedin.com/jobs/view/4462493715/) — Esper
+- 📍 **Location:** Austin, TX
+- 🕒 **Posted:** 2026-09-02
+
+### [Customer Success Lead](https://www.linkedin.com/jobs/view/4462706314/) — Esper
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-02
