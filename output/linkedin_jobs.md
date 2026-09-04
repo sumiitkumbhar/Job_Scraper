@@ -1,43 +1,44 @@
 # 🔥 LinkedIn — Sumit's Planning & PropTech Roles
-*Last updated: 2026-09-04 21:33 UTC*
+*Last updated: 2026-09-04 23:44 UTC*
 
 **9 new role(s)** since last run · 9 total in last 1h
 
-### [Graduate Planner](https://www.linkedin.com/jobs/view/4462322189/) — United Infrastructure Ltd
-- 📍 **Location:** Alness, Scotland, United Kingdom
+### [Emergency Planning Officer](https://www.linkedin.com/jobs/view/4460629111/) — Slough Borough Council
+- 📍 **Location:** Slough, England, United Kingdom
 - 🕒 **Posted:** 2026-09-04
 
-### [Senior Resource Planning Analyst](https://www.linkedin.com/jobs/view/4463631295/) — Royal London
-- 📍 **Location:** Alderley Edge, England, United Kingdom
+### [Assistant Planner](https://www.linkedin.com/jobs/view/4463671262/) — Grocery Outlet
+- 📍 **Location:** Emeryville, CA
+- 💰 **Salary:** $65,000 - $70,000 Annually
 - 🕒 **Posted:** 2026-09-04
 
-### [Senior Financial Planning Analyst](https://www.linkedin.com/jobs/view/4461654574/) — King Arthur Baking Company
-- 📍 **Location:** White River Junction, VT
-- 💰 **Salary:** $88,500 to $119,500
+### [Business Planning Analyst I Graduate](https://www.linkedin.com/jobs/view/4463659394/) — Hewlett Packard Enterprise
+- 📍 **Location:** Andover, MA
 - 🕒 **Posted:** 2026-09-04
 
-### [SMB Customer Success Manager - Americas](https://www.linkedin.com/jobs/view/4462322278/) — Ashby
+### [Urban Planner](https://www.linkedin.com/jobs/view/4462344061/) — Ensis Corp
+- 📍 **Location:** Orange County, CA
+- 💰 **Salary:** $90,000.00/yr - $110,000.00/yr
+- 🕒 **Posted:** 2026-09-04
+
+### [Customer Success Manager](https://www.linkedin.com/jobs/view/4462325404/) — Trustpilot Italia
+- 📍 **Location:** Denver, CO
+- 💰 **Salary:** $65,000-77,000
+- 🕒 **Posted:** 2026-09-04
+
+### [Customer Success Onboarding Specialist](https://www.linkedin.com/jobs/view/4463648922/) — Housecall Pro
 - 📍 **Location:** United States
-- 💰 **Salary:** $80,000.00/yr - $138,000.00/yr
+- 💰 **Salary:** $20.31-$28.21/hour
 - 🕒 **Posted:** 2026-09-04
 
-### [Customer Success Manager](https://www.linkedin.com/jobs/view/4463631583/) — SageNet
-- 📍 **Location:** Tulsa, OK
+### [Senior Solutions Consultant (Post-Sales) I](https://www.linkedin.com/jobs/view/4461418040/) — PreSales Collective
+- 📍 **Location:** New York, United States
 - 🕒 **Posted:** 2026-09-04
 
-### [Customer Success Executive](https://www.linkedin.com/jobs/view/4461408310/) — Okta
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $204,000 USD - $281,000 USD
+### [Senior Customer Success Manager](https://www.linkedin.com/jobs/view/4462491290/) — Hewlett Packard Enterprise
+- 📍 **Location:** New York, United States
 - 🕒 **Posted:** 2026-09-04
 
-### [Senior Customer Success Manager](https://www.linkedin.com/jobs/view/4461409246/) — Recharge
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-04
-
-### [ERP Controls & Compliance Analyst](https://www.linkedin.com/jobs/view/4462327033/) — Teledyne Technologies Incorporated
-- 📍 **Location:** Huntsville, AL
-- 🕒 **Posted:** 2026-09-04
-
-### [Customer Success Manager](https://www.linkedin.com/jobs/view/4463627805/) — Ordergroove
-- 📍 **Location:** New York, NY
+### [Customer Success Specialist](https://www.linkedin.com/jobs/view/4463668293/) — Knomee
+- 📍 **Location:** Foster City, CA
 - 🕒 **Posted:** 2026-09-04
