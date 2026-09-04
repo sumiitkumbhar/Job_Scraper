@@ -1,17 +1,302 @@
 {
-  "updated_at": "2026-09-03T11:29:27.693839+00:00",
+  "updated_at": "2026-09-04T11:33:08.205295+00:00",
   "source_files": [
     "https://www.dol.gov/media/LCA_Disclosure_Data_FY2026_Q3.xlsx",
     "https://www.dol.gov/sites/dolgov/files/ETA/oflc/pdfs/LCA_Disclosure_Data_FY2025_Q4.xlsx"
   ],
   "employer_count": 60026,
   "company_counts": {
-    "confirmed": 138,
-    "likely": 265,
-    "not_found": 370,
+    "confirmed": 150,
+    "likely": 277,
+    "not_found": 386,
     "unknown": 2
   },
   "companies": {
+    "Esri UK": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Fin": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "South West Water": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Herefordshire Council": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "JNP Industries": {
+      "status": "likely",
+      "matched_name": "INDUS GROUP, INC.",
+      "certified_lca_count": 47
+    },
+    "WMJobs": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Skaylink": {
+      "status": "likely",
+      "matched_name": "YLINK LLC",
+      "certified_lca_count": 1
+    },
+    "HSI": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Nuix": {
+      "status": "likely",
+      "matched_name": "INUIX LLC",
+      "certified_lca_count": 1
+    },
+    "Uber": {
+      "status": "likely",
+      "matched_name": "Uber Freight US LLC",
+      "certified_lca_count": 61
+    },
+    "Insperity": {
+      "status": "likely",
+      "matched_name": "Insperity Services, L.P.",
+      "certified_lca_count": 21
+    },
+    "Brighthouse Financial": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Referment": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Amazon": {
+      "status": "confirmed",
+      "matched_name": "Amazon LLC",
+      "certified_lca_count": 2
+    },
+    "Mimecast": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Zappos": {
+      "status": "likely",
+      "matched_name": "Zappos.com LLC",
+      "certified_lca_count": 46
+    },
+    "Sovos Latinoam\u00e9rica": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "University of Mississippi Medical Center": {
+      "status": "confirmed",
+      "matched_name": "University of Mississippi Medical Center",
+      "certified_lca_count": 94
+    },
+    "TEKsystems": {
+      "status": "confirmed",
+      "matched_name": "TEKsystems, Inc.",
+      "certified_lca_count": 16
+    },
+    "LawVu": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Southern Company": {
+      "status": "likely",
+      "matched_name": "SOUTHERN METHODIST UNIVERSITY",
+      "certified_lca_count": 41
+    },
+    "Lace": {
+      "status": "likely",
+      "matched_name": "PLACE studio, LLC",
+      "certified_lca_count": 3
+    },
+    "Swooped": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Savills": {
+      "status": "confirmed",
+      "matched_name": "Savills, Inc.",
+      "certified_lca_count": 2
+    },
+    "T.D. Williamson": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "The L.E. Myers Co.": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Insight Global": {
+      "status": "confirmed",
+      "matched_name": "Insight Global, LLC",
+      "certified_lca_count": 472
+    },
+    "Raymond James": {
+      "status": "likely",
+      "matched_name": "The Raymond Corporation",
+      "certified_lca_count": 14
+    },
+    "ISO New England Inc.": {
+      "status": "confirmed",
+      "matched_name": "ISO New England Inc.",
+      "certified_lca_count": 8
+    },
+    "Planhat": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "CyberFOX": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Sprout Social, Inc.": {
+      "status": "confirmed",
+      "matched_name": "Sprout Social, Inc.",
+      "certified_lca_count": 2
+    },
+    "Arbill": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Jobright.ai": {
+      "status": "likely",
+      "matched_name": "Jobright Inc.",
+      "certified_lca_count": 1
+    },
+    "MANTECH": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Lidl US": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Klipboard": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Trintech": {
+      "status": "confirmed",
+      "matched_name": "Trintech Inc.",
+      "certified_lca_count": 4
+    },
+    "THG Ingenuity": {
+      "status": "likely",
+      "matched_name": "Enuit, LLC",
+      "certified_lca_count": 2
+    },
+    "SPS Commerce": {
+      "status": "confirmed",
+      "matched_name": "SPS Commerce, Inc.",
+      "certified_lca_count": 1
+    },
+    "PTC": {
+      "status": "confirmed",
+      "matched_name": "PTC Inc.",
+      "certified_lca_count": 38
+    },
+    "NVIDIA AI": {
+      "status": "likely",
+      "matched_name": "NVIDIA Corporation",
+      "certified_lca_count": 2884
+    },
+    "Broadcom": {
+      "status": "confirmed",
+      "matched_name": "Broadcom Corporation",
+      "certified_lca_count": 101
+    },
+    "Devon Energy": {
+      "status": "likely",
+      "matched_name": "Devon Energy Production Company, LP",
+      "certified_lca_count": 3
+    },
+    "Masis Professional Group": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "PwC": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "AtkinsR\u00e9alis": {
+      "status": "likely",
+      "matched_name": "AtkinsR\u00e9alis USA Inc.",
+      "certified_lca_count": 11
+    },
+    "HDR": {
+      "status": "confirmed",
+      "matched_name": "HDR, Inc.",
+      "certified_lca_count": 7
+    },
+    "Workday": {
+      "status": "confirmed",
+      "matched_name": "Workday, Inc.",
+      "certified_lca_count": 308
+    },
+    "OpenGov Inc.": {
+      "status": "confirmed",
+      "matched_name": "OpenGov, Inc.",
+      "certified_lca_count": 14
+    },
+    "Teamworks": {
+      "status": "likely",
+      "matched_name": "Teamworks Innovations, Inc.",
+      "certified_lca_count": 1
+    },
+    "Solstice Advanced Materials": {
+      "status": "likely",
+      "matched_name": "Solstice Advanced Materials US, Inc.",
+      "certified_lca_count": 21
+    },
+    "Murphy Oil Corporation": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Inceed": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Austal USA": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "KWI": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "SHI International Corp.": {
+      "status": "confirmed",
+      "matched_name": "SHI International Corp.",
+      "certified_lca_count": 1
+    },
     "ARC Intelligence": {
       "status": "likely",
       "matched_name": "Intel Corporation",
@@ -77,11 +362,6 @@
       "matched_name": null,
       "certified_lca_count": 0
     },
-    "Swooped": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
     "Esper": {
       "status": "likely",
       "matched_name": "Nueva Esperanza, Inc.",
@@ -106,11 +386,6 @@
       "status": "likely",
       "matched_name": "KFORCE INC.",
       "certified_lca_count": 773
-    },
-    "Jobright.ai": {
-      "status": "likely",
-      "matched_name": "Jobright Inc.",
-      "certified_lca_count": 1
     },
     "Osaic": {
       "status": "likely",
@@ -210,11 +485,6 @@
     "Informativ": {
       "status": "confirmed",
       "matched_name": "Informativ, LLC",
-      "certified_lca_count": 1
-    },
-    "SHI International Corp.": {
-      "status": "confirmed",
-      "matched_name": "SHI International Corp.",
       "certified_lca_count": 1
     },
     "SWBC": {
@@ -342,20 +612,10 @@
       "matched_name": "Amazon Web Services, Inc.",
       "certified_lca_count": 2987
     },
-    "Referment": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
     "MongoDB": {
       "status": "confirmed",
       "matched_name": "MONGODB, INC.",
       "certified_lca_count": 147
-    },
-    "Amazon": {
-      "status": "confirmed",
-      "matched_name": "Amazon LLC",
-      "certified_lca_count": 2
     },
     "CoderPad": {
       "status": "likely",
@@ -426,16 +686,6 @@
       "status": "likely",
       "matched_name": "SOLUTIONS INC",
       "certified_lca_count": 1
-    },
-    "MANTECH": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Klipboard": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
     },
     "Bloomreach": {
       "status": "confirmed",
@@ -516,11 +766,6 @@
       "status": "likely",
       "matched_name": "Stantec Architecture Inc.",
       "certified_lca_count": 25
-    },
-    "Fin": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
     },
     "Adverity": {
       "status": "not_found",
@@ -816,11 +1061,6 @@
       "status": "confirmed",
       "matched_name": "MaineHealth",
       "certified_lca_count": 17
-    },
-    "Sovos Latinoam\u00e9rica": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
     },
     "Culture Amp": {
       "status": "not_found",
@@ -1173,11 +1413,6 @@
       "certified_lca_count": 0
     },
     "Aivory": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "WMJobs": {
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
@@ -1561,11 +1796,6 @@
       "status": "likely",
       "matched_name": "Barton LLP",
       "certified_lca_count": 1
-    },
-    "AtkinsR\u00e9alis": {
-      "status": "likely",
-      "matched_name": "AtkinsR\u00e9alis USA Inc.",
-      "certified_lca_count": 11
     },
     "Street Group": {
       "status": "likely",
@@ -2106,11 +2336,6 @@
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
-    },
-    "HDR": {
-      "status": "confirmed",
-      "matched_name": "HDR, Inc.",
-      "certified_lca_count": 7
     },
     "Lincoln Financial": {
       "status": "not_found",
@@ -3858,31 +4083,6 @@
       "certified_lca_count": 0
     },
     "Ri": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Environmental Science Associates": {
-      "status": "likely",
-      "matched_name": "Science Corporation",
-      "certified_lca_count": 5
-    },
-    "Yagroup": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Brody School of Medicine at East Carolina University": {
-      "status": "likely",
-      "matched_name": "East Carolina University",
-      "certified_lca_count": 21
-    },
-    "Madrigalpharma": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Marin Municipal Water District": {
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
