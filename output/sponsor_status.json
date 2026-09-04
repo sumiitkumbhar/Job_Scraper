@@ -1,14 +1,242 @@
 {
-  "updated_at": "2026-09-03T10:54:50.471465+00:00",
-  "register_source": "https://assets.publishing.service.gov.uk/media/6a9935c5df4246cf45e4685a/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-09-03.csv",
-  "register_org_count": 126488,
+  "updated_at": "2026-09-04T10:54:37.953006+00:00",
+  "register_source": "https://assets.publishing.service.gov.uk/media/6a9a8a1c9a177a1decf97e05/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-09-04.csv",
+  "register_org_count": 126495,
   "company_counts": {
-    "confirmed": 109,
-    "likely": 338,
-    "not_found": 326,
+    "confirmed": 116,
+    "likely": 350,
+    "not_found": 347,
     "unknown": 2
   },
   "companies": {
+    "Esri UK": {
+      "status": "confirmed",
+      "matched_name": "Esri (UK) Ltd"
+    },
+    "Fin": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "South West Water": {
+      "status": "likely",
+      "matched_name": "The West Group"
+    },
+    "Herefordshire Council": {
+      "status": "confirmed",
+      "matched_name": "Herefordshire Council"
+    },
+    "JNP Industries": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "WMJobs": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Skaylink": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "HSI": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Nuix": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Uber": {
+      "status": "likely",
+      "matched_name": "Rotamat Limited trading as Huber Technology"
+    },
+    "Insperity": {
+      "status": "likely",
+      "matched_name": "PERI Limited"
+    },
+    "Brighthouse Financial": {
+      "status": "likely",
+      "matched_name": "ANCI GROUP LIMITED"
+    },
+    "Referment": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Amazon": {
+      "status": "likely",
+      "matched_name": "Amazon Charitable Trust"
+    },
+    "Mimecast": {
+      "status": "likely",
+      "matched_name": "Mimecast Services Limited"
+    },
+    "Zappos": {
+      "status": "likely",
+      "matched_name": "Zapp Group Limited"
+    },
+    "Sovos Latinoam\u00e9rica": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "University of Mississippi Medical Center": {
+      "status": "likely",
+      "matched_name": "The Medical Group"
+    },
+    "TEKsystems": {
+      "status": "likely",
+      "matched_name": "System ltd"
+    },
+    "LawVu": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Southern Company": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Lace": {
+      "status": "likely",
+      "matched_name": "16 Barrack Ltd TA Saffron Indian Restaurant & Pizza Place"
+    },
+    "Swooped": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Savills": {
+      "status": "confirmed",
+      "matched_name": "Savills plc"
+    },
+    "T.D. Williamson": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "The L.E. Myers Co.": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Insight Global": {
+      "status": "confirmed",
+      "matched_name": "Insight Global Limited"
+    },
+    "Raymond James": {
+      "status": "likely",
+      "matched_name": "RAYM LIMITED"
+    },
+    "ISO New England Inc.": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Planhat": {
+      "status": "confirmed",
+      "matched_name": "Planhat Ltd"
+    },
+    "CyberFOX": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Sprout Social, Inc.": {
+      "status": "likely",
+      "matched_name": "The Sprout Group Limited"
+    },
+    "Arbill": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Jobright.ai": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "MANTECH": {
+      "status": "confirmed",
+      "matched_name": "Mantech UK Ltd"
+    },
+    "Lidl US": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Klipboard": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Trintech": {
+      "status": "confirmed",
+      "matched_name": "Trintech (UK) Limited"
+    },
+    "THG Ingenuity": {
+      "status": "likely",
+      "matched_name": "Genuit Group plc"
+    },
+    "SPS Commerce": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "PTC": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "NVIDIA AI": {
+      "status": "likely",
+      "matched_name": "NVIDIA Ltd"
+    },
+    "Broadcom": {
+      "status": "likely",
+      "matched_name": "Broadcom Europe Limited"
+    },
+    "Devon Energy": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Masis Professional Group": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "PwC": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "AtkinsR\u00e9alis": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "HDR": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Workday": {
+      "status": "confirmed",
+      "matched_name": "Workday (UK) Limited"
+    },
+    "OpenGov Inc.": {
+      "status": "likely",
+      "matched_name": "The Open Group Limited"
+    },
+    "Teamworks": {
+      "status": "likely",
+      "matched_name": "Teamworks Innovations UK Limited"
+    },
+    "Solstice Advanced Materials": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Murphy Oil Corporation": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Inceed": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Austal USA": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "KWI": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "SHI International Corp.": {
+      "status": "likely",
+      "matched_name": "CO INTERNATIONAL LTD"
+    },
     "ARC Intelligence": {
       "status": "not_found",
       "matched_name": null
@@ -61,10 +289,6 @@
       "status": "not_found",
       "matched_name": null
     },
-    "Swooped": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "Esper": {
       "status": "confirmed",
       "matched_name": "Esper Ltd"
@@ -84,10 +308,6 @@
     "Hallmark: Healthcare's Workforce Operating System": {
       "status": "likely",
       "matched_name": "Care & Co Ltd"
-    },
-    "Jobright.ai": {
-      "status": "not_found",
-      "matched_name": null
     },
     "Osaic": {
       "status": "likely",
@@ -168,10 +388,6 @@
     "Informativ": {
       "status": "likely",
       "matched_name": "Inform Holdings Ltd"
-    },
-    "SHI International Corp.": {
-      "status": "likely",
-      "matched_name": "CO INTERNATIONAL LTD"
     },
     "SWBC": {
       "status": "not_found",
@@ -273,17 +489,9 @@
       "status": "likely",
       "matched_name": "Vice UK Limited"
     },
-    "Referment": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "MongoDB": {
       "status": "confirmed",
       "matched_name": "MongoDB UK Limited"
-    },
-    "Amazon": {
-      "status": "likely",
-      "matched_name": "Amazon Charitable Trust"
     },
     "CoderPad": {
       "status": "not_found",
@@ -340,14 +548,6 @@
     "WOOD Federal Solutions": {
       "status": "likely",
       "matched_name": "Wood Group UK Limited"
-    },
-    "MANTECH": {
-      "status": "confirmed",
-      "matched_name": "Mantech UK Ltd"
-    },
-    "Klipboard": {
-      "status": "not_found",
-      "matched_name": null
     },
     "Bloomreach": {
       "status": "confirmed",
@@ -412,10 +612,6 @@
     "Stantec": {
       "status": "confirmed",
       "matched_name": "Stantec UK Ltd"
-    },
-    "Fin": {
-      "status": "not_found",
-      "matched_name": null
     },
     "Adverity": {
       "status": "confirmed",
@@ -650,10 +846,6 @@
       "matched_name": null
     },
     "MaineHealth": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Sovos Latinoam\u00e9rica": {
       "status": "not_found",
       "matched_name": null
     },
@@ -938,10 +1130,6 @@
       "matched_name": null
     },
     "Aivory": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "WMJobs": {
       "status": "not_found",
       "matched_name": null
     },
@@ -1248,10 +1436,6 @@
     "West Dunbartonshire Council": {
       "status": "likely",
       "matched_name": "The West Group"
-    },
-    "AtkinsR\u00e9alis": {
-      "status": "not_found",
-      "matched_name": null
     },
     "Street Group": {
       "status": "likely",
@@ -1682,10 +1866,6 @@
       "matched_name": null
     },
     "Santa Margarita Water District": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "HDR": {
       "status": "not_found",
       "matched_name": null
     },
@@ -2834,8 +3014,8 @@
       "matched_name": "Cision Group Limited"
     },
     "City of El Paso, TX": {
-      "status": "likely",
-      "matched_name": "El Paso"
+      "status": "not_found",
+      "matched_name": null
     },
     "John F. Kennedy Space Center": {
       "status": "not_found",
@@ -3086,26 +3266,6 @@
       "matched_name": "Prot Ltd"
     },
     "Ri": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Environmental Science Associates": {
-      "status": "likely",
-      "matched_name": "Asso Ltd"
-    },
-    "Yagroup": {
-      "status": "likely",
-      "matched_name": "Yagro Ltd"
-    },
-    "Brody School of Medicine at East Carolina University": {
-      "status": "likely",
-      "matched_name": "MEDICIN"
-    },
-    "Madrigalpharma": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Marin Municipal Water District": {
       "status": "not_found",
       "matched_name": null
     }
