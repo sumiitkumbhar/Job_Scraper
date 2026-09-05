@@ -1,0 +1,78 @@
+name: Additional Job Sources Watcher
+
+on:
+  # Daily, not hourly -- these are lower time-sensitivity boards than
+  # LinkedIn/Indeed/Glassdoor, and most only get scraped via a best-effort
+  # heuristic extractor right now (see additional_sources_watch.py), so
+  # there's no benefit to burning Actions minutes running it more often
+  # until per-source selectors are verified. Offset to :23 so it lands well
+  # clear of the other watchers' on-the-hour/near-the-hour schedules.
+  schedule:
+    - cron: "23 4 * * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Dry run: fetch + parse + report match counts only, don't write output or commit anything. Always use this the first time you enable a new source in additional_sources.json."
+        type: boolean
+        default: false
+      source:
+        description: "Optional: run only this one source id (e.g. 'lmre') instead of all enabled sources. Leave blank to run everything enabled."
+        type: string
+        required: false
+
+concurrency:
+  group: job-scraper-commit-push
+  cancel-in-progress: false
+
+jobs:
+  additional-sources-watch:
+    name: Scrape additional/niche job-board sources
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # Only needed for sources with "engine": "scrapling" in
+      # additional_sources.json (Xing, StepStone.de, LMRE, EURES). Kept
+      # non-fatal: if this step fails for any reason, the scraper script
+      # itself catches the missing import per-source and just skips that
+      # source with a log line rather than failing the whole run -- so a
+      # flaky install here never blocks the "stdlib" sources from running.
+      - name: Install Scrapling (for anti-bot/JS-heavy sources)
+        continue-on-error: true
+        run: |
+          pip install "scrapling[fetchers]"
+          scrapling install
+
+      - name: Run scraper
+        run: |
+          ARGS=""
+          if [ "${{ inputs.dry_run }}" = "true" ]; then
+            ARGS="$ARGS --dry-run"
+          fi
+          if [ -n "${{ inputs.source }}" ]; then
+            ARGS="$ARGS --source ${{ inputs.source }}"
+          fi
+          python additional_sources_watch.py $ARGS
+
+      - name: Commit results to repo
+        # Note: compare against the boolean literal `true`, not the string
+        # 'true' -- GitHub Actions' loose type coercion between a boolean
+        # input and a string literal doesn't reliably do what you'd expect.
+        if: vars.ENABLE_DATA_COMMITS == 'true' && inputs.dry_run != true
+        run: |
+          git config user.name  "${{ github.actor }}"
+          git config user.email "${{ github.actor }}@users.noreply.github.com"
+          git add -f output/additional_sources_jobs.json output/additional_sources_jobs.md output/additional_sources_jobs.html output/all_jobs.json
+          git diff --cached --quiet || git commit -m "chore: update additional job sources [$(date -u '+%Y-%m-%d %H:%MZ')]"
+          git pull --rebase -X ours origin main
+          git push
