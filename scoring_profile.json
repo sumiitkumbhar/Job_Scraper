@@ -14,8 +14,8 @@
       "weight": 8
     },
     {
-      "pattern": "\\bplanning technolog(?:y|ist)\\b|\\bproptech\\b|\\bprop-tech\\b|\\bprop tech\\b|\\bplanning software\\b|\\breal estate technology\\b",
-      "weight": 15
+      "pattern": "\\bplanning technolog(?:y|ist)\\b|\\bproptech\\b|\\bprop-tech\\b|\\bprop tech\\b|\\bproperty technology\\b|\\bplanning software\\b|\\breal estate technology\\b|\\breal estate saas\\b|\\bconstruction technology\\b|\\bcontech\\b|\\bbuildtech\\b",
+      "weight": 22
     },
     {
       "pattern": "\\bspatial planning\\b|\\btown planning\\b|\\burban planning\\b|\\burban planner\\b|\\bplanning consultant\\b",
@@ -104,35 +104,50 @@
       "title": "Graduate Planning Technology Consultant",
       "company": "PropTech / built-environment software company",
       "description": "RTPI-accredited graduate role combining UK planning policy research with AI-powered compliance and planning-data products. Interpret planning applications and Approved Document B requirements, translate them into structured digital workflows, and support clients configuring the platform. Uses GIS/spatial data and works closely with the product team.",
-      "expected_score_range": [100, 100],
+      "expected_score_range": [
+        100,
+        100
+      ],
       "rationale": "Exact target profile: RTPI planning knowledge plus AI/PropTech product work, matching both independent projects on the CV."
     },
     {
       "title": "Graduate Town Planner",
       "company": "National planning consultancy",
       "description": "RTPI-accredited graduate programme covering development management, planning applications, infrastructure planning and client advice across a range of projects.",
-      "expected_score_range": [70, 88],
+      "expected_score_range": [
+        70,
+        88
+      ],
       "rationale": "Strong core-planning match and the right seniority, but no PropTech/AI/technology angle, so it stays below the gold-standard combined role."
     },
     {
       "title": "Solutions Consultant",
       "company": "General B2B SaaS company",
       "description": "Configure the platform for new enterprise clients, gather requirements, run onboarding calls, and coordinate with the product team.",
-      "expected_score_range": [20, 40],
+      "expected_score_range": [
+        20,
+        40
+      ],
       "rationale": "Generic client-facing tech role with real overlap to the 'solutions consultant' signal, but no planning/spatial/built-environment domain content, so it should not score as a standout."
     },
     {
       "title": "Site Engineer",
       "company": "Construction contractor",
       "description": "On-site engineering role reviewing drawings, managing subcontractors, and overseeing groundworks and structural installation.",
-      "expected_score_range": [0, 10],
+      "expected_score_range": [
+        0,
+        10
+      ],
       "rationale": "Overlaps with the civil-engineering degree but is exactly the hands-on construction track the candidate is moving away from; explicitly penalized down to (or near) zero."
     },
     {
       "title": "Software Engineer",
       "company": "Unrelated fintech startup",
       "description": "Build and maintain backend services in a microservices architecture; no built-environment or planning domain.",
-      "expected_score_range": [0, 15],
+      "expected_score_range": [
+        0,
+        15
+      ],
       "rationale": "Pure software engineering with no planning/PropTech domain content should not surface as a match even though the candidate has some AI-tooling experience."
     }
   ]
