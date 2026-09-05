@@ -86,10 +86,23 @@ DEFAULT_HEADERS = {
 }
 
 # Candidate job-detail link patterns across English/Dutch/German/Irish boards.
+# The second alternative was added after the first live dry-run (5 Sep 2026)
+# found PlanningJobs.com returning 0 candidates: its real job URLs are plain
+# root-level slugs like "/senior-officer-principal-planning-officer-pjcom2826"
+# with no "/job/"-style path segment at all -- only a "-pjcomNNNN" ID suffix
+# (confirmed live via browser recon). Kept as a targeted addition rather than
+# a generic "-id\d+$" pattern to avoid matching unrelated slugs on other sites.
 JOB_LINK_RE = re.compile(
-    r"/(jobs?|vacatures?|vacancy|vacancies|career|careers|position|positions)/[^/\s\"'#?]+",
+    r"/(jobs?|vacatures?|vacancy|vacancies|career|careers|position|positions)/[^/\s\"'#?]+"
+    r"|/[^/\s\"'#?]*-pjcom\d+(?:[/?#]|$)",
     re.IGNORECASE,
 )
+# Some boards (confirmed live for Proptech Jobs, 5 Sep 2026) wrap an entire
+# job card -- logo, title, company, meta -- in a single <a>, with the real
+# title and company each in their own nested heading tag. When present,
+# these give a far cleaner title/company than flattening the whole card to
+# text (see extract_jobs_heuristic).
+HEADING_RE = re.compile(r"<h[1-4][^>]*>(.*?)</h[1-4]>", re.IGNORECASE | re.DOTALL)
 SALARY_RE = re.compile(
     r"[£€$]\s?\d[\d,.]*\s?k?"
     r"(?:\s?(?:-|to)\s?[£€$]?\s?\d[\d,.]*\s?k?)?"
@@ -185,6 +198,14 @@ def extract_jobs_heuristic(page_html: str, base_url: str) -> list[dict]:
         if full_url in candidates:
             continue
 
+        # Prefer real heading text over the fully-flattened link text when
+        # the anchor wraps a whole card (see HEADING_RE comment above) --
+        # first heading is almost always the job title, a second one right
+        # after it is very often the company name.
+        headings = [h for h in (_strip_tags(h) for h in HEADING_RE.findall(inner)) if h]
+        title = headings[0] if headings else link_text
+        company_from_heading = headings[1] if len(headings) > 1 else ""
+
         container = _find_container(page_html, m.start(), m.end())
         container_text = _strip_tags(container)
 
@@ -200,8 +221,9 @@ def extract_jobs_heuristic(page_html: str, base_url: str) -> list[dict]:
         salary_m = SALARY_RE.search(salary_search_text)
 
         candidates[full_url] = {
-            "title": link_text,
+            "title": title,
             "url": full_url,
+            "company": company_from_heading,  # "" when no second heading -- scrape_source() falls back to guessing
             "salary": salary_m.group(0).strip() if salary_m else "",
             "date_posted": date_m.group(0).strip() if date_m else "",
             "_container_text": container_text[:400],  # kept for company/location guesswork below
@@ -209,16 +231,54 @@ def extract_jobs_heuristic(page_html: str, base_url: str) -> list[dict]:
     return list(candidates.values())
 
 
+# Labels commonly used to mark these fields on job-board cards -- kept as a
+# single list so the "stop at the next label" lookahead in _extract_labeled
+# knows about all of them, however they're ordered on a given site.
+_LABEL_WORDS = ("company", "employer", "location", "based in", "salary", "posted")
+
+
+def _extract_labeled(text: str, label_words: tuple[str, ...]) -> str:
+    """
+    Look for an explicit "Label: value" pattern (confirmed live on
+    PlanningJobs.com, 5 Sep 2026: "Company: Hyndburn Borough Council",
+    "Location: Accrington, North West") and return the value, stopping at
+    whichever of _LABEL_WORDS' labels comes next so one field's value never
+    swallows the next label's. Returns "" if none of label_words appear.
+    Far more reliable than the term-search guess below when a site's markup
+    actually labels its fields like this -- which is common.
+    """
+    stop = "|".join(re.escape(w) for w in _LABEL_WORDS)
+    for label in label_words:
+        m = re.search(
+            rf"\b{re.escape(label)}\s*:\s*(.+?)(?=\s*\b(?:{stop})\s*:|$)",
+            text, re.IGNORECASE,
+        )
+        if m:
+            val = m.group(1).strip(" ,.-")
+            if val:
+                return val
+    return ""
+
+
 def _guess_company_and_location(raw: dict, target_terms: list[str]) -> tuple[str, str]:
     """
-    Very rough: look for one of the configured target-location terms
-    (config.json -> location_filter.terms, e.g. "london", "dublin",
-    "amsterdam") inside the container text, and use the text immediately
-    around the title as a company guess. Both are best-effort placeholders
-    until per-source selectors are captured -- never load-bearing for the
-    keyword filter, only for the location filter and for display.
+    First choice: explicit "Company:"/"Location:"-style labels via
+    _extract_labeled (see its docstring). Falls back to a much rougher
+    guess when a site's markup doesn't label fields this way: look for one
+    of the configured target-location terms (config.json ->
+    location_filter.terms, e.g. "london", "dublin", "amsterdam") inside the
+    container text, and use the text immediately around the title as a
+    company guess. Both are best-effort placeholders until per-source
+    selectors are captured -- never load-bearing for the keyword filter,
+    only for the location filter and for display.
     """
     text = raw.get("_container_text", "")
+
+    labeled_company = _extract_labeled(text, ("company", "employer"))
+    labeled_location = _extract_labeled(text, ("location", "based in"))
+    if labeled_company or labeled_location:
+        return labeled_company, labeled_location
+
     text_lower = text.lower()
     location = ""
     location_span_text = ""
@@ -374,13 +434,19 @@ def scrape_source(source: dict, sj_mod) -> list[dict]:
         title = raw["title"]
         if not sj_mod.is_mle_role(title):
             continue
-        # The scrapling path may already have real company/location from
-        # precise selectors; only fall back to the container-text guess
-        # (heuristic path) when they weren't already provided.
-        if raw.get("company") or raw.get("location"):
-            company, location = raw.get("company", ""), raw.get("location", "")
-        else:
-            company, location = _guess_company_and_location(raw, target_terms)
+        # The scrapling path (precise selectors) or heading-extraction in the
+        # heuristic path (see extract_jobs_heuristic) may already have a real
+        # company and/or location; only guess whichever one is still missing
+        # -- not one-or-the-other as a pair. (A source can supply a clean
+        # company via a nested heading, e.g. Proptech Jobs, while its location
+        # still needs the container-text guess -- that's a company-only
+        # heading, not both fields, so this must not skip the location guess.)
+        company = raw.get("company") or ""
+        location = raw.get("location") or ""
+        if not company or not location:
+            guessed_company, guessed_location = _guess_company_and_location(raw, target_terms)
+            company = company or guessed_company
+            location = location or guessed_location
         if not already_scoped and target_terms and not sj_mod.is_target_location(location):
             continue
         jobs.append({
