@@ -188,6 +188,17 @@ def _find_container(page: str, link_start: int, link_end: int) -> str:
     and returned before the label group was fully captured). Fall back to the
     narrowest window if none contain any label at all, rather than guessing
     wider than necessary.
+
+    SECOND bug found live, 5 Sep 2026 (Deliverable-5 go-live run #4): the first
+    widening fix above only tried the first 5 closing tags (closes[:5]), which
+    was still too narrow. Each field on PlanningJobs.com is its own
+    <div class="col-12"> that ALSO wraps a tiny icon <div class="premium-inf-icn">
+    which closes immediately -- so each field consumes 2 closing div tags, not
+    1. By the 5th closing div the window had only grown enough to cover
+    Company + Salary; Location (the 3rd field) never got a chance to be
+    considered, so it kept silently falling back to the source's country.
+    Raised the window to closes[:20] so 3+ label fields, each costing 2 closes,
+    fit comfortably with room to spare.
     """
     block_open_re = re.compile(r"<(li|article|div|tr)\b", re.IGNORECASE)
     block_close_re = re.compile(r"</(li|article|div|tr)>", re.IGNORECASE)
@@ -203,7 +214,7 @@ def _find_container(page: str, link_start: int, link_end: int) -> str:
 
     best_candidate = page[start:closes[0].end()]
     best_hint_count = 0
-    for close_m in closes[:5]:
+    for close_m in closes[:20]:
         candidate = page[start:close_m.end()]
         candidate_lower = _strip_tags(candidate).lower()
         hint_count = sum(1 for hint in _CONTAINER_LABEL_HINTS if hint in candidate_lower)
