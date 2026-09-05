@@ -159,24 +159,58 @@ def _strip_tags(fragment: str) -> str:
     return re.sub(r"\s+", " ", text).strip()
 
 
+# Rough signal that a candidate container actually reaches a field label
+# (see _find_container docstring) -- deliberately separate from _LABEL_WORDS
+# below (which lacks colons and is used for the precise value-extraction
+# regex) so this file's read order doesn't matter.
+_CONTAINER_LABEL_HINTS = ("company:", "employer:", "location:", "based in", "salary:")
+
+
 def _find_container(page: str, link_start: int, link_end: int) -> str:
     """
-    Walk outward from a job-link's position to the nearest enclosing block
-    tag (li/article/div/tr) so we have title/company/location/salary/date
-    text to search within, without a full DOM parse. Cheap and imprecise by
-    design -- see module docstring on upgrading to real selectors.
+    Walk outward from a job-link's position to nearby block tags (li/article/
+    div/tr) so we have title/company/location/salary/date text to search
+    within, without a full DOM parse. Cheap and imprecise by design -- see
+    module docstring on upgrading to real selectors.
+
+    Some sites put company/location in a SIBLING block one level further out
+    than the link's own immediate wrapper (confirmed live on PlanningJobs.com,
+    5 Sep 2026: the title <a> sits inside a small "premium-detail" div whose
+    OWN closing tag comes right after it -- one full sibling
+    <div class="row"> containing the "Company:"/"Salary:"/"Location:" h5s
+    comes right after that, before any unrelated content). So instead of
+    always stopping at the very first closing li/article/div/tr tag after the
+    link, try progressively wider windows and keep the smallest one that
+    covers the MOST recognizable field labels (not just the first window with
+    ANY label -- an early window can contain "Company:" alone and stop before
+    reaching "Salary:"/"Location:" a little further out, which is exactly the
+    bug this replaced: the first version stopped as soon as it saw one hint
+    and returned before the label group was fully captured). Fall back to the
+    narrowest window if none contain any label at all, rather than guessing
+    wider than necessary.
     """
     block_open_re = re.compile(r"<(li|article|div|tr)\b", re.IGNORECASE)
+    block_close_re = re.compile(r"</(li|article|div|tr)>", re.IGNORECASE)
+
     # Search backward for the nearest opening block tag before the link.
     start = 0
     for m in block_open_re.finditer(page, 0, link_start):
         start = m.start()
-    # Search forward for the corresponding-ish closing tag after the link
-    # (heuristic: just the next closing tag of the same family, not a real
-    # balanced-tag walk -- good enough for extracting nearby text).
-    end_match = re.search(r"</(li|article|div|tr)>", page[link_end:link_end + 4000], re.IGNORECASE)
-    end = link_end + (end_match.end() if end_match else 1500)
-    return page[start:end]
+
+    closes = list(block_close_re.finditer(page, link_end, link_end + 4000))
+    if not closes:
+        return page[start:link_end + 1500]
+
+    best_candidate = page[start:closes[0].end()]
+    best_hint_count = 0
+    for close_m in closes[:5]:
+        candidate = page[start:close_m.end()]
+        candidate_lower = _strip_tags(candidate).lower()
+        hint_count = sum(1 for hint in _CONTAINER_LABEL_HINTS if hint in candidate_lower)
+        if hint_count > best_hint_count:
+            best_candidate = candidate
+            best_hint_count = hint_count
+    return best_candidate
 
 
 def extract_jobs_heuristic(page_html: str, base_url: str) -> list[dict]:
