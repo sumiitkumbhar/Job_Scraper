@@ -1,21 +1,277 @@
 {
-  "updated_at": "2026-09-04T10:54:37.953006+00:00",
+  "updated_at": "2026-09-05T10:14:41.866242+00:00",
   "register_source": "https://assets.publishing.service.gov.uk/media/6a9a8a1c9a177a1decf97e05/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-09-04.csv",
   "register_org_count": 126495,
   "company_counts": {
-    "confirmed": 116,
-    "likely": 350,
-    "not_found": 347,
+    "confirmed": 127,
+    "likely": 367,
+    "not_found": 366,
     "unknown": 2
   },
   "companies": {
-    "Esri UK": {
+    "Stantec": {
       "status": "confirmed",
-      "matched_name": "Esri (UK) Ltd"
+      "matched_name": "Stantec UK Ltd"
     },
     "Fin": {
       "status": "not_found",
       "matched_name": null
+    },
+    "TEKsystems": {
+      "status": "likely",
+      "matched_name": "System ltd"
+    },
+    "WalkMe": {
+      "status": "confirmed",
+      "matched_name": "WalkMe UK Limited"
+    },
+    "Northrop Grumman UK": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Ford Motor Company": {
+      "status": "confirmed",
+      "matched_name": "Ford Motor Company Limited"
+    },
+    "Swooped": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Uber": {
+      "status": "likely",
+      "matched_name": "Rotamat Limited trading as Huber Technology"
+    },
+    "Boeing": {
+      "status": "likely",
+      "matched_name": "Boeing Defence UK Limited"
+    },
+    "MANTECH": {
+      "status": "confirmed",
+      "matched_name": "Mantech UK Ltd"
+    },
+    "Howmet Aerospace": {
+      "status": "likely",
+      "matched_name": "Aeros Limited"
+    },
+    "Oncor Electric Delivery": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Truist": {
+      "status": "likely",
+      "matched_name": "ALTRUISTIC CARE LIMITED"
+    },
+    "SMART Technologies": {
+      "status": "likely",
+      "matched_name": "Art Technologies Limited"
+    },
+    "Dumac Inc": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "California Public Utilities Commission": {
+      "status": "likely",
+      "matched_name": "The Mission Group plc"
+    },
+    "University of Washington": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Transamerica": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Pacific Gas and Electric Company": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Drone.vet": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "City of Pocatello": {
+      "status": "likely",
+      "matched_name": "ELLO GROUP LTD"
+    },
+    "Ripple": {
+      "status": "confirmed",
+      "matched_name": "Ripple+ Limited"
+    },
+    "Torentify": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "The Ohio State University Wexner Medical Center": {
+      "status": "likely",
+      "matched_name": "The Medical Group"
+    },
+    "Southern Company": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Slough Borough Council": {
+      "status": "confirmed",
+      "matched_name": "Slough Borough Council"
+    },
+    "Grocery Outlet": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Hewlett Packard Enterprise": {
+      "status": "likely",
+      "matched_name": "Hewlett Packard Limited"
+    },
+    "Ensis Corp": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Trustpilot Italia": {
+      "status": "likely",
+      "matched_name": "Trust Group Holdings LTD"
+    },
+    "Housecall Pro": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "PreSales Collective": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Knomee": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "United Infrastructure Ltd": {
+      "status": "likely",
+      "matched_name": "Unite"
+    },
+    "Royal London": {
+      "status": "likely",
+      "matched_name": "London & Co UK Ltd"
+    },
+    "King Arthur Baking Company": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Ashby": {
+      "status": "likely",
+      "matched_name": "ASHBY CARS LTD"
+    },
+    "SageNet": {
+      "status": "likely",
+      "matched_name": "The Sage Group plc"
+    },
+    "Okta": {
+      "status": "confirmed",
+      "matched_name": "Okta UK Ltd"
+    },
+    "Recharge": {
+      "status": "likely",
+      "matched_name": "Rech Ltd"
+    },
+    "Teledyne Technologies Incorporated": {
+      "status": "likely",
+      "matched_name": "Edyn Limited"
+    },
+    "Ordergroove": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Toast": {
+      "status": "likely",
+      "matched_name": "EOT Staines Ltd t/a eggham on toast"
+    },
+    "GRUNDFOS": {
+      "status": "likely",
+      "matched_name": "Grundfos Pumps Limited"
+    },
+    "Motorola Solutions": {
+      "status": "confirmed",
+      "matched_name": "Motorola Solutions UK Limited"
+    },
+    "Areti Group | B Corp\u2122": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Shopify": {
+      "status": "confirmed",
+      "matched_name": "Shopify UK Limited"
+    },
+    "Worldpay": {
+      "status": "confirmed",
+      "matched_name": "WorldPay (UK) Ltd"
+    },
+    "SAP": {
+      "status": "confirmed",
+      "matched_name": "SAP UK Limited"
+    },
+    "ZEP": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Analog Devices": {
+      "status": "confirmed",
+      "matched_name": "Analog Devices Limited"
+    },
+    "LG Electronics North America": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Fidelity Investments": {
+      "status": "likely",
+      "matched_name": "Fidel Limited"
+    },
+    "POM Wonderful": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Posh": {
+      "status": "likely",
+      "matched_name": "KAMZIPOSHAAK LTD"
+    },
+    "Zocdoc": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Magma Math": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Jamf": {
+      "status": "confirmed",
+      "matched_name": "JAMF LTD"
+    },
+    "Carrier Enterprise": {
+      "status": "likely",
+      "matched_name": "Arri Holdings Limited"
+    },
+    "Stripe": {
+      "status": "likely",
+      "matched_name": "Silverstripe Advisors Ltd"
+    },
+    "Amentum": {
+      "status": "confirmed",
+      "matched_name": "AMENTUM (UK) LTD"
+    },
+    "Aspida": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "My3Tech": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "NextEra Energy Resources": {
+      "status": "likely",
+      "matched_name": "Resource Limited"
+    },
+    "MongoDB": {
+      "status": "confirmed",
+      "matched_name": "MongoDB UK Limited"
+    },
+    "Esri UK": {
+      "status": "confirmed",
+      "matched_name": "Esri (UK) Ltd"
     },
     "South West Water": {
       "status": "likely",
@@ -44,10 +300,6 @@
     "Nuix": {
       "status": "not_found",
       "matched_name": null
-    },
-    "Uber": {
-      "status": "likely",
-      "matched_name": "Rotamat Limited trading as Huber Technology"
     },
     "Insperity": {
       "status": "likely",
@@ -81,25 +333,13 @@
       "status": "likely",
       "matched_name": "The Medical Group"
     },
-    "TEKsystems": {
-      "status": "likely",
-      "matched_name": "System ltd"
-    },
     "LawVu": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Southern Company": {
       "status": "not_found",
       "matched_name": null
     },
     "Lace": {
       "status": "likely",
       "matched_name": "16 Barrack Ltd TA Saffron Indian Restaurant & Pizza Place"
-    },
-    "Swooped": {
-      "status": "not_found",
-      "matched_name": null
     },
     "Savills": {
       "status": "confirmed",
@@ -144,10 +384,6 @@
     "Jobright.ai": {
       "status": "not_found",
       "matched_name": null
-    },
-    "MANTECH": {
-      "status": "confirmed",
-      "matched_name": "Mantech UK Ltd"
     },
     "Lidl US": {
       "status": "not_found",
@@ -273,10 +509,6 @@
       "status": "likely",
       "matched_name": "Count LTD"
     },
-    "Drone.vet": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "Loyola Medicine": {
       "status": "likely",
       "matched_name": "MEDICIN"
@@ -340,10 +572,6 @@
     "voize": {
       "status": "not_found",
       "matched_name": null
-    },
-    "Fidelity Investments": {
-      "status": "likely",
-      "matched_name": "Fidel Limited"
     },
     "SMEUSA": {
       "status": "not_found",
@@ -489,10 +717,6 @@
       "status": "likely",
       "matched_name": "Vice UK Limited"
     },
-    "MongoDB": {
-      "status": "confirmed",
-      "matched_name": "MongoDB UK Limited"
-    },
     "CoderPad": {
       "status": "not_found",
       "matched_name": null
@@ -608,10 +832,6 @@
     "AECOM": {
       "status": "confirmed",
       "matched_name": "AECOM LIMITED"
-    },
-    "Stantec": {
-      "status": "confirmed",
-      "matched_name": "Stantec UK Ltd"
     },
     "Adverity": {
       "status": "confirmed",
@@ -756,10 +976,6 @@
     "Northbeam": {
       "status": "likely",
       "matched_name": "Beam Inc Ltd"
-    },
-    "Stripe": {
-      "status": "likely",
-      "matched_name": "Silverstripe Advisors Ltd"
     },
     "Rillet": {
       "status": "likely",
@@ -2221,10 +2437,6 @@
       "status": "likely",
       "matched_name": "Quant Group Ltd"
     },
-    "Amentum": {
-      "status": "confirmed",
-      "matched_name": "AMENTUM (UK) LTD"
-    },
     "Inotivco": {
       "status": "not_found",
       "matched_name": null
@@ -3242,30 +3454,6 @@
       "matched_name": null
     },
     "SPECTRAFORCE": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Penncolor": {
-      "status": "likely",
-      "matched_name": "Pennco Limited"
-    },
-    "Acorn Environmental": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Apera": {
-      "status": "likely",
-      "matched_name": "Apera Asset Management LLP"
-    },
-    "City of Moreton Bay": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "California Board of Forestry & Fire Protection": {
-      "status": "likely",
-      "matched_name": "Prot Ltd"
-    },
-    "Ri": {
       "status": "not_found",
       "matched_name": null
     }
