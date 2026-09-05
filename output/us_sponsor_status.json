@@ -1,23 +1,343 @@
 {
-  "updated_at": "2026-09-04T11:33:08.205295+00:00",
+  "updated_at": "2026-09-05T10:48:15.182196+00:00",
   "source_files": [
     "https://www.dol.gov/media/LCA_Disclosure_Data_FY2026_Q3.xlsx",
     "https://www.dol.gov/sites/dolgov/files/ETA/oflc/pdfs/LCA_Disclosure_Data_FY2025_Q4.xlsx"
   ],
   "employer_count": 60026,
   "company_counts": {
-    "confirmed": 150,
-    "likely": 277,
-    "not_found": 386,
+    "confirmed": 169,
+    "likely": 292,
+    "not_found": 399,
     "unknown": 2
   },
   "companies": {
-    "Esri UK": {
+    "Stantec": {
+      "status": "likely",
+      "matched_name": "Stantec Architecture Inc.",
+      "certified_lca_count": 25
+    },
+    "Fin": {
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
     },
-    "Fin": {
+    "TEKsystems": {
+      "status": "confirmed",
+      "matched_name": "TEKsystems, Inc.",
+      "certified_lca_count": 16
+    },
+    "WalkMe": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Northrop Grumman UK": {
+      "status": "likely",
+      "matched_name": "North, Inc.",
+      "certified_lca_count": 6
+    },
+    "Ford Motor Company": {
+      "status": "confirmed",
+      "matched_name": "FORD MOTOR COMPANY",
+      "certified_lca_count": 830
+    },
+    "Swooped": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Uber": {
+      "status": "likely",
+      "matched_name": "Uber Freight US LLC",
+      "certified_lca_count": 61
+    },
+    "Boeing": {
+      "status": "confirmed",
+      "matched_name": "The Boeing Company",
+      "certified_lca_count": 73
+    },
+    "MANTECH": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Howmet Aerospace": {
+      "status": "confirmed",
+      "matched_name": "Howmet Aerospace Inc.",
+      "certified_lca_count": 1
+    },
+    "Oncor Electric Delivery": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Truist": {
+      "status": "likely",
+      "matched_name": "Truist Bank",
+      "certified_lca_count": 318
+    },
+    "SMART Technologies": {
+      "status": "likely",
+      "matched_name": "Netsmart Technologies, Inc.",
+      "certified_lca_count": 4
+    },
+    "Dumac Inc": {
+      "status": "confirmed",
+      "matched_name": "DUMAC, Inc.",
+      "certified_lca_count": 5
+    },
+    "California Public Utilities Commission": {
+      "status": "confirmed",
+      "matched_name": "California Public Utilities Commission",
+      "certified_lca_count": 3
+    },
+    "University of Washington": {
+      "status": "confirmed",
+      "matched_name": "University of Washington",
+      "certified_lca_count": 196
+    },
+    "Transamerica": {
+      "status": "likely",
+      "matched_name": "Transamerica Life Insurance Company",
+      "certified_lca_count": 23
+    },
+    "Pacific Gas and Electric Company": {
+      "status": "confirmed",
+      "matched_name": "Pacific Gas and Electric Company",
+      "certified_lca_count": 50
+    },
+    "Drone.vet": {
+      "status": "likely",
+      "matched_name": "E Vet, Inc.",
+      "certified_lca_count": 1
+    },
+    "City of Pocatello": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Ripple": {
+      "status": "likely",
+      "matched_name": "New York Society for Relief of Ruptured & Crippled",
+      "certified_lca_count": 36
+    },
+    "Torentify": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "The Ohio State University Wexner Medical Center": {
+      "status": "likely",
+      "matched_name": "The Ohio State University",
+      "certified_lca_count": 313
+    },
+    "Southern Company": {
+      "status": "likely",
+      "matched_name": "SOUTHERN METHODIST UNIVERSITY",
+      "certified_lca_count": 41
+    },
+    "Slough Borough Council": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Grocery Outlet": {
+      "status": "confirmed",
+      "matched_name": "Grocery Outlet Inc",
+      "certified_lca_count": 3
+    },
+    "Hewlett Packard Enterprise": {
+      "status": "confirmed",
+      "matched_name": "Hewlett Packard Enterprise Company",
+      "certified_lca_count": 572
+    },
+    "Ensis Corp": {
+      "status": "likely",
+      "matched_name": "TANGENSIS INC",
+      "certified_lca_count": 24
+    },
+    "Trustpilot Italia": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Housecall Pro": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "PreSales Collective": {
+      "status": "likely",
+      "matched_name": "Collect Group LLC",
+      "certified_lca_count": 1
+    },
+    "Knomee": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "United Infrastructure Ltd": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Royal London": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "King Arthur Baking Company": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Ashby": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "SageNet": {
+      "status": "confirmed",
+      "matched_name": "SageNet LLC",
+      "certified_lca_count": 3
+    },
+    "Okta": {
+      "status": "confirmed",
+      "matched_name": "Okta, Inc.",
+      "certified_lca_count": 126
+    },
+    "Recharge": {
+      "status": "confirmed",
+      "matched_name": "Recharge LLC",
+      "certified_lca_count": 2
+    },
+    "Teledyne Technologies Incorporated": {
+      "status": "likely",
+      "matched_name": "E-Technologies Group, LLC.",
+      "certified_lca_count": 23
+    },
+    "Ordergroove": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Toast": {
+      "status": "confirmed",
+      "matched_name": "Toast, Inc.",
+      "certified_lca_count": 36
+    },
+    "GRUNDFOS": {
+      "status": "likely",
+      "matched_name": "Grundfos CBS, Inc.",
+      "certified_lca_count": 2
+    },
+    "Motorola Solutions": {
+      "status": "confirmed",
+      "matched_name": "Motorola Solutions, Inc.",
+      "certified_lca_count": 152
+    },
+    "Areti Group | B Corp\u2122": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Shopify": {
+      "status": "likely",
+      "matched_name": "Shopify (USA) Inc.",
+      "certified_lca_count": 50
+    },
+    "Worldpay": {
+      "status": "confirmed",
+      "matched_name": "Worldpay, LLC",
+      "certified_lca_count": 92
+    },
+    "SAP": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "ZEP": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Analog Devices": {
+      "status": "confirmed",
+      "matched_name": "Analog Devices, Inc.",
+      "certified_lca_count": 246
+    },
+    "LG Electronics North America": {
+      "status": "likely",
+      "matched_name": "North, Inc.",
+      "certified_lca_count": 6
+    },
+    "Fidelity Investments": {
+      "status": "likely",
+      "matched_name": "Fidelity Technology Group, LLC d/b/a Fidelity Investments",
+      "certified_lca_count": 2661
+    },
+    "POM Wonderful": {
+      "status": "likely",
+      "matched_name": "Wonder Group, Inc.",
+      "certified_lca_count": 8
+    },
+    "Posh": {
+      "status": "likely",
+      "matched_name": "Poshmark Inc.",
+      "certified_lca_count": 6
+    },
+    "Zocdoc": {
+      "status": "confirmed",
+      "matched_name": "ZOCDOC, INC.",
+      "certified_lca_count": 16
+    },
+    "Magma Math": {
+      "status": "likely",
+      "matched_name": "Magma Holding Inc.",
+      "certified_lca_count": 4
+    },
+    "Jamf": {
+      "status": "likely",
+      "matched_name": "Jamf Software, LLC",
+      "certified_lca_count": 1
+    },
+    "Carrier Enterprise": {
+      "status": "likely",
+      "matched_name": "Carrier Corporation",
+      "certified_lca_count": 8
+    },
+    "Stripe": {
+      "status": "confirmed",
+      "matched_name": "Stripe, Inc.",
+      "certified_lca_count": 294
+    },
+    "Amentum": {
+      "status": "likely",
+      "matched_name": "AMENTUM SERVICES INC.",
+      "certified_lca_count": 2
+    },
+    "Aspida": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "My3Tech": {
+      "status": "confirmed",
+      "matched_name": "MY3TECH INC",
+      "certified_lca_count": 21
+    },
+    "NextEra Energy Resources": {
+      "status": "confirmed",
+      "matched_name": "NextEra Energy Resources, LLC",
+      "certified_lca_count": 73
+    },
+    "MongoDB": {
+      "status": "confirmed",
+      "matched_name": "MONGODB, INC.",
+      "certified_lca_count": 147
+    },
+    "Esri UK": {
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
@@ -56,11 +376,6 @@
       "status": "likely",
       "matched_name": "INUIX LLC",
       "certified_lca_count": 1
-    },
-    "Uber": {
-      "status": "likely",
-      "matched_name": "Uber Freight US LLC",
-      "certified_lca_count": 61
     },
     "Insperity": {
       "status": "likely",
@@ -102,30 +417,15 @@
       "matched_name": "University of Mississippi Medical Center",
       "certified_lca_count": 94
     },
-    "TEKsystems": {
-      "status": "confirmed",
-      "matched_name": "TEKsystems, Inc.",
-      "certified_lca_count": 16
-    },
     "LawVu": {
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
     },
-    "Southern Company": {
-      "status": "likely",
-      "matched_name": "SOUTHERN METHODIST UNIVERSITY",
-      "certified_lca_count": 41
-    },
     "Lace": {
       "status": "likely",
       "matched_name": "PLACE studio, LLC",
       "certified_lca_count": 3
-    },
-    "Swooped": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
     },
     "Savills": {
       "status": "confirmed",
@@ -181,11 +481,6 @@
       "status": "likely",
       "matched_name": "Jobright Inc.",
       "certified_lca_count": 1
-    },
-    "MANTECH": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
     },
     "Lidl US": {
       "status": "not_found",
@@ -342,11 +637,6 @@
       "matched_name": null,
       "certified_lca_count": 0
     },
-    "Drone.vet": {
-      "status": "likely",
-      "matched_name": "E Vet, Inc.",
-      "certified_lca_count": 1
-    },
     "Loyola Medicine": {
       "status": "not_found",
       "matched_name": null,
@@ -426,11 +716,6 @@
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
-    },
-    "Fidelity Investments": {
-      "status": "likely",
-      "matched_name": "Fidelity Technology Group, LLC d/b/a Fidelity Investments",
-      "certified_lca_count": 2661
     },
     "SMEUSA": {
       "status": "not_found",
@@ -612,11 +897,6 @@
       "matched_name": "Amazon Web Services, Inc.",
       "certified_lca_count": 2987
     },
-    "MongoDB": {
-      "status": "confirmed",
-      "matched_name": "MONGODB, INC.",
-      "certified_lca_count": 147
-    },
     "CoderPad": {
       "status": "likely",
       "matched_name": "Code Corporation",
@@ -761,11 +1041,6 @@
       "status": "confirmed",
       "matched_name": "AECOM",
       "certified_lca_count": 1
-    },
-    "Stantec": {
-      "status": "likely",
-      "matched_name": "Stantec Architecture Inc.",
-      "certified_lca_count": 25
     },
     "Adverity": {
       "status": "not_found",
@@ -946,11 +1221,6 @@
       "status": "likely",
       "matched_name": "BEAM, ltd.",
       "certified_lca_count": 1
-    },
-    "Stripe": {
-      "status": "confirmed",
-      "matched_name": "Stripe, Inc.",
-      "certified_lca_count": 294
     },
     "Rillet": {
       "status": "not_found",
@@ -2777,11 +3047,6 @@
       "matched_name": "Quant Inc.",
       "certified_lca_count": 2
     },
-    "Amentum": {
-      "status": "likely",
-      "matched_name": "AMENTUM SERVICES INC.",
-      "certified_lca_count": 2
-    },
     "Inotivco": {
       "status": "likely",
       "matched_name": "Inotiv, Inc.",
@@ -4056,36 +4321,6 @@
       "status": "likely",
       "matched_name": "SPECTRAFORCE TECHNOLOGIES INC",
       "certified_lca_count": 7
-    },
-    "Penncolor": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Acorn Environmental": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Apera": {
-      "status": "likely",
-      "matched_name": "APERA INSTRUMENTS, LLC",
-      "certified_lca_count": 3
-    },
-    "City of Moreton Bay": {
-      "status": "likely",
-      "matched_name": "More, Inc.",
-      "certified_lca_count": 1
-    },
-    "California Board of Forestry & Fire Protection": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Ri": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
     }
   }
 }
