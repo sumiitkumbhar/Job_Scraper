@@ -1,60 +1,60 @@
 # 🔥 LinkedIn — Sumit's Planning & PropTech Roles
-*Last updated: 2026-09-05 01:49 UTC*
+*Last updated: 2026-09-05 05:07 UTC*
 
-**12 new role(s)** since last run · 12 total in last 1h
+**13 new role(s)** since last run · 13 total in last 1h
 
-### [Senior Planner - Development Management](https://www.linkedin.com/jobs/view/4453580427/) — Norwich City Council
-- 📍 **Location:** Norwich, England, United Kingdom
+### [Senior Customer Success Manager - French Speaking](https://www.linkedin.com/jobs/view/4461439320/) — WalkMe
+- 📍 **Location:** London, England, United Kingdom
 - 🕒 **Posted:** 2026-09-05
 
-### [Junior Planner](https://www.linkedin.com/jobs/view/4461418293/) — Howmet Aerospace
-- 📍 **Location:** Fullerton, CA
-- 💰 **Salary:** $18.26 to $30.49
+### [Regulatory Compliance Analyst](https://www.linkedin.com/jobs/view/4463707474/) — Northrop Grumman UK
+- 📍 **Location:** Cheltenham, England, United Kingdom
 - 🕒 **Posted:** 2026-09-05
 
-### [Project Planning Analyst - Distribution Services](https://www.linkedin.com/jobs/view/4460429264/) — Oncor Electric Delivery
-- 📍 **Location:** Fort Worth, TX
-- 💰 **Salary:** $80,379 -$107,173
+### [Regulatory Compliance Analyst](https://www.linkedin.com/jobs/view/4463712347/) — Northrop Grumman UK
+- 📍 **Location:** London, England, United Kingdom
 - 🕒 **Posted:** 2026-09-05
 
-### [Treasury Solutions Consultant - Specialized Industry](https://www.linkedin.com/jobs/view/4461124343/) — Truist
-- 📍 **Location:** Charlotte, NC
-- 💰 **Salary:** $145,000 - $185,000
+### [Regulatory Compliance Analyst](https://www.linkedin.com/jobs/view/4463717244/) — Northrop Grumman UK
+- 📍 **Location:** United Kingdom
 - 🕒 **Posted:** 2026-09-05
 
-### [Education Solutions Consultant - USA](https://www.linkedin.com/jobs/view/4461420215/) — SMART Technologies
-- 📍 **Location:** Austin, TX
+### [Microsoft Copilot Studio und AI Solutions Consultant (m/w/d)](https://www.linkedin.com/jobs/view/4462371254/) — Skaylink
+- 📍 **Location:** Munich, Bavaria, Germany
 - 🕒 **Posted:** 2026-09-05
 
-### [Customer Success Engineer (Hybrid)](https://www.linkedin.com/jobs/view/4461409976/) — Dumac Inc
-- 📍 **Location:** New York, United States
-- 💰 **Salary:** $78,000 - $97,000
+### [Customer Success Manager](https://www.linkedin.com/jobs/view/4461437609/) — WalkMe
+- 📍 **Location:** Berlin, Germany
 - 🕒 **Posted:** 2026-09-05
 
-### [Sr Customer Success Manager](https://www.linkedin.com/jobs/view/4461691498/) — KWI
-- 📍 **Location:** Melville, NY
-- 💰 **Salary:** $110,000.00/yr - $110,000.00/yr
+### [PTO Production Planning Analyst](https://www.linkedin.com/jobs/view/4463702430/) — Ford Motor Company
+- 📍 **Location:** Dearborn, MI
+- 💰 **Salary:** $74,300-$124,500
 - 🕒 **Posted:** 2026-09-05
 
-### [Public Utilities Regulatory Analyst IV](https://www.linkedin.com/jobs/view/4461419228/) — California Public Utilities Commission
-- 📍 **Location:** Sacramento, CA
-- 💰 **Salary:** $8,766.00/mo - $10,973.00/mo
+### [Customer Success Manager, Key Accounts](https://www.linkedin.com/jobs/view/4463715025/) — Swooped
+- 📍 **Location:** United States
+- 💰 **Salary:** $92,000 - $115,000
 - 🕒 **Posted:** 2026-09-05
 
-### [Senior Compliance Analyst](https://www.linkedin.com/jobs/view/4463684556/) — University of Washington
-- 📍 **Location:** Seattle, WA
+### [Associate Customer Success Manager, Uber Direct Enterprise](https://www.linkedin.com/jobs/view/4463698756/) — Uber
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-05
 
-### [Senior Compliance Analyst - Life & Health Insurance Fraud Investigations - Hybrid](https://www.linkedin.com/jobs/view/4462328850/) — Transamerica
-- 📍 **Location:** Philadelphia, PA
-- 💰 **Salary:** $75,000 - $85,000 annually
+### [Program Leader, Global U4B Customer Success](https://www.linkedin.com/jobs/view/4463714369/) — Uber
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-05
 
-### [Public Utilities Regulatory Analyst IV](https://www.linkedin.com/jobs/view/4461413632/) — California Public Utilities Commission
-- 📍 **Location:** San Francisco County, CA
-- 💰 **Salary:** $8,766.00/mo - $10,973.00/mo
+### [Experienced or Senior Supply Chain Compliance Analyst - Self Governance & Compliance](https://www.linkedin.com/jobs/view/4461442186/) — Boeing
+- 📍 **Location:** St Louis, MO
+- 💰 **Salary:** $88,400.00 - $119,600.00
 - 🕒 **Posted:** 2026-09-05
 
-### [Senior Risk & Compliance Consultant - Risk and Reliability Insights - Location Flexible](https://www.linkedin.com/jobs/view/4462337893/) — Pacific Gas and Electric Company
-- 📍 **Location:** Oakland, CA
+### [Experienced or Senior Supply Chain Compliance Analyst - Self Governance & Compliance](https://www.linkedin.com/jobs/view/4461451074/) — Boeing
+- 📍 **Location:** Dallas, TX
+- 💰 **Salary:** $78,000.00 - $111,000.00
+- 🕒 **Posted:** 2026-09-05
+
+### [Lead Trade Compliance Analyst](https://www.linkedin.com/jobs/view/4461451082/) — MANTECH
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-05
