@@ -4,5 +4,15 @@ python-jobspy>=1.1.82
 gspread>=6.0.0
 google-auth>=2.0.0
 
-# Only needed by us_sponsor_check.py (reads the DOL LCA disclosure .xlsx files):
-openpyxl>=3.1.0
+# additional_sources_watch.py's default "stdlib" engine uses only the
+# stdlib (urllib + re) -- no dependency needed for that path.
+#
+# Only needed for sources configured with "engine": "scrapling" in
+# additional_sources.json (Xing, StepStone.de, LMRE, EURES -- sites plain
+# urllib can't reach). Not yet verified installable/runnable from Claude's
+# own sandbox (its network policy blocks pip installing this specific
+# package there), but GitHub Actions runners have normal network access so
+# this should install fine there. If a source using this engine is enabled
+# and this isn't installed, additional_sources_watch.py logs a clear
+# message and skips just that source -- it won't crash the whole run.
+scrapling[fetchers]>=0.4

@@ -1,0 +1,183 @@
+{
+  "_readme": "Config for additional_sources_watch.py. Each entry is one niche/country job board from the Sheet's 'Additional Job Sources' tab. 'enabled' controls whether the scraper actually fetches it on a scheduled run — only flip to true once a live run (workflow_dispatch with dry_run=true, or --dry-run locally) shows it's actually matching real job cards, not 0 results. 'status' records what we know so far so nobody has to re-investigate from scratch. 'engine' picks the fetcher: 'stdlib' (default, plain urllib + regex heuristic, no dependency) or 'scrapling' (Scrapling's StealthyFetcher for anti-bot/JS-heavy sites, needs scrapling[fetchers] installed + real 'selectors' filled in — see additional_sources_watch.py's module docstring). A 'scrapling' source with 'selectors': null just gets skipped with a log line, never crashes the run.",
+  "sources": [
+    {
+      "id": "planningjobs",
+      "name": "PlanningJobs.com",
+      "url": "https://www.planningjobs.com/",
+      "country": "UK",
+      "priority": "Medium",
+      "enabled": true,
+      "status": "verified_feasible",
+      "notes": "Confirmed server-rendered HTML (31 Aug 2026 recon): title/company/salary/location/posted-date all present per listing, paginated (1-8), no anti-bot detected. Real example seen: 'Planning Manager (Development Management)' / Hyndburn Borough Council / £48,226-£51,356 / Accrington. No exact CSS classes captured yet -- runs on the heuristic extractor until selectors are verified live (see CAPTURING_SELECTORS.md)."
+    },
+    {
+      "id": "proptechjobs",
+      "name": "Proptech Jobs",
+      "url": "https://www.proptechjobs.com/jobs",
+      "country": "Global",
+      "priority": "High",
+      "enabled": true,
+      "status": "verified_feasible",
+      "notes": "Confirmed server-rendered HTML (31 Aug 2026 recon): 74 listings, traditional pagination, no anti-bot. Salary not shown per-listing. Global board -- relies on is_target_location() to keep only UK/IE/NL/DE hits, so expect a lower match rate than the country-specific boards."
+    },
+    {
+      "id": "iamexpat",
+      "name": "IamExpat",
+      "url": "https://www.iamexpat.nl/career/jobs-netherlands",
+      "country": "Netherlands",
+      "priority": "High",
+      "enabled": true,
+      "status": "verified_feasible",
+      "notes": "Confirmed server-rendered HTML (31 Aug 2026 recon): title/category/location/posted-date/languages present, no anti-bot. Recon also noted many near-duplicate 'Customer service representative' postings -- worth checking after the first live run whether those are drowning out planning/PropTech roles."
+    },
+    {
+      "id": "ricsrecruit",
+      "name": "RICS Recruit",
+      "url": "https://www.ricsrecruit.com",
+      "country": "UK + Europe",
+      "priority": "High",
+      "enabled": false,
+      "status": "needs_url_fix",
+      "notes": "Homepage confirmed clean (no anti-bot, real job board content). The /jobs listing path we guessed ('ricsrecruit.com/jobs') returned 'too many redirects' -- needs the real search-results URL captured live (likely a query-string search endpoint, not a static path) before this can be enabled."
+    },
+    {
+      "id": "lmre",
+      "name": "LMRE",
+      "url": "https://www.lmre.tech/jobs",
+      "country": "Europe",
+      "priority": "High",
+      "enabled": false,
+      "engine": "scrapling",
+      "selectors": null,
+      "status": "ready_pending_selectors",
+      "notes": "WordPress site, but the /jobs page itself has no listings in the static HTML -- just a search box and an inquiry form (with a CAPTCHA, but that's on the contact form, not job search). Actual results are presumably loaded via a search action/AJAX call, which is exactly what Scrapling's StealthyFetcher/DynamicFetcher (real browser rendering) is for. Needs someone to load the page live, run the search, and capture the real job-card/title/company/location CSS selectors into 'selectors' below before this can work -- fetching alone won't help without them."
+    },
+    {
+      "id": "irishjobs",
+      "name": "IrishJobs.ie",
+      "url": "https://www.irishjobs.ie/jobs/construction-property",
+      "country": "Ireland",
+      "priority": "Medium",
+      "enabled": false,
+      "status": "not_yet_inspected",
+      "notes": "Not checked this session. Large general board -- likely fine structurally but unverified."
+    },
+    {
+      "id": "jobsie",
+      "name": "Jobs.ie",
+      "url": "https://www.jobs.ie/Jobs/Construction-Property",
+      "country": "Ireland",
+      "priority": "Medium",
+      "enabled": false,
+      "status": "not_yet_inspected",
+      "notes": "Not checked this session."
+    },
+    {
+      "id": "theplanner",
+      "name": "The Planner Jobs",
+      "url": "https://jobs.theplanner.co.uk/",
+      "country": "UK",
+      "priority": "Medium",
+      "enabled": false,
+      "status": "not_yet_inspected",
+      "notes": "Not checked this session. RTPI's own board -- worth checking first among the 'not yet inspected' group given it's a dedicated planning board."
+    },
+    {
+      "id": "planningportal",
+      "name": "Planning Portal",
+      "url": "https://www.planningportal.co.uk/jobs",
+      "country": "UK",
+      "priority": "Medium",
+      "enabled": false,
+      "status": "not_yet_inspected",
+      "notes": "Not checked this session."
+    },
+    {
+      "id": "nationalevacaturebank",
+      "name": "Nationale Vacaturebank",
+      "url": "https://www.nationalevacaturebank.nl/vacatures",
+      "country": "Netherlands",
+      "priority": "Medium",
+      "enabled": false,
+      "status": "not_yet_inspected",
+      "notes": "Not checked this session. One of NL's largest general boards -- likely has some anti-scraping given its size, worth checking carefully before enabling."
+    },
+    {
+      "id": "undutchables",
+      "name": "Undutchables",
+      "url": "https://www.undutchables.nl/vacatures",
+      "country": "Netherlands",
+      "priority": "High",
+      "enabled": false,
+      "status": "not_yet_inspected",
+      "notes": "Not checked this session."
+    },
+    {
+      "id": "stepstone_de",
+      "name": "StepStone.de",
+      "url": "https://www.stepstone.de/jobs",
+      "country": "Germany",
+      "priority": "Medium",
+      "enabled": false,
+      "engine": "scrapling",
+      "selectors": null,
+      "status": "ready_pending_selectors",
+      "notes": "Fetch attempt timed out via plain urllib (31 Aug 2026 recon) -- large commercial board, likely heavy JS and/or anti-bot, which is exactly the case Scrapling's StealthyFetcher exists for. Worth one real attempt with it before writing this off as manual-only -- but still needs real selectors captured live (someone/something has to actually load the page and see the DOM) before it can work, and it's plausible StealthyFetcher still gets rate-limited/blocked on a big commercial board like this. Lower priority to chase than LMRE/Xing given it's Medium priority in the Sheet anyway."
+    },
+    {
+      "id": "xing",
+      "name": "Xing",
+      "url": "https://www.xing.com/jobs/search",
+      "country": "Germany/DACH",
+      "priority": "Medium",
+      "enabled": false,
+      "engine": "scrapling",
+      "selectors": null,
+      "status": "ready_pending_selectors",
+      "notes": "Fetch was rejected outright (403, 31 Aug 2026 recon) via plain urllib. Xing is LinkedIn-equivalent for DACH and most job detail likely requires a logged-in session -- Scrapling's anti-bot bypass helps with the 403, but if the actual job listings are only visible to logged-in members, no scraping technique fixes that without handling Xing's own login (out of scope, no credential automation). Try StealthyFetcher on the public search results page first and see how much is actually visible logged-out before investing in selectors."
+    },
+    {
+      "id": "makeitingermany",
+      "name": "Make it in Germany",
+      "url": "https://www.make-it-in-germany.com/en/jobs/job-search",
+      "country": "Germany",
+      "priority": "High",
+      "enabled": false,
+      "status": "needs_url_fix",
+      "notes": "Guessed URL 404'd (31 Aug 2026 recon) via plain urllib -- this looks like a wrong-URL problem, not an anti-bot problem, so 'engine' stays 'stdlib' for now. Official government portal so likely scrapable once the real search-results URL is found -- worth another look before reaching for scrapling here."
+    },
+    {
+      "id": "eures",
+      "name": "EURES",
+      "url": "https://eures.europa.eu/index_en",
+      "country": "EU-wide",
+      "priority": "High",
+      "enabled": false,
+      "engine": "scrapling",
+      "selectors": null,
+      "status": "ready_pending_selectors",
+      "notes": "Homepage confirmed to be the real EURES portal, but no API/RSS/feed found on it and search-results structure wasn't visible from the homepage alone -- likely a JS-driven search UI, hence 'engine': 'scrapling' as the fallback. But check for an official EU open-data-portal API FIRST (worth a dedicated look before writing a scraper) since a JSON API would be far more robust than HTML/browser scraping for an official EU government site -- don't just default to scrapling here without checking that first."
+    },
+    {
+      "id": "indeed_nl",
+      "name": "Indeed.nl",
+      "url": "https://nl.indeed.com",
+      "country": "Netherlands",
+      "priority": "Medium",
+      "enabled": false,
+      "status": "not_applicable",
+      "notes": "Not a new scraper -- this is a locale check on the existing python-jobspy Indeed integration in scrape_jobs.py. Confirm the Indeed watcher is actually querying the nl.indeed.com / NL locale, not defaulting to a US/UK locale."
+    },
+    {
+      "id": "indeed_de",
+      "name": "Indeed.de",
+      "url": "https://de.indeed.com",
+      "country": "Germany",
+      "priority": "Medium",
+      "enabled": false,
+      "status": "not_applicable",
+      "notes": "Same as indeed_nl above, for the DE locale."
+    }
+  ]
+}
