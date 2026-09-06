@@ -1,17 +1,162 @@
 {
-  "updated_at": "2026-09-05T10:48:15.182196+00:00",
+  "updated_at": "2026-09-06T11:11:07.614277+00:00",
   "source_files": [
     "https://www.dol.gov/media/LCA_Disclosure_Data_FY2026_Q3.xlsx",
     "https://www.dol.gov/sites/dolgov/files/ETA/oflc/pdfs/LCA_Disclosure_Data_FY2025_Q4.xlsx"
   ],
   "employer_count": 60026,
   "company_counts": {
-    "confirmed": 169,
-    "likely": 292,
-    "not_found": 399,
+    "confirmed": 172,
+    "likely": 294,
+    "not_found": 407,
     "unknown": 2
   },
   "companies": {
+    "VTS": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Outreach": {
+      "status": "confirmed",
+      "matched_name": "Outreach Corporation",
+      "certified_lca_count": 9
+    },
+    "Infosys": {
+      "status": "confirmed",
+      "matched_name": "INFOSYS LIMITED",
+      "certified_lca_count": 6432
+    },
+    "TipTopJob": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Swooped": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "ACA Group": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Hollister Incorporated": {
+      "status": "likely",
+      "matched_name": "Taft Stettinius & Hollister LLP",
+      "certified_lca_count": 2
+    },
+    "APTIM": {
+      "status": "confirmed",
+      "matched_name": "APTIM Corp",
+      "certified_lca_count": 1
+    },
+    "Southern Company": {
+      "status": "likely",
+      "matched_name": "SOUTHERN METHODIST UNIVERSITY",
+      "certified_lca_count": 41
+    },
+    "Amazon.com": {
+      "status": "likely",
+      "matched_name": "Amazon.com Services LLC",
+      "certified_lca_count": 16489
+    },
+    "Bossier City Police Department": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "REMONDIS IT": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Hewlett Packard Enterprise": {
+      "status": "confirmed",
+      "matched_name": "Hewlett Packard Enterprise Company",
+      "certified_lca_count": 572
+    },
+    "ITOCHU International Inc.": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "AirPay": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Jobright.ai": {
+      "status": "likely",
+      "matched_name": "Jobright Inc.",
+      "certified_lca_count": 1
+    },
+    "Bolster AI": {
+      "status": "likely",
+      "matched_name": "Bolster, Inc.",
+      "certified_lca_count": 8
+    },
+    "Guarantee Trust Life Insurance Company": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Confidential Company": {
+      "status": "likely",
+      "matched_name": "IDEN GROUP HOLDING INC.",
+      "certified_lca_count": 1
+    },
+    "Hyndburn Borough Council": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Hull City Council": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Maidstone Borough Council": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Hastings Borough Council": {
+      "status": "likely",
+      "matched_name": "Hasti Inc",
+      "certified_lca_count": 3
+    },
+    "West Oxfordshire District Council": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Chainguard": {
+      "status": "confirmed",
+      "matched_name": "Chainguard, Inc.",
+      "certified_lca_count": 1
+    },
+    "Free People": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Expand Energy": {
+      "status": "confirmed",
+      "matched_name": "Expand Energy Corporation",
+      "certified_lca_count": 1
+    },
+    "Evlo AI": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Sage": {
+      "status": "likely",
+      "matched_name": "SAGE IT INC",
+      "certified_lca_count": 163
+    },
     "Stantec": {
       "status": "likely",
       "matched_name": "Stantec Architecture Inc.",
@@ -41,11 +186,6 @@
       "status": "confirmed",
       "matched_name": "FORD MOTOR COMPANY",
       "certified_lca_count": 830
-    },
-    "Swooped": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
     },
     "Uber": {
       "status": "likely",
@@ -132,11 +272,6 @@
       "matched_name": "The Ohio State University",
       "certified_lca_count": 313
     },
-    "Southern Company": {
-      "status": "likely",
-      "matched_name": "SOUTHERN METHODIST UNIVERSITY",
-      "certified_lca_count": 41
-    },
     "Slough Borough Council": {
       "status": "not_found",
       "matched_name": null,
@@ -146,11 +281,6 @@
       "status": "confirmed",
       "matched_name": "Grocery Outlet Inc",
       "certified_lca_count": 3
-    },
-    "Hewlett Packard Enterprise": {
-      "status": "confirmed",
-      "matched_name": "Hewlett Packard Enterprise Company",
-      "certified_lca_count": 572
     },
     "Ensis Corp": {
       "status": "likely",
@@ -477,11 +607,6 @@
       "matched_name": null,
       "certified_lca_count": 0
     },
-    "Jobright.ai": {
-      "status": "likely",
-      "matched_name": "Jobright Inc.",
-      "certified_lca_count": 1
-    },
     "Lidl US": {
       "status": "not_found",
       "matched_name": null,
@@ -646,11 +771,6 @@
       "status": "likely",
       "matched_name": "REER INC",
       "certified_lca_count": 3
-    },
-    "ACA Group": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
     },
     "Esper": {
       "status": "likely",
@@ -1247,11 +1367,6 @@
       "matched_name": "PermitFlow Inc.",
       "certified_lca_count": 3
     },
-    "Evlo AI": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
     "Wrike": {
       "status": "confirmed",
       "matched_name": "Wrike, Inc.",
@@ -1407,11 +1522,6 @@
       "matched_name": null,
       "certified_lca_count": 0
     },
-    "Maidstone Borough Council": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
     "Ipswich Borough Council": {
       "status": "not_found",
       "matched_name": null,
@@ -1481,11 +1591,6 @@
       "status": "likely",
       "matched_name": "North, Inc.",
       "certified_lca_count": 6
-    },
-    "Hull City Council": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
     },
     "MORAY COUNCIL": {
       "status": "not_found",
@@ -1646,11 +1751,6 @@
       "status": "likely",
       "matched_name": "Vitesco Technologies USA, LLC",
       "certified_lca_count": 19
-    },
-    "TipTopJob": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
     },
     "London Borough of Hackney": {
       "status": "not_found",
@@ -3172,11 +3272,6 @@
       "matched_name": null,
       "certified_lca_count": 0
     },
-    "APTIM": {
-      "status": "confirmed",
-      "matched_name": "APTIM Corp",
-      "certified_lca_count": 1
-    },
     "South Dakota State Government": {
       "status": "not_found",
       "matched_name": null,
@@ -4291,36 +4386,6 @@
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
-    },
-    "University of California Office of the President": {
-      "status": "likely",
-      "matched_name": "IDEN GROUP HOLDING INC.",
-      "certified_lca_count": 1
-    },
-    "U.S. Department of Veterans Affairs": {
-      "status": "likely",
-      "matched_name": "Department of Veterans Affairs",
-      "certified_lca_count": 8
-    },
-    "Omega Technical Services": {
-      "status": "likely",
-      "matched_name": "Corporation Service Company",
-      "certified_lca_count": 21
-    },
-    "Department of Defense": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "San Diego State University": {
-      "status": "confirmed",
-      "matched_name": "San Diego State University",
-      "certified_lca_count": 16
-    },
-    "SPECTRAFORCE": {
-      "status": "likely",
-      "matched_name": "SPECTRAFORCE TECHNOLOGIES INC",
-      "certified_lca_count": 7
     }
   }
 }
