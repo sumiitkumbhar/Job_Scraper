@@ -1,14 +1,130 @@
 {
-  "updated_at": "2026-09-05T10:14:41.866242+00:00",
+  "updated_at": "2026-09-06T10:35:07.386880+00:00",
   "register_source": "https://assets.publishing.service.gov.uk/media/6a9a8a1c9a177a1decf97e05/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-09-04.csv",
   "register_org_count": 126495,
   "company_counts": {
-    "confirmed": 127,
-    "likely": 367,
-    "not_found": 366,
+    "confirmed": 130,
+    "likely": 372,
+    "not_found": 371,
     "unknown": 2
   },
   "companies": {
+    "VTS": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Outreach": {
+      "status": "likely",
+      "matched_name": "ASN Assertive outreach and consultancy Limited"
+    },
+    "Infosys": {
+      "status": "confirmed",
+      "matched_name": "Infosys Limited"
+    },
+    "TipTopJob": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Swooped": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "ACA Group": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Hollister Incorporated": {
+      "status": "likely",
+      "matched_name": "Hollister Europe Limited"
+    },
+    "APTIM": {
+      "status": "likely",
+      "matched_name": "Adaptimmune Limited"
+    },
+    "Southern Company": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Amazon.com": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Bossier City Police Department": {
+      "status": "likely",
+      "matched_name": "The Department UK Ltd"
+    },
+    "REMONDIS IT": {
+      "status": "likely",
+      "matched_name": "Mondi PLC"
+    },
+    "Hewlett Packard Enterprise": {
+      "status": "likely",
+      "matched_name": "Hewlett Packard Limited"
+    },
+    "ITOCHU International Inc.": {
+      "status": "likely",
+      "matched_name": "CO INTERNATIONAL LTD"
+    },
+    "AirPay": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Jobright.ai": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Bolster AI": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Guarantee Trust Life Insurance Company": {
+      "status": "likely",
+      "matched_name": "Trust Group Holdings LTD"
+    },
+    "Confidential Company": {
+      "status": "likely",
+      "matched_name": "ENTIA LTD"
+    },
+    "Hyndburn Borough Council": {
+      "status": "confirmed",
+      "matched_name": "Hyndburn Borough Council"
+    },
+    "Hull City Council": {
+      "status": "confirmed",
+      "matched_name": "Hull City Council"
+    },
+    "Maidstone Borough Council": {
+      "status": "confirmed",
+      "matched_name": "Maidstone Borough Council"
+    },
+    "Hastings Borough Council": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "West Oxfordshire District Council": {
+      "status": "likely",
+      "matched_name": "FORDSHIRE LIMITED"
+    },
+    "Chainguard": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Free People": {
+      "status": "likely",
+      "matched_name": "THE PEOPLE GROUP LIMITED"
+    },
+    "Expand Energy": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Evlo AI": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Sage": {
+      "status": "confirmed",
+      "matched_name": "The Sage Group plc"
+    },
     "Stantec": {
       "status": "confirmed",
       "matched_name": "Stantec UK Ltd"
@@ -32,10 +148,6 @@
     "Ford Motor Company": {
       "status": "confirmed",
       "matched_name": "Ford Motor Company Limited"
-    },
-    "Swooped": {
-      "status": "not_found",
-      "matched_name": null
     },
     "Uber": {
       "status": "likely",
@@ -105,10 +217,6 @@
       "status": "likely",
       "matched_name": "The Medical Group"
     },
-    "Southern Company": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "Slough Borough Council": {
       "status": "confirmed",
       "matched_name": "Slough Borough Council"
@@ -116,10 +224,6 @@
     "Grocery Outlet": {
       "status": "not_found",
       "matched_name": null
-    },
-    "Hewlett Packard Enterprise": {
-      "status": "likely",
-      "matched_name": "Hewlett Packard Limited"
     },
     "Ensis Corp": {
       "status": "not_found",
@@ -381,10 +485,6 @@
       "status": "not_found",
       "matched_name": null
     },
-    "Jobright.ai": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "Lidl US": {
       "status": "not_found",
       "matched_name": null
@@ -516,10 +616,6 @@
     "GamblingCareers.com": {
       "status": "likely",
       "matched_name": "Care & Co Ltd"
-    },
-    "ACA Group": {
-      "status": "not_found",
-      "matched_name": null
     },
     "Esper": {
       "status": "confirmed",
@@ -997,10 +1093,6 @@
       "status": "not_found",
       "matched_name": null
     },
-    "Evlo AI": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "Wrike": {
       "status": "not_found",
       "matched_name": null
@@ -1125,10 +1217,6 @@
       "status": "confirmed",
       "matched_name": "Renfrewshire Council"
     },
-    "Maidstone Borough Council": {
-      "status": "confirmed",
-      "matched_name": "Maidstone Borough Council"
-    },
     "Ipswich Borough Council": {
       "status": "not_found",
       "matched_name": null
@@ -1184,10 +1272,6 @@
     "North Devon Council": {
       "status": "not_found",
       "matched_name": null
-    },
-    "Hull City Council": {
-      "status": "confirmed",
-      "matched_name": "Hull City Council"
     },
     "MORAY COUNCIL": {
       "status": "confirmed",
@@ -1316,10 +1400,6 @@
     "Tesco": {
       "status": "likely",
       "matched_name": "ATESCO CONSULTANCY LTD"
-    },
-    "TipTopJob": {
-      "status": "not_found",
-      "matched_name": null
     },
     "London Borough of Hackney": {
       "status": "confirmed",
@@ -2537,10 +2617,6 @@
       "status": "likely",
       "matched_name": "CO INTERNATIONAL LTD"
     },
-    "APTIM": {
-      "status": "likely",
-      "matched_name": "Adaptimmune Limited"
-    },
     "South Dakota State Government": {
       "status": "not_found",
       "matched_name": null
@@ -3430,30 +3506,6 @@
       "matched_name": null
     },
     "Federal Transit Administration": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "University of California Office of the President": {
-      "status": "likely",
-      "matched_name": "Office Holdings Limited"
-    },
-    "U.S. Department of Veterans Affairs": {
-      "status": "likely",
-      "matched_name": "The Department UK Ltd"
-    },
-    "Omega Technical Services": {
-      "status": "likely",
-      "matched_name": "A-TEC LIMITED"
-    },
-    "Department of Defense": {
-      "status": "likely",
-      "matched_name": "The Department UK Ltd"
-    },
-    "San Diego State University": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "SPECTRAFORCE": {
       "status": "not_found",
       "matched_name": null
     }
