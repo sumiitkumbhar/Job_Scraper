@@ -1,18 +1,25 @@
 # 🔥 LinkedIn — Sumit's Planning & PropTech Roles
-*Last updated: 2026-09-06 01:26 UTC*
+*Last updated: 2026-09-06 05:27 UTC*
 
-**3 new role(s)** since last run · 6 total in last 1h
+**5 new role(s)** since last run · 5 total in last 1h
 
-### [Senior Town Planner Associate Town Planner](https://www.linkedin.com/jobs/view/4464004057/) — TipTopJob
-- 📍 **Location:** Banbury, England, United Kingdom
+### [Lead Solutions Consultant, EMEA](https://www.linkedin.com/jobs/view/4462662909/) — Outreach
+- 📍 **Location:** London, England, United Kingdom
 - 🕒 **Posted:** 2026-09-06
 
-### [Customer Success Manager](https://www.linkedin.com/jobs/view/4463770726/) — Swooped
-- 📍 **Location:** United States
-- 💰 **Salary:** $75,000.00/yr - $105,000.00/yr
+### [O9 Product Planning Consultant(m/w/d) - Germany](https://www.linkedin.com/jobs/view/4411353414/) — Infosys
+- 📍 **Location:** Frankfurt, Hesse, Germany
 - 🕒 **Posted:** 2026-09-06
 
-### [Sr Customer Success Manager](https://www.linkedin.com/jobs/view/4461691498/) — KWI
-- 📍 **Location:** Melville, NY
-- 💰 **Salary:** $110,000.00/yr - $110,000.00/yr
+### [Microsoft Copilot Studio und AI Solutions Consultant (m/w/d)](https://www.linkedin.com/jobs/view/4462669973/) — Skaylink
+- 📍 **Location:** Munich, Bavaria, Germany
+- 🕒 **Posted:** 2026-09-06
+
+### [Microsoft Copilot Studio und AI Solutions Consultant (m/w/d)](https://www.linkedin.com/jobs/view/4462681028/) — Skaylink
+- 📍 **Location:** Munich, Bavaria, Germany
+- 🕒 **Posted:** 2026-09-06
+
+### [Business Planning Analyst](https://www.linkedin.com/jobs/view/4413170270/) — ITOCHU International Inc.
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $110,000.00/yr - $120,000.00/yr
 - 🕒 **Posted:** 2026-09-06
