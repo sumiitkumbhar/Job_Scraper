@@ -1,33 +1,20 @@
 # 🔥 LinkedIn — Sumit's Planning & PropTech Roles
-*Last updated: 2026-09-07 19:42 UTC*
+*Last updated: 2026-09-07 22:31 UTC*
 
-**7 new role(s)** since last run · 7 total in last 1h
+**4 new role(s)** since last run · 4 total in last 1h
 
-### [Audience Planning Analyst](https://www.linkedin.com/jobs/view/4464374725/) — Sky
-- 📍 **Location:** London, England, United Kingdom
+### [Customer Success Specialist, Entry Level](https://www.linkedin.com/jobs/view/4462994363/) — Jobright.ai
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-07
 
-### [Customer Success Specialist](https://www.linkedin.com/jobs/view/4462249249/) — DataCore France
-- 📍 **Location:** Reading, England, United Kingdom
+### [VP, Customer Success](https://www.linkedin.com/jobs/view/4457488691/) — Zus Health
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-07
 
-### [Customer Success Manager - Scale Team](https://www.linkedin.com/jobs/view/4464374705/) — CarePlanner Ltd 💚
-- 📍 **Location:** Greater Bournemouth Area
+### [Compliance Analyst II - Primoris Energy Services - Houston, Texas](https://www.linkedin.com/jobs/view/4464401212/) — Primoris Services Corporation
+- 📍 **Location:** Pearland, TX
 - 🕒 **Posted:** 2026-09-07
 
-### [Compliance Analyst](https://www.linkedin.com/jobs/view/4454253711/) — Millennium
-- 📍 **Location:** London, England, United Kingdom
-- 🕒 **Posted:** 2026-09-07
-
-### [Customer Success Manager](https://www.linkedin.com/jobs/view/4457791636/) — AppCard, Inc.
-- 📍 **Location:** North Carolina, United States
-- 🕒 **Posted:** 2026-09-07
-
-### [Bilingual Cybersecurity Policy & Regulatory Analyst](https://www.linkedin.com/jobs/view/4453730058/) — GM Financial
-- 📍 **Location:** Arlington, TX
-- 🕒 **Posted:** 2026-09-07
-
-### [Customer Success Manager](https://www.linkedin.com/jobs/view/4464389021/) — talentpluto
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $100,000.00/yr - $200,000.00/yr
+### [Compliance Analyst, Entry Level](https://www.linkedin.com/jobs/view/4462998263/) — Jobright.ai
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-07
