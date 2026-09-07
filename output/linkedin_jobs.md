@@ -1,13 +1,16 @@
 # 🔥 LinkedIn — Sumit's Planning & PropTech Roles
-*Last updated: 2026-09-07 01:29 UTC*
+*Last updated: 2026-09-07 06:34 UTC*
 
-**2 new role(s)** since last run · 2 total in last 1h
+**3 new role(s)** since last run · 3 total in last 1h
 
-### [Client Solutions Consultant - Engine by Starling](https://www.linkedin.com/jobs/view/4464076345/) — Women in Tech
-- 📍 **Location:** Charlotte, NC
+### [Principal Highways and Transport Planning Officer](https://www.linkedin.com/jobs/view/4461866940/) — The Guildhall Northampton
+- 📍 **Location:** Northampton, England, United Kingdom
 - 🕒 **Posted:** 2026-09-07
 
-### [Sr Customer Success Manager](https://www.linkedin.com/jobs/view/4461691498/) — KWI
-- 📍 **Location:** Melville, NY
-- 💰 **Salary:** $110,000.00/yr - $110,000.00/yr
+### [Microsoft Copilot Studio und AI Solutions Consultant (m/w/d)](https://www.linkedin.com/jobs/view/4462907757/) — Skaylink
+- 📍 **Location:** Munich, Bavaria, Germany
+- 🕒 **Posted:** 2026-09-07
+
+### [Customer Success Manager (B2B SaaS)](https://www.linkedin.com/jobs/view/4461888001/) — SalesViewer®
+- 📍 **Location:** Bochum, North Rhine-Westphalia, Germany
 - 🕒 **Posted:** 2026-09-07
