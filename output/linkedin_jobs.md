@@ -1,14 +1,13 @@
 # 🔥 LinkedIn — Sumit's Planning & PropTech Roles
-*Last updated: 2026-09-06 23:20 UTC*
+*Last updated: 2026-09-07 01:29 UTC*
 
 **2 new role(s)** since last run · 2 total in last 1h
 
-### [Business Planning Analyst](https://www.linkedin.com/jobs/view/4413170270/) — ITOCHU International Inc.
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $110,000.00/yr - $120,000.00/yr
-- 🕒 **Posted:** 2026-09-06
+### [Client Solutions Consultant - Engine by Starling](https://www.linkedin.com/jobs/view/4464076345/) — Women in Tech
+- 📍 **Location:** Charlotte, NC
+- 🕒 **Posted:** 2026-09-07
 
-### [Customer Success Manager](https://www.linkedin.com/jobs/view/4461342910/) — Carrier
-- 📍 **Location:** Florida, United States
-- 💰 **Salary:** $96,000.00 - $192,000.00 annually
-- 🕒 **Posted:** 2026-09-06
+### [Sr Customer Success Manager](https://www.linkedin.com/jobs/view/4461691498/) — KWI
+- 📍 **Location:** Melville, NY
+- 💰 **Salary:** $110,000.00/yr - $110,000.00/yr
+- 🕒 **Posted:** 2026-09-07
