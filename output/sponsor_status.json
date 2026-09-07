@@ -1,14 +1,46 @@
 {
-  "updated_at": "2026-09-06T10:35:07.386880+00:00",
+  "updated_at": "2026-09-07T11:59:55.212547+00:00",
   "register_source": "https://assets.publishing.service.gov.uk/media/6a9a8a1c9a177a1decf97e05/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-09-04.csv",
   "register_org_count": 126495,
   "company_counts": {
-    "confirmed": 130,
-    "likely": 372,
+    "confirmed": 131,
+    "likely": 376,
     "not_found": 371,
     "unknown": 2
   },
   "companies": {
+    "NTT DATA": {
+      "status": "confirmed",
+      "matched_name": "NTT DATA UK LIMITED"
+    },
+    "The Guildhall Northampton": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Women in Tech": {
+      "status": "likely",
+      "matched_name": "In-tech Group Ltd"
+    },
+    "Carrier": {
+      "status": "likely",
+      "matched_name": "Arri Holdings Limited"
+    },
+    "Mongoose Gray": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Stripe": {
+      "status": "likely",
+      "matched_name": "Silverstripe Advisors Ltd"
+    },
+    "Nimble": {
+      "status": "likely",
+      "matched_name": "Nimble Elearning Ltd"
+    },
+    "Sonar": {
+      "status": "likely",
+      "matched_name": "Regent Tandoori Ltd trading as Sonargaon Tandoori"
+    },
     "VTS": {
       "status": "not_found",
       "matched_name": null
@@ -348,10 +380,6 @@
     "Carrier Enterprise": {
       "status": "likely",
       "matched_name": "Arri Holdings Limited"
-    },
-    "Stripe": {
-      "status": "likely",
-      "matched_name": "Silverstripe Advisors Ltd"
     },
     "Amentum": {
       "status": "confirmed",
@@ -1588,10 +1616,6 @@
     "Certinia": {
       "status": "confirmed",
       "matched_name": "CERTINIA UK LIMITED"
-    },
-    "The Guildhall Northampton": {
-      "status": "not_found",
-      "matched_name": null
     },
     "Elmbridge Borough Council": {
       "status": "likely",
@@ -3502,10 +3526,6 @@
       "matched_name": "System ltd"
     },
     "DirectShifts": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Federal Transit Administration": {
       "status": "not_found",
       "matched_name": null
     }
