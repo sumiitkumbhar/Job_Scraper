@@ -1,29 +1,16 @@
 {
-  "scraped_at": "2026-09-06 08:42 UTC",
-  "total": 9,
-  "new_count": 3,
+  "scraped_at": "2026-09-07 09:25 UTC",
+  "total": 7,
+  "new_count": 0,
   "jobs": [
     {
       "title": "Planning Manager (Development Management)",
       "company": "Hyndburn Borough Council",
       "location": "Accrington, North West",
       "url": "https://www.planningjobs.com/planning-manager-development-management-pjcom2836",
-      "date_posted": "Posted 3 days ago",
+      "date_posted": "Posted 4 days ago",
       "description": "",
       "salary": "£48,226 to £51,356 + car extra Location",
-      "job_type": "",
-      "is_remote": null,
-      "work_arrangement": "",
-      "ats": "PlanningJobs.com"
-    },
-    {
-      "title": "Senior Planning Policy Officer",
-      "company": "Hull City Council",
-      "location": "Hull , North East",
-      "url": "https://www.planningjobs.com/senior-planning-policy-officer-pjcom2835",
-      "date_posted": "Posted 9 days ago",
-      "description": "",
-      "salary": "£36,363 - £39,152",
       "job_type": "",
       "is_remote": null,
       "work_arrangement": "",
@@ -34,7 +21,7 @@
       "company": "Maidstone Borough Council",
       "location": "Maidstone, South East",
       "url": "https://www.planningjobs.com/principal-planning-officer-pjcom2833",
-      "date_posted": "Posted 10 days ago",
+      "date_posted": "Posted 11 days ago",
       "description": "",
       "salary": "£52,033 - £56,858",
       "job_type": "",
@@ -47,9 +34,22 @@
       "company": "Hastings Borough Council",
       "location": "Hastings, South East",
       "url": "https://www.planningjobs.com/senior-planning-officer-pjcom2832",
-      "date_posted": "Posted 10 days ago",
+      "date_posted": "Posted 11 days ago",
       "description": "",
       "salary": "£35,412 to £44,075",
+      "job_type": "",
+      "is_remote": null,
+      "work_arrangement": "",
+      "ats": "PlanningJobs.com"
+    },
+    {
+      "title": "Senior Planning Policy Officer",
+      "company": "Hull City Council",
+      "location": "Hull , North East",
+      "url": "https://www.planningjobs.com/senior-planning-policy-officer-pjcom2835",
+      "date_posted": "Posted 10 days ago",
+      "description": "",
+      "salary": "£36,363 - £39,152",
       "job_type": "",
       "is_remote": null,
       "work_arrangement": "",
@@ -60,7 +60,7 @@
       "company": "West Oxfordshire District Council",
       "location": "Witney, South Central",
       "url": "https://www.planningjobs.com/senior-planning-officer-pjcom2828",
-      "date_posted": "Posted 18 days ago",
+      "date_posted": "Posted 19 days ago",
       "description": "",
       "salary": "£41,853 - £44,691",
       "job_type": "",
@@ -82,36 +82,10 @@
       "ats": "PlanningJobs.com"
     },
     {
-      "title": "PropTech Analyst",
-      "company": "Confidential Company",
-      "location": "United Kingdom",
-      "url": "https://proptechjobs.com/job/proptech-analyst-2/?company=Confidential Company",
-      "date_posted": "",
-      "description": "",
-      "salary": "",
-      "job_type": "",
-      "is_remote": null,
-      "work_arrangement": "",
-      "ats": "Proptech Jobs"
-    },
-    {
       "title": "Java Developer – PropTech",
       "company": "Confidential Company",
       "location": "United Kingdom",
       "url": "https://proptechjobs.com/job/java-developer-proptech/?company=Confidential Company",
-      "date_posted": "",
-      "description": "",
-      "salary": "",
-      "job_type": "",
-      "is_remote": null,
-      "work_arrangement": "",
-      "ats": "Proptech Jobs"
-    },
-    {
-      "title": "PropTech Legal Analyst",
-      "company": "Confidential Company",
-      "location": "United Kingdom",
-      "url": "https://proptechjobs.com/job/proptech-legal-analyst/?company=Confidential Company",
       "date_posted": "",
       "description": "",
       "salary": "",
@@ -121,45 +95,5 @@
       "ats": "Proptech Jobs"
     }
   ],
-  "new_jobs": [
-    {
-      "title": "PropTech Analyst",
-      "company": "Confidential Company",
-      "location": "United Kingdom",
-      "url": "https://proptechjobs.com/job/proptech-analyst-2/?company=Confidential Company",
-      "date_posted": "",
-      "description": "",
-      "salary": "",
-      "job_type": "",
-      "is_remote": null,
-      "work_arrangement": "",
-      "ats": "Proptech Jobs"
-    },
-    {
-      "title": "Java Developer – PropTech",
-      "company": "Confidential Company",
-      "location": "United Kingdom",
-      "url": "https://proptechjobs.com/job/java-developer-proptech/?company=Confidential Company",
-      "date_posted": "",
-      "description": "",
-      "salary": "",
-      "job_type": "",
-      "is_remote": null,
-      "work_arrangement": "",
-      "ats": "Proptech Jobs"
-    },
-    {
-      "title": "PropTech Legal Analyst",
-      "company": "Confidential Company",
-      "location": "United Kingdom",
-      "url": "https://proptechjobs.com/job/proptech-legal-analyst/?company=Confidential Company",
-      "date_posted": "",
-      "description": "",
-      "salary": "",
-      "job_type": "",
-      "is_remote": null,
-      "work_arrangement": "",
-      "ats": "Proptech Jobs"
-    }
-  ]
+  "new_jobs": []
 }

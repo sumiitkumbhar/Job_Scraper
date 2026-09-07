@@ -1,13 +1,6 @@
 # 🌍 Additional Job Sources — Sumit's Planning & PropTech Roles
-*Last updated: 2026-09-06 08:42 UTC*
+*Last updated: 2026-09-07 09:25 UTC*
 
-**3 new role(s)** since last run · 9 total in current postings across enabled additional sources
+**0 new role(s)** since last run · 7 total in current postings across enabled additional sources
 
-### [PropTech Analyst](https://proptechjobs.com/job/proptech-analyst-2/?company=Confidential Company) — Confidential Company
-- 📍 **Location:** United Kingdom
-
-### [Java Developer – PropTech](https://proptechjobs.com/job/java-developer-proptech/?company=Confidential Company) — Confidential Company
-- 📍 **Location:** United Kingdom
-
-### [PropTech Legal Analyst](https://proptechjobs.com/job/proptech-legal-analyst/?company=Confidential Company) — Confidential Company
-- 📍 **Location:** United Kingdom
+No new roles from the additional job-source boards since the last run.
