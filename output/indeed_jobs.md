@@ -1,6 +1,9 @@
 # 🟦 Indeed — Sumit's Planning & PropTech Roles
-*Last updated: 2026-09-06 23:21 UTC*
+*Last updated: 2026-09-07 06:38 UTC*
 
-**0 new role(s)** since last run · 0 total in last 24h
+**1 new role(s)** since last run · 1 total in last 24h
 
-No new roles since the last run.
+### [Regulatory Compliance Analyst](https://uk.indeed.com/viewjob?jk=1348b717e609b6bb) — NTT DATA
+- 📍 **Location:** London, ENG, GB
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-06
