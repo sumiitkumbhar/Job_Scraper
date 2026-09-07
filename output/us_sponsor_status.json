@@ -1,17 +1,57 @@
 {
-  "updated_at": "2026-09-06T11:11:07.614277+00:00",
+  "updated_at": "2026-09-07T12:50:58.966392+00:00",
   "source_files": [
     "https://www.dol.gov/media/LCA_Disclosure_Data_FY2026_Q3.xlsx",
     "https://www.dol.gov/sites/dolgov/files/ETA/oflc/pdfs/LCA_Disclosure_Data_FY2025_Q4.xlsx"
   ],
   "employer_count": 60026,
   "company_counts": {
-    "confirmed": 172,
-    "likely": 294,
-    "not_found": 407,
+    "confirmed": 173,
+    "likely": 297,
+    "not_found": 408,
     "unknown": 2
   },
   "companies": {
+    "NTT DATA": {
+      "status": "likely",
+      "matched_name": "NTT DATA Americas, Inc.",
+      "certified_lca_count": 270
+    },
+    "The Guildhall Northampton": {
+      "status": "likely",
+      "matched_name": "North, Inc.",
+      "certified_lca_count": 6
+    },
+    "Women in Tech": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Carrier": {
+      "status": "confirmed",
+      "matched_name": "Carrier Corporation",
+      "certified_lca_count": 8
+    },
+    "Mongoose Gray": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Stripe": {
+      "status": "confirmed",
+      "matched_name": "Stripe, Inc.",
+      "certified_lca_count": 294
+    },
+    "Nimble": {
+      "status": "likely",
+      "matched_name": "NimbleRx Inc.",
+      "certified_lca_count": 4
+    },
+    "Sonar": {
+      "status": "likely",
+      "matched_name": "WILSONART, LLC",
+      "certified_lca_count": 2
+    },
     "VTS": {
       "status": "not_found",
       "matched_name": null,
@@ -436,11 +476,6 @@
       "status": "likely",
       "matched_name": "Carrier Corporation",
       "certified_lca_count": 8
-    },
-    "Stripe": {
-      "status": "confirmed",
-      "matched_name": "Stripe, Inc.",
-      "certified_lca_count": 294
     },
     "Amentum": {
       "status": "likely",
@@ -1986,11 +2021,6 @@
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
-    },
-    "The Guildhall Northampton": {
-      "status": "likely",
-      "matched_name": "North, Inc.",
-      "certified_lca_count": 6
     },
     "Elmbridge Borough Council": {
       "status": "likely",
@@ -4378,11 +4408,6 @@
       "certified_lca_count": 0
     },
     "DirectShifts": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Federal Transit Administration": {
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
