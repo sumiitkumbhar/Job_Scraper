@@ -1,17 +1,122 @@
 {
-  "updated_at": "2026-09-07T12:50:58.966392+00:00",
+  "updated_at": "2026-09-08T11:31:48.786932+00:00",
   "source_files": [
     "https://www.dol.gov/media/LCA_Disclosure_Data_FY2026_Q3.xlsx",
     "https://www.dol.gov/sites/dolgov/files/ETA/oflc/pdfs/LCA_Disclosure_Data_FY2025_Q4.xlsx"
   ],
   "employer_count": 60026,
   "company_counts": {
-    "confirmed": 173,
-    "likely": 297,
-    "not_found": 408,
+    "confirmed": 174,
+    "likely": 308,
+    "not_found": 412,
     "unknown": 2
   },
   "companies": {
+    "RR": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Nobul Resourcing Solutions": {
+      "status": "likely",
+      "matched_name": "G-SOL LLC",
+      "certified_lca_count": 2
+    },
+    "TutorSpace": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Kansas City National Security Campus": {
+      "status": "likely",
+      "matched_name": "Curi Holdings, Inc",
+      "certified_lca_count": 2
+    },
+    "RevSpring": {
+      "status": "confirmed",
+      "matched_name": "RevSpring, Inc.",
+      "certified_lca_count": 9
+    },
+    "Online Jobs Philippines - Work at Home": {
+      "status": "likely",
+      "matched_name": "Phil, Inc.",
+      "certified_lca_count": 5
+    },
+    "Quantum Machines": {
+      "status": "likely",
+      "matched_name": "Quant Inc.",
+      "certified_lca_count": 2
+    },
+    "Civil Works Alliance": {
+      "status": "likely",
+      "matched_name": "The Alliance, Inc.",
+      "certified_lca_count": 3
+    },
+    "Great Yarmouth Borough Council": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Waverley Borough Council": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "TestReach": {
+      "status": "likely",
+      "matched_name": "Test Corporation LLC",
+      "certified_lca_count": 5
+    },
+    "PwC": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Swooped": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Jobright.ai": {
+      "status": "likely",
+      "matched_name": "Jobright Inc.",
+      "certified_lca_count": 1
+    },
+    "Zus Health": {
+      "status": "likely",
+      "matched_name": "Group Health, Inc.",
+      "certified_lca_count": 41
+    },
+    "Primoris Services Corporation": {
+      "status": "likely",
+      "matched_name": "Corporation Service Company",
+      "certified_lca_count": 21
+    },
+    "Sky": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "DataCore France": {
+      "status": "likely",
+      "matched_name": "Datacor, Inc.",
+      "certified_lca_count": 7
+    },
+    "CarePlanner Ltd \ud83d\udc9a": {
+      "status": "likely",
+      "matched_name": "CARE",
+      "certified_lca_count": 1
+    },
+    "Millennium": {
+      "status": "likely",
+      "matched_name": "Millennium Advisors, LLC",
+      "certified_lca_count": 6
+    },
+    "GM Financial": {
+      "status": "likely",
+      "matched_name": "M Financial Holdings, Inc.",
+      "certified_lca_count": 1
+    },
     "NTT DATA": {
       "status": "likely",
       "matched_name": "NTT DATA Americas, Inc.",
@@ -72,11 +177,6 @@
       "matched_name": null,
       "certified_lca_count": 0
     },
-    "Swooped": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
     "ACA Group": {
       "status": "not_found",
       "matched_name": null,
@@ -126,11 +226,6 @@
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
-    },
-    "Jobright.ai": {
-      "status": "likely",
-      "matched_name": "Jobright Inc.",
-      "certified_lca_count": 1
     },
     "Bolster AI": {
       "status": "likely",
@@ -688,11 +783,6 @@
       "certified_lca_count": 3
     },
     "Masis Professional Group": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "PwC": {
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
@@ -1956,11 +2046,6 @@
       "status": "likely",
       "matched_name": "Way.com Inc.",
       "certified_lca_count": 3
-    },
-    "Millennium": {
-      "status": "likely",
-      "matched_name": "Millennium Advisors, LLC",
-      "certified_lca_count": 6
     },
     "Brown&Co LLP": {
       "status": "likely",
@@ -4403,11 +4488,6 @@
       "certified_lca_count": 21
     },
     "Bureau of Prisons/Federal Prison System": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "DirectShifts": {
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
