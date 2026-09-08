@@ -1,66 +1,78 @@
 # 🔥 LinkedIn — Sumit's Planning & PropTech Roles
-*Last updated: 2026-09-08 19:18 UTC*
+*Last updated: 2026-09-08 22:26 UTC*
 
-**14 new role(s)** since last run · 14 total in last 1h
+**17 new role(s)** since last run · 17 total in last 1h
 
-### [Senior Ecommerce Implementation Consultant](https://www.linkedin.com/jobs/view/4455716820/) — Klipboard
-- 📍 **Location:** Newcastle Upon Tyne, England, United Kingdom
+### [Customer Success Analyst](https://www.linkedin.com/jobs/view/4462559066/) — TRG Screen
+- 📍 **Location:** Belfast, Northern Ireland, United Kingdom
 - 🕒 **Posted:** 2026-09-08
 
-### [Associate Implementation Consultant](https://www.linkedin.com/jobs/view/4462525615/) — Benifex
-- 📍 **Location:** Southampton, England, United Kingdom
+### [Demand Planning Consultant (US Farm Animal)](https://www.linkedin.com/jobs/view/4462564110/) — Elanco
+- 📍 **Location:** Indianapolis, IN
 - 🕒 **Posted:** 2026-09-08
 
-### [Customer Success Manager mit Paid Social Media Buyer / Social Media Marketing Erfahrung (w/m/d) remote](https://www.linkedin.com/jobs/view/4462535598/) — DatAds
-- 📍 **Location:** Germany
+### [Geospatial Analyst I](https://www.linkedin.com/jobs/view/4463571204/) — Enviva
+- 📍 **Location:** Raleigh, NC
 - 🕒 **Posted:** 2026-09-08
 
-### [Geospatial Analyst II](https://www.linkedin.com/jobs/view/4448552629/) — Dewberry
-- 📍 **Location:** Greater Seattle Area
+### [GIS ANALYST II](https://www.linkedin.com/jobs/view/4463568298/) — Gulf Companies
+- 📍 **Location:** Houston, TX
 - 🕒 **Posted:** 2026-09-08
 
-### [Space Planning Analyst](https://www.linkedin.com/jobs/view/4454751898/) — SpartanNash
-- 📍 **Location:** Byron Center, MI
+### [26-051.P - GIS Analyst](https://www.linkedin.com/jobs/view/4462546872/) — Harvest Midstream Company
+- 📍 **Location:** Houston, TX
 - 🕒 **Posted:** 2026-09-08
 
-### [IT Strategic Planning Analyst](https://www.linkedin.com/jobs/view/4462538529/) — ZenPoint Solutions LLC
-- 📍 **Location:** Springfield, VA
-- 💰 **Salary:** $120,000.00/yr - $140,000.00/yr
+### [Associate Customer Success Manager](https://www.linkedin.com/jobs/view/4462558089/) — Johnson Controls
+- 📍 **Location:** Chicago, IL
+- 💰 **Salary:** $73,000.00/yr - $101,000.00/yr
 - 🕒 **Posted:** 2026-09-08
 
-### [Production Planning Analyst](https://www.linkedin.com/jobs/view/4452531242/) — Analog Devices
-- 📍 **Location:** Chelmsford, MA
-- 💰 **Salary:** $68,790 to $94,605
+### [Customer Success Manager](https://www.linkedin.com/jobs/view/4462541961/) — L2L
+- 📍 **Location:** Massachusetts, United States
 - 🕒 **Posted:** 2026-09-08
 
-### [Production Planning Analyst](https://www.linkedin.com/jobs/view/4452538295/) — Analog Devices
-- 📍 **Location:** Chelmsford, MA
-- 💰 **Salary:** $68,790 to $94,605
+### [Customer Success Manager](https://www.linkedin.com/jobs/view/4374787596/) — Goodshuffle
+- 📍 **Location:** Washington, DC
 - 🕒 **Posted:** 2026-09-08
 
-### [Geospatial Analyst II](https://www.linkedin.com/jobs/view/4463527424/) — Dewberry
-- 📍 **Location:** Fairfax, VA
-- 💰 **Salary:** $69,000-$88,000 annually
-- 🕒 **Posted:** 2026-09-08
-
-### [Customer Success Manager, Corporate Insurance](https://www.linkedin.com/jobs/view/4463532408/) — LineSlip Solutions
+### [Customer Success Specialist, Entry Level](https://www.linkedin.com/jobs/view/4463568498/) — Jobright.ai
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-08
 
-### [Field Customer Success Manager (Client Management I) - REMOTE](https://www.linkedin.com/jobs/view/4462546450/) — Net Health
-- 📍 **Location:** Pittsburgh, PA
-- 💰 **Salary:** $64,000.00 - $80,000.00USD
+### [Compliance Analyst](https://www.linkedin.com/jobs/view/4462546904/) — Veritas Partners
+- 📍 **Location:** Cockeysville, MD
+- 💰 **Salary:** $110,000.00/yr - $150,000.00/yr
 - 🕒 **Posted:** 2026-09-08
 
-### [Customer Success Specialist 1](https://www.linkedin.com/jobs/view/4462540547/) — PracticeTek
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $19-$23/Hr
+### [Compliance Analyst - Life, Health & Annuities](https://www.linkedin.com/jobs/view/4463552586/) — Oliver James
+- 📍 **Location:** Dallas, TX
+- 💰 **Salary:** $80,000.00/yr - $80,000.00/yr
 - 🕒 **Posted:** 2026-09-08
 
-### [Customer Success Associate](https://www.linkedin.com/jobs/view/4463533643/) — Wolters Kluwer
-- 📍 **Location:** Madison, WI
+### [Mission Compliance Analyst](https://www.linkedin.com/jobs/view/4464698438/) — Guidehouse
+- 📍 **Location:** Annapolis Junction, MD
+- 💰 **Salary:** $98,000.00-$163,000.00
 - 🕒 **Posted:** 2026-09-08
 
-### [Child Care Subsidy Fiscal Compliance Analyst](https://www.linkedin.com/jobs/view/4464658478/) — Nebraska Department of Health and Human Services
-- 📍 **Location:** Lincoln, NE
+### [Compliance Analyst - ON SITE](https://www.linkedin.com/jobs/view/4460639743/) — Southside Bank
+- 📍 **Location:** Tyler, TX
+- 🕒 **Posted:** 2026-09-08
+
+### [Cybersecurity Compliance Analyst](https://www.linkedin.com/jobs/view/4464900112/) — Entarian
+- 📍 **Location:** Suitland, MD
+- 💰 **Salary:** $105,000 - 115,000/year
+- 🕒 **Posted:** 2026-09-08
+
+### [Senior AML/CFT Compliance Analyst (Remote)](https://www.linkedin.com/jobs/view/4464686478/) — First Citizens Bank
+- 📍 **Location:** Phoenix, AZ
+- 🕒 **Posted:** 2026-09-08
+
+### [Senior AML/CFT Compliance Analyst (Remote)](https://www.linkedin.com/jobs/view/4464697182/) — First Citizens Bank
+- 📍 **Location:** Raleigh, NC
+- 🕒 **Posted:** 2026-09-08
+
+### [Implementation Consultant](https://www.linkedin.com/jobs/view/4464906083/) — Asseta
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $90,000–$125,000
 - 🕒 **Posted:** 2026-09-08
