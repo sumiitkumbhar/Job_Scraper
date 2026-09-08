@@ -1,20 +1,22 @@
 # 🔥 LinkedIn — Sumit's Planning & PropTech Roles
-*Last updated: 2026-09-07 22:31 UTC*
+*Last updated: 2026-09-08 00:54 UTC*
 
 **4 new role(s)** since last run · 4 total in last 1h
 
-### [Customer Success Specialist, Entry Level](https://www.linkedin.com/jobs/view/4462994363/) — Jobright.ai
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-07
+### [Customer Success Manager](https://www.linkedin.com/jobs/view/4459778477/) — Dot Compliance
+- 📍 **Location:** London, England, United Kingdom
+- 🕒 **Posted:** 2026-09-08
 
-### [VP, Customer Success](https://www.linkedin.com/jobs/view/4457488691/) — Zus Health
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-07
+### [Senior Solutions Consultant (DACH)](https://www.linkedin.com/jobs/view/4442776220/) — Bloomreach
+- 📍 **Location:** Germany
+- 🕒 **Posted:** 2026-09-08
 
-### [Compliance Analyst II - Primoris Energy Services - Houston, Texas](https://www.linkedin.com/jobs/view/4464401212/) — Primoris Services Corporation
-- 📍 **Location:** Pearland, TX
-- 🕒 **Posted:** 2026-09-07
+### [Oracle CPQ Cloud Implementation Consultant - Senior Associate](https://www.linkedin.com/jobs/view/4452608703/) — PwC
+- 📍 **Location:** Milwaukee, WI
+- 💰 **Salary:** $77,000 - $202,000
+- 🕒 **Posted:** 2026-09-08
 
-### [Compliance Analyst, Entry Level](https://www.linkedin.com/jobs/view/4462998263/) — Jobright.ai
+### [Customer Success Manager](https://www.linkedin.com/jobs/view/4464399708/) — Swooped
 - 📍 **Location:** United States
+- 💰 **Salary:** $120,000.00/yr - $140,000.00/yr
 - 🕒 **Posted:** 2026-09-07
