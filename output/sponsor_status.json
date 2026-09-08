@@ -1,14 +1,98 @@
 {
-  "updated_at": "2026-09-07T11:59:55.212547+00:00",
-  "register_source": "https://assets.publishing.service.gov.uk/media/6a9a8a1c9a177a1decf97e05/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-09-04.csv",
-  "register_org_count": 126495,
+  "updated_at": "2026-09-08T10:54:41.657611+00:00",
+  "register_source": "https://assets.publishing.service.gov.uk/media/6a9fca8d2f184e7143555621/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-09-08.csv",
+  "register_org_count": 126546,
   "company_counts": {
-    "confirmed": 131,
-    "likely": 376,
-    "not_found": 371,
+    "confirmed": 133,
+    "likely": 387,
+    "not_found": 374,
     "unknown": 2
   },
   "companies": {
+    "RR": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Nobul Resourcing Solutions": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "TutorSpace": {
+      "status": "likely",
+      "matched_name": "RSPA LIMITED"
+    },
+    "Kansas City National Security Campus": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "RevSpring": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Online Jobs Philippines - Work at Home": {
+      "status": "likely",
+      "matched_name": "Home Group Ltd"
+    },
+    "Quantum Machines": {
+      "status": "likely",
+      "matched_name": "Quant Group Ltd"
+    },
+    "Civil Works Alliance": {
+      "status": "likely",
+      "matched_name": "Allia Ltd"
+    },
+    "Great Yarmouth Borough Council": {
+      "status": "likely",
+      "matched_name": "Mouth Group Ltd."
+    },
+    "Waverley Borough Council": {
+      "status": "confirmed",
+      "matched_name": "Waverley Borough Council"
+    },
+    "TestReach": {
+      "status": "likely",
+      "matched_name": "Reach plc"
+    },
+    "PwC": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Swooped": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Jobright.ai": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Zus Health": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Primoris Services Corporation": {
+      "status": "likely",
+      "matched_name": "Vice UK Limited"
+    },
+    "Sky": {
+      "status": "confirmed",
+      "matched_name": "Sky UK Limited"
+    },
+    "DataCore France": {
+      "status": "likely",
+      "matched_name": "Core"
+    },
+    "CarePlanner Ltd \ud83d\udc9a": {
+      "status": "likely",
+      "matched_name": "Care & Co Ltd"
+    },
+    "Millennium": {
+      "status": "likely",
+      "matched_name": "Eric Ahaley t/a Millennium Dental Care"
+    },
+    "GM Financial": {
+      "status": "likely",
+      "matched_name": "ANCI GROUP LIMITED"
+    },
     "NTT DATA": {
       "status": "confirmed",
       "matched_name": "NTT DATA UK LIMITED"
@@ -57,10 +141,6 @@
       "status": "not_found",
       "matched_name": null
     },
-    "Swooped": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "ACA Group": {
       "status": "not_found",
       "matched_name": null
@@ -98,10 +178,6 @@
       "matched_name": "CO INTERNATIONAL LTD"
     },
     "AirPay": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Jobright.ai": {
       "status": "not_found",
       "matched_name": null
     },
@@ -550,10 +626,6 @@
       "matched_name": null
     },
     "Masis Professional Group": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "PwC": {
       "status": "not_found",
       "matched_name": null
     },
@@ -1565,10 +1637,6 @@
       "status": "likely",
       "matched_name": "Just Eat Holding Limited"
     },
-    "Millennium": {
-      "status": "likely",
-      "matched_name": "Eric Ahaley t/a Millennium Dental Care"
-    },
     "Brown&Co LLP": {
       "status": "likely",
       "matched_name": "AW Brown Dental Practice"
@@ -1922,8 +1990,8 @@
       "matched_name": null
     },
     "Aphex": {
-      "status": "not_found",
-      "matched_name": null
+      "status": "likely",
+      "matched_name": "Aphex Software Limited"
     },
     "SalesViewer\u00ae": {
       "status": "not_found",
@@ -3524,10 +3592,6 @@
     "Bureau of Prisons/Federal Prison System": {
       "status": "likely",
       "matched_name": "System ltd"
-    },
-    "DirectShifts": {
-      "status": "not_found",
-      "matched_name": null
     }
   }
 }
