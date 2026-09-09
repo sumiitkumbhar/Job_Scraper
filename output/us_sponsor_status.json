@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T11:31:48.786932+00:00",
+  "updated_at": "2026-09-09T11:38:50.037996+00:00",
   "source_files": [
     "https://www.dol.gov/media/LCA_Disclosure_Data_FY2026_Q3.xlsx",
     "https://www.dol.gov/sites/dolgov/files/ETA/oflc/pdfs/LCA_Disclosure_Data_FY2025_Q4.xlsx"
@@ -7,11 +7,296 @@
   "employer_count": 60026,
   "company_counts": {
     "confirmed": 174,
-    "likely": 308,
-    "not_found": 412,
+    "likely": 319,
+    "not_found": 431,
     "unknown": 2
   },
   "companies": {
+    "Confidential Company": {
+      "status": "likely",
+      "matched_name": "IDEN GROUP HOLDING INC.",
+      "certified_lca_count": 1
+    },
+    "Ramboll": {
+      "status": "likely",
+      "matched_name": "Ramboll Americas Engineering Solutions, Inc",
+      "certified_lca_count": 16
+    },
+    "Bidwells": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Via": {
+      "status": "confirmed",
+      "matched_name": "The VIA Group, Inc.",
+      "certified_lca_count": 2
+    },
+    "CBRE": {
+      "status": "confirmed",
+      "matched_name": "CBRE, INC.",
+      "certified_lca_count": 159
+    },
+    "ESG": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "UST": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "AppFolio": {
+      "status": "confirmed",
+      "matched_name": "AppFolio Inc.",
+      "certified_lca_count": 34
+    },
+    "TYG": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Lefebvre Sdu": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Deep Media Technologies GmbH": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Abacus.AI": {
+      "status": "confirmed",
+      "matched_name": "Abacus.AI, Inc.",
+      "certified_lca_count": 1
+    },
+    "Disney Experiences": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Morgan Stanley": {
+      "status": "confirmed",
+      "matched_name": "Morgan Stanley & Co., LLC",
+      "certified_lca_count": 267
+    },
+    "F2 Venture Capital": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Triptease": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "The Walsh Group - Walsh Construction & Archer Western": {
+      "status": "likely",
+      "matched_name": "Struction Incorporated",
+      "certified_lca_count": 1
+    },
+    "StartX Med": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Honeywell Technologies": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "TalentPop": {
+      "status": "likely",
+      "matched_name": "Talent Corporation, LLC",
+      "certified_lca_count": 1
+    },
+    "FlightSafety International": {
+      "status": "confirmed",
+      "matched_name": "FlightSafety International, Inc.",
+      "certified_lca_count": 1
+    },
+    "Dudek": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Lightfield": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Droxi": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Goalbook": {
+      "status": "likely",
+      "matched_name": "Goal Group, LLC",
+      "certified_lca_count": 2
+    },
+    "PlayCore": {
+      "status": "likely",
+      "matched_name": "PlayCore Wisconsin, Inc",
+      "certified_lca_count": 1
+    },
+    "O'Melveny & Myers LLP": {
+      "status": "confirmed",
+      "matched_name": "O'Melveny & Myers LLP",
+      "certified_lca_count": 11
+    },
+    "SOSV HAX": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Aon": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "TRG Screen": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Elanco": {
+      "status": "likely",
+      "matched_name": "Elanco US Inc.",
+      "certified_lca_count": 49
+    },
+    "Enviva": {
+      "status": "likely",
+      "matched_name": "Enviva Management Company, LLC",
+      "certified_lca_count": 1
+    },
+    "Gulf Companies": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Harvest Midstream Company": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Johnson Controls": {
+      "status": "confirmed",
+      "matched_name": "JOHNSON CONTROLS, INC.",
+      "certified_lca_count": 61
+    },
+    "L2L": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Goodshuffle": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Jobright.ai": {
+      "status": "likely",
+      "matched_name": "Jobright Inc.",
+      "certified_lca_count": 1
+    },
+    "Veritas Partners": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Oliver James": {
+      "status": "likely",
+      "matched_name": "Oliver James Associates LLC",
+      "certified_lca_count": 1
+    },
+    "Guidehouse": {
+      "status": "confirmed",
+      "matched_name": "Guidehouse Inc.",
+      "certified_lca_count": 24
+    },
+    "Southside Bank": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Entarian": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "First Citizens Bank": {
+      "status": "likely",
+      "matched_name": "First Citizens Bank and Trust Co.",
+      "certified_lca_count": 242
+    },
+    "Asseta": {
+      "status": "likely",
+      "matched_name": "ASSETA AI INC.",
+      "certified_lca_count": 1
+    },
+    "Klipboard": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Benifex": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "DatAds": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Dewberry": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "SpartanNash": {
+      "status": "confirmed",
+      "matched_name": "SpartanNash, LLC",
+      "certified_lca_count": 2
+    },
+    "ZenPoint Solutions LLC": {
+      "status": "likely",
+      "matched_name": "SOLUTIONS INC",
+      "certified_lca_count": 1
+    },
+    "Analog Devices": {
+      "status": "confirmed",
+      "matched_name": "Analog Devices, Inc.",
+      "certified_lca_count": 246
+    },
+    "LineSlip Solutions": {
+      "status": "likely",
+      "matched_name": "SOLUTIONS INC",
+      "certified_lca_count": 1
+    },
+    "Net Health": {
+      "status": "likely",
+      "matched_name": "Garnet Health Doctors, P.C.",
+      "certified_lca_count": 6
+    },
+    "PracticeTek": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Wolters Kluwer": {
+      "status": "likely",
+      "matched_name": "Wolters Kluwer DXG U.S., Inc.",
+      "certified_lca_count": 101
+    },
+    "Nebraska Department of Health and Human Services": {
+      "status": "likely",
+      "matched_name": "Corporation Service Company",
+      "certified_lca_count": 21
+    },
     "RR": {
       "status": "not_found",
       "matched_name": null,
@@ -76,11 +361,6 @@
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
-    },
-    "Jobright.ai": {
-      "status": "likely",
-      "matched_name": "Jobright Inc.",
-      "certified_lca_count": 1
     },
     "Zus Health": {
       "status": "likely",
@@ -236,11 +516,6 @@
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
-    },
-    "Confidential Company": {
-      "status": "likely",
-      "matched_name": "IDEN GROUP HOLDING INC.",
-      "certified_lca_count": 1
     },
     "Hyndburn Borough Council": {
       "status": "not_found",
@@ -527,11 +802,6 @@
       "matched_name": null,
       "certified_lca_count": 0
     },
-    "Analog Devices": {
-      "status": "confirmed",
-      "matched_name": "Analog Devices, Inc.",
-      "certified_lca_count": 246
-    },
     "LG Electronics North America": {
       "status": "likely",
       "matched_name": "North, Inc.",
@@ -738,11 +1008,6 @@
       "certified_lca_count": 0
     },
     "Lidl US": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Klipboard": {
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
@@ -1171,11 +1436,6 @@
       "status": "confirmed",
       "matched_name": "Slalom, Inc.",
       "certified_lca_count": 139
-    },
-    "Johnson Controls": {
-      "status": "confirmed",
-      "matched_name": "JOHNSON CONTROLS, INC.",
-      "certified_lca_count": 61
     },
     "Modern Technology Solutions, Inc. (MTSI)": {
       "status": "likely",
@@ -1741,11 +2001,6 @@
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
-    },
-    "Ramboll": {
-      "status": "likely",
-      "matched_name": "Ramboll Americas Engineering Solutions, Inc",
-      "certified_lca_count": 16
     },
     "Norwich City Council": {
       "status": "not_found",
@@ -2562,11 +2817,6 @@
       "matched_name": null,
       "certified_lca_count": 0
     },
-    "Bidwells": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
     "Department for Transport (DfT), United Kingdom": {
       "status": "not_found",
       "matched_name": null,
@@ -3087,11 +3337,6 @@
       "matched_name": null,
       "certified_lca_count": 0
     },
-    "Dewberry": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
     "Seranbio": {
       "status": "not_found",
       "matched_name": null,
@@ -3363,11 +3608,6 @@
       "certified_lca_count": 0
     },
     "Office of Energy Infrastructure Safety": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Dudek": {
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
@@ -3912,11 +4152,6 @@
       "matched_name": null,
       "certified_lca_count": 0
     },
-    "Morgan Stanley": {
-      "status": "confirmed",
-      "matched_name": "Morgan Stanley & Co., LLC",
-      "certified_lca_count": 267
-    },
     "Resourceful Recruitment": {
       "status": "likely",
       "matched_name": "Source LLC",
@@ -4406,91 +4641,6 @@
       "status": "likely",
       "matched_name": "Veolia North America LLC",
       "certified_lca_count": 23
-    },
-    "EHS Support": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "ERM": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Altria Client Services, LLC.": {
-      "status": "confirmed",
-      "matched_name": "Altria Client Services LLC",
-      "certified_lca_count": 11
-    },
-    "University of Cincinnati": {
-      "status": "confirmed",
-      "matched_name": "UNIVERSITY OF CINCINNATI",
-      "certified_lca_count": 80
-    },
-    "Spire Inc.": {
-      "status": "confirmed",
-      "matched_name": "Spire Inc.",
-      "certified_lca_count": 14
-    },
-    "Icf": {
-      "status": "confirmed",
-      "matched_name": "ICF Incorporated, LLC",
-      "certified_lca_count": 58
-    },
-    "City of Loveland": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Verdantas-1": {
-      "status": "likely",
-      "matched_name": "Verdantas LLC",
-      "certified_lca_count": 5
-    },
-    "GSI Environmental Inc.": {
-      "status": "confirmed",
-      "matched_name": "GSI Environmental Inc.",
-      "certified_lca_count": 3
-    },
-    "LAUKOA": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Mainspring Energy": {
-      "status": "confirmed",
-      "matched_name": "Mainspring Energy, Inc.",
-      "certified_lca_count": 24
-    },
-    "aptim": {
-      "status": "confirmed",
-      "matched_name": "APTIM Corp",
-      "certified_lca_count": 1
-    },
-    "Triumvirate Environmental": {
-      "status": "confirmed",
-      "matched_name": "Triumvirate Environmental, Inc.",
-      "certified_lca_count": 2
-    },
-    "Redwood AR": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Kern County": {
-      "status": "likely",
-      "matched_name": "Kern County Hospital Authority",
-      "certified_lca_count": 1
-    },
-    "Regional Government Services": {
-      "status": "likely",
-      "matched_name": "Corporation Service Company",
-      "certified_lca_count": 21
-    },
-    "Bureau of Prisons/Federal Prison System": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
     }
   }
 }
