@@ -1,14 +1,242 @@
 {
-  "updated_at": "2026-09-08T10:54:41.657611+00:00",
-  "register_source": "https://assets.publishing.service.gov.uk/media/6a9fca8d2f184e7143555621/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-09-08.csv",
-  "register_org_count": 126546,
+  "updated_at": "2026-09-09T10:59:25.496105+00:00",
+  "register_source": "https://assets.publishing.service.gov.uk/media/6aa1382d9f95f408139c64b7/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-09-09.csv",
+  "register_org_count": 126548,
   "company_counts": {
-    "confirmed": 133,
-    "likely": 387,
-    "not_found": 374,
+    "confirmed": 141,
+    "likely": 400,
+    "not_found": 383,
     "unknown": 2
   },
   "companies": {
+    "Confidential Company": {
+      "status": "likely",
+      "matched_name": "ENTIA LTD"
+    },
+    "Ramboll": {
+      "status": "confirmed",
+      "matched_name": "Ramboll UK Limited"
+    },
+    "Bidwells": {
+      "status": "confirmed",
+      "matched_name": "Bidwells LLP"
+    },
+    "Via": {
+      "status": "confirmed",
+      "matched_name": "Via Inc Ltd"
+    },
+    "CBRE": {
+      "status": "confirmed",
+      "matched_name": "CBRE Limited"
+    },
+    "ESG": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "UST": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "AppFolio": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "TYG": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Lefebvre Sdu": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Deep Media Technologies GmbH": {
+      "status": "likely",
+      "matched_name": "A-TEC LIMITED"
+    },
+    "Abacus.AI": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Disney Experiences": {
+      "status": "likely",
+      "matched_name": "PERI Limited"
+    },
+    "Morgan Stanley": {
+      "status": "confirmed",
+      "matched_name": "Morgan Stanley UK Limited"
+    },
+    "F2 Venture Capital": {
+      "status": "likely",
+      "matched_name": "Capita Plc"
+    },
+    "Triptease": {
+      "status": "confirmed",
+      "matched_name": "Triptease Limited"
+    },
+    "The Walsh Group - Walsh Construction & Archer Western": {
+      "status": "likely",
+      "matched_name": "ARCHER (UK) LIMITED"
+    },
+    "StartX Med": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Honeywell Technologies": {
+      "status": "likely",
+      "matched_name": "Honeywell Limited"
+    },
+    "TalentPop": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "FlightSafety International": {
+      "status": "confirmed",
+      "matched_name": "FlightSafety International UK Limited"
+    },
+    "Dudek": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Lightfield": {
+      "status": "likely",
+      "matched_name": "LightField London Limited"
+    },
+    "Droxi": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Goalbook": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "PlayCore": {
+      "status": "likely",
+      "matched_name": "Core"
+    },
+    "O'Melveny & Myers LLP": {
+      "status": "confirmed",
+      "matched_name": "O'Melveny & Myers LLP"
+    },
+    "SOSV HAX": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Aon": {
+      "status": "confirmed",
+      "matched_name": "Aon UK  Limited"
+    },
+    "TRG Screen": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Elanco": {
+      "status": "likely",
+      "matched_name": "Elanco UK AH Limited"
+    },
+    "Enviva": {
+      "status": "likely",
+      "matched_name": "Enviva Management UK Ltd"
+    },
+    "Gulf Companies": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Harvest Midstream Company": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Johnson Controls": {
+      "status": "likely",
+      "matched_name": "JOHNS&CO"
+    },
+    "L2L": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Goodshuffle": {
+      "status": "likely",
+      "matched_name": "Goods Group Limited"
+    },
+    "Jobright.ai": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Veritas Partners": {
+      "status": "likely",
+      "matched_name": "Partners Group (UK) Ltd."
+    },
+    "Oliver James": {
+      "status": "likely",
+      "matched_name": "Oliver James Associates Limited"
+    },
+    "Guidehouse": {
+      "status": "likely",
+      "matched_name": "Guidehouse Europe Limited"
+    },
+    "Southside Bank": {
+      "status": "likely",
+      "matched_name": "Side UK Limited"
+    },
+    "Entarian": {
+      "status": "likely",
+      "matched_name": "Arian&Co Limited"
+    },
+    "First Citizens Bank": {
+      "status": "likely",
+      "matched_name": "Citi Group"
+    },
+    "Asseta": {
+      "status": "likely",
+      "matched_name": "Asset UK Limited"
+    },
+    "Klipboard": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Benifex": {
+      "status": "confirmed",
+      "matched_name": "Benifex Ltd"
+    },
+    "DatAds": {
+      "status": "likely",
+      "matched_name": "Data Inc UK Ltd"
+    },
+    "Dewberry": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "SpartanNash": {
+      "status": "likely",
+      "matched_name": "SPAR UK Ltd"
+    },
+    "ZenPoint Solutions LLC": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Analog Devices": {
+      "status": "confirmed",
+      "matched_name": "Analog Devices Limited"
+    },
+    "LineSlip Solutions": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Net Health": {
+      "status": "likely",
+      "matched_name": "Cygnet Health Care Ltd"
+    },
+    "PracticeTek": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Wolters Kluwer": {
+      "status": "confirmed",
+      "matched_name": "Wolters Kluwer (UK) Ltd"
+    },
+    "Nebraska Department of Health and Human Services": {
+      "status": "likely",
+      "matched_name": "F Health LTD"
+    },
     "RR": {
       "status": "not_found",
       "matched_name": null
@@ -58,10 +286,6 @@
       "matched_name": null
     },
     "Swooped": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Jobright.ai": {
       "status": "not_found",
       "matched_name": null
     },
@@ -188,10 +412,6 @@
     "Guarantee Trust Life Insurance Company": {
       "status": "likely",
       "matched_name": "Trust Group Holdings LTD"
-    },
-    "Confidential Company": {
-      "status": "likely",
-      "matched_name": "ENTIA LTD"
     },
     "Hyndburn Borough Council": {
       "status": "confirmed",
@@ -421,10 +641,6 @@
       "status": "not_found",
       "matched_name": null
     },
-    "Analog Devices": {
-      "status": "confirmed",
-      "matched_name": "Analog Devices Limited"
-    },
     "LG Electronics North America": {
       "status": "not_found",
       "matched_name": null
@@ -590,10 +806,6 @@
       "matched_name": null
     },
     "Lidl US": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Klipboard": {
       "status": "not_found",
       "matched_name": null
     },
@@ -936,10 +1148,6 @@
     "Slalom": {
       "status": "likely",
       "matched_name": "Slalom Consulting Limited"
-    },
-    "Johnson Controls": {
-      "status": "likely",
-      "matched_name": "JOHNS&CO"
     },
     "Modern Technology Solutions, Inc. (MTSI)": {
       "status": "likely",
@@ -1392,10 +1600,6 @@
     "South Dublin County Council": {
       "status": "likely",
       "matched_name": "Count LTD"
-    },
-    "Ramboll": {
-      "status": "confirmed",
-      "matched_name": "Ramboll UK Limited"
     },
     "Norwich City Council": {
       "status": "confirmed",
@@ -2049,10 +2253,6 @@
       "status": "likely",
       "matched_name": "Beach UK Limited"
     },
-    "Bidwells": {
-      "status": "confirmed",
-      "matched_name": "Bidwells LLP"
-    },
     "Department for Transport (DfT), United Kingdom": {
       "status": "likely",
       "matched_name": "Department for Transport"
@@ -2469,10 +2669,6 @@
       "status": "likely",
       "matched_name": "Propel Holdings Limited"
     },
-    "Dewberry": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "Seranbio": {
       "status": "not_found",
       "matched_name": null
@@ -2692,10 +2888,6 @@
     "Office of Energy Infrastructure Safety": {
       "status": "likely",
       "matched_name": "Office Holdings Limited"
-    },
-    "Dudek": {
-      "status": "not_found",
-      "matched_name": null
     },
     "Kentucky Energy & Environment Cabinet": {
       "status": "likely",
@@ -3129,10 +3321,6 @@
       "status": "not_found",
       "matched_name": null
     },
-    "Morgan Stanley": {
-      "status": "confirmed",
-      "matched_name": "Morgan Stanley UK Limited"
-    },
     "Resourceful Recruitment": {
       "status": "likely",
       "matched_name": "Resource Limited"
@@ -3524,74 +3712,6 @@
     "Veolia": {
       "status": "likely",
       "matched_name": "Veolia ES (UK) Ltd"
-    },
-    "EHS Support": {
-      "status": "likely",
-      "matched_name": "The Support Group (UK) Limited"
-    },
-    "ERM": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Altria Client Services, LLC.": {
-      "status": "likely",
-      "matched_name": "Vice UK Limited"
-    },
-    "University of Cincinnati": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Spire Inc.": {
-      "status": "likely",
-      "matched_name": "APEX JEWELLERS LTD T/A ASPIRE, DIAMOND HEAVEN AND DIAMOND QUARTER"
-    },
-    "Icf": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "City of Loveland": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Verdantas-1": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "GSI Environmental Inc.": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "LAUKOA": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Mainspring Energy": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "aptim": {
-      "status": "likely",
-      "matched_name": "Adaptimmune Limited"
-    },
-    "Triumvirate Environmental": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Redwood AR": {
-      "status": "likely",
-      "matched_name": "Wood Group UK Limited"
-    },
-    "Kern County": {
-      "status": "likely",
-      "matched_name": "Count LTD"
-    },
-    "Regional Government Services": {
-      "status": "likely",
-      "matched_name": "Vice UK Limited"
-    },
-    "Bureau of Prisons/Federal Prison System": {
-      "status": "likely",
-      "matched_name": "System ltd"
     }
   }
 }
