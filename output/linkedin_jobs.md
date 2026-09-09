@@ -1,76 +1,45 @@
 # 🔥 LinkedIn — Sumit's Planning & PropTech Roles
-*Last updated: 2026-09-09 00:50 UTC*
+*Last updated: 2026-09-09 05:38 UTC*
 
-**16 new role(s)** since last run · 16 total in last 1h
+**10 new role(s)** since last run · 10 total in last 1h
 
-### [Customer Success Manager - EMEA](https://www.linkedin.com/jobs/view/4464928353/) — Triptease
-- 📍 **Location:** London, England, United Kingdom
+### [Customer Success Manager Legal](https://www.linkedin.com/jobs/view/4464980324/) — Lefebvre Sdu
+- 📍 **Location:** The Hague, South Holland, Netherlands
 - 🕒 **Posted:** 2026-09-09
 
-### [Construction Technology (BIM) Manager](https://www.linkedin.com/jobs/view/4464929315/) — The Walsh Group - Walsh Construction & Archer Western
-- 📍 **Location:** Phoenix, AZ
+### [O9 Product Planning Consultant(m/w/d) - Germany](https://www.linkedin.com/jobs/view/4411353414/) — Infosys
+- 📍 **Location:** Frankfurt, Hesse, Germany
 - 🕒 **Posted:** 2026-09-09
 
-### [Senior Customer Success Manager](https://www.linkedin.com/jobs/view/4463579174/) — StartX Med
+### [Microsoft Copilot Studio und AI Solutions Consultant (m/w/d)](https://www.linkedin.com/jobs/view/4463811303/) — Skaylink
+- 📍 **Location:** Munich, Bavaria, Germany
+- 🕒 **Posted:** 2026-09-09
+
+### [(Junior) Customer Success Manager (m/w/d) - Jobbird.com](https://www.linkedin.com/jobs/view/4463807378/) — Jobster
+- 📍 **Location:** Munich, Bavaria, Germany
+- 🕒 **Posted:** 2026-09-09
+
+### [Customer Success Manager (m/w/d) - Jobbird.com](https://www.linkedin.com/jobs/view/4463801667/) — Jobster
+- 📍 **Location:** Essen, North Rhine-Westphalia, Germany
+- 🕒 **Posted:** 2026-09-09
+
+### [Business Planning Analyst I Graduate](https://www.linkedin.com/jobs/view/4463659394/) — Hewlett Packard Enterprise
+- 📍 **Location:** Andover, MA
+- 🕒 **Posted:** 2026-09-09
+
+### [Planning Analyst](https://www.linkedin.com/jobs/view/4464976516/) — Arhaus
+- 📍 **Location:** Boston Heights, OH
+- 🕒 **Posted:** 2026-09-09
+
+### [Customer Success Manager](https://www.linkedin.com/jobs/view/4464965776/) — Wand AI
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-09-09
+
+### [Compliance Analyst](https://www.linkedin.com/jobs/view/4463814260/) — Disney Experiences
+- 📍 **Location:** Celebration, FL
+- 💰 **Salary:** $92,900.00 to $124,500.00 per year
+- 🕒 **Posted:** 2026-09-09
+
+### [Private Wealth Management Financial Planning Analyst](https://www.linkedin.com/jobs/view/4451903895/) — Morgan Stanley
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $145,000 - $175,000
 - 🕒 **Posted:** 2026-09-09
-
-### [Customer Success Manager](https://www.linkedin.com/jobs/view/4464918279/) — Honeywell Technologies
-- 📍 **Location:** Portland, ME
-- 💰 **Salary:** $71,300-89,000
-- 🕒 **Posted:** 2026-09-09
-
-### [Customer Success Manager (E-Commerce)](https://www.linkedin.com/jobs/view/4458052096/) — TalentPop
-- 📍 **Location:** United States
-- 💰 **Salary:** $65,000.00/yr - $75,000.00/yr
-- 🕒 **Posted:** 2026-09-09
-
-### [Trade Compliance Analyst](https://www.linkedin.com/jobs/view/4464924194/) — FlightSafety International
-- 📍 **Location:** Tulsa Metropolitan Area
-- 🕒 **Posted:** 2026-09-09
-
-### [Trade Compliance Analyst](https://www.linkedin.com/jobs/view/4464924193/) — FlightSafety International
-- 📍 **Location:** Columbus, Ohio Metropolitan Area
-- 🕒 **Posted:** 2026-09-09
-
-### [Customer Success Manager, Aviation Robotics](https://www.linkedin.com/jobs/view/4463564943/) — StartX Med
-- 📍 **Location:** Redwood City, CA
-- 💰 **Salary:** $135,000 - $165,000
-- 🕒 **Posted:** 2026-09-09
-
-### [GIS Analyst II](https://www.linkedin.com/jobs/view/4464927181/) — Dudek
-- 📍 **Location:** California, United States
-- 💰 **Salary:** $65,000-75,000/annually
-- 🕒 **Posted:** 2026-09-08
-
-### [Founding Customer Success Manager](https://www.linkedin.com/jobs/view/4457158736/) — Lightfield
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $160,000.00/yr - $180,000.00/yr
-- 🕒 **Posted:** 2026-09-08
-
-### [Customer Success Manager - Healthcare SaaS](https://www.linkedin.com/jobs/view/4464919239/) — Droxi
-- 📍 **Location:** Boston, MA
-- 🕒 **Posted:** 2026-09-08
-
-### [Customer Success, Southern California (Greater Los Angeles or San Diego Regions)](https://www.linkedin.com/jobs/view/4464918229/) — Goalbook
-- 📍 **Location:** Los Angeles, CA
-- 🕒 **Posted:** 2026-09-08
-
-### [Audit and Compliance Analyst](https://www.linkedin.com/jobs/view/4463577273/) — PlayCore
-- 📍 **Location:** Chattanooga, TN
-- 🕒 **Posted:** 2026-09-08
-
-### [Client Billing Compliance Analyst](https://www.linkedin.com/jobs/view/4464910667/) — O'Melveny & Myers LLP
-- 📍 **Location:** Dallas, TX
-- 🕒 **Posted:** 2026-09-08
-
-### [Customer Success Manager](https://www.linkedin.com/jobs/view/4463577286/) — SOSV HAX
-- 📍 **Location:** Buffalo-Niagara Falls Area
-- 💰 **Salary:** $120,000 - $180,000
-- 🕒 **Posted:** 2026-09-08
-
-### [Health Solutions Consultant](https://www.linkedin.com/jobs/view/4464912487/) — Aon
-- 📍 **Location:** Austin, TX
-- 💰 **Salary:** $70,000 to $91,000.00 annually
-- 🕒 **Posted:** 2026-09-08
