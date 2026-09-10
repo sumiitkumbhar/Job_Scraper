@@ -1,17 +1,322 @@
 {
-  "updated_at": "2026-09-09T11:38:50.037996+00:00",
+  "updated_at": "2026-09-10T11:35:40.240989+00:00",
   "source_files": [
     "https://www.dol.gov/media/LCA_Disclosure_Data_FY2026_Q3.xlsx",
     "https://www.dol.gov/sites/dolgov/files/ETA/oflc/pdfs/LCA_Disclosure_Data_FY2025_Q4.xlsx"
   ],
   "employer_count": 60026,
   "company_counts": {
-    "confirmed": 174,
-    "likely": 319,
-    "not_found": 431,
+    "confirmed": 187,
+    "likely": 326,
+    "not_found": 436,
     "unknown": 2
   },
   "companies": {
+    "Canal & River Trust": {
+      "status": "likely",
+      "matched_name": "Rive Inc.",
+      "certified_lca_count": 2
+    },
+    "Stantec": {
+      "status": "likely",
+      "matched_name": "Stantec Architecture Inc.",
+      "certified_lca_count": 25
+    },
+    "Autodesk": {
+      "status": "confirmed",
+      "matched_name": "Autodesk, Inc.",
+      "certified_lca_count": 221
+    },
+    "Realpage": {
+      "status": "confirmed",
+      "matched_name": "RealPage, Inc.",
+      "certified_lca_count": 10
+    },
+    "Cook County Government": {
+      "status": "likely",
+      "matched_name": "Cook Incorporated",
+      "certified_lca_count": 2
+    },
+    "Scout Motors Inc.": {
+      "status": "confirmed",
+      "matched_name": "Scout Motors Inc.",
+      "certified_lca_count": 21
+    },
+    "Nexl": {
+      "status": "likely",
+      "matched_name": "Nexla Inc.",
+      "certified_lca_count": 2
+    },
+    "Siemens Digital Industries Software": {
+      "status": "likely",
+      "matched_name": "INDUS GROUP, INC.",
+      "certified_lca_count": 47
+    },
+    "Meltwater": {
+      "status": "likely",
+      "matched_name": "Meltwater News US Inc.",
+      "certified_lca_count": 5
+    },
+    "Convene": {
+      "status": "confirmed",
+      "matched_name": "CONVENE INC",
+      "certified_lca_count": 3
+    },
+    "Steamboat Group": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "BioSpace": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Fidelity Investments": {
+      "status": "likely",
+      "matched_name": "Fidelity Technology Group, LLC d/b/a Fidelity Investments",
+      "certified_lca_count": 2661
+    },
+    "Drone.vet": {
+      "status": "likely",
+      "matched_name": "E Vet, Inc.",
+      "certified_lca_count": 1
+    },
+    "Compass": {
+      "status": "confirmed",
+      "matched_name": "Compass, Inc.",
+      "certified_lca_count": 5
+    },
+    "Aikido Security": {
+      "status": "confirmed",
+      "matched_name": "Aikido Security Corp.",
+      "certified_lca_count": 1
+    },
+    "Relativity": {
+      "status": "likely",
+      "matched_name": "Relativity ODA LLC",
+      "certified_lca_count": 27
+    },
+    "ACA Group": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Xcel Energy": {
+      "status": "likely",
+      "matched_name": "Xcel Energy Services, Inc.",
+      "certified_lca_count": 9
+    },
+    "NinjaOne": {
+      "status": "confirmed",
+      "matched_name": "NinjaOne, LLC",
+      "certified_lca_count": 1
+    },
+    "Swooped": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "PwC": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Altura Search": {
+      "status": "likely",
+      "matched_name": "Arch Group LLC",
+      "certified_lca_count": 2
+    },
+    "The Fedcap Group": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Navan": {
+      "status": "confirmed",
+      "matched_name": "Navan, Inc.",
+      "certified_lca_count": 37
+    },
+    "Molson Coors Beverage Company": {
+      "status": "likely",
+      "matched_name": "Molson Coors Beverage Company USA LLC",
+      "certified_lca_count": 25
+    },
+    "TSC": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "ApartmentIQ": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Georgia Ports Authority": {
+      "status": "confirmed",
+      "matched_name": "Georgia Ports Authority",
+      "certified_lca_count": 1
+    },
+    "Brivo": {
+      "status": "confirmed",
+      "matched_name": "Brivo, Inc.",
+      "certified_lca_count": 5
+    },
+    "Securly": {
+      "status": "confirmed",
+      "matched_name": "Securly, Inc.",
+      "certified_lca_count": 1
+    },
+    "Hightouch": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Oakridge Staffing": {
+      "status": "confirmed",
+      "matched_name": "Oakridge Staffing LLC",
+      "certified_lca_count": 4
+    },
+    "LiveRamp": {
+      "status": "confirmed",
+      "matched_name": "LiveRamp, Inc.",
+      "certified_lca_count": 45
+    },
+    "Fox Racing": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Osaic": {
+      "status": "likely",
+      "matched_name": "Mosaic Health System",
+      "certified_lca_count": 15
+    },
+    "OmniMax": {
+      "status": "likely",
+      "matched_name": "OMNIMAX INTERNATIONAL LLC",
+      "certified_lca_count": 3
+    },
+    "John Sisk & Son Ltd": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Kinaxis": {
+      "status": "confirmed",
+      "matched_name": "Kinaxis Corp.",
+      "certified_lca_count": 8
+    },
+    "Benifex": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Bottomline": {
+      "status": "likely",
+      "matched_name": "Bottomline Technologies, Inc.",
+      "certified_lca_count": 4
+    },
+    "SymphonyAI": {
+      "status": "likely",
+      "matched_name": "Symphony Corporation",
+      "certified_lca_count": 27
+    },
+    "Ingram Micro": {
+      "status": "confirmed",
+      "matched_name": "Ingram Micro Inc.",
+      "certified_lca_count": 86
+    },
+    "Mention Me": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Mitti by SafetyCulture": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "MobiLoud": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "WalkMe": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Farmers Insurance": {
+      "status": "likely",
+      "matched_name": "Farmers Group, Inc.",
+      "certified_lca_count": 85
+    },
+    "HARMAN International": {
+      "status": "likely",
+      "matched_name": "Harman International Industries, Inc.",
+      "certified_lca_count": 7
+    },
+    "DT Midstream": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "HD Supply": {
+      "status": "confirmed",
+      "matched_name": "HD Supply, Inc.",
+      "certified_lca_count": 20
+    },
+    "TechWolf": {
+      "status": "likely",
+      "matched_name": "The Wolf Group, PC",
+      "certified_lca_count": 2
+    },
+    "Canary Technologies": {
+      "status": "confirmed",
+      "matched_name": "Canary Technologies Corp",
+      "certified_lca_count": 5
+    },
+    "Trintech": {
+      "status": "confirmed",
+      "matched_name": "Trintech Inc.",
+      "certified_lca_count": 4
+    },
+    "PolyWorks USA": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Millennium": {
+      "status": "likely",
+      "matched_name": "Millennium Advisors, LLC",
+      "certified_lca_count": 6
+    },
+    "Integrity": {
+      "status": "confirmed",
+      "matched_name": "Integrity, LLC",
+      "certified_lca_count": 15
+    },
+    "X-energy": {
+      "status": "confirmed",
+      "matched_name": "X Energy, LLC",
+      "certified_lca_count": 3
+    },
+    "Clark Construction Group": {
+      "status": "confirmed",
+      "matched_name": "CLARK CONSTRUCTION GROUP, LLC",
+      "certified_lca_count": 7
+    },
+    "Sauce Labs": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Amazon": {
+      "status": "confirmed",
+      "matched_name": "Amazon LLC",
+      "certified_lca_count": 2
+    },
     "Confidential Company": {
       "status": "likely",
       "matched_name": "IDEN GROUP HOLDING INC.",
@@ -242,11 +547,6 @@
       "matched_name": null,
       "certified_lca_count": 0
     },
-    "Benifex": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
     "DatAds": {
       "status": "not_found",
       "matched_name": null,
@@ -352,16 +652,6 @@
       "matched_name": "Test Corporation LLC",
       "certified_lca_count": 5
     },
-    "PwC": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Swooped": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
     "Zus Health": {
       "status": "likely",
       "matched_name": "Group Health, Inc.",
@@ -386,11 +676,6 @@
       "status": "likely",
       "matched_name": "CARE",
       "certified_lca_count": 1
-    },
-    "Millennium": {
-      "status": "likely",
-      "matched_name": "Millennium Advisors, LLC",
-      "certified_lca_count": 6
     },
     "GM Financial": {
       "status": "likely",
@@ -453,11 +738,6 @@
       "certified_lca_count": 6432
     },
     "TipTopJob": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "ACA Group": {
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
@@ -567,11 +847,6 @@
       "matched_name": "SAGE IT INC",
       "certified_lca_count": 163
     },
-    "Stantec": {
-      "status": "likely",
-      "matched_name": "Stantec Architecture Inc.",
-      "certified_lca_count": 25
-    },
     "Fin": {
       "status": "not_found",
       "matched_name": null,
@@ -581,11 +856,6 @@
       "status": "confirmed",
       "matched_name": "TEKsystems, Inc.",
       "certified_lca_count": 16
-    },
-    "WalkMe": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
     },
     "Northrop Grumman UK": {
       "status": "likely",
@@ -656,11 +926,6 @@
       "status": "confirmed",
       "matched_name": "Pacific Gas and Electric Company",
       "certified_lca_count": 50
-    },
-    "Drone.vet": {
-      "status": "likely",
-      "matched_name": "E Vet, Inc.",
-      "certified_lca_count": 1
     },
     "City of Pocatello": {
       "status": "not_found",
@@ -807,11 +1072,6 @@
       "matched_name": "North, Inc.",
       "certified_lca_count": 6
     },
-    "Fidelity Investments": {
-      "status": "likely",
-      "matched_name": "Fidelity Technology Group, LLC d/b/a Fidelity Investments",
-      "certified_lca_count": 2661
-    },
     "POM Wonderful": {
       "status": "likely",
       "matched_name": "Wonder Group, Inc.",
@@ -922,11 +1182,6 @@
       "matched_name": null,
       "certified_lca_count": 0
     },
-    "Amazon": {
-      "status": "confirmed",
-      "matched_name": "Amazon LLC",
-      "certified_lca_count": 2
-    },
     "Mimecast": {
       "status": "not_found",
       "matched_name": null,
@@ -1011,11 +1266,6 @@
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
-    },
-    "Trintech": {
-      "status": "confirmed",
-      "matched_name": "Trintech Inc.",
-      "certified_lca_count": 4
     },
     "THG Ingenuity": {
       "status": "likely",
@@ -1187,11 +1437,6 @@
       "matched_name": "KFORCE INC.",
       "certified_lca_count": 773
     },
-    "Osaic": {
-      "status": "likely",
-      "matched_name": "Mosaic Health System",
-      "certified_lca_count": 15
-    },
     "Trinity Health": {
       "status": "confirmed",
       "matched_name": "Trinity Health",
@@ -1311,11 +1556,6 @@
       "status": "confirmed",
       "matched_name": "Tetra Tech, Inc.",
       "certified_lca_count": 11
-    },
-    "Autodesk": {
-      "status": "confirmed",
-      "matched_name": "Autodesk, Inc.",
-      "certified_lca_count": 221
     },
     "Flex": {
       "status": "likely",
@@ -1646,11 +1886,6 @@
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
-    },
-    "Aikido Security": {
-      "status": "confirmed",
-      "matched_name": "Aikido Security Corp.",
-      "certified_lca_count": 1
     },
     "Legend Trading": {
       "status": "not_found",
@@ -2651,11 +2886,6 @@
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
-    },
-    "Meltwater": {
-      "status": "likely",
-      "matched_name": "Meltwater News US Inc.",
-      "certified_lca_count": 5
     },
     "StraTopo": {
       "status": "likely",
@@ -4382,11 +4612,6 @@
       "matched_name": "Peraton State & Local Inc.",
       "certified_lca_count": 1
     },
-    "BioSpace": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
     "Hobsons Bay City Council": {
       "status": "not_found",
       "matched_name": null,
@@ -4541,106 +4766,6 @@
       "status": "likely",
       "matched_name": "Arine Inc.",
       "certified_lca_count": 5
-    },
-    "CRI Advantage": {
-      "status": "likely",
-      "matched_name": "Vanta Inc.",
-      "certified_lca_count": 28
-    },
-    "Brs": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "DEPARTMENT OF ENVIRONMENTAL QUALITY": {
-      "status": "likely",
-      "matched_name": "Arizona Department of Environmental Quality",
-      "certified_lca_count": 3
-    },
-    "True-environmental": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "American Lithium Energy (ALE)": {
-      "status": "likely",
-      "matched_name": "Merican, Inc.",
-      "certified_lca_count": 3
-    },
-    "LimnoTech": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Brown and Caldwell": {
-      "status": "confirmed",
-      "matched_name": "Brown and Caldwell",
-      "certified_lca_count": 6
-    },
-    "Department of Fish and Wildlife": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Forensic Analytical Consulting Services": {
-      "status": "likely",
-      "matched_name": "Corporation Service Company",
-      "certified_lca_count": 21
-    },
-    "Aytrium": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Axiom": {
-      "status": "confirmed",
-      "matched_name": "Axiom Group LLC",
-      "certified_lca_count": 10
-    },
-    "BHE Renewables": {
-      "status": "confirmed",
-      "matched_name": "BHE Renewables, LLC",
-      "certified_lca_count": 3
-    },
-    "Kelly Services": {
-      "status": "confirmed",
-      "matched_name": "Kelly Services, Inc.",
-      "certified_lca_count": 62
-    },
-    "Evommune, Inc.": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Hueman People Solutions": {
-      "status": "confirmed",
-      "matched_name": "Hueman People Solutions, LLC",
-      "certified_lca_count": 1
-    },
-    "Hims & Hers": {
-      "status": "likely",
-      "matched_name": "Hims, Inc.",
-      "certified_lca_count": 25
-    },
-    "East Bay Municipal Utility District": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "National Oceanic and Atmospheric Administration": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Rippling": {
-      "status": "likely",
-      "matched_name": "People Center, Inc. d/b/a Rippling",
-      "certified_lca_count": 108
-    },
-    "Veolia": {
-      "status": "likely",
-      "matched_name": "Veolia North America LLC",
-      "certified_lca_count": 23
     }
   }
 }
