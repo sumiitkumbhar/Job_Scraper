@@ -1,101 +1,107 @@
 # 🔥 LinkedIn — Sumit's Planning & PropTech Roles
-*Last updated: 2026-09-09 22:17 UTC*
+*Last updated: 2026-09-10 00:52 UTC*
 
-**22 new role(s)** since last run · 22 total in last 1h
+**23 new role(s)** since last run · 23 total in last 1h
 
-### [Building Regulations Consultant](https://www.linkedin.com/jobs/view/4465329564/) — Altura Search
-- 📍 **Location:** London Area, United Kingdom
-- 🕒 **Posted:** 2026-09-09
+### [Executive Planning Consultant I - Remote](https://www.linkedin.com/jobs/view/4465362585/) — Fidelity Investments
+- 📍 **Location:** Merrimack, NH
+- 💰 **Salary:** $79,000-153,000
+- 🕒 **Posted:** 2026-09-10
 
-### [Customer Success Adviser](https://www.linkedin.com/jobs/view/4459834237/) — The Fedcap Group
-- 📍 **Location:** Stockton-On-Tees, England, United Kingdom
-- 🕒 **Posted:** 2026-09-09
+### [Planning Consultant- El Segundo, CA](https://www.linkedin.com/jobs/view/4465367573/) — Fidelity Investments
+- 📍 **Location:** El Segundo, CA
+- 💰 **Salary:** $66,000-125,000
+- 🕒 **Posted:** 2026-09-10
 
-### [Enterprise, Solutions Consultant](https://www.linkedin.com/jobs/view/4465333596/) — Navan
-- 📍 **Location:** Amsterdam, North Holland, Netherlands
-- 🕒 **Posted:** 2026-09-09
+### [Geospatial Analyst, Senior](https://www.linkedin.com/jobs/view/4464143729/) — Drone.vet
+- 📍 **Location:** Georgia, United States
+- 💰 **Salary:** $77,500.00 to $176,000.00
+- 🕒 **Posted:** 2026-09-10
 
-### [Enterprise, Solutions Consultant](https://www.linkedin.com/jobs/view/4465344548/) — Navan
-- 📍 **Location:** Berlin, Berlin, Germany
-- 🕒 **Posted:** 2026-09-09
+### [Topobathymetric Lidar Geospatial Analyst II](https://www.linkedin.com/jobs/view/4464137855/) — Drone.vet
+- 📍 **Location:** Tampa, FL
+- 🕒 **Posted:** 2026-09-10
 
-### [Supply Planning Analyst](https://www.linkedin.com/jobs/view/4464119912/) — Molson Coors Beverage Company
-- 📍 **Location:** Milwaukee, WI
-- 💰 **Salary:** $69,800.00/yr - $91,600.00/yr
-- 🕒 **Posted:** 2026-09-09
+### [Customer Success Manager](https://www.linkedin.com/jobs/view/4465366505/) — Compass
+- 📍 **Location:** Coconut Creek, FL
+- 🕒 **Posted:** 2026-09-10
 
-### [Geospatial Analyst V](https://www.linkedin.com/jobs/view/4463656133/) — TSC
-- 📍 **Location:** Buckley AFB, CO
-- 🕒 **Posted:** 2026-09-09
-
-### [Solutions Consultant](https://www.linkedin.com/jobs/view/4464114930/) — ApartmentIQ
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-09
-
-### [Enterprise Resource Planning Analyst](https://www.linkedin.com/jobs/view/4451941674/) — Georgia Ports Authority
-- 📍 **Location:** Savannah, GA
-- 🕒 **Posted:** 2026-09-09
-
-### [Customer Success Account Manager](https://www.linkedin.com/jobs/view/4463083195/) — Brivo
-- 📍 **Location:** Austin, TX
-- 🕒 **Posted:** 2026-09-09
-
-### [Customer Success Manager, Digital](https://www.linkedin.com/jobs/view/4465333076/) — Securly
-- 📍 **Location:** Dallas, TX
-- 🕒 **Posted:** 2026-09-09
-
-### [Customer Success Manager, Digital](https://www.linkedin.com/jobs/view/4465329566/) — Securly
-- 📍 **Location:** Orlando, FL
-- 🕒 **Posted:** 2026-09-09
-
-### [Customer Success Engineer](https://www.linkedin.com/jobs/view/4465346252/) — Hightouch
-- 📍 **Location:** Mount Angel, OR
-- 💰 **Salary:** $85,000-$110,000 per year
-- 🕒 **Posted:** 2026-09-09
-
-### [Customer Success Manager](https://www.linkedin.com/jobs/view/4465337492/) — Oakridge Staffing
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-09-09
-
-### [Senior Customer Success Manager, Enterprise](https://www.linkedin.com/jobs/view/4463093121/) — Culture Amp
-- 📍 **Location:** Austin, TX
-- 💰 **Salary:** $131,000 - $150,000 USD
-- 🕒 **Posted:** 2026-09-09
-
-### [Senior Customer Success Manager, Enterprise](https://www.linkedin.com/jobs/view/4463080195/) — Culture Amp
+### [Customer Success Engineer US](https://www.linkedin.com/jobs/view/4465373395/) — Aikido Security
 - 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $131,000 - $150,000 USD
+- 🕒 **Posted:** 2026-09-10
+
+### [Lead Customer Success Manager](https://www.linkedin.com/jobs/view/4465359447/) — Relativity
+- 📍 **Location:** Utah, United States
+- 🕒 **Posted:** 2026-09-10
+
+### [Lead Customer Success Manager](https://www.linkedin.com/jobs/view/4465363466/) — Relativity
+- 📍 **Location:** New Mexico, United States
+- 🕒 **Posted:** 2026-09-10
+
+### [Trade Compliance Analyst](https://www.linkedin.com/jobs/view/4464924194/) — FlightSafety International
+- 📍 **Location:** Tulsa Metropolitan Area
+- 🕒 **Posted:** 2026-09-10
+
+### [Trade Compliance Analyst](https://www.linkedin.com/jobs/view/4464924193/) — FlightSafety International
+- 📍 **Location:** Columbus, Ohio Metropolitan Area
+- 🕒 **Posted:** 2026-09-10
+
+### [Senior Compliance Analyst (MS), AML (Anti-Money Laundering)](https://www.linkedin.com/jobs/view/4463081665/) — ACA Group
+- 📍 **Location:** Portland, ME
+- 🕒 **Posted:** 2026-09-10
+
+### [Senior Compliance Analyst (MS), AML (Anti-Money Laundering)](https://www.linkedin.com/jobs/view/4463070820/) — ACA Group
+- 📍 **Location:** Fayetteville, AR
+- 🕒 **Posted:** 2026-09-10
+
+### [Lead Customer Success Manager](https://www.linkedin.com/jobs/view/4465355535/) — Relativity
+- 📍 **Location:** New York, United States
+- 🕒 **Posted:** 2026-09-10
+
+### [Resource Planning Analyst I or II or Senior](https://www.linkedin.com/jobs/view/4465373101/) — Xcel Energy
+- 📍 **Location:** Denver Metropolitan Area
+- 💰 **Salary:** $84,900 - $120,566
 - 🕒 **Posted:** 2026-09-09
 
-### [Senior Customer Success Manager, Media Partnerships](https://www.linkedin.com/jobs/view/4465330322/) — LiveRamp
-- 📍 **Location:** Seattle, WA
-- 💰 **Salary:** $107,500 to $133,500
+### [Resource Planning Analyst I or II or Senior](https://www.linkedin.com/jobs/view/4465358211/) — Xcel Energy
+- 📍 **Location:** Greater Amarillo Area
+- 💰 **Salary:** $84,900 - $120,566
 - 🕒 **Posted:** 2026-09-09
 
-### [Senior Customer Success Manager, Media Partnerships](https://www.linkedin.com/jobs/view/4465332331/) — LiveRamp
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $107,500 to $133,500
+### [Customer Success Manager](https://www.linkedin.com/jobs/view/4465369234/) — Compass
+- 📍 **Location:** Austin, TX
 - 🕒 **Posted:** 2026-09-09
 
-### [Customer Success Representative](https://www.linkedin.com/jobs/view/4464146005/) — Fox Racing
-- 📍 **Location:** Orange County, CA
+### [Manager, Customer Success](https://www.linkedin.com/jobs/view/4465362216/) — NinjaOne
+- 📍 **Location:** Austin, Texas Metropolitan Area
 - 🕒 **Posted:** 2026-09-09
 
-### [Compliance Analyst - IA Administration](https://www.linkedin.com/jobs/view/4456298460/) — Osaic
-- 📍 **Location:** La Vista, NE
-- 💰 **Salary:** $65k - $69k per year
+### [Customer Success Manager](https://www.linkedin.com/jobs/view/4463091386/) — Swooped
+- 📍 **Location:** United States
+- 💰 **Salary:** $120,000.00/yr - $155,000.00/yr
 - 🕒 **Posted:** 2026-09-09
 
-### [Supply Chain Compliance Analyst](https://www.linkedin.com/jobs/view/4464133073/) — OmniMax
-- 📍 **Location:** Peachtree Corners, GA
+### [CTIO - Activation & Customer Success - Experienced Associate](https://www.linkedin.com/jobs/view/4465376158/) — PwC
+- 📍 **Location:** Albany, NY
+- 💰 **Salary:** $50,500 - $140,000
 - 🕒 **Posted:** 2026-09-09
 
-### [Compliance Analyst - IA Administration](https://www.linkedin.com/jobs/view/4464143006/) — Osaic
-- 📍 **Location:** Oakdale, MN
-- 💰 **Salary:** $65k - $69k per year
+### [CTIO - Activation & Customer Success - Experienced Associate](https://www.linkedin.com/jobs/view/4465353811/) — PwC
+- 📍 **Location:** Buffalo, NY
+- 💰 **Salary:** $50,500 - $140,000
 - 🕒 **Posted:** 2026-09-09
 
-### [Senior Customer Success Manager, Media Partnerships](https://www.linkedin.com/jobs/view/4465337291/) — LiveRamp
+### [CTIO - Activation & Customer Success - Experienced Associate](https://www.linkedin.com/jobs/view/4465362317/) — PwC
+- 📍 **Location:** Rochester, NY
+- 💰 **Salary:** $50,500 - $140,000
+- 🕒 **Posted:** 2026-09-09
+
+### [CTIO - Activation & Customer Success - Experienced Associate](https://www.linkedin.com/jobs/view/4465367268/) — PwC
+- 📍 **Location:** Melville, NY
+- 💰 **Salary:** $50,500 - $140,000
+- 🕒 **Posted:** 2026-09-09
+
+### [CTIO - Activation & Customer Success - Experienced Associate](https://www.linkedin.com/jobs/view/4465358307/) — PwC
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $107,500 to $133,500
+- 💰 **Salary:** $50,500 - $140,000
 - 🕒 **Posted:** 2026-09-09
