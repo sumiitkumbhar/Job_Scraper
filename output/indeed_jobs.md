@@ -1,42 +1,46 @@
 # 🟦 Indeed — Sumit's Planning & PropTech Roles
-*Last updated: 2026-09-10 05:25 UTC*
+*Last updated: 2026-09-10 21:14 UTC*
 
-**6 new role(s)** since last run · 6 total in last 24h
+**7 new role(s)** since last run · 9 total in last 24h
 
-### [Senior Solutions Consultant, Supply Chain Optimization](https://uk.indeed.com/viewjob?jk=ff321b52e3bd29c1) — Kinaxis
-- 📍 **Location:** Remote, GB
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-09
+### [Graduate Planner](https://uk.indeed.com/viewjob?jk=8ad2f62eca747c18) — M Group
+- 📍 **Location:** Stevenage, ENG, GB
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-10
 
-### [EMEA Sales Planning Analyst](https://ie.indeed.com/viewjob?jk=b33c5e7bf87dce81) — Google
+### [Senior EMEA Sales Planning Analyst](https://ie.indeed.com/viewjob?jk=7dd5cb479166c9e1) — Google
 - 📍 **Location:** Dublin, D, IE
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-09
+- 🕒 **Posted:** 2026-09-10
 
-### [GIS Analyst 2, Data Informed Futures - Pediatrics (Limited)](https://www.indeed.com/viewjob?jk=08dac7c7eb55a4f3) — UCLA Health
-- 📍 **Location:** Los Angeles, CA, US
-- 💰 **Salary:** $33–$65/hr
+### [GIS Analyst](https://www.indeed.com/viewjob?jk=e91679b4a2e58ac9) — University of Florida
+- 📍 **Location:** Gainesville, FL, US
+- 💰 **Salary:** $70k–$85k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-21
+- 🕒 **Posted:** 2026-08-27
 
-### [Inside Sales Representative Residential Real Estate & PropTech](https://www.indeed.com/viewjob?jk=be0972c5384276a8) — DomiDocs, Inc.
-- 📍 **Location:** Remote, US
-- 💰 **Salary:** $75k–$150k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime, contract
-- 🕒 **Posted:** 2026-09-09
+### [ASSISTANT PLANNER](https://www.indeed.com/viewjob?jk=c28ecfbe40e597a0) — City of Allentown
+- 📍 **Location:** Allentown, PA, US
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-10
 
-### [PLANNING ANALYST - COOK COUNTY LAND BANK AUTHORITY](https://www.indeed.com/viewjob?jk=88dd0ef2d19167ff) — Cook County, IL
-- 📍 **Location:** Chicago, IL, US
-- 💰 **Salary:** $83k–$92k/yr
+### [Environmental/Urban Planner](https://www.indeed.com/viewjob?jk=27b011ed194394e5) — AKRF, Inc.
+- 📍 **Location:** White Plains, NY, US
+- 💰 **Salary:** $80k–$95k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-09
+- 🕒 **Posted:** 2026-09-10
 
-### [Transportation Planning Analyst](https://www.indeed.com/viewjob?jk=4092bf27b9fe0cd4) — Kimley-Horn
-- 📍 **Location:** Nashville, TN, US
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-09-08
+### [Real Estate Strategy & GIS Analyst](https://www.indeed.com/viewjob?jk=b5a43450d81447f4) — Burlington Stores
+- 📍 **Location:** Burlington, NJ, US
+- 💰 **Salary:** $65k–$80k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-10
+
+### [Assistant Planner](https://www.indeed.com/viewjob?jk=a0bfe961c6d9b211) — The IRONMAN Group
+- 📍 **Location:** Tampa, FL, US
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-10
