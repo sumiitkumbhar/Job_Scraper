@@ -1,14 +1,258 @@
 {
-  "updated_at": "2026-09-09T10:59:25.496105+00:00",
-  "register_source": "https://assets.publishing.service.gov.uk/media/6aa1382d9f95f408139c64b7/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-09-09.csv",
-  "register_org_count": 126548,
+  "updated_at": "2026-09-10T10:56:10.922868+00:00",
+  "register_source": "https://assets.publishing.service.gov.uk/media/6aa2617592e72b8ac437f049/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-09-10.csv",
+  "register_org_count": 126549,
   "company_counts": {
-    "confirmed": 141,
-    "likely": 400,
-    "not_found": 383,
+    "confirmed": 149,
+    "likely": 408,
+    "not_found": 392,
     "unknown": 2
   },
   "companies": {
+    "Canal & River Trust": {
+      "status": "likely",
+      "matched_name": "RIVER UK LIMITED"
+    },
+    "Stantec": {
+      "status": "confirmed",
+      "matched_name": "Stantec UK Ltd"
+    },
+    "Autodesk": {
+      "status": "confirmed",
+      "matched_name": "Autodesk Ltd"
+    },
+    "Realpage": {
+      "status": "likely",
+      "matched_name": "Real Group Ltd"
+    },
+    "Cook County Government": {
+      "status": "likely",
+      "matched_name": "Count LTD"
+    },
+    "Scout Motors Inc.": {
+      "status": "likely",
+      "matched_name": "Motors.co.uk Limited"
+    },
+    "Nexl": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Siemens Digital Industries Software": {
+      "status": "likely",
+      "matched_name": "DIGITAL-I LIMITED"
+    },
+    "Meltwater": {
+      "status": "confirmed",
+      "matched_name": "Meltwater (UK) Limited"
+    },
+    "Convene": {
+      "status": "confirmed",
+      "matched_name": "Convene UK Holdings Limited"
+    },
+    "Steamboat Group": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "BioSpace": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Fidelity Investments": {
+      "status": "likely",
+      "matched_name": "Fidel Limited"
+    },
+    "Drone.vet": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Compass": {
+      "status": "confirmed",
+      "matched_name": "Compass Group Plc"
+    },
+    "Aikido Security": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Relativity": {
+      "status": "likely",
+      "matched_name": "Relativity Global LLC"
+    },
+    "ACA Group": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Xcel Energy": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "NinjaOne": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Swooped": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "PwC": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Altura Search": {
+      "status": "likely",
+      "matched_name": "UK Search Limited"
+    },
+    "The Fedcap Group": {
+      "status": "confirmed",
+      "matched_name": "Fedcap UK"
+    },
+    "Navan": {
+      "status": "likely",
+      "matched_name": "Mrs Upalini Navaneethan"
+    },
+    "Molson Coors Beverage Company": {
+      "status": "likely",
+      "matched_name": "Evera LTD"
+    },
+    "TSC": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "ApartmentIQ": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Georgia Ports Authority": {
+      "status": "likely",
+      "matched_name": "Thor Ltd"
+    },
+    "Brivo": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Securly": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Hightouch": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Oakridge Staffing": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "LiveRamp": {
+      "status": "confirmed",
+      "matched_name": "LiveRamp UK Limited"
+    },
+    "Fox Racing": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Osaic": {
+      "status": "likely",
+      "matched_name": "ioMosaic International Limited"
+    },
+    "OmniMax": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "John Sisk & Son Ltd": {
+      "status": "confirmed",
+      "matched_name": "John Sisk & Son Ltd"
+    },
+    "Kinaxis": {
+      "status": "confirmed",
+      "matched_name": "Kinaxis UK Limited"
+    },
+    "Benifex": {
+      "status": "confirmed",
+      "matched_name": "Benifex Ltd"
+    },
+    "Bottomline": {
+      "status": "likely",
+      "matched_name": "Bott Limited"
+    },
+    "SymphonyAI": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Ingram Micro": {
+      "status": "confirmed",
+      "matched_name": "Ingram Micro (UK) Ltd"
+    },
+    "Mention Me": {
+      "status": "confirmed",
+      "matched_name": "Mention Me Limited"
+    },
+    "Mitti by SafetyCulture": {
+      "status": "likely",
+      "matched_name": "SafetyCulture (UK) Ltd"
+    },
+    "MobiLoud": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "WalkMe": {
+      "status": "confirmed",
+      "matched_name": "WalkMe UK Limited"
+    },
+    "Farmers Insurance": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "HARMAN International": {
+      "status": "likely",
+      "matched_name": "CO INTERNATIONAL LTD"
+    },
+    "DT Midstream": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "HD Supply": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "TechWolf": {
+      "status": "confirmed",
+      "matched_name": "TechWolf Limited"
+    },
+    "Canary Technologies": {
+      "status": "likely",
+      "matched_name": "Technolog Limited"
+    },
+    "Trintech": {
+      "status": "confirmed",
+      "matched_name": "Trintech (UK) Limited"
+    },
+    "PolyWorks USA": {
+      "status": "likely",
+      "matched_name": "WORK LIMITED"
+    },
+    "Millennium": {
+      "status": "likely",
+      "matched_name": "Eric Ahaley t/a Millennium Dental Care"
+    },
+    "Integrity": {
+      "status": "likely",
+      "matched_name": "Altrad Integrity Services Limited"
+    },
+    "X-energy": {
+      "status": "likely",
+      "matched_name": "Convex Energy Limited"
+    },
+    "Clark Construction Group": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Sauce Labs": {
+      "status": "likely",
+      "matched_name": "Sauce Labs Software UK Limited"
+    },
+    "Amazon": {
+      "status": "likely",
+      "matched_name": "Amazon Charitable Trust"
+    },
     "Confidential Company": {
       "status": "likely",
       "matched_name": "ENTIA LTD"
@@ -193,10 +437,6 @@
       "status": "not_found",
       "matched_name": null
     },
-    "Benifex": {
-      "status": "confirmed",
-      "matched_name": "Benifex Ltd"
-    },
     "DatAds": {
       "status": "likely",
       "matched_name": "Data Inc UK Ltd"
@@ -281,14 +521,6 @@
       "status": "likely",
       "matched_name": "Reach plc"
     },
-    "PwC": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Swooped": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "Zus Health": {
       "status": "not_found",
       "matched_name": null
@@ -308,10 +540,6 @@
     "CarePlanner Ltd \ud83d\udc9a": {
       "status": "likely",
       "matched_name": "Care & Co Ltd"
-    },
-    "Millennium": {
-      "status": "likely",
-      "matched_name": "Eric Ahaley t/a Millennium Dental Care"
     },
     "GM Financial": {
       "status": "likely",
@@ -362,10 +590,6 @@
       "matched_name": "Infosys Limited"
     },
     "TipTopJob": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "ACA Group": {
       "status": "not_found",
       "matched_name": null
     },
@@ -453,10 +677,6 @@
       "status": "confirmed",
       "matched_name": "The Sage Group plc"
     },
-    "Stantec": {
-      "status": "confirmed",
-      "matched_name": "Stantec UK Ltd"
-    },
     "Fin": {
       "status": "not_found",
       "matched_name": null
@@ -464,10 +684,6 @@
     "TEKsystems": {
       "status": "likely",
       "matched_name": "System ltd"
-    },
-    "WalkMe": {
-      "status": "confirmed",
-      "matched_name": "WalkMe UK Limited"
     },
     "Northrop Grumman UK": {
       "status": "not_found",
@@ -522,10 +738,6 @@
       "matched_name": null
     },
     "Pacific Gas and Electric Company": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Drone.vet": {
       "status": "not_found",
       "matched_name": null
     },
@@ -645,10 +857,6 @@
       "status": "not_found",
       "matched_name": null
     },
-    "Fidelity Investments": {
-      "status": "likely",
-      "matched_name": "Fidel Limited"
-    },
     "POM Wonderful": {
       "status": "not_found",
       "matched_name": null
@@ -737,10 +945,6 @@
       "status": "not_found",
       "matched_name": null
     },
-    "Amazon": {
-      "status": "likely",
-      "matched_name": "Amazon Charitable Trust"
-    },
     "Mimecast": {
       "status": "likely",
       "matched_name": "Mimecast Services Limited"
@@ -808,10 +1012,6 @@
     "Lidl US": {
       "status": "not_found",
       "matched_name": null
-    },
-    "Trintech": {
-      "status": "confirmed",
-      "matched_name": "Trintech (UK) Limited"
     },
     "THG Ingenuity": {
       "status": "likely",
@@ -949,10 +1149,6 @@
       "status": "likely",
       "matched_name": "Care & Co Ltd"
     },
-    "Osaic": {
-      "status": "likely",
-      "matched_name": "ioMosaic International Limited"
-    },
     "Trinity Health": {
       "status": "not_found",
       "matched_name": null
@@ -1048,10 +1244,6 @@
     "Tetra Tech": {
       "status": "confirmed",
       "matched_name": "Tetra Tech Group Limited"
-    },
-    "Autodesk": {
-      "status": "confirmed",
-      "matched_name": "Autodesk Ltd"
     },
     "Flex": {
       "status": "likely",
@@ -1316,10 +1508,6 @@
     "commercetools": {
       "status": "confirmed",
       "matched_name": "Commercetools Ltd"
-    },
-    "Aikido Security": {
-      "status": "not_found",
-      "matched_name": null
     },
     "Legend Trading": {
       "status": "not_found",
@@ -1834,8 +2022,8 @@
       "matched_name": null
     },
     "Mentimeter": {
-      "status": "likely",
-      "matched_name": "TIMET UK LIMITED"
+      "status": "not_found",
+      "matched_name": null
     },
     "Just Eat Takeaway.com": {
       "status": "likely",
@@ -2120,10 +2308,6 @@
     "Van den Bosch": {
       "status": "not_found",
       "matched_name": null
-    },
-    "Meltwater": {
-      "status": "confirmed",
-      "matched_name": "Meltwater (UK) Limited"
     },
     "StraTopo": {
       "status": "not_found",
@@ -3505,10 +3689,6 @@
       "status": "not_found",
       "matched_name": null
     },
-    "BioSpace": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "Hobsons Bay City Council": {
       "status": "likely",
       "matched_name": "Obso Ltd"
@@ -3632,86 +3812,6 @@
     "Schmidt Marine Technology Partners": {
       "status": "likely",
       "matched_name": "Partners Group (UK) Ltd."
-    },
-    "CRI Advantage": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Brs": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "DEPARTMENT OF ENVIRONMENTAL QUALITY": {
-      "status": "likely",
-      "matched_name": "The Department UK Ltd"
-    },
-    "True-environmental": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "American Lithium Energy (ALE)": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "LimnoTech": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Brown and Caldwell": {
-      "status": "likely",
-      "matched_name": "N-and Group LTD"
-    },
-    "Department of Fish and Wildlife": {
-      "status": "likely",
-      "matched_name": "The Department UK Ltd"
-    },
-    "Forensic Analytical Consulting Services": {
-      "status": "likely",
-      "matched_name": "ING Services Limited"
-    },
-    "Aytrium": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Axiom": {
-      "status": "likely",
-      "matched_name": "Axiom Brighton Limited T/A Nostos"
-    },
-    "BHE Renewables": {
-      "status": "likely",
-      "matched_name": "Newable UK Holdings Ltd"
-    },
-    "Kelly Services": {
-      "status": "likely",
-      "matched_name": "Vice UK Limited"
-    },
-    "Evommune, Inc.": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Hueman People Solutions": {
-      "status": "likely",
-      "matched_name": "THE PEOPLE GROUP LIMITED"
-    },
-    "Hims & Hers": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "East Bay Municipal Utility District": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "National Oceanic and Atmospheric Administration": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Rippling": {
-      "status": "confirmed",
-      "matched_name": "Rippling UK Limited"
-    },
-    "Veolia": {
-      "status": "likely",
-      "matched_name": "Veolia ES (UK) Ltd"
     }
   }
 }
