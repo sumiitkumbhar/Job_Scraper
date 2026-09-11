@@ -1,10 +1,10 @@
 # 🟦 Indeed — Sumit's Planning & PropTech Roles
-*Last updated: 2026-09-11 01:30 UTC*
+*Last updated: 2026-09-11 06:39 UTC*
 
-**1 new role(s)** since last run · 9 total in last 24h
+**1 new role(s)** since last run · 8 total in last 24h
 
-### [Geospatial Analyst](https://www.indeed.com/viewjob?jk=bf181d3d3d0bdb7d) — Strategic ACI
-- 📍 **Location:** Alexandria, VA, US
+### [January 2027 - Retail Development Program - Assistant Planner](https://www.indeed.com/viewjob?jk=43745ec27b7adf37) — Belk
+- 📍 **Location:** Charlotte, NC, US
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-10
