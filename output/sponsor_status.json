@@ -1,25 +1,353 @@
 {
-  "updated_at": "2026-09-10T10:56:10.922868+00:00",
-  "register_source": "https://assets.publishing.service.gov.uk/media/6aa2617592e72b8ac437f049/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-09-10.csv",
-  "register_org_count": 126549,
+  "updated_at": "2026-09-11T10:54:09.268594+00:00",
+  "register_source": "https://assets.publishing.service.gov.uk/media/6aa3bcb05f6e942efe37f156/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-09-11.csv",
+  "register_org_count": 126533,
   "company_counts": {
-    "confirmed": 149,
-    "likely": 408,
-    "not_found": 392,
+    "confirmed": 164,
+    "likely": 433,
+    "not_found": 411,
     "unknown": 2
   },
   "companies": {
-    "Canal & River Trust": {
-      "status": "likely",
-      "matched_name": "RIVER UK LIMITED"
-    },
     "Stantec": {
       "status": "confirmed",
       "matched_name": "Stantec UK Ltd"
     },
+    "- COYOTE -": {
+      "status": "likely",
+      "matched_name": "RED COYOTE GUARDING LTD"
+    },
+    "Procore Technologies": {
+      "status": "likely",
+      "matched_name": "Core"
+    },
+    "Robin Radar Systems": {
+      "status": "likely",
+      "matched_name": "Rada Ltd"
+    },
     "Autodesk": {
       "status": "confirmed",
       "matched_name": "Autodesk Ltd"
+    },
+    "Sigma": {
+      "status": "likely",
+      "matched_name": "Alfasigma UK Limited"
+    },
+    "Belk": {
+      "status": "likely",
+      "matched_name": "Belkin Limited"
+    },
+    "Hiya Inc.": {
+      "status": "likely",
+      "matched_name": "MRS SATHTHIYA SRIKUMAR  T/A MAIDSTONE FOOD AND WINE"
+    },
+    "Jobster": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Twin Health": {
+      "status": "likely",
+      "matched_name": "Twin Group"
+    },
+    "Adobe": {
+      "status": "confirmed",
+      "matched_name": "ADOBE GROUP LIMITED"
+    },
+    "Southern Glazer's Wine & Spirits": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Best Buy": {
+      "status": "confirmed",
+      "matched_name": "Best Buy UK Ltd"
+    },
+    "Northrop Grumman": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Strategic ACI": {
+      "status": "likely",
+      "matched_name": "ATEGI LIMITED"
+    },
+    "The Greentree Group": {
+      "status": "likely",
+      "matched_name": "GREENTREE (SW) LIMITED"
+    },
+    "Fidelity Investments": {
+      "status": "likely",
+      "matched_name": "Fidel Limited"
+    },
+    "Intapp": {
+      "status": "confirmed",
+      "matched_name": "Intapp Limited"
+    },
+    "Mercury Marine": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Sovos Latinoam\u00e9rica": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "ePlus inc.": {
+      "status": "likely",
+      "matched_name": "CarePlus Healthcare Services Ltd"
+    },
+    "Lumen Technologies": {
+      "status": "likely",
+      "matched_name": "Technolog Limited"
+    },
+    "Winchester Interconnect": {
+      "status": "likely",
+      "matched_name": "ONNEC Group UK Limited"
+    },
+    "InfoTrack US": {
+      "status": "likely",
+      "matched_name": "InfoTrack Limited"
+    },
+    "Electricity Supply Board (ESB)": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "HII": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Mears Group PLC": {
+      "status": "confirmed",
+      "matched_name": "Mears Group PLC"
+    },
+    "Barclays": {
+      "status": "likely",
+      "matched_name": "Barclays Bank PLC"
+    },
+    "MEERAB GROUP": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Jobgether": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Griffith Foods": {
+      "status": "confirmed",
+      "matched_name": "Griffith Foods Limited"
+    },
+    "Catapult": {
+      "status": "likely",
+      "matched_name": "Catapult Enterprises Ltd"
+    },
+    "Amerit Consulting": {
+      "status": "likely",
+      "matched_name": "Merit Group Plc"
+    },
+    "BuildOps": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Motorola Solutions": {
+      "status": "confirmed",
+      "matched_name": "Motorola Solutions UK Limited"
+    },
+    "Bluefin Payment Systems": {
+      "status": "likely",
+      "matched_name": "Blue & Co ltd"
+    },
+    "Proofpoint": {
+      "status": "confirmed",
+      "matched_name": "Proofpoint Limited"
+    },
+    "Dutchie": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Eastridge Workforce Solutions": {
+      "status": "likely",
+      "matched_name": "WORK LIMITED"
+    },
+    "Tarte Cosmetics": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Viasat": {
+      "status": "confirmed",
+      "matched_name": "Viasat UK Limited"
+    },
+    "Rain": {
+      "status": "likely",
+      "matched_name": "RAINBOW POLYCARBONATE INDUSTRY TRADE LTD"
+    },
+    "Jobright.ai": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Hines": {
+      "status": "likely",
+      "matched_name": "Advanced Electric Machines Limited"
+    },
+    "Soni": {
+      "status": "confirmed",
+      "matched_name": "SONI Limited"
+    },
+    "M Group": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Google": {
+      "status": "confirmed",
+      "matched_name": "Google (UK) Limited"
+    },
+    "University of Florida": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "City of Allentown": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "AKRF, Inc.": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Burlington Stores": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Cook County, IL": {
+      "status": "likely",
+      "matched_name": "Count LTD"
+    },
+    "UCLA Health": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "The IRONMAN Group": {
+      "status": "confirmed",
+      "matched_name": "IRONMAN Ltd."
+    },
+    "Amazon": {
+      "status": "likely",
+      "matched_name": "Amazon Charitable Trust"
+    },
+    "Dalux": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Billtrust": {
+      "status": "likely",
+      "matched_name": "Trust Group Holdings LTD"
+    },
+    "Zendesk": {
+      "status": "confirmed",
+      "matched_name": "Zendesk UK Ltd"
+    },
+    "MathWorks": {
+      "status": "confirmed",
+      "matched_name": "The Mathworks Limited"
+    },
+    "Genflow": {
+      "status": "confirmed",
+      "matched_name": "Genflow LTD"
+    },
+    "Mirakl": {
+      "status": "confirmed",
+      "matched_name": "Mirakl Ltd"
+    },
+    "ESB": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "WPP Media": {
+      "status": "confirmed",
+      "matched_name": "WPP Media UK Limited"
+    },
+    "PwC": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Pereview Software": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Apollo.io": {
+      "status": "likely",
+      "matched_name": "ZENLEADS INTERNATIONAL LIMITED (Trading as Apollo.io)"
+    },
+    "Mission Technologies, a division of HII": {
+      "status": "likely",
+      "matched_name": "Ion Technologies Ltd"
+    },
+    "SAIC": {
+      "status": "likely",
+      "matched_name": "ioMosaic International Limited"
+    },
+    "ConstructConnect": {
+      "status": "likely",
+      "matched_name": "ONNEC Group UK Limited"
+    },
+    "OpenAsset": {
+      "status": "likely",
+      "matched_name": "Asset UK Limited"
+    },
+    "Planhat": {
+      "status": "confirmed",
+      "matched_name": "Planhat Ltd"
+    },
+    "Aidoc": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Granicus": {
+      "status": "likely",
+      "matched_name": "Granicus-Firmstep Ltd"
+    },
+    "Kpler": {
+      "status": "confirmed",
+      "matched_name": "Kpler Limited"
+    },
+    "Docusign": {
+      "status": "confirmed",
+      "matched_name": "DocuSign UK Limited"
+    },
+    "Wolters Kluwer": {
+      "status": "confirmed",
+      "matched_name": "Wolters Kluwer (UK) Ltd"
+    },
+    "Loomis, Sayles & Company": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Worldpay": {
+      "status": "confirmed",
+      "matched_name": "WorldPay (UK) Ltd"
+    },
+    "Motion Recruitment": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Referment": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Elysia & Co": {
+      "status": "likely",
+      "matched_name": "Elysia Capital Ltd"
+    },
+    "Invesco": {
+      "status": "confirmed",
+      "matched_name": "Invesco UK Limited"
+    },
+    "LinkedIn": {
+      "status": "likely",
+      "matched_name": "Linkedin Technology UK Limited"
+    },
+    "Commerce": {
+      "status": "likely",
+      "matched_name": "247 Commerce Ltd"
+    },
+    "Canal & River Trust": {
+      "status": "likely",
+      "matched_name": "RIVER UK LIMITED"
     },
     "Realpage": {
       "status": "likely",
@@ -57,10 +385,6 @@
       "status": "not_found",
       "matched_name": null
     },
-    "Fidelity Investments": {
-      "status": "likely",
-      "matched_name": "Fidel Limited"
-    },
     "Drone.vet": {
       "status": "not_found",
       "matched_name": null
@@ -90,10 +414,6 @@
       "matched_name": null
     },
     "Swooped": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "PwC": {
       "status": "not_found",
       "matched_name": null
     },
@@ -249,10 +569,6 @@
       "status": "likely",
       "matched_name": "Sauce Labs Software UK Limited"
     },
-    "Amazon": {
-      "status": "likely",
-      "matched_name": "Amazon Charitable Trust"
-    },
     "Confidential Company": {
       "status": "likely",
       "matched_name": "ENTIA LTD"
@@ -401,10 +717,6 @@
       "status": "likely",
       "matched_name": "Goods Group Limited"
     },
-    "Jobright.ai": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "Veritas Partners": {
       "status": "likely",
       "matched_name": "Partners Group (UK) Ltd."
@@ -468,10 +780,6 @@
     "PracticeTek": {
       "status": "not_found",
       "matched_name": null
-    },
-    "Wolters Kluwer": {
-      "status": "confirmed",
-      "matched_name": "Wolters Kluwer (UK) Ltd"
     },
     "Nebraska Department of Health and Human Services": {
       "status": "likely",
@@ -829,10 +1137,6 @@
       "status": "likely",
       "matched_name": "Grundfos Pumps Limited"
     },
-    "Motorola Solutions": {
-      "status": "confirmed",
-      "matched_name": "Motorola Solutions UK Limited"
-    },
     "Areti Group | B Corp\u2122": {
       "status": "not_found",
       "matched_name": null
@@ -840,10 +1144,6 @@
     "Shopify": {
       "status": "confirmed",
       "matched_name": "Shopify UK Limited"
-    },
-    "Worldpay": {
-      "status": "confirmed",
-      "matched_name": "WorldPay (UK) Ltd"
     },
     "SAP": {
       "status": "confirmed",
@@ -941,10 +1241,6 @@
       "status": "likely",
       "matched_name": "ANCI GROUP LIMITED"
     },
-    "Referment": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "Mimecast": {
       "status": "likely",
       "matched_name": "Mimecast Services Limited"
@@ -952,10 +1248,6 @@
     "Zappos": {
       "status": "likely",
       "matched_name": "Zapp Group Limited"
-    },
-    "Sovos Latinoam\u00e9rica": {
-      "status": "not_found",
-      "matched_name": null
     },
     "University of Mississippi Medical Center": {
       "status": "likely",
@@ -992,10 +1284,6 @@
     "ISO New England Inc.": {
       "status": "not_found",
       "matched_name": null
-    },
-    "Planhat": {
-      "status": "confirmed",
-      "matched_name": "Planhat Ltd"
     },
     "CyberFOX": {
       "status": "not_found",
@@ -1092,10 +1380,6 @@
     "Clarivate": {
       "status": "likely",
       "matched_name": "CLARI UK LIMITED"
-    },
-    "Jobgether": {
-      "status": "not_found",
-      "matched_name": null
     },
     "ADP": {
       "status": "not_found",
@@ -1229,10 +1513,6 @@
       "status": "not_found",
       "matched_name": null
     },
-    "Motion Recruitment": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "American Modern Insurance Group": {
       "status": "likely",
       "matched_name": "Modern"
@@ -1264,10 +1544,6 @@
     "City of Atlanta": {
       "status": "not_found",
       "matched_name": null
-    },
-    "Adobe": {
-      "status": "confirmed",
-      "matched_name": "ADOBE GROUP LIMITED"
     },
     "McGraw Hill": {
       "status": "likely",
@@ -1373,10 +1649,6 @@
       "status": "confirmed",
       "matched_name": "BloomReach UK Ltd"
     },
-    "Docusign": {
-      "status": "confirmed",
-      "matched_name": "DocuSign UK Limited"
-    },
     "OpenText": {
       "status": "likely",
       "matched_name": "Pentex Ltd"
@@ -1392,14 +1664,6 @@
     "Newport News Shipbuilding, A Division of HII": {
       "status": "likely",
       "matched_name": "ISIO GROUP LIMITED"
-    },
-    "ConstructConnect": {
-      "status": "likely",
-      "matched_name": "ONNEC Group UK Limited"
-    },
-    "Kpler": {
-      "status": "confirmed",
-      "matched_name": "Kpler Limited"
     },
     "Estuary": {
       "status": "not_found",
@@ -2190,10 +2454,6 @@
       "matched_name": null
     },
     "Chargebee": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Dalux": {
       "status": "not_found",
       "matched_name": null
     },
@@ -3788,30 +4048,6 @@
     "Verdantas": {
       "status": "not_found",
       "matched_name": null
-    },
-    "Pondco": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Lawrence Berkeley National Laboratory": {
-      "status": "likely",
-      "matched_name": "THE BERK LTD"
-    },
-    "Monarch Diagnostics": {
-      "status": "likely",
-      "matched_name": "STICS Limited"
-    },
-    "US Department of War": {
-      "status": "likely",
-      "matched_name": "The Department UK Ltd"
-    },
-    "San Mateo County": {
-      "status": "likely",
-      "matched_name": "Count LTD"
-    },
-    "Schmidt Marine Technology Partners": {
-      "status": "likely",
-      "matched_name": "Partners Group (UK) Ltd."
     }
   }
 }
