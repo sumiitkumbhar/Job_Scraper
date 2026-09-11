@@ -1,53 +1,44 @@
 # 🔥 LinkedIn — Sumit's Planning & PropTech Roles
-*Last updated: 2026-09-11 00:43 UTC*
+*Last updated: 2026-09-11 05:20 UTC*
 
-**11 new role(s)** since last run · 11 total in last 1h
+**9 new role(s)** since last run · 9 total in last 1h
 
-### [Capital Planning Analysts](https://www.linkedin.com/jobs/view/4429164647/) — The Greentree Group
-- 📍 **Location:** St Louis, MO
-- 💰 **Salary:** $75,000 – $115,000
+### [Bilingual Customer Success Account Manager, SMB (German, French, or Spanish)](https://www.linkedin.com/jobs/view/4466021874/) — Hiya Inc.
+- 📍 **Location:** London, England, United Kingdom
 - 🕒 **Posted:** 2026-09-11
 
-### [Planning Consultant - Framingham, MA](https://www.linkedin.com/jobs/view/4465894405/) — Fidelity Investments
-- 📍 **Location:** Framingham, MA
-- 💰 **Salary:** $66,000-125,000
+### [O9 Product Planning Consultant(m/w/d) - Germany](https://www.linkedin.com/jobs/view/4411353414/) — Infosys
+- 📍 **Location:** Frankfurt, Hesse, Germany
 - 🕒 **Posted:** 2026-09-11
 
-### [Implementation Consultant](https://www.linkedin.com/jobs/view/4464822396/) — Intapp
-- 📍 **Location:** New York, United States
+### [Microsoft Copilot Studio und AI Solutions Consultant (m/w/d)](https://www.linkedin.com/jobs/view/4464850500/) — Skaylink
+- 📍 **Location:** Munich, Bavaria, Germany
 - 🕒 **Posted:** 2026-09-11
 
-### [Sr. Demand Planning Analyst](https://www.linkedin.com/jobs/view/4465898310/) — Mercury Marine
-- 📍 **Location:** Fond du Lac, WI
-- 💰 **Salary:** $73,600 - $106,200
+### [Customer Success Manager (m/wd) - Jobbird.com](https://www.linkedin.com/jobs/view/4464833653/) — Jobster
+- 📍 **Location:** Munich, Bavaria, Germany
 - 🕒 **Posted:** 2026-09-11
 
-### [Senior Strategic Customer Success Manager](https://www.linkedin.com/jobs/view/4466004226/) — Sovos Latinoamérica
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-11
-
-### [Customer Success Coordinator (Req #1399)](https://www.linkedin.com/jobs/view/4459453721/) — ePlus inc.
-- 📍 **Location:** Virginia, United States
-- 🕒 **Posted:** 2026-09-11
-
-### [Customer Success Professional-Indirect](https://www.linkedin.com/jobs/view/4466009310/) — Lumen Technologies
+### [Supply Planning Analyst](https://www.linkedin.com/jobs/view/4456522137/) — Twin Health
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $55,671 - $92,782
+- 💰 **Salary:** $90,000 - $100,000 annually
 - 🕒 **Posted:** 2026-09-11
 
-### [Junior Planner](https://www.linkedin.com/jobs/view/4465879847/) — Winchester Interconnect
-- 📍 **Location:** Melbourne, FL
-- 🕒 **Posted:** 2026-09-10
+### [Principal Solutions Consultant](https://www.linkedin.com/jobs/view/4464832507/) — Adobe
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $230,800 - $334,150
+- 🕒 **Posted:** 2026-09-11
 
-### [Customer Success Manager](https://www.linkedin.com/jobs/view/4464814375/) — Compass Real Estate - Peninsula
-- 📍 **Location:** Coconut Creek, FL
-- 🕒 **Posted:** 2026-09-10
+### [Customer Success Consultant](https://www.linkedin.com/jobs/view/4463132509/) — Southern Glazer's Wine & Spirits
+- 📍 **Location:** Miramar, FL
+- 🕒 **Posted:** 2026-09-11
 
-### [Customer Success Manager](https://www.linkedin.com/jobs/view/4464805694/) — Compass Real Estate - Peninsula
-- 📍 **Location:** Austin, TX
-- 🕒 **Posted:** 2026-09-10
+### [Space Planning Analyst](https://www.linkedin.com/jobs/view/4466020973/) — Best Buy
+- 📍 **Location:** Minneapolis, MN
+- 💰 **Salary:** $55,250.00/yr - $98,650.00/yr
+- 🕒 **Posted:** 2026-09-11
 
-### [One Legal Customer Success Manager](https://www.linkedin.com/jobs/view/4459419872/) — InfoTrack US
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $66,960.00/yr - $83,700.00/yr
-- 🕒 **Posted:** 2026-09-10
+### [Sr. Principal International Trade Compliance Analyst](https://www.linkedin.com/jobs/view/4466036573/) — Northrop Grumman
+- 📍 **Location:** Warner Robins, GA
+- 💰 **Salary:** $101,400.00 - $176,300.00
+- 🕒 **Posted:** 2026-09-11
