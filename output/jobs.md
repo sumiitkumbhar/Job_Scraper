@@ -1,38 +1,40 @@
 # 🏛 Priority Employers — Sumit's Planning & PropTech Roles
-*Last updated: 2026-09-11 08:45 UTC*
+*Last updated: 2026-09-12 08:43 UTC*
 
-**8 new role(s)** since last run · 8 total in last 24h
+**9 new role(s)** since last run · 10 total in last 24h
 
-### [Geospatial Analyst](https://www.linkedin.com/jobs/view/4466007794/) — Stantec
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $60,700.00 - $85,000.00 Annually
+### [Assistant Planner/ Planner](https://www.linkedin.com/jobs/view/4456041514/) — Avison Young │ UK
+- 📍 **Location:** Bristol, England, United Kingdom
 - 🕒 **Posted:** 2026-09-11
 
-### [Graduate Major Infrastructure Planner - Community Development - Southampton - 2027](https://www.linkedin.com/jobs/view/4455421486/) — Stantec
-- 📍 **Location:** Southampton, England, United Kingdom
-- 🕒 **Posted:** 2026-09-10
+### [Senior Consultant (Town Planner)](https://www.linkedin.com/jobs/view/4464884897/) — SYSTRA
+- 📍 **Location:** Leeds, England, United Kingdom
+- 🕒 **Posted:** 2026-09-11
 
-### [Customer Success Executive](https://www.linkedin.com/jobs/view/4452447228/) — - COYOTE -
+### [Associate Town Planning](https://www.linkedin.com/jobs/view/4464499974/) — Ramboll
 - 📍 **Location:** London, England, United Kingdom
-- 🕒 **Posted:** 2026-09-10
+- 🕒 **Posted:** 2026-09-11
 
-### [Customer Success Engineer, Commercial](https://www.linkedin.com/jobs/view/4465817613/) — Procore Technologies
-- 📍 **Location:** Dublin, County Dublin, Ireland
-- 🕒 **Posted:** 2026-09-10
+### [Town Planning Team Leader](https://www.linkedin.com/jobs/view/4447059793/) — Mott MacDonald
+- 📍 **Location:** Birmingham, England, United Kingdom
+- 🕒 **Posted:** 2026-09-11
 
-### [Customer Success Manager - CUAS](https://www.linkedin.com/jobs/view/4438199452/) — Robin Radar Systems
-- 📍 **Location:** The Hague, South Holland, Netherlands
-- 🕒 **Posted:** 2026-09-10
+### [Senior/ Principal Town Planner](https://www.linkedin.com/jobs/view/4464611929/) — Ramboll
+- 📍 **Location:** London, England, United Kingdom
+- 🕒 **Posted:** 2026-09-11
 
-### [Business Customer Success Manager](https://www.linkedin.com/jobs/view/4455467559/) — Autodesk
-- 📍 **Location:** Atlanta, GA
-- 🕒 **Posted:** 2026-09-10
+### [Associate (Development Management)](https://www.linkedin.com/jobs/view/4464893823/) — SYSTRA
+- 📍 **Location:** Newcastle, England, United Kingdom
+- 🕒 **Posted:** 2026-09-11
 
-### [Enterprise Customer Success Manager - NY](https://www.linkedin.com/jobs/view/4456365747/) — Sigma
+### [Principal Town Planner](https://www.linkedin.com/jobs/view/4464886906/) — SYSTRA
+- 📍 **Location:** London, England, United Kingdom
+- 🕒 **Posted:** 2026-09-11
+
+### [Manager Customer Success - C-UAS](https://www.linkedin.com/jobs/view/4429909732/) — Robin Radar Systems
+- 📍 **Location:** Delft, South Holland, Netherlands
+- 🕒 **Posted:** 2026-09-11
+
+### [Preconstruction Technology Engineer](https://www.linkedin.com/jobs/view/4444175036/) — Skanska
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $132k - $165k annually
-- 🕒 **Posted:** 2026-09-10
-
-### [Customer Success Manager](https://www.linkedin.com/jobs/view/4464805694/) — Compass Real Estate - Peninsula
-- 📍 **Location:** Austin, TX
-- 🕒 **Posted:** 2026-09-10
+- 🕒 **Posted:** 2026-09-11
