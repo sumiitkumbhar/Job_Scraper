@@ -1,78 +1,61 @@
 # 🔥 LinkedIn — Sumit's Planning & PropTech Roles
-*Last updated: 2026-09-11 22:23 UTC*
+*Last updated: 2026-09-12 00:56 UTC*
 
-**17 new role(s)** since last run · 19 total in last 1h
+**13 new role(s)** since last run · 14 total in last 1h
 
-### [Town Planner (Infrastructure Planning)](https://www.linkedin.com/jobs/view/4466313989/) — WSP in the UK & Ireland
-- 📍 **Location:** Glasgow, Scotland, United Kingdom
-- 🕒 **Posted:** 2026-09-11
+### [Geospatial Analyst III - DEHE Management Information](https://www.linkedin.com/jobs/view/4466414186/) — Alaska Native Tribal Health Consortium (ANTHC)
+- 📍 **Location:** Anchorage, AK
+- 🕒 **Posted:** 2026-09-12
 
-### [Senior Planning Officer - Strategic Major Sites](https://www.linkedin.com/jobs/view/4466406008/) — South Gloucestershire Council
-- 📍 **Location:** Yate, England, United Kingdom
-- 🕒 **Posted:** 2026-09-11
+### [Customer Success Lead (TX DIR)](https://www.linkedin.com/jobs/view/4465167783/) — Peraton
+- 📍 **Location:** Texas, United States
+- 💰 **Salary:** $86,000 - $138,000
+- 🕒 **Posted:** 2026-09-12
 
-### [Senior Customer Success Manager (French-speaking)](https://www.linkedin.com/jobs/view/4464259167/) — Culture Amp
-- 📍 **Location:** London, England, United Kingdom
-- 🕒 **Posted:** 2026-09-11
+### [Customer Success Coordinator (Req #1399)](https://www.linkedin.com/jobs/view/4459453721/) — ePlus inc.
+- 📍 **Location:** Virginia, United States
+- 🕒 **Posted:** 2026-09-12
 
-### [Customer Success Manager (£60k–£100k + Equity) at Anima](https://www.linkedin.com/jobs/view/4457191958/) — Jack & Jill
-- 📍 **Location:** London, England, United Kingdom
-- 🕒 **Posted:** 2026-09-11
+### [Compliance Analyst](https://www.linkedin.com/jobs/view/4466423327/) — SageSure
+- 📍 **Location:** Sarasota, FL
+- 🕒 **Posted:** 2026-09-12
 
-### [Senior Customer Success Manager (French-speaking)](https://www.linkedin.com/jobs/view/4464253145/) — Culture Amp
-- 📍 **Location:** Berlin, Germany
-- 🕒 **Posted:** 2026-09-11
+### [Export Compliance Analyst](https://www.linkedin.com/jobs/view/4466421531/) — Bombardier
+- 📍 **Location:** Des Plaines, IL
+- 🕒 **Posted:** 2026-09-12
 
-### [Senior Supply Chain Planning Analyst | Irvine, CA](https://www.linkedin.com/jobs/view/4466389326/) — Johnson & Johnson MedTech
-- 📍 **Location:** Irvine, CA
-- 💰 **Salary:** $79,000.00 - $127,650.00
-- 🕒 **Posted:** 2026-09-11
-
-### [DEMAND PLANNING ANALYST](https://www.linkedin.com/jobs/view/4465110926/) — Mohawk Industries
-- 📍 **Location:** Dallas, TX
-- 🕒 **Posted:** 2026-09-11
-
-### [Capital Planning Analysts](https://www.linkedin.com/jobs/view/4429164647/) — The Greentree Group
-- 📍 **Location:** St Louis, MO
-- 💰 **Salary:** $75,000 – $115,000
-- 🕒 **Posted:** 2026-09-11
-
-### [Technology Solutions Consultant](https://www.linkedin.com/jobs/view/4465152388/) — Osaic
-- 📍 **Location:** La Vista, NE
-- 💰 **Salary:** $90,000 - $95,000 per year
-- 🕒 **Posted:** 2026-09-11
-
-### [Customer Success Manager](https://www.linkedin.com/jobs/view/4466407237/) — Verapath
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-11
-
-### [Customer Success Manager](https://www.linkedin.com/jobs/view/4464254141/) — Novata
+### [Compliance Analyst (83D8220)](https://www.linkedin.com/jobs/view/4466430279/) — Referment
 - 📍 **Location:** New York, NY
+- 💰 **Salary:** $110,000.00/yr - $130,000.00/yr
+- 🕒 **Posted:** 2026-09-12
+
+### [Implementation Consultant II](https://www.linkedin.com/jobs/view/4466415357/) — Paylocity
+- 📍 **Location:** Pittsford, NY
+- 💰 **Salary:** $54,000 -$77,100/yr
+- 🕒 **Posted:** 2026-09-12
+
+### [Principal AI Transformation Specialist - Amazon Quick, Customer Success Center of Excellence](https://www.linkedin.com/jobs/view/4466413289/) — Amazon Web Services (AWS)
+- 📍 **Location:** New York, United States
+- 🕒 **Posted:** 2026-09-12
+
+### [Senior Customer Success Manager](https://www.linkedin.com/jobs/view/4465147583/) — Adobe
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $135,200 - $234,150 annually
+- 🕒 **Posted:** 2026-09-12
+
+### [Principal AI Transformation Specialist - Amazon Quick, Customer Success Center of Excellence](https://www.linkedin.com/jobs/view/4466426221/) — Amazon Web Services (AWS)
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-09-12
+
+### [Landscape Architect Project Manager | Urban Planner](https://www.linkedin.com/jobs/view/4465158805/) — Crafton Tull
+- 📍 **Location:** Yukon, OK
 - 🕒 **Posted:** 2026-09-11
 
-### [Customer Success Manager](https://www.linkedin.com/jobs/view/4463490469/) — Centerbase
-- 📍 **Location:** Dallas, TX
-- 💰 **Salary:** $76,000.00/yr - $93,000.00/yr
+### [Technical Solutions Consultant](https://www.linkedin.com/jobs/view/4466416157/) — Honeywell Technologies
+- 📍 **Location:** Tucson, AZ
+- 💰 **Salary:** $113,00 - $162,000
 - 🕒 **Posted:** 2026-09-11
 
-### [Customer Success Executive](https://www.linkedin.com/jobs/view/4465121984/) — Creatio
+### [Customer Success Manager](https://www.linkedin.com/jobs/view/4466424080/) — Pine Services Group
 - 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-11
-
-### [Customer Success Specialist, Entry Level](https://www.linkedin.com/jobs/view/4465150395/) — Jobright.ai
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-11
-
-### [Departmental Analyst 12- Compliance Analyst](https://www.linkedin.com/jobs/view/4464245330/) — State of Michigan
-- 📍 **Location:** Lansing, MI
-- 🕒 **Posted:** 2026-09-11
-
-### [Investment Banking Senior Associate - Financial Services - PropTech](https://www.linkedin.com/jobs/view/4464255209/) — Piper Sandler
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $200,000 - $250,000 per year
-- 🕒 **Posted:** 2026-09-11
-
-### [Compliance Analyst](https://www.linkedin.com/jobs/view/4465305604/) — Clark Construction Group
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $70,500-85,000
 - 🕒 **Posted:** 2026-09-11
