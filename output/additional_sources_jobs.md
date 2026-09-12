@@ -1,7 +1,9 @@
 # 🌍 Additional Job Sources — Sumit's Planning & PropTech Roles
-*Last updated: 2026-09-11 08:57 UTC*
+*Last updated: 2026-09-12 08:44 UTC*
 
-**1 new role(s)** since last run · 8 total in current postings across enabled additional sources
+**1 new role(s)** since last run · 4 total in current postings across enabled additional sources
 
-### [PropTech Legal Analyst](https://proptechjobs.com/job/proptech-legal-analyst/?company=Confidential Company) — Confidential Company
-- 📍 **Location:** United Kingdom
+### [Principal Planning Policy Officer](https://www.planningjobs.com/principal-planning-policy-officer-pjcom2839) — West Northamptonshire Council
+- 📍 **Location:** Northampton, Midlands
+- 💰 **Salary:** £51,224 - £54,605
+- 🕒 **Posted:** Posted 1 days ago
