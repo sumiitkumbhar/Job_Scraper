@@ -1,14 +1,274 @@
 {
-  "updated_at": "2026-09-11T10:54:09.268594+00:00",
+  "updated_at": "2026-09-12T10:21:26.338586+00:00",
   "register_source": "https://assets.publishing.service.gov.uk/media/6aa3bcb05f6e942efe37f156/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-09-11.csv",
   "register_org_count": 126533,
   "company_counts": {
-    "confirmed": 164,
-    "likely": 433,
-    "not_found": 411,
+    "confirmed": 177,
+    "likely": 447,
+    "not_found": 416,
     "unknown": 2
   },
   "companies": {
+    "SYSTRA": {
+      "status": "confirmed",
+      "matched_name": "SYSTRA Ltd"
+    },
+    "Mott MacDonald": {
+      "status": "confirmed",
+      "matched_name": "Mott MacDonald Ltd"
+    },
+    "Robin Radar Systems": {
+      "status": "likely",
+      "matched_name": "Rada Ltd"
+    },
+    "Skanska": {
+      "status": "confirmed",
+      "matched_name": "Skanska UK Plc"
+    },
+    "Stockton-on-Tees Borough Council": {
+      "status": "confirmed",
+      "matched_name": "Stockton on Tees Borough Council"
+    },
+    "Corgan": {
+      "status": "confirmed",
+      "matched_name": "Corgan Ltd"
+    },
+    "Veeam Software": {
+      "status": "confirmed",
+      "matched_name": "Veeam Software UK Limited"
+    },
+    "PA Consulting": {
+      "status": "likely",
+      "matched_name": "Vopa Consulting Ltd T/A Melody Care"
+    },
+    "HII": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "SPS": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Giga": {
+      "status": "likely",
+      "matched_name": "GIGA CUBE SOLUTIONS LIMITED"
+    },
+    "Elastic": {
+      "status": "likely",
+      "matched_name": "Aeroelasticity & Nonlinear Analyses Specialists LTD"
+    },
+    "Intuit": {
+      "status": "confirmed",
+      "matched_name": "Intuit Limited"
+    },
+    "Peraton": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Bombardier": {
+      "status": "likely",
+      "matched_name": "Bard Limited"
+    },
+    "Referment": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Paylocity": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Adobe": {
+      "status": "confirmed",
+      "matched_name": "ADOBE GROUP LIMITED"
+    },
+    "Crafton Tull": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Honeywell Technologies": {
+      "status": "likely",
+      "matched_name": "Honeywell Limited"
+    },
+    "Pine Services Group": {
+      "status": "likely",
+      "matched_name": "Vice UK Limited"
+    },
+    "Amazon Web Services": {
+      "status": "likely",
+      "matched_name": "Vice UK Limited"
+    },
+    "AKRF, Inc.": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "South Gloucestershire Council": {
+      "status": "confirmed",
+      "matched_name": "South Gloucestershire Council"
+    },
+    "Culture Amp": {
+      "status": "confirmed",
+      "matched_name": "Culture Amp Limited"
+    },
+    "Jack & Jill": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Johnson & Johnson MedTech": {
+      "status": "likely",
+      "matched_name": "JOHNS&CO"
+    },
+    "Mohawk Industries": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Osaic": {
+      "status": "likely",
+      "matched_name": "ioMosaic International Limited"
+    },
+    "Verapath": {
+      "status": "likely",
+      "matched_name": "Vera Group Ltd"
+    },
+    "Novata": {
+      "status": "confirmed",
+      "matched_name": "Novata UK Limited"
+    },
+    "Centerbase": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Creatio": {
+      "status": "likely",
+      "matched_name": "AB Creations Limited"
+    },
+    "Jobright.ai": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "State of Michigan": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Piper Sandler": {
+      "status": "confirmed",
+      "matched_name": "Piper Sandler Ltd"
+    },
+    "Surrey County Council": {
+      "status": "confirmed",
+      "matched_name": "Surrey County Council"
+    },
+    "South Ayrshire Council": {
+      "status": "confirmed",
+      "matched_name": "South Ayrshire Council"
+    },
+    "Bowdoin College": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Alaska Native Tribal Health Consortium": {
+      "status": "likely",
+      "matched_name": "Tribal Group Plc"
+    },
+    "Runwise": {
+      "status": "likely",
+      "matched_name": "UK Wise Group Ltd"
+    },
+    "Measured": {
+      "status": "likely",
+      "matched_name": "Oxford Measured Limited"
+    },
+    "InterSystems": {
+      "status": "confirmed",
+      "matched_name": "Intersystems"
+    },
+    "Mysoft": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Allica Bank": {
+      "status": "confirmed",
+      "matched_name": "Allica Bank"
+    },
+    "AXA XL": {
+      "status": "likely",
+      "matched_name": "XL CATLIN SERVICES SE T/A 'AXA XL'"
+    },
+    "Illumio": {
+      "status": "confirmed",
+      "matched_name": "Illumio UK Limited"
+    },
+    "WGI": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "MELE Associates, Inc.": {
+      "status": "likely",
+      "matched_name": "Asso Ltd"
+    },
+    "BART": {
+      "status": "likely",
+      "matched_name": "S & V BARTON LTD"
+    },
+    "Consensus": {
+      "status": "likely",
+      "matched_name": "Consensus Support Services Limited"
+    },
+    "TRC Companies, Inc.": {
+      "status": "confirmed",
+      "matched_name": "TRC Companies Limited"
+    },
+    "Levelpath": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Tebra": {
+      "status": "likely",
+      "matched_name": "Buglife The Invertebrate Conservation Trust"
+    },
+    "SageSure": {
+      "status": "likely",
+      "matched_name": "The Sage Group plc"
+    },
+    "Ice Miller LLP": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Educational Federal Credit Union": {
+      "status": "likely",
+      "matched_name": "Ducati UK Limited"
+    },
+    "Insperity": {
+      "status": "likely",
+      "matched_name": "PERI Limited"
+    },
+    "Hornet Staffing, Inc, a GEE Group company": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "NetBrain Technologies Inc.": {
+      "status": "likely",
+      "matched_name": "In-tech Group Ltd"
+    },
+    "Oak Hill Advisors, L.P.": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Northwestern Mutual": {
+      "status": "likely",
+      "matched_name": "Tern PLC"
+    },
+    "Clark Construction Group": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "WillScot": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Insight Global": {
+      "status": "confirmed",
+      "matched_name": "Insight Global Limited"
+    },
     "Stantec": {
       "status": "confirmed",
       "matched_name": "Stantec UK Ltd"
@@ -20,10 +280,6 @@
     "Procore Technologies": {
       "status": "likely",
       "matched_name": "Core"
-    },
-    "Robin Radar Systems": {
-      "status": "likely",
-      "matched_name": "Rada Ltd"
     },
     "Autodesk": {
       "status": "confirmed",
@@ -48,10 +304,6 @@
     "Twin Health": {
       "status": "likely",
       "matched_name": "Twin Group"
-    },
-    "Adobe": {
-      "status": "confirmed",
-      "matched_name": "ADOBE GROUP LIMITED"
     },
     "Southern Glazer's Wine & Spirits": {
       "status": "not_found",
@@ -106,10 +358,6 @@
       "matched_name": "InfoTrack Limited"
     },
     "Electricity Supply Board (ESB)": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "HII": {
       "status": "not_found",
       "matched_name": null
     },
@@ -177,10 +425,6 @@
       "status": "likely",
       "matched_name": "RAINBOW POLYCARBONATE INDUSTRY TRADE LTD"
     },
-    "Jobright.ai": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "Hines": {
       "status": "likely",
       "matched_name": "Advanced Electric Machines Limited"
@@ -202,10 +446,6 @@
       "matched_name": null
     },
     "City of Allentown": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "AKRF, Inc.": {
       "status": "not_found",
       "matched_name": null
     },
@@ -322,10 +562,6 @@
       "matched_name": "WorldPay (UK) Ltd"
     },
     "Motion Recruitment": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Referment": {
       "status": "not_found",
       "matched_name": null
     },
@@ -469,10 +705,6 @@
       "status": "not_found",
       "matched_name": null
     },
-    "Osaic": {
-      "status": "likely",
-      "matched_name": "ioMosaic International Limited"
-    },
     "OmniMax": {
       "status": "not_found",
       "matched_name": null
@@ -561,10 +793,6 @@
       "status": "likely",
       "matched_name": "Convex Energy Limited"
     },
-    "Clark Construction Group": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "Sauce Labs": {
       "status": "likely",
       "matched_name": "Sauce Labs Software UK Limited"
@@ -640,10 +868,6 @@
     "StartX Med": {
       "status": "not_found",
       "matched_name": null
-    },
-    "Honeywell Technologies": {
-      "status": "likely",
-      "matched_name": "Honeywell Limited"
     },
     "TalentPop": {
       "status": "not_found",
@@ -1233,10 +1457,6 @@
       "status": "not_found",
       "matched_name": null
     },
-    "Insperity": {
-      "status": "likely",
-      "matched_name": "PERI Limited"
-    },
     "Brighthouse Financial": {
       "status": "likely",
       "matched_name": "ANCI GROUP LIMITED"
@@ -1272,10 +1492,6 @@
     "The L.E. Myers Co.": {
       "status": "not_found",
       "matched_name": null
-    },
-    "Insight Global": {
-      "status": "confirmed",
-      "matched_name": "Insight Global Limited"
     },
     "Raymond James": {
       "status": "likely",
@@ -1861,10 +2077,6 @@
       "status": "not_found",
       "matched_name": null
     },
-    "WillScot": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "Kaltura": {
       "status": "likely",
       "matched_name": "Kaltura Europe Limited"
@@ -1917,10 +2129,6 @@
       "status": "not_found",
       "matched_name": null
     },
-    "Culture Amp": {
-      "status": "confirmed",
-      "matched_name": "Culture Amp Limited"
-    },
     "AppCard, Inc.": {
       "status": "not_found",
       "matched_name": null
@@ -1960,10 +2168,6 @@
     "WSP in the UK & Ireland": {
       "status": "not_found",
       "matched_name": null
-    },
-    "Mott MacDonald": {
-      "status": "confirmed",
-      "matched_name": "Mott MacDonald Ltd"
     },
     "Rightmove": {
       "status": "confirmed",
@@ -2357,10 +2561,6 @@
       "status": "likely",
       "matched_name": "ASLAM GHUMMAN AND SONS"
     },
-    "AXA XL": {
-      "status": "likely",
-      "matched_name": "XL CATLIN SERVICES SE T/A 'AXA XL'"
-    },
     "John Paul Construction": {
       "status": "confirmed",
       "matched_name": "John Paul Construction Limited"
@@ -2588,10 +2788,6 @@
     "Factory": {
       "status": "likely",
       "matched_name": "AA Dream Factory Ltd"
-    },
-    "Novata": {
-      "status": "confirmed",
-      "matched_name": "Novata UK Limited"
     },
     "Bluebeam": {
       "status": "likely",
@@ -3301,10 +3497,6 @@
       "status": "confirmed",
       "matched_name": "Syngenta Limited"
     },
-    "State of Michigan": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "Leidos": {
       "status": "likely",
       "matched_name": "Kaleidoscope Group Ltd"
@@ -3312,10 +3504,6 @@
     "The Scotts Miracle-Gro Company": {
       "status": "likely",
       "matched_name": "S&MI Ltd"
-    },
-    "TRC Companies, Inc.": {
-      "status": "confirmed",
-      "matched_name": "TRC Companies Limited"
     },
     "Ddcdine": {
       "status": "not_found",
@@ -3945,10 +4133,6 @@
       "status": "confirmed",
       "matched_name": "Syngenta Limited"
     },
-    "Peraton": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "Hobsons Bay City Council": {
       "status": "likely",
       "matched_name": "Obso Ltd"
@@ -3990,62 +4174,6 @@
       "matched_name": null
     },
     "Downer Group": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "San Diego Gas & Electric": {
-      "status": "likely",
-      "matched_name": "GAS & ELEC LTD"
-    },
-    "JT4": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Invenergy": {
-      "status": "likely",
-      "matched_name": "Invenergy Services UK Limited"
-    },
-    "GFT.": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "CLS Connect": {
-      "status": "likely",
-      "matched_name": "ONNEC Group UK Limited"
-    },
-    "Piper Maddox": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Precision Castparts": {
-      "status": "likely",
-      "matched_name": "Cision Group Limited"
-    },
-    "City of El Paso, TX": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "John F. Kennedy Space Center": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Federal Highway Administration": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Maritime Administration": {
-      "status": "likely",
-      "matched_name": "Itim Limited"
-    },
-    "CA Environmental Protection Agency": {
-      "status": "likely",
-      "matched_name": "Agency Inc Ltd"
-    },
-    "HCLTech": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Verdantas": {
       "status": "not_found",
       "matched_name": null
     }
