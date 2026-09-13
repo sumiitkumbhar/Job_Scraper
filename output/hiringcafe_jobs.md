@@ -1,5 +1,5 @@
 # ☕ HiringCafe — Sumit's Planning & PropTech Roles
-*Last updated: 2026-09-13 07:55 UTC*
+*Last updated: 2026-09-13 19:10 UTC*
 
 **0 new role(s)** since last run · 1 total in last 30d
 
