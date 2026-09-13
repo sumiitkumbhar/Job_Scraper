@@ -1,26 +1,7 @@
 {
-  "scraped_at": "2026-09-13 06:48 UTC",
-  "total": 1,
+  "scraped_at": "2026-09-13 21:22 UTC",
+  "total": 0,
   "new_count": 0,
-  "jobs": [
-    {
-      "company": "NV5",
-      "title": "Geospatial Analyst I",
-      "location": "Meridian, ID, US",
-      "url": "https://www.indeed.com/viewjob?jk=7f8f3e28c67ea8c7",
-      "direct_url": "https://careers-nv5.icims.com/jobs/12593/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
-      "company_url": "https://www.indeed.com/cmp/Nv5",
-      "date_posted": "2026-09-12",
-      "description": "Overview:\n\nDo you enjoy working with the latest industry technology, solving challenges, and contributing to projects that shape communities? NV5 is seeking a motivated and detail\\-oriented Geospatial Technician I to join our Geomatics team. This position supports a variety of survey, mapping, LiDAR, and geospatial data acquisition projects throughout the Mountain West and Pacific Northwest. The successful candidate will assist with UAV\\-based data collection, LiDAR acquisition, point cloud processing, mapping, and geospatial deliverable development for transportation, utility, infrastructure, land development, and public agency projects.\n\n\nThis role is ideal for an individual with a strong technical foundation in geospatial technologies who is looking to build a career in surveying, remote sensing, and geospatial data management.\n\n\nResponsibilities:\n* Perform UAV mission planning and field operations in compliance with FAA regulations.\n* Acquire aerial imagery and LiDAR data using unmanned aircraft systems (UAS).\n* Process and classify LiDAR point clouds using industry\\-standard software.\n* Generate digital terrain models (DTMs), digital surface models (DSMs), contours, Orthomosaics, and other geospatial products.\n* Assist with georeferencing, quality control, and accuracy assessment of geospatial datasets.\n* Support survey and mapping projects through data processing and analysis.\n* Prepare mapping exhibits, figures, and technical deliverables.\n* Maintain organized project files and metadata.\n* Coordinate with surveyors, engineers, GIS professionals, and project managers.\n* Perform quality assurance and quality control (QA/QC) reviews of geospatial data.\n* Assist with field survey operations as required.\n\n\nQualifications:\n\nTo perform this job successfully, an individual must be able to perform the essential duties satisfactorily. Reasonable accommodation may be made to enable qualified individuals with disabilities to perform the essential functions.\n\n**Minimum Qualifications**\n\n* Associate's degree or bachelor’s degree in Geomatics, Geography, GIS, Surveying Technology, Remote Sensing, Engineering Technology, or related field.\n* Minimum two (2\\) years of professional geospatial, surveying, GIS, remote sensing, or LiDAR\\-related experience.\n* Current FAA Part 107 Remote Pilot Certification is required.\n* Demonstrated experience with LiDAR data acquisition and point cloud processing.\n* Experience working with UAV\\-collected imagery and geospatial datasets.\n* Strong attention to detail and commitment to data quality.\n* Ability to work independently and as part of a team.\n* Valid driver's license and ability to travel periodically for field assignments.\n\n **Preferred Qualifications**\n\n* Experience with mobile mapping systems.\n* Experience processing terrestrial, mobile, or aerial LiDAR datasets.\n* Knowledge of photogrammetry workflows.\n* Familiarity with GNSS and survey control methodologies.\n* Experience with transportation, utility, corridor, or land development projects.\n* Understanding of coordinate systems, datums, and geodetic principles.\n* Experience operating fixed\\-wing and/or multi\\-rotor UAV platforms.\n\n**Software Experience**\n\n\nExperience with one or more of the following is preferred:\n\n* Trimble Business Center (TBC)\n* ArcGIS Pro\n* Civil 3D\n* Pix4D\n* DJI Terra\n* MicroStation\n* RIEGL RiScan Pro\n\n**Knowledge, Skills, and Abilities**\n\n* Understanding of survey measurement principles and sources of error.\n* Ability to evaluate survey data for completeness, accuracy, and precision.\n* Knowledge of boundary evidence, public land survey systems, property corner recovery, and cadastral surveying principles.\n* Ability to download, process, review, and edit field\\-collected survey data.\n* Strong attention to detail and commitment to quality.\n* Ability to manage multiple priorities while maintaining project schedules.\n* Commitment to continuous learning and professional development.\n\n**Physical Requirements**\n\n\nThe physical demands described below are representative of those required to successfully perform the essential functions of this position.\n\n* Ability to perform field work in varying weather conditions.\n* Ability to walk uneven terrain and lift up to 40 pounds.\n* Ability to travel for project assignments, including overnight travel when required.\n* The role may also require operation of UTVs, climbing stairs, prolonged standing, and extended periods of computer work.\n* Employees must comply with all company safety policies and project\\-specific safety requirements.",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "fulltime",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ],
+  "jobs": [],
   "new_jobs": []
 }
