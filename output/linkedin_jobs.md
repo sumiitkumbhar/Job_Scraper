@@ -1,18 +1,14 @@
 # 🔥 LinkedIn — Sumit's Planning & PropTech Roles
-*Last updated: 2026-09-12 23:32 UTC*
+*Last updated: 2026-09-13 01:30 UTC*
 
-**3 new role(s)** since last run · 3 total in last 1h
+**2 new role(s)** since last run · 2 total in last 1h
 
-### [SOX and Compliance Analyst](https://www.linkedin.com/jobs/view/4466734050/) — McKesson
-- 📍 **Location:** Cork, County Cork, Ireland
-- 🕒 **Posted:** 2026-09-12
+### [Sr Customer Success Manager](https://www.linkedin.com/jobs/view/4461691498/) — KWI
+- 📍 **Location:** Melville, NY
+- 💰 **Salary:** $110,000.00/yr - $110,000.00/yr
+- 🕒 **Posted:** 2026-09-13
 
-### [Supply Planning Analyst](https://www.linkedin.com/jobs/view/4465425303/) — SGS Consulting
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $50.00/hr - $60.00/hr
-- 🕒 **Posted:** 2026-09-12
-
-### [Customer Success & Sales Representative](https://www.linkedin.com/jobs/view/4466735406/) — National Institute for Metalworking Skills (NIMS)
-- 📍 **Location:** Fairfax, VA
-- 💰 **Salary:** $65,000 – $80,000 annually
-- 🕒 **Posted:** 2026-09-12
+### [Trade Compliance Analyst](https://www.linkedin.com/jobs/view/4462333132/) — Mattson Technology
+- 📍 **Location:** Fremont, CA
+- 💰 **Salary:** $110,000.00/yr - $130,000.00/yr
+- 🕒 **Posted:** 2026-09-13
