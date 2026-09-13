@@ -1,14 +1,90 @@
 {
-  "updated_at": "2026-09-12T10:21:26.338586+00:00",
+  "updated_at": "2026-09-13T11:22:33.984725+00:00",
   "register_source": "https://assets.publishing.service.gov.uk/media/6aa3bcb05f6e942efe37f156/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-09-11.csv",
   "register_org_count": 126533,
   "company_counts": {
-    "confirmed": 177,
-    "likely": 447,
-    "not_found": 416,
+    "confirmed": 178,
+    "likely": 449,
+    "not_found": 417,
     "unknown": 2
   },
   "companies": {
+    "West Northamptonshire Council": {
+      "status": "confirmed",
+      "matched_name": "West Northamptonshire Council"
+    },
+    "NV5": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "WP Engine": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Swooped": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Mattson Technology": {
+      "status": "likely",
+      "matched_name": "Technolog Limited"
+    },
+    "McKesson": {
+      "status": "likely",
+      "matched_name": "McKesson Strategic Services Ltd"
+    },
+    "SGS Consulting": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "National Institute for Metalworking Skills (NIMS)": {
+      "status": "likely",
+      "matched_name": "WORK LIMITED"
+    },
+    "Shamrock Foods Company": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Nsight Health": {
+      "status": "likely",
+      "matched_name": "EXECUTIVE INSIGHT HEALTHCARE CONSULTANTS LTD"
+    },
+    "Jobright.ai": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Bloomreach": {
+      "status": "confirmed",
+      "matched_name": "BloomReach UK Ltd"
+    },
+    "Cisco": {
+      "status": "likely",
+      "matched_name": "Cisco International Limited"
+    },
+    "Notizy": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "KONVOI": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Fidelity Investments": {
+      "status": "likely",
+      "matched_name": "Fidel Limited"
+    },
+    "Basware": {
+      "status": "confirmed",
+      "matched_name": "Basware Holdings Ltd"
+    },
+    "Millennium": {
+      "status": "likely",
+      "matched_name": "Eric Ahaley t/a Millennium Dental Care"
+    },
+    "SAIC": {
+      "status": "likely",
+      "matched_name": "ioMosaic International Limited"
+    },
     "SYSTRA": {
       "status": "confirmed",
       "matched_name": "SYSTRA Ltd"
@@ -140,10 +216,6 @@
     "Creatio": {
       "status": "likely",
       "matched_name": "AB Creations Limited"
-    },
-    "Jobright.ai": {
-      "status": "not_found",
-      "matched_name": null
     },
     "State of Michigan": {
       "status": "not_found",
@@ -324,10 +396,6 @@
     "The Greentree Group": {
       "status": "likely",
       "matched_name": "GREENTREE (SW) LIMITED"
-    },
-    "Fidelity Investments": {
-      "status": "likely",
-      "matched_name": "Fidel Limited"
     },
     "Intapp": {
       "status": "confirmed",
@@ -517,10 +585,6 @@
       "status": "likely",
       "matched_name": "Ion Technologies Ltd"
     },
-    "SAIC": {
-      "status": "likely",
-      "matched_name": "ioMosaic International Limited"
-    },
     "ConstructConnect": {
       "status": "likely",
       "matched_name": "ONNEC Group UK Limited"
@@ -646,10 +710,6 @@
       "matched_name": null
     },
     "NinjaOne": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Swooped": {
       "status": "not_found",
       "matched_name": null
     },
@@ -780,10 +840,6 @@
     "PolyWorks USA": {
       "status": "likely",
       "matched_name": "WORK LIMITED"
-    },
-    "Millennium": {
-      "status": "likely",
-      "matched_name": "Eric Ahaley t/a Millennium Dental Care"
     },
     "Integrity": {
       "status": "likely",
@@ -1861,10 +1917,6 @@
       "status": "likely",
       "matched_name": "Wood Group UK Limited"
     },
-    "Bloomreach": {
-      "status": "confirmed",
-      "matched_name": "BloomReach UK Ltd"
-    },
     "OpenText": {
       "status": "likely",
       "matched_name": "Pentex Ltd"
@@ -2512,10 +2564,6 @@
     "Avison Young": {
       "status": "confirmed",
       "matched_name": "Avison Young (UK) Limited"
-    },
-    "West Northamptonshire Council": {
-      "status": "confirmed",
-      "matched_name": "West Northamptonshire Council"
     },
     "Nicholas O'Dwyer Ltd": {
       "status": "not_found",
@@ -4144,38 +4192,6 @@
     "Burns & McDonnell": {
       "status": "likely",
       "matched_name": "Burns & McDonnell Europe (UK) Limited"
-    },
-    "NURIX": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Union Sanitary District": {
-      "status": "likely",
-      "matched_name": "SANITA UK LTD"
-    },
-    "Kikiktagruk Inupiat Corporation": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "University of California, Davis": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Department Of Public Health": {
-      "status": "likely",
-      "matched_name": "The Department UK Ltd"
-    },
-    "West Basin Municipal Water District": {
-      "status": "likely",
-      "matched_name": "The West Group"
-    },
-    "East Gippsland Water": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Downer Group": {
-      "status": "not_found",
-      "matched_name": null
     }
   }
 }
