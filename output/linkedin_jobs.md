@@ -1,14 +1,17 @@
 # 🔥 LinkedIn — Sumit's Planning & PropTech Roles
-*Last updated: 2026-09-13 01:30 UTC*
+*Last updated: 2026-09-13 06:37 UTC*
 
-**2 new role(s)** since last run · 2 total in last 1h
+**3 new role(s)** since last run · 3 total in last 1h
 
-### [Sr Customer Success Manager](https://www.linkedin.com/jobs/view/4461691498/) — KWI
-- 📍 **Location:** Melville, NY
-- 💰 **Salary:** $110,000.00/yr - $110,000.00/yr
+### [Microsoft Copilot Studio und AI Solutions Consultant (m/w/d)](https://www.linkedin.com/jobs/view/4465471306/) — Skaylink
+- 📍 **Location:** Munich, Bavaria, Germany
 - 🕒 **Posted:** 2026-09-13
 
-### [Trade Compliance Analyst](https://www.linkedin.com/jobs/view/4462333132/) — Mattson Technology
-- 📍 **Location:** Fremont, CA
-- 💰 **Salary:** $110,000.00/yr - $130,000.00/yr
+### [Manager, Customer Success](https://www.linkedin.com/jobs/view/4466745589/) — WP Engine
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-09-13
+
+### [Manager, Customer Success - Enterprise](https://www.linkedin.com/jobs/view/4466737995/) — Swooped
+- 📍 **Location:** United States
+- 💰 **Salary:** $100K to $500K
 - 🕒 **Posted:** 2026-09-13
