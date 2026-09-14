@@ -1,14 +1,62 @@
 {
-  "updated_at": "2026-09-13T11:22:33.984725+00:00",
-  "register_source": "https://assets.publishing.service.gov.uk/media/6aa3bcb05f6e942efe37f156/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-09-11.csv",
-  "register_org_count": 126533,
+  "updated_at": "2026-09-14T12:14:52.885697+00:00",
+  "register_source": "https://assets.publishing.service.gov.uk/media/6aa7bdf275ab9593331f7a10/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-09-14.csv",
+  "register_org_count": 126547,
   "company_counts": {
-    "confirmed": 178,
-    "likely": 449,
-    "not_found": 417,
+    "confirmed": 180,
+    "likely": 450,
+    "not_found": 422,
     "unknown": 2
   },
   "companies": {
+    "Smith": {
+      "status": "likely",
+      "matched_name": "1010 Restaurant @ The Blacksmiths arms"
+    },
+    "East Sussex County Council": {
+      "status": "confirmed",
+      "matched_name": "East Sussex County Council"
+    },
+    "Nutrislice": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Revin": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Devoted Health": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Jobright.ai": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Dataminr": {
+      "status": "confirmed",
+      "matched_name": "Dataminr UK Ltd"
+    },
+    "Fifth Third Bank": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Evlo AI": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "World Wide Technology": {
+      "status": "likely",
+      "matched_name": "Technolog Limited"
+    },
+    "Stensul": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Commerce": {
+      "status": "likely",
+      "matched_name": "247 Commerce Ltd"
+    },
     "West Northamptonshire Council": {
       "status": "confirmed",
       "matched_name": "West Northamptonshire Council"
@@ -48,10 +96,6 @@
     "Nsight Health": {
       "status": "likely",
       "matched_name": "EXECUTIVE INSIGHT HEALTHCARE CONSULTANTS LTD"
-    },
-    "Jobright.ai": {
-      "status": "not_found",
-      "matched_name": null
     },
     "Bloomreach": {
       "status": "confirmed",
@@ -640,10 +684,6 @@
     "LinkedIn": {
       "status": "likely",
       "matched_name": "Linkedin Technology UK Limited"
-    },
-    "Commerce": {
-      "status": "likely",
-      "matched_name": "247 Commerce Ltd"
     },
     "Canal & River Trust": {
       "status": "likely",
@@ -1254,10 +1294,6 @@
       "matched_name": "THE PEOPLE GROUP LIMITED"
     },
     "Expand Energy": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Evlo AI": {
       "status": "not_found",
       "matched_name": null
     },
@@ -4188,10 +4224,6 @@
     "Woodland": {
       "status": "confirmed",
       "matched_name": "Woodland Group Limited"
-    },
-    "Burns & McDonnell": {
-      "status": "likely",
-      "matched_name": "Burns & McDonnell Europe (UK) Limited"
     }
   }
 }
