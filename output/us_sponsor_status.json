@@ -1,17 +1,77 @@
 {
-  "updated_at": "2026-09-13T12:08:55.377091+00:00",
+  "updated_at": "2026-09-14T13:06:41.444932+00:00",
   "source_files": [
     "https://www.dol.gov/media/LCA_Disclosure_Data_FY2026_Q3.xlsx",
     "https://www.dol.gov/sites/dolgov/files/ETA/oflc/pdfs/LCA_Disclosure_Data_FY2025_Q4.xlsx"
   ],
   "employer_count": 60026,
   "company_counts": {
-    "confirmed": 218,
-    "likely": 367,
-    "not_found": 459,
+    "confirmed": 221,
+    "likely": 369,
+    "not_found": 462,
     "unknown": 2
   },
   "companies": {
+    "Smith": {
+      "status": "likely",
+      "matched_name": "SmithGroup, Inc., subsidiary of SmithGroup Co., Inc.",
+      "certified_lca_count": 45
+    },
+    "East Sussex County Council": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Nutrislice": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Revin": {
+      "status": "confirmed",
+      "matched_name": "Revin, Inc.",
+      "certified_lca_count": 1
+    },
+    "Devoted Health": {
+      "status": "likely",
+      "matched_name": "Group Health, Inc.",
+      "certified_lca_count": 41
+    },
+    "Jobright.ai": {
+      "status": "likely",
+      "matched_name": "Jobright Inc.",
+      "certified_lca_count": 1
+    },
+    "Dataminr": {
+      "status": "confirmed",
+      "matched_name": "Dataminr, Inc.",
+      "certified_lca_count": 9
+    },
+    "Fifth Third Bank": {
+      "status": "likely",
+      "matched_name": "Fifth Third Bank, National Association",
+      "certified_lca_count": 59
+    },
+    "Evlo AI": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "World Wide Technology": {
+      "status": "confirmed",
+      "matched_name": "World Wide Technology Holding Company, LLC",
+      "certified_lca_count": 53
+    },
+    "Stensul": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Commerce": {
+      "status": "likely",
+      "matched_name": "Global Mail, Inc. d/b/a DHL eCommerce",
+      "certified_lca_count": 10
+    },
     "West Northamptonshire Council": {
       "status": "likely",
       "matched_name": "North, Inc.",
@@ -61,11 +121,6 @@
       "status": "likely",
       "matched_name": "Group Health, Inc.",
       "certified_lca_count": 41
-    },
-    "Jobright.ai": {
-      "status": "likely",
-      "matched_name": "Jobright Inc.",
-      "certified_lca_count": 1
     },
     "Bloomreach": {
       "status": "confirmed",
@@ -801,11 +856,6 @@
       "status": "confirmed",
       "matched_name": "LINKEDIN CORPORATION",
       "certified_lca_count": 1151
-    },
-    "Commerce": {
-      "status": "likely",
-      "matched_name": "Global Mail, Inc. d/b/a DHL eCommerce",
-      "certified_lca_count": 10
     },
     "Canal & River Trust": {
       "status": "likely",
@@ -1571,11 +1621,6 @@
       "status": "confirmed",
       "matched_name": "Expand Energy Corporation",
       "certified_lca_count": 1
-    },
-    "Evlo AI": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
     },
     "Sage": {
       "status": "likely",
@@ -5236,11 +5281,6 @@
       "status": "likely",
       "matched_name": "Woodland Community Consolidated School District 50",
       "certified_lca_count": 2
-    },
-    "Burns & McDonnell": {
-      "status": "likely",
-      "matched_name": "BURNS & MCDONNELL ENGINEERING COMPANY, INC.",
-      "certified_lca_count": 120
     }
   }
 }
