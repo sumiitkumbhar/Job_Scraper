@@ -1,57 +1,59 @@
 # 🔥 LinkedIn — Sumit's Planning & PropTech Roles
-*Last updated: 2026-09-15 02:05 UTC*
+*Last updated: 2026-09-15 08:23 UTC*
 
-**12 new role(s)** since last run · 12 total in last 1h
+**13 new role(s)** since last run · 13 total in last 1h
 
-### [Senior Implementation Consultant](https://www.linkedin.com/jobs/view/4467415724/) — Rithum
-- 📍 **Location:** United Kingdom
+### [Customer Success Associate](https://www.linkedin.com/jobs/view/4466186732/) — Swish Analytics
+- 📍 **Location:** London, England, United Kingdom
 - 🕒 **Posted:** 2026-09-15
 
-### [Strategic Customer Success Manager](https://www.linkedin.com/jobs/view/4465260304/) — AlertMedia
-- 📍 **Location:** Windsor, England, United Kingdom
+### [Customer Success Manager (£60k–£100k + Equity) at Anima](https://www.linkedin.com/jobs/view/4457191958/) — Jack & Jill
+- 📍 **Location:** London, England, United Kingdom
 - 🕒 **Posted:** 2026-09-15
 
-### [Enterprise Customer Success Manager](https://www.linkedin.com/jobs/view/4465263225/) — Semperis
-- 📍 **Location:** England, United Kingdom
+### [Customer Success Engineer (m/w/d) - B2B SaaS](https://www.linkedin.com/jobs/view/4429858186/) — epilot GmbH
+- 📍 **Location:** Cologne Bonn Region
 - 🕒 **Posted:** 2026-09-15
 
-### [Strategic Customer Success Manager](https://www.linkedin.com/jobs/view/4465271204/) — AlertMedia
-- 📍 **Location:** Dublin, County Dublin, Ireland
+### [Strategic Customer Success Manager – Growth & Expansion (m/w/d)](https://www.linkedin.com/jobs/view/4417938620/) — epilot GmbH
+- 📍 **Location:** Cologne, North Rhine-Westphalia, Germany
 - 🕒 **Posted:** 2026-09-15
 
-### [Financial Planning Analyst](https://www.linkedin.com/jobs/view/4466145846/) — Alaska Airlines
-- 📍 **Location:** Renton, WA
-- 💰 **Salary:** $66,000-$149,800
+### [Senior Customer Success Manager (f/m/d)](https://www.linkedin.com/jobs/view/4467705327/) — remberg
+- 📍 **Location:** Munich, Bavaria, Germany
 - 🕒 **Posted:** 2026-09-15
 
-### [Planning Analyst](https://www.linkedin.com/jobs/view/4467436080/) — Oregon Steel Mills
-- 📍 **Location:** Portland, OR
+### [Compliance Analyst*in (m/w/d)](https://www.linkedin.com/jobs/view/4465525272/) — S+P Compliance | Schulz & Cie. GmbH
+- 📍 **Location:** Munich, Bavaria, Germany
 - 🕒 **Posted:** 2026-09-15
 
-### [Business Development Solutions Consultant - Promotional and Print Items](https://www.linkedin.com/jobs/view/4467443010/) — Reach Technologies
-- 📍 **Location:** Birmingham, AL
-- 💰 **Salary:** $36,000.00 - $100,000.00 per year
+### [Customer Success Manager (C-store Loyalty SaaS)](https://www.linkedin.com/jobs/view/4452233875/) — Liquid Barcodes
+- 📍 **Location:** Miami, FL
 - 🕒 **Posted:** 2026-09-15
 
-### [Technical Customer Success Manager | Chicago (Hybrid) | Up to $140K Base](https://www.linkedin.com/jobs/view/4467444002/) — Coda Search│Staffing
-- 📍 **Location:** Greater Chicago Area
-- 💰 **Salary:** $120,000.00/yr - $140,000.00/yr
-- 🕒 **Posted:** 2026-09-15
-
-### [Signature Customer Success Account Manager - Stamford, CT](https://www.linkedin.com/jobs/view/4466147763/) — UPS
+### [Signature Customer Success Account Manager - Stamford, CT](https://www.linkedin.com/jobs/view/4466179809/) — UPS
 - 📍 **Location:** Stratford, CT
 - 🕒 **Posted:** 2026-09-15
 
-### [Strategy & Operations Associate - Global Customer Success](https://www.linkedin.com/jobs/view/4467419862/) — StubHub
-- 📍 **Location:** Atlanta, GA
-- 💰 **Salary:** $110,000—$130,000 USD
+### [Manager, Customer Success – Strategic Consumer Tech](https://www.linkedin.com/jobs/view/4466181886/) — Anthropic
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $265,000—$320,000 USD
 - 🕒 **Posted:** 2026-09-15
 
-### [Research Compliance Analyst](https://www.linkedin.com/jobs/view/4466147857/) — OSF HealthCare
-- 📍 **Location:** Peoria, IL
-- 💰 **Salary:** $33.52 - $42.40/hour
+### [Manager, Customer Success – Strategic Consumer Tech](https://www.linkedin.com/jobs/view/4466190044/) — Anthropic
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $265,000—$320,000 USD
 - 🕒 **Posted:** 2026-09-15
 
-### [Isa Risk/Compliance Analyst I](https://www.linkedin.com/jobs/view/4467439198/) — Seneca Gaming Corporation
-- 📍 **Location:** Niagara Falls, NY
+### [Customer Success Coordinator](https://www.linkedin.com/jobs/view/4467706178/) — WarriorBabe
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-09-15
+
+### [Compliance Analyst](https://www.linkedin.com/jobs/view/4466173997/) — RemoteHunter
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-09-15
+
+### [Manager, Customer Success – Strategic Consumer Tech](https://www.linkedin.com/jobs/view/4466191003/) — Anthropic
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $265,000—$320,000 USD
 - 🕒 **Posted:** 2026-09-15
