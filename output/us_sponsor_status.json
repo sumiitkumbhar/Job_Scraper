@@ -1,17 +1,292 @@
 {
-  "updated_at": "2026-09-14T13:06:41.444932+00:00",
+  "updated_at": "2026-09-15T11:57:54.706488+00:00",
   "source_files": [
     "https://www.dol.gov/media/LCA_Disclosure_Data_FY2026_Q3.xlsx",
     "https://www.dol.gov/sites/dolgov/files/ETA/oflc/pdfs/LCA_Disclosure_Data_FY2025_Q4.xlsx"
   ],
   "employer_count": 60026,
   "company_counts": {
-    "confirmed": 221,
-    "likely": 369,
-    "not_found": 462,
+    "confirmed": 231,
+    "likely": 386,
+    "not_found": 482,
     "unknown": 2
   },
   "companies": {
+    "Buro Happold": {
+      "status": "likely",
+      "matched_name": "BURO HAPPOLD CONSULTING ENGINEERS, INC.",
+      "certified_lca_count": 5
+    },
+    "Arup": {
+      "status": "likely",
+      "matched_name": "ARUP Laboratories",
+      "certified_lca_count": 96
+    },
+    "Swish Analytics": {
+      "status": "confirmed",
+      "matched_name": "Swish Analytics Inc.",
+      "certified_lca_count": 2
+    },
+    "remberg": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "S+P Compliance | Schulz & Cie. GmbH": {
+      "status": "likely",
+      "matched_name": "Compli Group, Inc.",
+      "certified_lca_count": 8
+    },
+    "Liquid Barcodes": {
+      "status": "likely",
+      "matched_name": "Barco, Inc.",
+      "certified_lca_count": 1
+    },
+    "Anthropic": {
+      "status": "likely",
+      "matched_name": "Anthropic, PBC",
+      "certified_lca_count": 245
+    },
+    "WarriorBabe": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "RemoteHunter": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Rithum": {
+      "status": "confirmed",
+      "matched_name": "Rithum Corporation",
+      "certified_lca_count": 1
+    },
+    "AlertMedia": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Semperis": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Alaska Airlines": {
+      "status": "confirmed",
+      "matched_name": "Alaska Airlines, Inc.",
+      "certified_lca_count": 13
+    },
+    "Oregon Steel Mills": {
+      "status": "confirmed",
+      "matched_name": "Oregon Steel Mills LLC",
+      "certified_lca_count": 1
+    },
+    "Reach Technologies": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Coda Search\u2502Staffing": {
+      "status": "likely",
+      "matched_name": "Staffing Inc.",
+      "certified_lca_count": 1
+    },
+    "UPS": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "StubHub": {
+      "status": "confirmed",
+      "matched_name": "StubHub, Inc.",
+      "certified_lca_count": 47
+    },
+    "OSF HealthCare": {
+      "status": "likely",
+      "matched_name": "OSF Healthcare System",
+      "certified_lca_count": 77
+    },
+    "Seneca Gaming Corporation": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Demandbase": {
+      "status": "confirmed",
+      "matched_name": "Demandbase, Inc.",
+      "certified_lca_count": 9
+    },
+    "NAES": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "PreSales Collective": {
+      "status": "likely",
+      "matched_name": "Collect Group LLC",
+      "certified_lca_count": 1
+    },
+    "Swooped": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "EXFO": {
+      "status": "likely",
+      "matched_name": "Wexford Capital LP",
+      "certified_lca_count": 1
+    },
+    "CentralReach": {
+      "status": "likely",
+      "matched_name": "CENTRA INC.",
+      "certified_lca_count": 1
+    },
+    "ECMC Group": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "OTG Management": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Western Alliance Bank": {
+      "status": "confirmed",
+      "matched_name": "Western Alliance Bank",
+      "certified_lca_count": 44
+    },
+    "NinjaOne": {
+      "status": "confirmed",
+      "matched_name": "NinjaOne, LLC",
+      "certified_lca_count": 1
+    },
+    "Texas Mutual Insurance Company": {
+      "status": "confirmed",
+      "matched_name": "Texas Mutual Insurance Company",
+      "certified_lca_count": 4
+    },
+    "Wellspring Worldwide": {
+      "status": "likely",
+      "matched_name": "The Wellspring Group, Inc",
+      "certified_lca_count": 2
+    },
+    "Finout": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Deel": {
+      "status": "likely",
+      "matched_name": "Deel US LLC",
+      "certified_lca_count": 51
+    },
+    "Baker Barrios Architects": {
+      "status": "likely",
+      "matched_name": "Rios Inc.",
+      "certified_lca_count": 15
+    },
+    "UW Health": {
+      "status": "likely",
+      "matched_name": "Group Health, Inc.",
+      "certified_lca_count": 41
+    },
+    "City of Pearland, Texas": {
+      "status": "likely",
+      "matched_name": "PEARL, INC.",
+      "certified_lca_count": 2
+    },
+    "Prescient Edge": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Trellix": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Litem": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Equipment Depot": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "LanceDB": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "FreedomPay": {
+      "status": "likely",
+      "matched_name": "MPAY Inc.",
+      "certified_lca_count": 1
+    },
+    "Odoo": {
+      "status": "confirmed",
+      "matched_name": "Odoo, Inc.",
+      "certified_lca_count": 24
+    },
+    "LNS Research": {
+      "status": "likely",
+      "matched_name": "Arch Group LLC",
+      "certified_lca_count": 2
+    },
+    "Heirloom Cloud Corporation": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Nassau Community College": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Banner Engineering Careers": {
+      "status": "likely",
+      "matched_name": "REER INC",
+      "certified_lca_count": 3
+    },
+    "Inceed": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Smith Transport Inc.": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Robertson, Anschutz, Schneid, Crane & Partners, PLLC": {
+      "status": "likely",
+      "matched_name": "Robertson, Anschutz, Schneid & Crane, LLC",
+      "certified_lca_count": 2
+    },
+    "april": {
+      "status": "likely",
+      "matched_name": "April Tax Solutions Inc.",
+      "certified_lca_count": 1
+    },
+    "Braze": {
+      "status": "confirmed",
+      "matched_name": "Braze, Inc.",
+      "certified_lca_count": 22
+    },
+    "Teli Labs": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "MintMCP": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
     "Smith": {
       "status": "likely",
       "matched_name": "SmithGroup, Inc., subsidiary of SmithGroup Co., Inc.",
@@ -83,11 +358,6 @@
       "certified_lca_count": 1
     },
     "WP Engine": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Swooped": {
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
@@ -937,11 +1207,6 @@
       "matched_name": "Xcel Energy Services, Inc.",
       "certified_lca_count": 9
     },
-    "NinjaOne": {
-      "status": "confirmed",
-      "matched_name": "NinjaOne, LLC",
-      "certified_lca_count": 1
-    },
     "Altura Search": {
       "status": "likely",
       "matched_name": "Arch Group LLC",
@@ -1752,11 +2017,6 @@
       "matched_name": null,
       "certified_lca_count": 0
     },
-    "PreSales Collective": {
-      "status": "likely",
-      "matched_name": "Collect Group LLC",
-      "certified_lca_count": 1
-    },
     "Knomee": {
       "status": "not_found",
       "matched_name": null,
@@ -2082,11 +2342,6 @@
       "matched_name": null,
       "certified_lca_count": 0
     },
-    "Inceed": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
     "Austal USA": {
       "status": "not_found",
       "matched_name": null,
@@ -2156,11 +2411,6 @@
       "status": "likely",
       "matched_name": "Nueva Esperanza, Inc.",
       "certified_lca_count": 3
-    },
-    "Arup": {
-      "status": "likely",
-      "matched_name": "ARUP Laboratories",
-      "certified_lca_count": 96
     },
     "Veson Nautical": {
       "status": "not_found",
@@ -2808,11 +3058,6 @@
       "certified_lca_count": 0
     },
     "COCONINO COUNTY, AZ": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "RemoteHunter": {
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
@@ -5271,16 +5516,6 @@
       "status": "likely",
       "matched_name": "Syngenta Crop Protection LLC",
       "certified_lca_count": 18
-    },
-    "Hobsons Bay City Council": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Woodland": {
-      "status": "likely",
-      "matched_name": "Woodland Community Consolidated School District 50",
-      "certified_lca_count": 2
     }
   }
 }
