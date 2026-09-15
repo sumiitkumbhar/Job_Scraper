@@ -1,9 +1,7 @@
 # 🌍 Additional Job Sources — Sumit's Planning & PropTech Roles
-*Last updated: 2026-09-14 09:56 UTC*
+*Last updated: 2026-09-15 09:30 UTC*
 
-**1 new role(s)** since last run · 6 total in current postings across enabled additional sources
+**1 new role(s)** since last run · 5 total in current postings across enabled additional sources
 
-### [Senior Planning Officer](https://www.planningjobs.com/senior-planning-officer-pjcom2832) — Hastings Borough Council
-- 📍 **Location:** Hastings, South East
-- 💰 **Salary:** £35,412 to £44,075
-- 🕒 **Posted:** Posted 18 days ago
+### [PropTech Analyst](https://proptechjobs.com/job/proptech-analyst/?company=Confidential Company) — Confidential Company
+- 📍 **Location:** United Kingdom

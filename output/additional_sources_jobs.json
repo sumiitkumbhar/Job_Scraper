@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-14 09:56 UTC",
-  "total": 6,
+  "scraped_at": "2026-09-15 09:30 UTC",
+  "total": 5,
   "new_count": 1,
   "jobs": [
     {
@@ -8,22 +8,9 @@
       "company": "West Northamptonshire Council",
       "location": "Northampton, Midlands",
       "url": "https://www.planningjobs.com/principal-planning-policy-officer-pjcom2839",
-      "date_posted": "Posted 3 days ago",
+      "date_posted": "Posted 4 days ago",
       "description": "",
       "salary": "£51,224 - £54,605",
-      "job_type": "",
-      "is_remote": null,
-      "work_arrangement": "",
-      "ats": "PlanningJobs.com"
-    },
-    {
-      "title": "Senior Planning Officer",
-      "company": "Hastings Borough Council",
-      "location": "Hastings, South East",
-      "url": "https://www.planningjobs.com/senior-planning-officer-pjcom2832",
-      "date_posted": "Posted 18 days ago",
-      "description": "",
-      "salary": "£35,412 to £44,075",
       "job_type": "",
       "is_remote": null,
       "work_arrangement": "",
@@ -34,7 +21,7 @@
       "company": "Hyndburn Borough Council",
       "location": "Accrington, North West",
       "url": "https://www.planningjobs.com/planning-manager-development-management-pjcom2836",
-      "date_posted": "Posted 11 days ago",
+      "date_posted": "Posted 12 days ago",
       "description": "",
       "salary": "£48,226 to £51,356 + car extra Location",
       "job_type": "",
@@ -47,7 +34,7 @@
       "company": "Hull City Council",
       "location": "Hull , North East",
       "url": "https://www.planningjobs.com/senior-planning-policy-officer-pjcom2835",
-      "date_posted": "Posted 17 days ago",
+      "date_posted": "Posted 18 days ago",
       "description": "",
       "salary": "£36,363 - £39,152",
       "job_type": "",
@@ -60,7 +47,7 @@
       "company": "Maidstone Borough Council",
       "location": "Maidstone, South East",
       "url": "https://www.planningjobs.com/principal-planning-officer-pjcom2833",
-      "date_posted": "Posted 18 days ago",
+      "date_posted": "Posted 19 days ago",
       "description": "",
       "salary": "£52,033 - £56,858",
       "job_type": "",
@@ -69,10 +56,10 @@
       "ats": "PlanningJobs.com"
     },
     {
-      "title": "Java Developer – PropTech",
+      "title": "PropTech Analyst",
       "company": "Confidential Company",
       "location": "United Kingdom",
-      "url": "https://proptechjobs.com/job/java-developer-proptech/?company=Confidential Company",
+      "url": "https://proptechjobs.com/job/proptech-analyst/?company=Confidential Company",
       "date_posted": "",
       "description": "",
       "salary": "",
@@ -84,17 +71,17 @@
   ],
   "new_jobs": [
     {
-      "title": "Senior Planning Officer",
-      "company": "Hastings Borough Council",
-      "location": "Hastings, South East",
-      "url": "https://www.planningjobs.com/senior-planning-officer-pjcom2832",
-      "date_posted": "Posted 18 days ago",
+      "title": "PropTech Analyst",
+      "company": "Confidential Company",
+      "location": "United Kingdom",
+      "url": "https://proptechjobs.com/job/proptech-analyst/?company=Confidential Company",
+      "date_posted": "",
       "description": "",
-      "salary": "£35,412 to £44,075",
+      "salary": "",
       "job_type": "",
       "is_remote": null,
       "work_arrangement": "",
-      "ats": "PlanningJobs.com"
+      "ats": "Proptech Jobs"
     }
   ]
 }
