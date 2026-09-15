@@ -1,14 +1,234 @@
 {
-  "updated_at": "2026-09-14T12:14:52.885697+00:00",
+  "updated_at": "2026-09-15T11:23:52.014346+00:00",
   "register_source": "https://assets.publishing.service.gov.uk/media/6aa7bdf275ab9593331f7a10/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-09-14.csv",
   "register_org_count": 126547,
   "company_counts": {
-    "confirmed": 180,
-    "likely": 450,
-    "not_found": 422,
+    "confirmed": 185,
+    "likely": 470,
+    "not_found": 444,
     "unknown": 2
   },
   "companies": {
+    "Buro Happold": {
+      "status": "likely",
+      "matched_name": "Buro Happold Engineers Limited"
+    },
+    "Arup": {
+      "status": "likely",
+      "matched_name": "Hemaraji Santharupan T/A Baba Food City"
+    },
+    "Swish Analytics": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "remberg": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "S+P Compliance | Schulz & Cie. GmbH": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Liquid Barcodes": {
+      "status": "likely",
+      "matched_name": "Arco Ltd"
+    },
+    "Anthropic": {
+      "status": "confirmed",
+      "matched_name": "Anthropic Limited"
+    },
+    "WarriorBabe": {
+      "status": "likely",
+      "matched_name": "Arri Holdings Limited"
+    },
+    "RemoteHunter": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Rithum": {
+      "status": "likely",
+      "matched_name": "Rithum CA UK Limited"
+    },
+    "AlertMedia": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Semperis": {
+      "status": "likely",
+      "matched_name": "PERI Limited"
+    },
+    "Alaska Airlines": {
+      "status": "confirmed",
+      "matched_name": "ALASKA AIRLINES"
+    },
+    "Oregon Steel Mills": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Reach Technologies": {
+      "status": "likely",
+      "matched_name": "Reach plc"
+    },
+    "Coda Search\u2502Staffing": {
+      "status": "likely",
+      "matched_name": "UK Search Limited"
+    },
+    "UPS": {
+      "status": "confirmed",
+      "matched_name": "UPS Ltd"
+    },
+    "StubHub": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "OSF HealthCare": {
+      "status": "likely",
+      "matched_name": "Care & Co Ltd"
+    },
+    "Seneca Gaming Corporation": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Demandbase": {
+      "status": "confirmed",
+      "matched_name": "Demandbase Limited"
+    },
+    "NAES": {
+      "status": "likely",
+      "matched_name": "Abinaesh Ltd"
+    },
+    "PreSales Collective": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Swooped": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "EXFO": {
+      "status": "likely",
+      "matched_name": "EXFO Europe Limited"
+    },
+    "CentralReach": {
+      "status": "likely",
+      "matched_name": "CENTRAL UK GROUP LIMITED"
+    },
+    "ECMC Group": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "OTG Management": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Western Alliance Bank": {
+      "status": "likely",
+      "matched_name": "Allia Ltd"
+    },
+    "NinjaOne": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Texas Mutual Insurance Company": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Wellspring Worldwide": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Finout": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Deel": {
+      "status": "likely",
+      "matched_name": "Adeel Ahmed trading as Sky Energy"
+    },
+    "Baker Barrios Architects": {
+      "status": "likely",
+      "matched_name": "@ Architect UK Ltd"
+    },
+    "UW Health": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "City of Pearland, Texas": {
+      "status": "likely",
+      "matched_name": "Pearl Holdings Limited"
+    },
+    "Prescient Edge": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Trellix": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Litem": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Equipment Depot": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "LanceDB": {
+      "status": "likely",
+      "matched_name": "BALANCEDBITE HEALTH LTD"
+    },
+    "FreedomPay": {
+      "status": "likely",
+      "matched_name": "FREEDOMPAY WORLD EUROPE LIMITED"
+    },
+    "Odoo": {
+      "status": "likely",
+      "matched_name": "Voodoo Gaming UK Limited"
+    },
+    "LNS Research": {
+      "status": "likely",
+      "matched_name": "UK Search Limited"
+    },
+    "Heirloom Cloud Corporation": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Nassau Community College": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Banner Engineering Careers": {
+      "status": "likely",
+      "matched_name": "Care & Co Ltd"
+    },
+    "Inceed": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Smith Transport Inc.": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Robertson, Anschutz, Schneid, Crane & Partners, PLLC": {
+      "status": "likely",
+      "matched_name": "Crane Limited"
+    },
+    "april": {
+      "status": "confirmed",
+      "matched_name": "April Holdings Ltd"
+    },
+    "Braze": {
+      "status": "confirmed",
+      "matched_name": "Braze Limited"
+    },
+    "Teli Labs": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "MintMCP": {
+      "status": "not_found",
+      "matched_name": null
+    },
     "Smith": {
       "status": "likely",
       "matched_name": "1010 Restaurant @ The Blacksmiths arms"
@@ -66,10 +286,6 @@
       "matched_name": null
     },
     "WP Engine": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Swooped": {
       "status": "not_found",
       "matched_name": null
     },
@@ -749,10 +965,6 @@
       "status": "not_found",
       "matched_name": null
     },
-    "NinjaOne": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "Altura Search": {
       "status": "likely",
       "matched_name": "UK Search Limited"
@@ -1401,10 +1613,6 @@
       "status": "not_found",
       "matched_name": null
     },
-    "PreSales Collective": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "Knomee": {
       "status": "not_found",
       "matched_name": null
@@ -1665,10 +1873,6 @@
       "status": "not_found",
       "matched_name": null
     },
-    "Inceed": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "Austal USA": {
       "status": "not_found",
       "matched_name": null
@@ -1724,10 +1928,6 @@
     "Esper": {
       "status": "confirmed",
       "matched_name": "Esper Ltd"
-    },
-    "Arup": {
-      "status": "likely",
-      "matched_name": "Hemaraji Santharupan T/A Baba Food City"
     },
     "Veson Nautical": {
       "status": "confirmed",
@@ -2248,10 +2448,6 @@
     "COCONINO COUNTY, AZ": {
       "status": "likely",
       "matched_name": "Count LTD"
-    },
-    "RemoteHunter": {
-      "status": "not_found",
-      "matched_name": null
     },
     "WSP in the UK & Ireland": {
       "status": "not_found",
@@ -4216,14 +4412,6 @@
     "Syngenta Group": {
       "status": "confirmed",
       "matched_name": "Syngenta Limited"
-    },
-    "Hobsons Bay City Council": {
-      "status": "likely",
-      "matched_name": "Obso Ltd"
-    },
-    "Woodland": {
-      "status": "confirmed",
-      "matched_name": "Woodland Group Limited"
     }
   }
 }
