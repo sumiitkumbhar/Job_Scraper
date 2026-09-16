@@ -1,14 +1,250 @@
 {
-  "updated_at": "2026-09-15T11:23:52.014346+00:00",
-  "register_source": "https://assets.publishing.service.gov.uk/media/6aa7bdf275ab9593331f7a10/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-09-14.csv",
-  "register_org_count": 126547,
+  "updated_at": "2026-09-16T11:08:19.879650+00:00",
+  "register_source": "https://assets.publishing.service.gov.uk/media/6aaa51612f29b3888481853c/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-09-16.csv",
+  "register_org_count": 126558,
   "company_counts": {
-    "confirmed": 185,
-    "likely": 470,
-    "not_found": 444,
+    "confirmed": 188,
+    "likely": 488,
+    "not_found": 458,
     "unknown": 2
   },
   "companies": {
+    "Royal Borough of Greenwich": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Posted date September 15, 2026": {
+      "status": "likely",
+      "matched_name": "SEPT GROUP LIMITED"
+    },
+    "EX.CO": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Key Talent Solutions": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Compass": {
+      "status": "confirmed",
+      "matched_name": "Compass Group Plc"
+    },
+    "Rev": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "ABERDEEN CITY COUNCIL": {
+      "status": "confirmed",
+      "matched_name": "Aberdeen City Council"
+    },
+    "Serac Technologies": {
+      "status": "confirmed",
+      "matched_name": "Serac Technologies Ltd"
+    },
+    "ZS Associates": {
+      "status": "likely",
+      "matched_name": "Asso Ltd"
+    },
+    "Semperis": {
+      "status": "likely",
+      "matched_name": "PERI Limited"
+    },
+    "Deloitte": {
+      "status": "confirmed",
+      "matched_name": "Deloitte LLP"
+    },
+    "Xantrion": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Jobgether": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "RevolutionParts": {
+      "status": "likely",
+      "matched_name": "EVOLU GROUP LIMITED"
+    },
+    "Pilatus Aircraft Ltd": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Paylocity": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "RMR Group": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Principal Financial Group": {
+      "status": "likely",
+      "matched_name": "ANCI GROUP LIMITED"
+    },
+    "Amazon": {
+      "status": "likely",
+      "matched_name": "Amazon Charitable Trust"
+    },
+    "Swooped": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "nexfibre": {
+      "status": "likely",
+      "matched_name": "Nexfibre Networks Limited"
+    },
+    "RealTruck, Inc.": {
+      "status": "likely",
+      "matched_name": "Real Group Ltd"
+    },
+    "onsemi": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "MANTECH": {
+      "status": "confirmed",
+      "matched_name": "Mantech UK Ltd"
+    },
+    "Lovable": {
+      "status": "likely",
+      "matched_name": "Lovable Labs UK Limited"
+    },
+    "Tenable": {
+      "status": "likely",
+      "matched_name": "Tenable Screw Company Limited"
+    },
+    "Vestwell": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "FirstBank": {
+      "status": "confirmed",
+      "matched_name": "FirstBank UK Limited"
+    },
+    "Primoris Services Corporation": {
+      "status": "likely",
+      "matched_name": "Vice UK Limited"
+    },
+    "Abbott": {
+      "status": "likely",
+      "matched_name": "Abbott & Co (Newark) Ltd"
+    },
+    "Palo Alto Networks": {
+      "status": "confirmed",
+      "matched_name": "PALO ALTO NETWORKS (UK) LIMITED"
+    },
+    "Akraya, Inc.": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Costain Group PLC": {
+      "status": "confirmed",
+      "matched_name": "Costain Limited"
+    },
+    "HS2 (High Speed Two) Ltd": {
+      "status": "likely",
+      "matched_name": "Speed Group (Holdings) Ltd"
+    },
+    "STERIS": {
+      "status": "likely",
+      "matched_name": "Steris Solutions Limited"
+    },
+    "Milltown Partners": {
+      "status": "likely",
+      "matched_name": "Milltown Partners GBR Limited"
+    },
+    "3M": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Frink-Hamlett Legal Solutions": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Fidelity Investments": {
+      "status": "likely",
+      "matched_name": "Fidel Limited"
+    },
+    "Professional Solutions, LLC": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Prescient Edge": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Higharc": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Transform9": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Avid Technology Professionals": {
+      "status": "likely",
+      "matched_name": "D-Tech (UK) Limited"
+    },
+    "Workday": {
+      "status": "confirmed",
+      "matched_name": "Workday (UK) Limited"
+    },
+    "Securin Inc.": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Pareto USA": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Placements AI": {
+      "status": "likely",
+      "matched_name": "Place UK Ltd"
+    },
+    "EMARKETER": {
+      "status": "likely",
+      "matched_name": "Keter UK Limited"
+    },
+    "United Merchant Services, Inc.": {
+      "status": "likely",
+      "matched_name": "Unite"
+    },
+    "vSaaS Global": {
+      "status": "likely",
+      "matched_name": "LOBA GROUP LIMITED"
+    },
+    "MCF": {
+      "status": "confirmed",
+      "matched_name": "MCF Ltd"
+    },
+    "UNC Health": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Rose International": {
+      "status": "likely",
+      "matched_name": "CO INTERNATIONAL LTD"
+    },
+    "The Hanover Insurance Group": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "StubHub": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "MongoDB": {
+      "status": "confirmed",
+      "matched_name": "MongoDB UK Limited"
+    },
+    "Smart & Final": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Invicti": {
+      "status": "likely",
+      "matched_name": "INVICTIQ LIMITED"
+    },
     "Buro Happold": {
       "status": "likely",
       "matched_name": "Buro Happold Engineers Limited"
@@ -53,10 +289,6 @@
       "status": "not_found",
       "matched_name": null
     },
-    "Semperis": {
-      "status": "likely",
-      "matched_name": "PERI Limited"
-    },
     "Alaska Airlines": {
       "status": "confirmed",
       "matched_name": "ALASKA AIRLINES"
@@ -77,10 +309,6 @@
       "status": "confirmed",
       "matched_name": "UPS Ltd"
     },
-    "StubHub": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "OSF HealthCare": {
       "status": "likely",
       "matched_name": "Care & Co Ltd"
@@ -98,10 +326,6 @@
       "matched_name": "Abinaesh Ltd"
     },
     "PreSales Collective": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Swooped": {
       "status": "not_found",
       "matched_name": null
     },
@@ -156,10 +380,6 @@
     "City of Pearland, Texas": {
       "status": "likely",
       "matched_name": "Pearl Holdings Limited"
-    },
-    "Prescient Edge": {
-      "status": "not_found",
-      "matched_name": null
     },
     "Trellix": {
       "status": "not_found",
@@ -329,10 +549,6 @@
       "status": "not_found",
       "matched_name": null
     },
-    "Fidelity Investments": {
-      "status": "likely",
-      "matched_name": "Fidel Limited"
-    },
     "Basware": {
       "status": "confirmed",
       "matched_name": "Basware Holdings Ltd"
@@ -406,10 +622,6 @@
       "matched_name": "Bard Limited"
     },
     "Referment": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Paylocity": {
       "status": "not_found",
       "matched_name": null
     },
@@ -701,10 +913,6 @@
       "status": "not_found",
       "matched_name": null
     },
-    "Jobgether": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "Griffith Foods": {
       "status": "confirmed",
       "matched_name": "Griffith Foods Limited"
@@ -792,10 +1000,6 @@
     "The IRONMAN Group": {
       "status": "confirmed",
       "matched_name": "IRONMAN Ltd."
-    },
-    "Amazon": {
-      "status": "likely",
-      "matched_name": "Amazon Charitable Trust"
     },
     "Dalux": {
       "status": "not_found",
@@ -944,10 +1148,6 @@
     "Drone.vet": {
       "status": "not_found",
       "matched_name": null
-    },
-    "Compass": {
-      "status": "confirmed",
-      "matched_name": "Compass Group Plc"
     },
     "Aikido Security": {
       "status": "not_found",
@@ -1365,10 +1565,6 @@
       "status": "not_found",
       "matched_name": null
     },
-    "Primoris Services Corporation": {
-      "status": "likely",
-      "matched_name": "Vice UK Limited"
-    },
     "Sky": {
       "status": "confirmed",
       "matched_name": "Sky UK Limited"
@@ -1537,10 +1733,6 @@
       "status": "likely",
       "matched_name": "Boeing Defence UK Limited"
     },
-    "MANTECH": {
-      "status": "confirmed",
-      "matched_name": "Mantech UK Ltd"
-    },
     "Howmet Aerospace": {
       "status": "likely",
       "matched_name": "Aeros Limited"
@@ -1631,7 +1823,7 @@
     },
     "Ashby": {
       "status": "likely",
-      "matched_name": "ASHBY CARS LTD"
+      "matched_name": "Ashby Capital LLP"
     },
     "SageNet": {
       "status": "likely",
@@ -1720,10 +1912,6 @@
     "NextEra Energy Resources": {
       "status": "likely",
       "matched_name": "Resource Limited"
-    },
-    "MongoDB": {
-      "status": "confirmed",
-      "matched_name": "MongoDB UK Limited"
     },
     "Esri UK": {
       "status": "confirmed",
@@ -1853,10 +2041,6 @@
       "status": "not_found",
       "matched_name": null
     },
-    "Workday": {
-      "status": "confirmed",
-      "matched_name": "Workday (UK) Limited"
-    },
     "OpenGov Inc.": {
       "status": "likely",
       "matched_name": "The Open Group Limited"
@@ -1942,8 +2126,8 @@
       "matched_name": "Care & Co Ltd"
     },
     "Trinity Health": {
-      "status": "not_found",
-      "matched_name": null
+      "status": "likely",
+      "matched_name": "Trinity Healthcare Plus Ltd"
     },
     "Ultimus Fund Solutions": {
       "status": "not_found",
@@ -2088,10 +2272,6 @@
     "\u30ab\u30fc\u30eb\u30b9\u30c8\u30eb\u30c4\u30fb\u30a8\u30f3\u30c9\u30b9\u30b3\u30d4\u30fc\u30fb\u30b8\u30e3\u30d1\u30f3\uff08\u682a\uff09": {
       "status": "unknown",
       "matched_name": null
-    },
-    "Deloitte": {
-      "status": "confirmed",
-      "matched_name": "Deloitte LLP"
     },
     "VARITE INC": {
       "status": "not_found",
@@ -2296,10 +2476,6 @@
     "Civil & Environmental Consultants, Inc.": {
       "status": "likely",
       "matched_name": "Consulta Limited"
-    },
-    "Palo Alto Networks": {
-      "status": "confirmed",
-      "matched_name": "PALO ALTO NETWORKS (UK) LIMITED"
     },
     "New York Technology Partners": {
       "status": "likely",
@@ -2917,10 +3093,6 @@
       "status": "likely",
       "matched_name": "ASCO UK Ltd"
     },
-    "Royal Borough of Greenwich": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "Fitch Ratings": {
       "status": "confirmed",
       "matched_name": "Fitch Ratings Limited"
@@ -3030,10 +3202,6 @@
       "matched_name": null
     },
     "CFC": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Key Talent Solutions": {
       "status": "not_found",
       "matched_name": null
     },
@@ -4017,10 +4185,6 @@
       "status": "not_found",
       "matched_name": null
     },
-    "Abbott": {
-      "status": "likely",
-      "matched_name": "Abbott & Co (Newark) Ltd"
-    },
     "CA&M": {
       "status": "likely",
       "matched_name": "Africa Matters Limited"
@@ -4388,30 +4552,6 @@
     "Overview": {
       "status": "confirmed",
       "matched_name": "Overview Ltd"
-    },
-    "Metro South Health": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "SWCA Environmental Consultants": {
-      "status": "likely",
-      "matched_name": "Consulta Limited"
-    },
-    "Commonwealth Bank of Australia": {
-      "status": "confirmed",
-      "matched_name": "Commonwealth Bank of Australia"
-    },
-    "Eisholding": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Td": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Syngenta Group": {
-      "status": "confirmed",
-      "matched_name": "Syngenta Limited"
     }
   }
 }
