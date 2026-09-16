@@ -1,16 +1,42 @@
 {
-  "scraped_at": "2026-09-15 09:30 UTC",
-  "total": 5,
-  "new_count": 1,
+  "scraped_at": "2026-09-16 09:21 UTC",
+  "total": 7,
+  "new_count": 3,
   "jobs": [
     {
       "title": "Principal Planning Policy Officer",
       "company": "West Northamptonshire Council",
       "location": "Northampton, Midlands",
       "url": "https://www.planningjobs.com/principal-planning-policy-officer-pjcom2839",
-      "date_posted": "Posted 4 days ago",
+      "date_posted": "Posted 5 days ago",
       "description": "",
       "salary": "£51,224 - £54,605",
+      "job_type": "",
+      "is_remote": null,
+      "work_arrangement": "",
+      "ats": "PlanningJobs.com"
+    },
+    {
+      "title": "Principal Planning Officer (Strategic Planning)",
+      "company": "Maidstone Borough Council",
+      "location": "Maidstone, South East",
+      "url": "https://www.planningjobs.com/principal-planning-officer-pjcom2833",
+      "date_posted": "Posted 20 days ago",
+      "description": "",
+      "salary": "£52,033 - £56,858",
+      "job_type": "",
+      "is_remote": null,
+      "work_arrangement": "",
+      "ats": "PlanningJobs.com"
+    },
+    {
+      "title": "Principal Planning Policy Officer",
+      "company": "Royal Borough of Greenwich",
+      "location": "Woolwich, London",
+      "url": "https://www.planningjobs.com/principal-planning-policy-officer-pjcom2840",
+      "date_posted": "Posted 1 days ago",
+      "description": "",
+      "salary": "£52,194 - £57,402",
       "job_type": "",
       "is_remote": null,
       "work_arrangement": "",
@@ -21,7 +47,7 @@
       "company": "Hyndburn Borough Council",
       "location": "Accrington, North West",
       "url": "https://www.planningjobs.com/planning-manager-development-management-pjcom2836",
-      "date_posted": "Posted 12 days ago",
+      "date_posted": "Posted 13 days ago",
       "description": "",
       "salary": "£48,226 to £51,356 + car extra Location",
       "job_type": "",
@@ -34,7 +60,7 @@
       "company": "Hull City Council",
       "location": "Hull , North East",
       "url": "https://www.planningjobs.com/senior-planning-policy-officer-pjcom2835",
-      "date_posted": "Posted 18 days ago",
+      "date_posted": "Posted 19 days ago",
       "description": "",
       "salary": "£36,363 - £39,152",
       "job_type": "",
@@ -43,13 +69,41 @@
       "ats": "PlanningJobs.com"
     },
     {
-      "title": "Principal Planning Officer (Strategic Planning)",
-      "company": "Maidstone Borough Council",
-      "location": "Maidstone, South East",
-      "url": "https://www.planningjobs.com/principal-planning-officer-pjcom2833",
-      "date_posted": "Posted 19 days ago",
+      "title": "PropTech Analyst",
+      "company": "Confidential Company",
+      "location": "United Kingdom",
+      "url": "https://proptechjobs.com/job/proptech-analyst-2/?company=Confidential Company",
+      "date_posted": "",
       "description": "",
-      "salary": "£52,033 - £56,858",
+      "salary": "",
+      "job_type": "",
+      "is_remote": null,
+      "work_arrangement": "",
+      "ats": "Proptech Jobs"
+    },
+    {
+      "title": "Customer Success Advisor | German | Amsterdam Customer service Amsterdam Posted date September 15, 2026",
+      "company": "Posted date September 15, 2026",
+      "location": "Amsterdam",
+      "url": "https://www.iamexpat.nl/career/jobs-netherlands/customer-service-positions/customer-success-advisor-german-amsterdam/nM9BkZQqc6sbVXEqMdTELC",
+      "date_posted": "",
+      "description": "",
+      "salary": "",
+      "job_type": "",
+      "is_remote": null,
+      "work_arrangement": "",
+      "ats": "IamExpat"
+    }
+  ],
+  "new_jobs": [
+    {
+      "title": "Principal Planning Policy Officer",
+      "company": "Royal Borough of Greenwich",
+      "location": "Woolwich, London",
+      "url": "https://www.planningjobs.com/principal-planning-policy-officer-pjcom2840",
+      "date_posted": "Posted 1 days ago",
+      "description": "",
+      "salary": "£52,194 - £57,402",
       "job_type": "",
       "is_remote": null,
       "work_arrangement": "",
@@ -59,7 +113,7 @@
       "title": "PropTech Analyst",
       "company": "Confidential Company",
       "location": "United Kingdom",
-      "url": "https://proptechjobs.com/job/proptech-analyst/?company=Confidential Company",
+      "url": "https://proptechjobs.com/job/proptech-analyst-2/?company=Confidential Company",
       "date_posted": "",
       "description": "",
       "salary": "",
@@ -67,21 +121,19 @@
       "is_remote": null,
       "work_arrangement": "",
       "ats": "Proptech Jobs"
-    }
-  ],
-  "new_jobs": [
+    },
     {
-      "title": "PropTech Analyst",
-      "company": "Confidential Company",
-      "location": "United Kingdom",
-      "url": "https://proptechjobs.com/job/proptech-analyst/?company=Confidential Company",
+      "title": "Customer Success Advisor | German | Amsterdam Customer service Amsterdam Posted date September 15, 2026",
+      "company": "Posted date September 15, 2026",
+      "location": "Amsterdam",
+      "url": "https://www.iamexpat.nl/career/jobs-netherlands/customer-service-positions/customer-success-advisor-german-amsterdam/nM9BkZQqc6sbVXEqMdTELC",
       "date_posted": "",
       "description": "",
       "salary": "",
       "job_type": "",
       "is_remote": null,
       "work_arrangement": "",
-      "ats": "Proptech Jobs"
+      "ats": "IamExpat"
     }
   ]
 }
