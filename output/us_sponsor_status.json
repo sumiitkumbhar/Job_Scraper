@@ -1,17 +1,222 @@
 {
-  "updated_at": "2026-09-16T11:53:19.227727+00:00",
+  "updated_at": "2026-09-17T11:56:46.586122+00:00",
   "source_files": [
     "https://www.dol.gov/media/LCA_Disclosure_Data_FY2026_Q3.xlsx",
     "https://www.dol.gov/sites/dolgov/files/ETA/oflc/pdfs/LCA_Disclosure_Data_FY2025_Q4.xlsx"
   ],
   "employer_count": 60026,
   "company_counts": {
-    "confirmed": 243,
-    "likely": 391,
-    "not_found": 500,
+    "confirmed": 246,
+    "likely": 396,
+    "not_found": 512,
     "unknown": 2
   },
   "companies": {
+    "Hastings Borough Council": {
+      "status": "likely",
+      "matched_name": "Hasti Inc",
+      "certified_lca_count": 3
+    },
+    "Vivid Consulting": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "AECOM": {
+      "status": "confirmed",
+      "matched_name": "AECOM",
+      "certified_lca_count": 1
+    },
+    "Stantec": {
+      "status": "likely",
+      "matched_name": "Stantec Architecture Inc.",
+      "certified_lca_count": 25
+    },
+    "Pleo": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Confidential": {
+      "status": "likely",
+      "matched_name": "IDEN GROUP HOLDING INC.",
+      "certified_lca_count": 1
+    },
+    "PwC": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Nuix": {
+      "status": "likely",
+      "matched_name": "INUIX LLC",
+      "certified_lca_count": 1
+    },
+    "Atmos Energy": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "CivilGrid": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Fidelity Investments": {
+      "status": "likely",
+      "matched_name": "Fidelity Technology Group, LLC d/b/a Fidelity Investments",
+      "certified_lca_count": 2661
+    },
+    "Paylocity": {
+      "status": "confirmed",
+      "matched_name": "Paylocity Corporation",
+      "certified_lca_count": 22
+    },
+    "CO-Ver, Inc.": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Magma Math": {
+      "status": "likely",
+      "matched_name": "Magma Holding Inc.",
+      "certified_lca_count": 4
+    },
+    "Principal Financial Group": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "GXO Logistics, Inc.": {
+      "status": "likely",
+      "matched_name": "GXO Logistics Supply Chain, Inc.",
+      "certified_lca_count": 19
+    },
+    "PetDesk": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "WP Engine": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Ncontracts": {
+      "status": "confirmed",
+      "matched_name": "Ncontracts, LLC",
+      "certified_lca_count": 1
+    },
+    "Regions Bank": {
+      "status": "confirmed",
+      "matched_name": "Regions Bank",
+      "certified_lca_count": 48
+    },
+    "Vanderbilt University Medical Center": {
+      "status": "confirmed",
+      "matched_name": "Vanderbilt University Medical Center",
+      "certified_lca_count": 89
+    },
+    "Ascendion": {
+      "status": "likely",
+      "matched_name": "Ascendion, Inc. (Formerly known as Collabera, Inc.)",
+      "certified_lca_count": 131
+    },
+    "MGM Resorts International": {
+      "status": "likely",
+      "matched_name": "MGM Resorts International Operations, Inc.",
+      "certified_lca_count": 12
+    },
+    "Essex County Council": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Owen Thomas | B Corp\u2122": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Vantor": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "OASES": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Personal Group": {
+      "status": "likely",
+      "matched_name": "Personalized Beauty Discovery, Inc.",
+      "certified_lca_count": 7
+    },
+    "Litmus": {
+      "status": "likely",
+      "matched_name": "LITMUS7 SYSTEMS CONSULTING INC",
+      "certified_lca_count": 34
+    },
+    "GRAITEC Italy": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Syndigo": {
+      "status": "confirmed",
+      "matched_name": "Syndigo LLC",
+      "certified_lca_count": 11
+    },
+    "Qonto": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "HighGround": {
+      "status": "likely",
+      "matched_name": "HighGround Trading LLC",
+      "certified_lca_count": 1
+    },
+    "Confidential Company in Houston, TX": {
+      "status": "likely",
+      "matched_name": "IDEN GROUP HOLDING INC.",
+      "certified_lca_count": 1
+    },
+    "Workday": {
+      "status": "confirmed",
+      "matched_name": "Workday, Inc.",
+      "certified_lca_count": 308
+    },
+    "Teamworks": {
+      "status": "likely",
+      "matched_name": "Teamworks Innovations, Inc.",
+      "certified_lca_count": 1
+    },
+    "Whip Around": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Dreamdata": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Merge": {
+      "status": "likely",
+      "matched_name": "Emergere Technologies LLC",
+      "certified_lca_count": 7
+    },
+    "Bask Health": {
+      "status": "confirmed",
+      "matched_name": "Bask Health Inc",
+      "certified_lca_count": 3
+    },
+    "Pure Search": {
+      "status": "likely",
+      "matched_name": "Arch Group LLC",
+      "certified_lca_count": 2
+    },
     "Royal Borough of Greenwich": {
       "status": "not_found",
       "matched_name": null,
@@ -87,20 +292,10 @@
       "matched_name": null,
       "certified_lca_count": 0
     },
-    "Paylocity": {
-      "status": "confirmed",
-      "matched_name": "Paylocity Corporation",
-      "certified_lca_count": 22
-    },
     "RMR Group": {
       "status": "confirmed",
       "matched_name": "The RMR Group LLC",
       "certified_lca_count": 1
-    },
-    "Principal Financial Group": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
     },
     "Amazon": {
       "status": "confirmed",
@@ -202,11 +397,6 @@
       "matched_name": "SOLUTIONS INC",
       "certified_lca_count": 1
     },
-    "Fidelity Investments": {
-      "status": "likely",
-      "matched_name": "Fidelity Technology Group, LLC d/b/a Fidelity Investments",
-      "certified_lca_count": 2661
-    },
     "Professional Solutions, LLC": {
       "status": "likely",
       "matched_name": "World Wide Professional Solutions, LLC",
@@ -231,11 +421,6 @@
       "status": "likely",
       "matched_name": "Technology Holding, LLC",
       "certified_lca_count": 2
-    },
-    "Workday": {
-      "status": "confirmed",
-      "matched_name": "Workday, Inc.",
-      "certified_lca_count": 308
     },
     "Securin Inc.": {
       "status": "confirmed",
@@ -632,11 +817,6 @@
       "matched_name": "NV5, Inc.",
       "certified_lca_count": 1
     },
-    "WP Engine": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
     "Mattson Technology": {
       "status": "confirmed",
       "matched_name": "MATTSON TECHNOLOGY, INC.",
@@ -1017,11 +1197,6 @@
       "matched_name": "Insight Global, LLC",
       "certified_lca_count": 472
     },
-    "Stantec": {
-      "status": "likely",
-      "matched_name": "Stantec Architecture Inc.",
-      "certified_lca_count": 25
-    },
     "- COYOTE -": {
       "status": "likely",
       "matched_name": "Coyote Logistics, LLC",
@@ -1288,11 +1463,6 @@
       "certified_lca_count": 0
     },
     "WPP Media": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "PwC": {
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
@@ -2107,11 +2277,6 @@
       "matched_name": null,
       "certified_lca_count": 0
     },
-    "Hastings Borough Council": {
-      "status": "likely",
-      "matched_name": "Hasti Inc",
-      "certified_lca_count": 3
-    },
     "West Oxfordshire District Council": {
       "status": "not_found",
       "matched_name": null,
@@ -2357,11 +2522,6 @@
       "matched_name": "ZOCDOC, INC.",
       "certified_lca_count": 16
     },
-    "Magma Math": {
-      "status": "likely",
-      "matched_name": "Magma Holding Inc.",
-      "certified_lca_count": 4
-    },
     "Jamf": {
       "status": "likely",
       "matched_name": "Jamf Software, LLC",
@@ -2426,11 +2586,6 @@
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
-    },
-    "Nuix": {
-      "status": "likely",
-      "matched_name": "INUIX LLC",
-      "certified_lca_count": 1
     },
     "Brighthouse Financial": {
       "status": "not_found",
@@ -2556,11 +2711,6 @@
       "status": "confirmed",
       "matched_name": "OpenGov, Inc.",
       "certified_lca_count": 14
-    },
-    "Teamworks": {
-      "status": "likely",
-      "matched_name": "Teamworks Innovations, Inc.",
-      "certified_lca_count": 1
     },
     "Solstice Advanced Materials": {
       "status": "likely",
@@ -2872,11 +3022,6 @@
       "matched_name": "Talent Corporation, LLC",
       "certified_lca_count": 1
     },
-    "GXO Logistics, Inc.": {
-      "status": "likely",
-      "matched_name": "GXO Logistics Supply Chain, Inc.",
-      "certified_lca_count": 19
-    },
     "Slalom": {
       "status": "confirmed",
       "matched_name": "Slalom, Inc.",
@@ -2966,11 +3111,6 @@
       "status": "likely",
       "matched_name": "Pluto, Inc.",
       "certified_lca_count": 9
-    },
-    "AECOM": {
-      "status": "confirmed",
-      "matched_name": "AECOM",
-      "certified_lca_count": 1
     },
     "Adverity": {
       "status": "not_found",
@@ -5651,46 +5791,6 @@
       "status": "likely",
       "matched_name": "UPMC Western Maryland Health Services LLC",
       "certified_lca_count": 8
-    },
-    "Partners Personnel": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "NSW Department of Planning, Housing and Infrastructure": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "CK Associates": {
-      "status": "likely",
-      "matched_name": "SOCi, Inc.",
-      "certified_lca_count": 1
-    },
-    "County of Riverside": {
-      "status": "confirmed",
-      "matched_name": "County of Riverside",
-      "certified_lca_count": 1
-    },
-    "Luxfer Gas Cylinders": {
-      "status": "likely",
-      "matched_name": "Linde Inc.",
-      "certified_lca_count": 16
-    },
-    "State of Louisiana": {
-      "status": "likely",
-      "matched_name": "State of Louisiana / Division of Administration",
-      "certified_lca_count": 1
-    },
-    "California Water Service Group (CWSG)": {
-      "status": "likely",
-      "matched_name": "Corporation Service Company",
-      "certified_lca_count": 21
-    },
-    "Overview": {
-      "status": "confirmed",
-      "matched_name": "OVERVIEW CORPORATION",
-      "certified_lca_count": 2
     }
   }
 }
