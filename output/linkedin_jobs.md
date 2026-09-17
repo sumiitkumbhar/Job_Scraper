@@ -1,39 +1,36 @@
 # 🔥 LinkedIn — Sumit's Planning & PropTech Roles
-*Last updated: 2026-09-16 22:48 UTC*
+*Last updated: 2026-09-17 01:07 UTC*
 
-**8 new role(s)** since last run · 8 total in last 1h
+**7 new role(s)** since last run · 7 total in last 1h
 
-### [Senior Material Planning Analyst -1st Shift](https://www.linkedin.com/jobs/view/4468310033/) — GXO Logistics, Inc.
-- 📍 **Location:** Omaha, NE
-- 🕒 **Posted:** 2026-09-16
+### [Demand Planning Analyst](https://www.linkedin.com/jobs/view/4466350371/) — Shamrock Foods Company
+- 📍 **Location:** Phoenix, AZ
+- 🕒 **Posted:** 2026-09-17
 
-### [Customer Success Manager](https://www.linkedin.com/jobs/view/4468299714/) — PetDesk
+### [GIS Analyst](https://www.linkedin.com/jobs/view/4467126575/) — CivilGrid
+- 📍 **Location:** Kansas City, MO
+- 💰 **Salary:** $50,000.00/yr - $70,000.00/yr
+- 🕒 **Posted:** 2026-09-17
+
+### [Benefits and Planning Consultant - Northeast](https://www.linkedin.com/jobs/view/4468336023/) — Fidelity Investments
+- 📍 **Location:** Leominster, MA
+- 💰 **Salary:** $66,000-125,000
+- 🕒 **Posted:** 2026-09-17
+
+### [Solutions Consultant - Managed Services](https://www.linkedin.com/jobs/view/4468310814/) — Paylocity
 - 📍 **Location:** United States
-- 💰 **Salary:** $26.00/hr - $28.00/hr
-- 🕒 **Posted:** 2026-09-16
+- 💰 **Salary:** $115,000 - $135,000/yr
+- 🕒 **Posted:** 2026-09-17
 
-### [Manager, Customer Success](https://www.linkedin.com/jobs/view/4468302759/) — WP Engine
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-16
+### [Customer Success & Business Development Role](https://www.linkedin.com/jobs/view/4468330099/) — CO-Ver, Inc.
+- 📍 **Location:** Jacksonville, FL
+- 🕒 **Posted:** 2026-09-17
 
-### [Customer Success Operations Manager](https://www.linkedin.com/jobs/view/4467443494/) — Ncontracts
-- 📍 **Location:** United States
-- 💰 **Salary:** $85,000.00/yr - $105,000.00/yr
-- 🕒 **Posted:** 2026-09-16
+### [Customer Success Manager (Dallas/Atlanta)](https://www.linkedin.com/jobs/view/4468326829/) — Magma Math
+- 📍 **Location:** Dallas, TX
+- 🕒 **Posted:** 2026-09-17
 
-### [Regulatory Analyst](https://www.linkedin.com/jobs/view/4468293937/) — Regions Bank
-- 📍 **Location:** Birmingham, AL
-- 🕒 **Posted:** 2026-09-16
-
-### [HRPP Regulatory Compliance Analyst](https://www.linkedin.com/jobs/view/4466241571/) — Vanderbilt University Medical Center
-- 📍 **Location:** Nashville Metropolitan Area
-- 🕒 **Posted:** 2026-09-16
-
-### [Compliance Analyst](https://www.linkedin.com/jobs/view/4467113378/) — Ascendion
-- 📍 **Location:** Sacramento, CA
-- 💰 **Salary:** $103,000 - $107,000 annually
-- 🕒 **Posted:** 2026-09-16
-
-### [Compliance Analyst - Borgata](https://www.linkedin.com/jobs/view/4468302714/) — MGM Resorts International
-- 📍 **Location:** Atlantic City, NJ
-- 🕒 **Posted:** 2026-09-16
+### [Compliance Analyst](https://www.linkedin.com/jobs/view/4468315775/) — Principal Financial Group
+- 📍 **Location:** Des Moines, IA
+- 💰 **Salary:** $69300 - $126000
+- 🕒 **Posted:** 2026-09-17
