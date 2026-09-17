@@ -1,174 +1,101 @@
 # 🔥 LinkedIn — Sumit's Planning & PropTech Roles
-*Last updated: 2026-09-17 06:44 UTC*
+*Last updated: 2026-09-17 19:43 UTC*
 
-**35 new role(s)** since last run · 35 total in last 1h
+**22 new role(s)** since last run · 22 total in last 1h
 
-### [Senior Enterprise Customer Success Manager](https://www.linkedin.com/jobs/view/4454567394/) — Pleo
+### [Solution Advisor - SAP Next Gen - Academy for Customer Success - UK (Hybrid)](https://www.linkedin.com/jobs/view/4439847199/) — SAP
+- 📍 **Location:** Feltham, England, United Kingdom
+- 🕒 **Posted:** 2026-09-17
+
+### [Customer Success Manager](https://www.linkedin.com/jobs/view/4467571808/) — Element - creators of Matrix
 - 📍 **Location:** London, England, United Kingdom
 - 🕒 **Posted:** 2026-09-17
 
-### [TechnologyOne Implementation Consultants](https://www.linkedin.com/jobs/view/4467166649/) — Confidential
-- 📍 **Location:** England, United Kingdom
+### [Enterprise Customer Success Manager Team Lead](https://www.linkedin.com/jobs/view/4468691716/) — Xelix
+- 📍 **Location:** London, England, United Kingdom
 - 🕒 **Posted:** 2026-09-17
 
-### [Microsoft Copilot Studio und AI Solutions Consultant (m/w/d)](https://www.linkedin.com/jobs/view/4467177468/) — Skaylink
-- 📍 **Location:** Munich, Bavaria, Germany
+### [Customer Success Manager EMEA](https://www.linkedin.com/jobs/view/4467590035/) — Jus Mundi
+- 📍 **Location:** London, England, United Kingdom
 - 🕒 **Posted:** 2026-09-17
 
-### [Oracle HCM Implementation Consultant - Senior Associate](https://www.linkedin.com/jobs/view/4467182574/) — PwC
-- 📍 **Location:** Sacramento, CA
-- 💰 **Salary:** $77,000 - $202,000
+### [Junior Planner 3 – Nuclear](https://www.linkedin.com/jobs/view/4449309971/) — Sargent & Lundy
+- 📍 **Location:** Bridgman, MI
+- 💰 **Salary:** $74,353 - $113,595
 - 🕒 **Posted:** 2026-09-17
 
-### [Oracle HCM Implementation Consultant - Senior Associate](https://www.linkedin.com/jobs/view/4467181631/) — PwC
-- 📍 **Location:** Des Moines, IA
-- 💰 **Salary:** $77,000 - $202,000
-- 🕒 **Posted:** 2026-09-17
-
-### [Oracle HCM Implementation Consultant - Senior Associate](https://www.linkedin.com/jobs/view/4467186550/) — PwC
-- 📍 **Location:** Toledo, OH
-- 💰 **Salary:** $77,000 - $202,000
-- 🕒 **Posted:** 2026-09-17
-
-### [Customer Success Manager](https://www.linkedin.com/jobs/view/4463233069/) — Nuix
-- 📍 **Location:** North Coast, CA
-- 🕒 **Posted:** 2026-09-17
-
-### [Oracle HCM Implementation Consultant - Senior Associate](https://www.linkedin.com/jobs/view/4467183533/) — PwC
-- 📍 **Location:** Denver, CO
-- 💰 **Salary:** $77,000 - $202,000
-- 🕒 **Posted:** 2026-09-17
-
-### [Oracle HCM Implementation Consultant - Senior Associate](https://www.linkedin.com/jobs/view/4467186531/) — PwC
-- 📍 **Location:** Boston, MA
-- 💰 **Salary:** $77,000 - $202,000
-- 🕒 **Posted:** 2026-09-17
-
-### [Oracle HCM Implementation Consultant - Senior Associate](https://www.linkedin.com/jobs/view/4467175666/) — PwC
-- 📍 **Location:** Las Vegas, NV
-- 💰 **Salary:** $77,000 - $202,000
-- 🕒 **Posted:** 2026-09-17
-
-### [Oracle HCM Implementation Consultant - Senior Associate](https://www.linkedin.com/jobs/view/4467182596/) — PwC
-- 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $77,000 - $202,000
-- 🕒 **Posted:** 2026-09-17
-
-### [Oracle HCM Implementation Consultant - Senior Associate](https://www.linkedin.com/jobs/view/4467172728/) — PwC
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $77,000 - $202,000
-- 🕒 **Posted:** 2026-09-17
-
-### [Oracle HCM Implementation Consultant - Senior Associate](https://www.linkedin.com/jobs/view/4467174728/) — PwC
-- 📍 **Location:** Milwaukee, WI
-- 💰 **Salary:** $77,000 - $202,000
-- 🕒 **Posted:** 2026-09-17
-
-### [Oracle HCM Implementation Consultant - Senior Associate](https://www.linkedin.com/jobs/view/4467163906/) — PwC
-- 📍 **Location:** Atlanta, GA
-- 💰 **Salary:** $77,000 - $202,000
-- 🕒 **Posted:** 2026-09-17
-
-### [Oracle HCM Implementation Consultant - Senior Associate](https://www.linkedin.com/jobs/view/4467184561/) — PwC
-- 📍 **Location:** Florham Park, NJ
-- 💰 **Salary:** $77,000 - $202,000
-- 🕒 **Posted:** 2026-09-17
-
-### [Oracle HCM Implementation Consultant - Senior Associate](https://www.linkedin.com/jobs/view/4467187222/) — PwC
-- 📍 **Location:** New Orleans, LA
-- 💰 **Salary:** $77,000 - $202,000
-- 🕒 **Posted:** 2026-09-17
-
-### [Oracle HCM Implementation Consultant - Senior Associate](https://www.linkedin.com/jobs/view/4467182578/) — PwC
-- 📍 **Location:** Salt Lake City, UT
-- 💰 **Salary:** $77,000 - $202,000
-- 🕒 **Posted:** 2026-09-17
-
-### [Oracle HCM Implementation Consultant - Senior Associate](https://www.linkedin.com/jobs/view/4467180576/) — PwC
-- 📍 **Location:** Cincinnati, OH
-- 💰 **Salary:** $77,000 - $202,000
-- 🕒 **Posted:** 2026-09-17
-
-### [Oracle HCM Implementation Consultant - Senior Associate](https://www.linkedin.com/jobs/view/4467176635/) — PwC
-- 📍 **Location:** Cleveland, OH
-- 💰 **Salary:** $77,000 - $202,000
-- 🕒 **Posted:** 2026-09-17
-
-### [Oracle HCM Implementation Consultant - Senior Associate](https://www.linkedin.com/jobs/view/4467176627/) — PwC
-- 📍 **Location:** Grand Rapids, MI
-- 💰 **Salary:** $77,000 - $202,000
-- 🕒 **Posted:** 2026-09-17
-
-### [Oracle HCM Implementation Consultant - Senior Associate](https://www.linkedin.com/jobs/view/4467181638/) — PwC
-- 📍 **Location:** Orlando, FL
-- 💰 **Salary:** $77,000 - $202,000
-- 🕒 **Posted:** 2026-09-17
-
-### [Oracle HCM Implementation Consultant - Senior Associate](https://www.linkedin.com/jobs/view/4467167782/) — PwC
-- 📍 **Location:** Minneapolis, MN
-- 💰 **Salary:** $77,000 - $202,000
-- 🕒 **Posted:** 2026-09-17
-
-### [Oracle HCM Implementation Consultant - Senior Associate](https://www.linkedin.com/jobs/view/4467168807/) — PwC
-- 📍 **Location:** Boca Raton, FL
-- 💰 **Salary:** $77,000 - $202,000
-- 🕒 **Posted:** 2026-09-17
-
-### [Oracle HCM Implementation Consultant - Senior Associate](https://www.linkedin.com/jobs/view/4467185486/) — PwC
-- 📍 **Location:** Indianapolis, IN
-- 💰 **Salary:** $77,000 - $202,000
-- 🕒 **Posted:** 2026-09-17
-
-### [Oracle HCM Implementation Consultant - Senior Associate](https://www.linkedin.com/jobs/view/4467178630/) — PwC
+### [Planning Consultant - Tampa, FL](https://www.linkedin.com/jobs/view/4468690574/) — Fidelity Investments
 - 📍 **Location:** Tampa, FL
-- 💰 **Salary:** $77,000 - $202,000
 - 🕒 **Posted:** 2026-09-17
 
-### [Oracle HCM Implementation Consultant - Senior Associate](https://www.linkedin.com/jobs/view/4467187218/) — PwC
-- 📍 **Location:** Jacksonville, FL
-- 💰 **Salary:** $77,000 - $202,000
+### [Senior Production Planning Analyst](https://www.linkedin.com/jobs/view/4466615537/) — JTEKT North America Corporation
+- 📍 **Location:** Morristown, TN
 - 🕒 **Posted:** 2026-09-17
 
-### [Oracle HCM Implementation Consultant - Senior Associate](https://www.linkedin.com/jobs/view/4467163922/) — PwC
-- 📍 **Location:** Fayetteville, AR
-- 💰 **Salary:** $77,000 - $202,000
+### [Customer Success Manager {PR-1535992:NC}](https://www.linkedin.com/jobs/view/4468809117/) — Pareto USA
+- 📍 **Location:** Durham, NC
+- 💰 **Salary:** $15k-$20k
 - 🕒 **Posted:** 2026-09-17
 
-### [Oracle HCM Implementation Consultant - Senior Associate](https://www.linkedin.com/jobs/view/4467173730/) — PwC
-- 📍 **Location:** Houston, TX
-- 💰 **Salary:** $77,000 - $202,000
+### [Geospatial Analyst](https://www.linkedin.com/jobs/view/4468689743/) — Leidos
+- 📍 **Location:** Springfield, VA
+- 💰 **Salary:** $59,150.00 - $106,925.00
 - 🕒 **Posted:** 2026-09-17
 
-### [Oracle HCM Implementation Consultant - Senior Associate](https://www.linkedin.com/jobs/view/4467170735/) — PwC
-- 📍 **Location:** Rochester, NY
-- 💰 **Salary:** $77,000 - $202,000
+### [Wholesale Payments Senior Solutions Consultant](https://www.linkedin.com/jobs/view/4468801112/) — Truist
+- 📍 **Location:** Atlanta, GA
 - 🕒 **Posted:** 2026-09-17
 
-### [Compliance Specialist 1, Compliance Specialist 2, or Compliance Analyst](https://www.linkedin.com/jobs/view/4468369641/) — Atmos Energy
-- 📍 **Location:** Greeley, CO
+### [Founding Customer Success Manager](https://www.linkedin.com/jobs/view/4467585663/) — 360Factor
+- 📍 **Location:** Chicago, IL
 - 🕒 **Posted:** 2026-09-17
 
-### [Oracle HCM Implementation Consultant - Senior Associate](https://www.linkedin.com/jobs/view/4467165841/) — PwC
-- 📍 **Location:** Buffalo, NY
-- 💰 **Salary:** $77,000 - $202,000
+### [Remote Customer Success Representative](https://www.linkedin.com/jobs/view/4468697453/) — Taranis
+- 📍 **Location:** Westfield, IN
 - 🕒 **Posted:** 2026-09-17
 
-### [Oracle HCM Implementation Consultant - Senior Associate](https://www.linkedin.com/jobs/view/4467164833/) — PwC
-- 📍 **Location:** Albany, NY
-- 💰 **Salary:** $77,000 - $202,000
+### [Customer Success Manager](https://www.linkedin.com/jobs/view/4455746626/) — Fourth
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-17
 
-### [Oracle HCM Implementation Consultant - Senior Associate](https://www.linkedin.com/jobs/view/4467174729/) — PwC
-- 📍 **Location:** Melville, NY
-- 💰 **Salary:** $77,000 - $202,000
+### [Customer Success Manager, Data Intelligence](https://www.linkedin.com/jobs/view/4468803214/) — Kinective
+- 📍 **Location:** Golden, CO
+- 💰 **Salary:** $70,000 - $85,000,
 - 🕒 **Posted:** 2026-09-17
 
-### [Oracle HCM Implementation Consultant - Senior Associate](https://www.linkedin.com/jobs/view/4467177623/) — PwC
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $77,000 - $202,000
+### [Customer Success Manager](https://www.linkedin.com/jobs/view/4468655169/) — HomeSphere
+- 📍 **Location:** United States
+- 💰 **Salary:** $90,000 - $110,000
 - 🕒 **Posted:** 2026-09-17
 
-### [Oracle HCM Implementation Consultant - Senior Associate](https://www.linkedin.com/jobs/view/4467181625/) — PwC
-- 📍 **Location:** Austin, TX
-- 💰 **Salary:** $77,000 - $202,000
+### [Account Manager – Growth & Customer Success](https://www.linkedin.com/jobs/view/4468802242/) — Max Distributing
+- 📍 **Location:** Little Rock, AR
+- 🕒 **Posted:** 2026-09-17
+
+### [Customer Success Manager- icometrix (icobrain)](https://www.linkedin.com/jobs/view/4468689973/) — GE HealthCare
+- 📍 **Location:** Wisconsin, United States
+- 💰 **Salary:** $98,560.00-$147,840.00
+- 🕒 **Posted:** 2026-09-17
+
+### [Solution Advisor Specialist - SAP Academy for Customer Success- Chicago (Hybrid)](https://www.linkedin.com/jobs/view/4439464659/) — SAP
+- 📍 **Location:** Chicago, IL
+- 💰 **Salary:** $91,600-205,700
+- 🕒 **Posted:** 2026-09-17
+
+### [Senior Regulatory Compliance Analyst](https://www.linkedin.com/jobs/view/4468693925/) — Warrior Insurance Network
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** 2026-09-17
+
+### [Compliance Analyst](https://www.linkedin.com/jobs/view/4468805169/) — Trajan Wealth LLC
+- 📍 **Location:** Scottsdale, AZ
+- 💰 **Salary:** $90,000 to $105,000
+- 🕒 **Posted:** 2026-09-17
+
+### [Financial Planning Analyst](https://www.linkedin.com/jobs/view/4467583764/) — IQVentures
+- 📍 **Location:** Dublin, OH
+- 🕒 **Posted:** 2026-09-17
+
+### [Customer Success Manager](https://www.linkedin.com/jobs/view/4440597747/) — MongoDB
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $81,000—$160,000 USD
 - 🕒 **Posted:** 2026-09-17
