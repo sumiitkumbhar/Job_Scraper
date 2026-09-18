@@ -1,14 +1,366 @@
 {
-  "updated_at": "2026-09-16T11:08:19.879650+00:00",
-  "register_source": "https://assets.publishing.service.gov.uk/media/6aaa51612f29b3888481853c/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-09-16.csv",
+  "updated_at": "2026-09-18T10:50:52.809232+00:00",
+  "register_source": "https://assets.publishing.service.gov.uk/media/6aacebbdce3f006bd4346c6b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-09-18.csv",
   "register_org_count": 126558,
   "company_counts": {
-    "confirmed": 188,
-    "likely": 488,
-    "not_found": 458,
+    "confirmed": 193,
+    "likely": 507,
+    "not_found": 482,
     "unknown": 2
   },
   "companies": {
+    "Posted date September 17, 2026 Post a job": {
+      "status": "likely",
+      "matched_name": "SEPT GROUP LIMITED"
+    },
+    "Laing O'Rourke": {
+      "status": "confirmed",
+      "matched_name": "Laing O'Rourke PLC"
+    },
+    "Robin Radar Systems": {
+      "status": "likely",
+      "matched_name": "Rada Ltd"
+    },
+    "ADP": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "The Best Job Board": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "targetjobs UK": {
+      "status": "likely",
+      "matched_name": "Target Group Limited"
+    },
+    "Franklin Institute": {
+      "status": "likely",
+      "matched_name": "The Rosalind Franklin Institute"
+    },
+    "Southern Methodist University": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "ServiceTitan": {
+      "status": "likely",
+      "matched_name": "Vice UK Limited"
+    },
+    "Weave": {
+      "status": "likely",
+      "matched_name": "Coreweave UK Limited"
+    },
+    "Globality": {
+      "status": "confirmed",
+      "matched_name": "Globality UK Limited"
+    },
+    "Torch Dental": {
+      "status": "likely",
+      "matched_name": "Dental Group Ltd"
+    },
+    "Rovicare": {
+      "status": "likely",
+      "matched_name": "Care & Co Ltd"
+    },
+    "Amazon": {
+      "status": "likely",
+      "matched_name": "Amazon Charitable Trust"
+    },
+    "Ochsner Health": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Bestow": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Nottinghamshire County Council": {
+      "status": "confirmed",
+      "matched_name": "Nottinghamshire County Council"
+    },
+    "Collins Aerospace": {
+      "status": "likely",
+      "matched_name": "Aeros Limited"
+    },
+    "HP": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Themesoft Inc.": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Autodesk": {
+      "status": "confirmed",
+      "matched_name": "Autodesk Ltd"
+    },
+    "JobTread Software": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "PrismHR": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Wing Assistant": {
+      "status": "likely",
+      "matched_name": "Wing Group Ltd"
+    },
+    "Wiley": {
+      "status": "likely",
+      "matched_name": "John Wiley & Sons Limited"
+    },
+    "3 HTi": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "BlackLine": {
+      "status": "likely",
+      "matched_name": "Blackline Systems Ltd"
+    },
+    "Ascend": {
+      "status": "likely",
+      "matched_name": "Ascend Airways Limited"
+    },
+    "SAP": {
+      "status": "confirmed",
+      "matched_name": "SAP UK Limited"
+    },
+    "Element - creators of Matrix": {
+      "status": "likely",
+      "matched_name": "Creators Inc Limited"
+    },
+    "Xelix": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Jus Mundi": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Sargent & Lundy": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Fidelity Investments": {
+      "status": "likely",
+      "matched_name": "Fidel Limited"
+    },
+    "JTEKT North America Corporation": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Leidos": {
+      "status": "likely",
+      "matched_name": "Kaleidoscope Group Ltd"
+    },
+    "Truist": {
+      "status": "likely",
+      "matched_name": "ALTRUISTIC CARE LIMITED"
+    },
+    "360Factor": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Taranis": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Fourth": {
+      "status": "confirmed",
+      "matched_name": "Fourth Limited"
+    },
+    "Kinective": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "HomeSphere": {
+      "status": "likely",
+      "matched_name": "Here Limited"
+    },
+    "Max Distributing": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "GE HealthCare": {
+      "status": "likely",
+      "matched_name": "Ashurst Lodge Healthcare Limited"
+    },
+    "Warrior Insurance Network": {
+      "status": "likely",
+      "matched_name": "Arri Holdings Limited"
+    },
+    "Trajan Wealth LLC": {
+      "status": "likely",
+      "matched_name": "Rajan Limited"
+    },
+    "IQVentures": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "MongoDB": {
+      "status": "confirmed",
+      "matched_name": "MongoDB UK Limited"
+    },
+    "Hastings Borough Council": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Vivid Consulting": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "AECOM": {
+      "status": "confirmed",
+      "matched_name": "AECOM LIMITED"
+    },
+    "Stantec": {
+      "status": "confirmed",
+      "matched_name": "Stantec UK Ltd"
+    },
+    "Pleo": {
+      "status": "likely",
+      "matched_name": "Apleona UK Limited"
+    },
+    "Confidential": {
+      "status": "likely",
+      "matched_name": "ENTIA LTD"
+    },
+    "PwC": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Nuix": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Atmos Energy": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "CivilGrid": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Paylocity": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "CO-Ver, Inc.": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Magma Math": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Principal Financial Group": {
+      "status": "likely",
+      "matched_name": "ANCI GROUP LIMITED"
+    },
+    "GXO Logistics, Inc.": {
+      "status": "confirmed",
+      "matched_name": "GXO Logistics UK Limited"
+    },
+    "PetDesk": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "WP Engine": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Ncontracts": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Regions Bank": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Vanderbilt University Medical Center": {
+      "status": "likely",
+      "matched_name": "The Medical Group"
+    },
+    "Ascendion": {
+      "status": "likely",
+      "matched_name": "Ascendion Engineering Solutions Europe Limited"
+    },
+    "MGM Resorts International": {
+      "status": "likely",
+      "matched_name": "CO INTERNATIONAL LTD"
+    },
+    "Essex County Council": {
+      "status": "confirmed",
+      "matched_name": "Essex County Council"
+    },
+    "Owen Thomas | B Corp\u2122": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Vantor": {
+      "status": "likely",
+      "matched_name": "Vantor Technologies UK Ltd"
+    },
+    "OASES": {
+      "status": "confirmed",
+      "matched_name": "Oases Limited"
+    },
+    "Personal Group": {
+      "status": "likely",
+      "matched_name": "A Personal Mobile Ltd"
+    },
+    "Litmus": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "GRAITEC Italy": {
+      "status": "likely",
+      "matched_name": "Graitec Limited"
+    },
+    "Syndigo": {
+      "status": "confirmed",
+      "matched_name": "Syndigo UK Ltd"
+    },
+    "Qonto": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "HighGround": {
+      "status": "likely",
+      "matched_name": "ROUND GROUP LIMITED"
+    },
+    "Confidential Company in Houston, TX": {
+      "status": "likely",
+      "matched_name": "ENTIA LTD"
+    },
+    "Workday": {
+      "status": "confirmed",
+      "matched_name": "Workday (UK) Limited"
+    },
+    "Teamworks": {
+      "status": "likely",
+      "matched_name": "Teamworks Innovations UK Limited"
+    },
+    "Whip Around": {
+      "status": "likely",
+      "matched_name": "ROUND GROUP LIMITED"
+    },
+    "Dreamdata": {
+      "status": "likely",
+      "matched_name": "Data Inc UK Ltd"
+    },
+    "Merge": {
+      "status": "likely",
+      "matched_name": "Emerge Management & Communications Limited"
+    },
+    "Bask Health": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Pure Search": {
+      "status": "likely",
+      "matched_name": "UK Search Limited"
+    },
     "Royal Borough of Greenwich": {
       "status": "not_found",
       "matched_name": null
@@ -69,21 +421,9 @@
       "status": "not_found",
       "matched_name": null
     },
-    "Paylocity": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "RMR Group": {
       "status": "not_found",
       "matched_name": null
-    },
-    "Principal Financial Group": {
-      "status": "likely",
-      "matched_name": "ANCI GROUP LIMITED"
-    },
-    "Amazon": {
-      "status": "likely",
-      "matched_name": "Amazon Charitable Trust"
     },
     "Swooped": {
       "status": "not_found",
@@ -161,10 +501,6 @@
       "status": "not_found",
       "matched_name": null
     },
-    "Fidelity Investments": {
-      "status": "likely",
-      "matched_name": "Fidel Limited"
-    },
     "Professional Solutions, LLC": {
       "status": "not_found",
       "matched_name": null
@@ -184,10 +520,6 @@
     "Avid Technology Professionals": {
       "status": "likely",
       "matched_name": "D-Tech (UK) Limited"
-    },
-    "Workday": {
-      "status": "confirmed",
-      "matched_name": "Workday (UK) Limited"
     },
     "Securin Inc.": {
       "status": "not_found",
@@ -232,10 +564,6 @@
     "StubHub": {
       "status": "not_found",
       "matched_name": null
-    },
-    "MongoDB": {
-      "status": "confirmed",
-      "matched_name": "MongoDB UK Limited"
     },
     "Smart & Final": {
       "status": "not_found",
@@ -505,10 +833,6 @@
       "status": "not_found",
       "matched_name": null
     },
-    "WP Engine": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "Mattson Technology": {
       "status": "likely",
       "matched_name": "Technolog Limited"
@@ -568,10 +892,6 @@
     "Mott MacDonald": {
       "status": "confirmed",
       "matched_name": "Mott MacDonald Ltd"
-    },
-    "Robin Radar Systems": {
-      "status": "likely",
-      "matched_name": "Rada Ltd"
     },
     "Skanska": {
       "status": "confirmed",
@@ -813,10 +1133,6 @@
       "status": "confirmed",
       "matched_name": "Insight Global Limited"
     },
-    "Stantec": {
-      "status": "confirmed",
-      "matched_name": "Stantec UK Ltd"
-    },
     "- COYOTE -": {
       "status": "likely",
       "matched_name": "RED COYOTE GUARDING LTD"
@@ -824,10 +1140,6 @@
     "Procore Technologies": {
       "status": "likely",
       "matched_name": "Core"
-    },
-    "Autodesk": {
-      "status": "confirmed",
-      "matched_name": "Autodesk Ltd"
     },
     "Sigma": {
       "status": "likely",
@@ -1032,10 +1344,6 @@
     "WPP Media": {
       "status": "confirmed",
       "matched_name": "WPP Media UK Limited"
-    },
-    "PwC": {
-      "status": "not_found",
-      "matched_name": null
     },
     "Pereview Software": {
       "status": "not_found",
@@ -1685,10 +1993,6 @@
       "status": "confirmed",
       "matched_name": "Maidstone Borough Council"
     },
-    "Hastings Borough Council": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "West Oxfordshire District Council": {
       "status": "likely",
       "matched_name": "FORDSHIRE LIMITED"
@@ -1740,10 +2044,6 @@
     "Oncor Electric Delivery": {
       "status": "not_found",
       "matched_name": null
-    },
-    "Truist": {
-      "status": "likely",
-      "matched_name": "ALTRUISTIC CARE LIMITED"
     },
     "SMART Technologies": {
       "status": "likely",
@@ -1861,10 +2161,6 @@
       "status": "confirmed",
       "matched_name": "Shopify UK Limited"
     },
-    "SAP": {
-      "status": "confirmed",
-      "matched_name": "SAP UK Limited"
-    },
     "ZEP": {
       "status": "not_found",
       "matched_name": null
@@ -1882,10 +2178,6 @@
       "matched_name": "KAMZIPOSHAAK LTD"
     },
     "Zocdoc": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Magma Math": {
       "status": "not_found",
       "matched_name": null
     },
@@ -1938,10 +2230,6 @@
       "matched_name": null
     },
     "HSI": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Nuix": {
       "status": "not_found",
       "matched_name": null
     },
@@ -2045,10 +2333,6 @@
       "status": "likely",
       "matched_name": "The Open Group Limited"
     },
-    "Teamworks": {
-      "status": "likely",
-      "matched_name": "Teamworks Innovations UK Limited"
-    },
     "Solstice Advanced Materials": {
       "status": "not_found",
       "matched_name": null
@@ -2076,10 +2360,6 @@
     "Clarivate": {
       "status": "likely",
       "matched_name": "CLARI UK LIMITED"
-    },
-    "ADP": {
-      "status": "not_found",
-      "matched_name": null
     },
     "Fife Council": {
       "status": "confirmed",
@@ -2265,10 +2545,6 @@
       "status": "likely",
       "matched_name": "Node Group Ltd"
     },
-    "ServiceTitan": {
-      "status": "likely",
-      "matched_name": "Vice UK Limited"
-    },
     "\u30ab\u30fc\u30eb\u30b9\u30c8\u30eb\u30c4\u30fb\u30a8\u30f3\u30c9\u30b9\u30b3\u30d4\u30fc\u30fb\u30b8\u30e3\u30d1\u30f3\uff08\u682a\uff09": {
       "status": "unknown",
       "matched_name": null
@@ -2296,10 +2572,6 @@
     "TalentCo": {
       "status": "not_found",
       "matched_name": null
-    },
-    "GXO Logistics, Inc.": {
-      "status": "confirmed",
-      "matched_name": "GXO Logistics UK Limited"
     },
     "Slalom": {
       "status": "likely",
@@ -2372,10 +2644,6 @@
     "talentpluto": {
       "status": "not_found",
       "matched_name": null
-    },
-    "AECOM": {
-      "status": "confirmed",
-      "matched_name": "AECOM LIMITED"
     },
     "Adverity": {
       "status": "confirmed",
@@ -3945,10 +4213,6 @@
       "status": "confirmed",
       "matched_name": "Syngenta Limited"
     },
-    "Leidos": {
-      "status": "likely",
-      "matched_name": "Kaleidoscope Group Ltd"
-    },
     "The Scotts Miracle-Gro Company": {
       "status": "likely",
       "matched_name": "S&MI Ltd"
@@ -4357,10 +4621,6 @@
       "status": "likely",
       "matched_name": "Care & Co Ltd"
     },
-    "HP": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "BBN Consulting": {
       "status": "likely",
       "matched_name": "N Consulting Ltd"
@@ -4484,74 +4744,6 @@
     "Air National Guard Units": {
       "status": "not_found",
       "matched_name": null
-    },
-    "County of San Diego": {
-      "status": "likely",
-      "matched_name": "Count LTD"
-    },
-    "Mufgub": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "LVI Associates": {
-      "status": "likely",
-      "matched_name": "Asso Ltd"
-    },
-    "Rutherford County Schools - Tennessee": {
-      "status": "likely",
-      "matched_name": "Count LTD"
-    },
-    "WM": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Environmental Protection Agency": {
-      "status": "likely",
-      "matched_name": "Agency Inc Ltd"
-    },
-    "Maryland Department of Transportation, MD": {
-      "status": "likely",
-      "matched_name": "The Department UK Ltd"
-    },
-    "Kentucky Energy and Environment Cabinet": {
-      "status": "likely",
-      "matched_name": "The Cabin (UK) Ltd"
-    },
-    "UPMC": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Partners Personnel": {
-      "status": "likely",
-      "matched_name": "Partners Group (UK) Ltd."
-    },
-    "NSW Department of Planning, Housing and Infrastructure": {
-      "status": "likely",
-      "matched_name": "Plan Limited"
-    },
-    "CK Associates": {
-      "status": "likely",
-      "matched_name": "Asso Ltd"
-    },
-    "County of Riverside": {
-      "status": "likely",
-      "matched_name": "Count LTD"
-    },
-    "Luxfer Gas Cylinders": {
-      "status": "confirmed",
-      "matched_name": "Luxfer Gas Cylinders Limited"
-    },
-    "State of Louisiana": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "California Water Service Group (CWSG)": {
-      "status": "likely",
-      "matched_name": "Vice UK Limited"
-    },
-    "Overview": {
-      "status": "confirmed",
-      "matched_name": "Overview Ltd"
     }
   }
 }
