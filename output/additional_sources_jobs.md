@@ -1,19 +1,15 @@
 # 🌍 Additional Job Sources — Sumit's Planning & PropTech Roles
-*Last updated: 2026-09-17 09:30 UTC*
+*Last updated: 2026-09-18 09:03 UTC*
 
-**4 new role(s)** since last run · 7 total in current postings across enabled additional sources
+**3 new role(s)** since last run · 9 total in current postings across enabled additional sources
 
-### [Senior Planning Officer](https://www.planningjobs.com/senior-planning-officer-pjcom2842) — Hastings Borough Council
-- 📍 **Location:** Hastings, South East
-- 💰 **Salary:** £35,412 to £44,075
-- 🕒 **Posted:** Posted 1 days ago
+### [Senior Planning Officer](https://www.planningjobs.com/senior-planning-officer-pjcom2828) — West Oxfordshire District Council
+- 📍 **Location:** Witney, South Central
+- 💰 **Salary:** £41,853 - £44,691
+- 🕒 **Posted:** Posted 30 days ago
 
-### [Associate Town Planner / Senior Associate](https://www.planningjobs.com/associate-town-planner-senior-associate-pjcom2841) — Vivid Consulting
-- 📍 **Location:** Norwich City Centre, East of England
-- 🕒 **Posted:** Posted 1 days ago
-
-### [PropTech Legal Analyst](https://proptechjobs.com/job/proptech-legal-analyst/?company=Confidential Company) — Confidential Company
+### [Java Developer – PropTech](https://proptechjobs.com/job/java-developer-proptech/?company=Confidential Company) — Confidential Company
 - 📍 **Location:** United Kingdom
 
-### [PropTech Analyst](https://proptechjobs.com/job/proptech-analyst/?company=Confidential Company) — Confidential Company
-- 📍 **Location:** United Kingdom
+### [Customer Success Advisor | French Customer service Amsterdam Posted date September 17, 2026](https://www.iamexpat.nl/career/jobs-netherlands/customer-service-positions/customer-success-advisor-french/2yMPsdy7feFEs2KqTWVbjP) — Posted date September 17, 2026 Post a job
+- 📍 **Location:** Amsterdam
