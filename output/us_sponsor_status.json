@@ -1,17 +1,257 @@
 {
-  "updated_at": "2026-09-17T11:56:46.586122+00:00",
+  "updated_at": "2026-09-18T11:32:32.013355+00:00",
   "source_files": [
     "https://www.dol.gov/media/LCA_Disclosure_Data_FY2026_Q3.xlsx",
     "https://www.dol.gov/sites/dolgov/files/ETA/oflc/pdfs/LCA_Disclosure_Data_FY2025_Q4.xlsx"
   ],
   "employer_count": 60026,
   "company_counts": {
-    "confirmed": 246,
-    "likely": 396,
-    "not_found": 512,
+    "confirmed": 253,
+    "likely": 407,
+    "not_found": 522,
     "unknown": 2
   },
   "companies": {
+    "Posted date September 17, 2026 Post a job": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Laing O'Rourke": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Robin Radar Systems": {
+      "status": "likely",
+      "matched_name": "R SYSTEMS INC.",
+      "certified_lca_count": 22
+    },
+    "ADP": {
+      "status": "confirmed",
+      "matched_name": "ADP, Inc.",
+      "certified_lca_count": 58
+    },
+    "The Best Job Board": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "targetjobs UK": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Franklin Institute": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Southern Methodist University": {
+      "status": "confirmed",
+      "matched_name": "SOUTHERN METHODIST UNIVERSITY",
+      "certified_lca_count": 41
+    },
+    "ServiceTitan": {
+      "status": "confirmed",
+      "matched_name": "ServiceTitan, Inc.",
+      "certified_lca_count": 47
+    },
+    "Weave": {
+      "status": "likely",
+      "matched_name": "CoreWeave, Inc.",
+      "certified_lca_count": 83
+    },
+    "Globality": {
+      "status": "confirmed",
+      "matched_name": "Globality, Inc.",
+      "certified_lca_count": 1
+    },
+    "Torch Dental": {
+      "status": "likely",
+      "matched_name": "CO Dental PC",
+      "certified_lca_count": 1
+    },
+    "Rovicare": {
+      "status": "confirmed",
+      "matched_name": "ROVICARE INC.",
+      "certified_lca_count": 1
+    },
+    "Amazon": {
+      "status": "confirmed",
+      "matched_name": "Amazon LLC",
+      "certified_lca_count": 2
+    },
+    "Ochsner Health": {
+      "status": "likely",
+      "matched_name": "Group Health, Inc.",
+      "certified_lca_count": 41
+    },
+    "Bestow": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Nottinghamshire County Council": {
+      "status": "likely",
+      "matched_name": "Nott Company",
+      "certified_lca_count": 1
+    },
+    "Collins Aerospace": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "HP": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Themesoft Inc.": {
+      "status": "confirmed",
+      "matched_name": "THEMESOFT INC.",
+      "certified_lca_count": 8
+    },
+    "Autodesk": {
+      "status": "confirmed",
+      "matched_name": "Autodesk, Inc.",
+      "certified_lca_count": 221
+    },
+    "JobTread Software": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "PrismHR": {
+      "status": "confirmed",
+      "matched_name": "PrismHR, Inc.",
+      "certified_lca_count": 4
+    },
+    "Wing Assistant": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Wiley": {
+      "status": "likely",
+      "matched_name": "JOHN WILEY & SONS INC.",
+      "certified_lca_count": 24
+    },
+    "3 HTi": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "BlackLine": {
+      "status": "likely",
+      "matched_name": "Blackline Systems, Inc.",
+      "certified_lca_count": 45
+    },
+    "Ascend": {
+      "status": "likely",
+      "matched_name": "Ascend Learning LLC",
+      "certified_lca_count": 20
+    },
+    "SAP": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Element - creators of Matrix": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Xelix": {
+      "status": "likely",
+      "matched_name": "Exelixis, Inc.",
+      "certified_lca_count": 34
+    },
+    "Jus Mundi": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Sargent & Lundy": {
+      "status": "confirmed",
+      "matched_name": "Sargent & Lundy LLC",
+      "certified_lca_count": 1
+    },
+    "Fidelity Investments": {
+      "status": "likely",
+      "matched_name": "Fidelity Technology Group, LLC d/b/a Fidelity Investments",
+      "certified_lca_count": 2661
+    },
+    "JTEKT North America Corporation": {
+      "status": "confirmed",
+      "matched_name": "JTEKT North America Corporation",
+      "certified_lca_count": 2
+    },
+    "Leidos": {
+      "status": "confirmed",
+      "matched_name": "Leidos, Inc.",
+      "certified_lca_count": 53
+    },
+    "Truist": {
+      "status": "likely",
+      "matched_name": "Truist Bank",
+      "certified_lca_count": 318
+    },
+    "360Factor": {
+      "status": "likely",
+      "matched_name": "360Factor Consulting LLC",
+      "certified_lca_count": 1
+    },
+    "Taranis": {
+      "status": "likely",
+      "matched_name": "Danieli Taranis, LLC",
+      "certified_lca_count": 4
+    },
+    "Fourth": {
+      "status": "likely",
+      "matched_name": "Fourth Technologies Inc",
+      "certified_lca_count": 27
+    },
+    "Kinective": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "HomeSphere": {
+      "status": "likely",
+      "matched_name": "Sphere, Inc.",
+      "certified_lca_count": 1
+    },
+    "Max Distributing": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "GE HealthCare": {
+      "status": "likely",
+      "matched_name": "GE HEALTHCARE IITS USA CORPORATION",
+      "certified_lca_count": 24
+    },
+    "Warrior Insurance Network": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Trajan Wealth LLC": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "IQVentures": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "MongoDB": {
+      "status": "confirmed",
+      "matched_name": "MONGODB, INC.",
+      "certified_lca_count": 147
+    },
     "Hastings Borough Council": {
       "status": "likely",
       "matched_name": "Hasti Inc",
@@ -61,11 +301,6 @@
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
-    },
-    "Fidelity Investments": {
-      "status": "likely",
-      "matched_name": "Fidelity Technology Group, LLC d/b/a Fidelity Investments",
-      "certified_lca_count": 2661
     },
     "Paylocity": {
       "status": "confirmed",
@@ -297,11 +532,6 @@
       "matched_name": "The RMR Group LLC",
       "certified_lca_count": 1
     },
-    "Amazon": {
-      "status": "confirmed",
-      "matched_name": "Amazon LLC",
-      "certified_lca_count": 2
-    },
     "Swooped": {
       "status": "not_found",
       "matched_name": null,
@@ -476,11 +706,6 @@
       "status": "confirmed",
       "matched_name": "StubHub, Inc.",
       "certified_lca_count": 47
-    },
-    "MongoDB": {
-      "status": "confirmed",
-      "matched_name": "MONGODB, INC.",
-      "certified_lca_count": 147
     },
     "Smart & Final": {
       "status": "not_found",
@@ -892,11 +1117,6 @@
       "matched_name": "Mott MacDonald Group Inc.",
       "certified_lca_count": 25
     },
-    "Robin Radar Systems": {
-      "status": "likely",
-      "matched_name": "R SYSTEMS INC.",
-      "certified_lca_count": 22
-    },
     "Skanska": {
       "status": "likely",
       "matched_name": "Skanska USA Building Inc.",
@@ -1206,11 +1426,6 @@
       "status": "confirmed",
       "matched_name": "Procore Technologies, Inc",
       "certified_lca_count": 29
-    },
-    "Autodesk": {
-      "status": "confirmed",
-      "matched_name": "Autodesk, Inc.",
-      "certified_lca_count": 221
     },
     "Sigma": {
       "status": "confirmed",
@@ -2342,11 +2557,6 @@
       "matched_name": null,
       "certified_lca_count": 0
     },
-    "Truist": {
-      "status": "likely",
-      "matched_name": "Truist Bank",
-      "certified_lca_count": 318
-    },
     "SMART Technologies": {
       "status": "likely",
       "matched_name": "Netsmart Technologies, Inc.",
@@ -2491,11 +2701,6 @@
       "status": "likely",
       "matched_name": "Shopify (USA) Inc.",
       "certified_lca_count": 50
-    },
-    "SAP": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
     },
     "ZEP": {
       "status": "not_found",
@@ -2747,11 +2952,6 @@
       "matched_name": "Clari, Inc.",
       "certified_lca_count": 15
     },
-    "ADP": {
-      "status": "confirmed",
-      "matched_name": "ADP, Inc.",
-      "certified_lca_count": 58
-    },
     "Fife Council": {
       "status": "not_found",
       "matched_name": null,
@@ -2981,11 +3181,6 @@
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
-    },
-    "ServiceTitan": {
-      "status": "confirmed",
-      "matched_name": "ServiceTitan, Inc.",
-      "certified_lca_count": 47
     },
     "\u30ab\u30fc\u30eb\u30b9\u30c8\u30eb\u30c4\u30fb\u30a8\u30f3\u30c9\u30b9\u30b3\u30d4\u30fc\u30fb\u30b8\u30e3\u30d1\u30f3\uff08\u682a\uff09": {
       "status": "unknown",
@@ -5072,11 +5267,6 @@
       "matched_name": "Syngenta Crop Protection LLC",
       "certified_lca_count": 18
     },
-    "Leidos": {
-      "status": "confirmed",
-      "matched_name": "Leidos, Inc.",
-      "certified_lca_count": 53
-    },
     "The Scotts Miracle-Gro Company": {
       "status": "likely",
       "matched_name": "The Scotts Company LLC",
@@ -5587,11 +5777,6 @@
       "matched_name": "REER INC",
       "certified_lca_count": 3
     },
-    "HP": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
     "BBN Consulting": {
       "status": "likely",
       "matched_name": "N CONSULTING LLC",
@@ -5746,51 +5931,6 @@
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
-    },
-    "County of San Diego": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Mufgub": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "LVI Associates": {
-      "status": "likely",
-      "matched_name": "SOCi, Inc.",
-      "certified_lca_count": 1
-    },
-    "Rutherford County Schools - Tennessee": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "WM": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Environmental Protection Agency": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Maryland Department of Transportation, MD": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Kentucky Energy and Environment Cabinet": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "UPMC": {
-      "status": "likely",
-      "matched_name": "UPMC Western Maryland Health Services LLC",
-      "certified_lca_count": 8
     }
   }
 }
