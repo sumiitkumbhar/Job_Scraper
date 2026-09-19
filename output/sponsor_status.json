@@ -1,14 +1,186 @@
 {
-  "updated_at": "2026-09-18T10:50:52.809232+00:00",
+  "updated_at": "2026-09-19T10:34:20.768079+00:00",
   "register_source": "https://assets.publishing.service.gov.uk/media/6aacebbdce3f006bd4346c6b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-09-18.csv",
   "register_org_count": 126558,
   "company_counts": {
-    "confirmed": 193,
-    "likely": 507,
-    "not_found": 482,
+    "confirmed": 195,
+    "likely": 522,
+    "not_found": 486,
     "unknown": 2
   },
   "companies": {
+    "Built": {
+      "status": "likely",
+      "matched_name": "ASBUILT DIGITAL UK LIMITED"
+    },
+    "Meta": {
+      "status": "likely",
+      "matched_name": "3G Metal Fabrications Limited"
+    },
+    "Fin": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Pflegia": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Boyd Gaming": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Planet": {
+      "status": "confirmed",
+      "matched_name": "Planet Holding Ltd"
+    },
+    "Meili": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "GetCarl": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Deloitte": {
+      "status": "confirmed",
+      "matched_name": "Deloitte LLP"
+    },
+    "ACA Group": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Cogent Communications": {
+      "status": "likely",
+      "matched_name": "Communications Inc"
+    },
+    "Ashby": {
+      "status": "likely",
+      "matched_name": "Ashby Capital LLP"
+    },
+    "Whatfix": {
+      "status": "confirmed",
+      "matched_name": "Whatfix Limited"
+    },
+    "Agiloft": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Daimler Truck North America": {
+      "status": "likely",
+      "matched_name": "Daimler Truck UK Limited"
+    },
+    "Southwest Airlines": {
+      "status": "likely",
+      "matched_name": "The West Group"
+    },
+    "Bluetail": {
+      "status": "likely",
+      "matched_name": "Blue & Co ltd"
+    },
+    "BankUnited": {
+      "status": "likely",
+      "matched_name": "Unite"
+    },
+    "Osaic": {
+      "status": "likely",
+      "matched_name": "ioMosaic International Limited"
+    },
+    "Procore Technologies": {
+      "status": "likely",
+      "matched_name": "Core"
+    },
+    "Calibrate": {
+      "status": "likely",
+      "matched_name": "Calibrate Accounting Limited"
+    },
+    "Rovicare": {
+      "status": "likely",
+      "matched_name": "Care & Co Ltd"
+    },
+    "General Dynamics Information Technology": {
+      "status": "likely",
+      "matched_name": "Inform Holdings Ltd"
+    },
+    "Uniti Group Inc.": {
+      "status": "likely",
+      "matched_name": "ACORN DAY OPPORTUNITIES LTD"
+    },
+    "5th Revolution": {
+      "status": "likely",
+      "matched_name": "EVOLU GROUP LIMITED"
+    },
+    "Judi Health": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "SSi People": {
+      "status": "likely",
+      "matched_name": "THE PEOPLE GROUP LIMITED"
+    },
+    "Sacramento Suburban Water District": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "M Group Technology & Communications": {
+      "status": "likely",
+      "matched_name": "Communications Inc"
+    },
+    "WSP in the UK & Ireland": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Mitti by SafetyCulture": {
+      "status": "likely",
+      "matched_name": "SafetyCulture (UK) Ltd"
+    },
+    "Swarm Recruitment": {
+      "status": "likely",
+      "matched_name": "Warm Limited"
+    },
+    "AtkinsR\u00e9alis": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Sargent & Lundy": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Stream Realty Partners": {
+      "status": "likely",
+      "matched_name": "Partners Group (UK) Ltd."
+    },
+    "Citi": {
+      "status": "confirmed",
+      "matched_name": "Citi Group"
+    },
+    "Perplexity": {
+      "status": "likely",
+      "matched_name": "Perplexity AI Ltd"
+    },
+    "AccountMakers": {
+      "status": "likely",
+      "matched_name": "ACCO UK LTD"
+    },
+    "SAP": {
+      "status": "confirmed",
+      "matched_name": "SAP UK Limited"
+    },
+    "Magna International": {
+      "status": "likely",
+      "matched_name": "CO INTERNATIONAL LTD"
+    },
+    "Lincoln Financial": {
+      "status": "likely",
+      "matched_name": "ANCI GROUP LIMITED"
+    },
+    "24 Seven Talent": {
+      "status": "likely",
+      "matched_name": "24 Seven UK Limited"
+    },
+    "Black & Veatch": {
+      "status": "likely",
+      "matched_name": "Black & Veatch (U.K.) Limited"
+    },
     "Posted date September 17, 2026 Post a job": {
       "status": "likely",
       "matched_name": "SEPT GROUP LIMITED"
@@ -56,10 +228,6 @@
     "Torch Dental": {
       "status": "likely",
       "matched_name": "Dental Group Ltd"
-    },
-    "Rovicare": {
-      "status": "likely",
-      "matched_name": "Care & Co Ltd"
     },
     "Amazon": {
       "status": "likely",
@@ -121,10 +289,6 @@
       "status": "likely",
       "matched_name": "Ascend Airways Limited"
     },
-    "SAP": {
-      "status": "confirmed",
-      "matched_name": "SAP UK Limited"
-    },
     "Element - creators of Matrix": {
       "status": "likely",
       "matched_name": "Creators Inc Limited"
@@ -134,10 +298,6 @@
       "matched_name": null
     },
     "Jus Mundi": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Sargent & Lundy": {
       "status": "not_found",
       "matched_name": null
     },
@@ -400,10 +560,6 @@
     "Semperis": {
       "status": "likely",
       "matched_name": "PERI Limited"
-    },
-    "Deloitte": {
-      "status": "confirmed",
-      "matched_name": "Deloitte LLP"
     },
     "Xantrion": {
       "status": "not_found",
@@ -989,10 +1145,6 @@
       "status": "not_found",
       "matched_name": null
     },
-    "Osaic": {
-      "status": "likely",
-      "matched_name": "ioMosaic International Limited"
-    },
     "Verapath": {
       "status": "likely",
       "matched_name": "Vera Group Ltd"
@@ -1136,10 +1288,6 @@
     "- COYOTE -": {
       "status": "likely",
       "matched_name": "RED COYOTE GUARDING LTD"
-    },
-    "Procore Technologies": {
-      "status": "likely",
-      "matched_name": "Core"
     },
     "Sigma": {
       "status": "likely",
@@ -1465,10 +1613,6 @@
       "status": "likely",
       "matched_name": "Relativity Global LLC"
     },
-    "ACA Group": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "Xcel Energy": {
       "status": "not_found",
       "matched_name": null
@@ -1556,10 +1700,6 @@
     "Mention Me": {
       "status": "confirmed",
       "matched_name": "Mention Me Limited"
-    },
-    "Mitti by SafetyCulture": {
-      "status": "likely",
-      "matched_name": "SafetyCulture (UK) Ltd"
     },
     "MobiLoud": {
       "status": "not_found",
@@ -2013,10 +2153,6 @@
       "status": "confirmed",
       "matched_name": "The Sage Group plc"
     },
-    "Fin": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "TEKsystems": {
       "status": "likely",
       "matched_name": "System ltd"
@@ -2120,10 +2256,6 @@
     "King Arthur Baking Company": {
       "status": "not_found",
       "matched_name": null
-    },
-    "Ashby": {
-      "status": "likely",
-      "matched_name": "Ashby Capital LLP"
     },
     "SageNet": {
       "status": "likely",
@@ -2318,10 +2450,6 @@
       "matched_name": null
     },
     "Masis Professional Group": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "AtkinsR\u00e9alis": {
       "status": "not_found",
       "matched_name": null
     },
@@ -2893,10 +3021,6 @@
       "status": "likely",
       "matched_name": "Count LTD"
     },
-    "WSP in the UK & Ireland": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "Rightmove": {
       "status": "confirmed",
       "matched_name": "Rightmove Group Ltd"
@@ -2992,10 +3116,6 @@
     "Propel": {
       "status": "confirmed",
       "matched_name": "Propel Holdings Limited"
-    },
-    "Planet": {
-      "status": "confirmed",
-      "matched_name": "Planet Holding Ltd"
     },
     "Perceptyx": {
       "status": "confirmed",
@@ -3813,10 +3933,6 @@
       "status": "not_found",
       "matched_name": null
     },
-    "Lincoln Financial": {
-      "status": "likely",
-      "matched_name": "ANCI GROUP LIMITED"
-    },
     "Arcadis": {
       "status": "confirmed",
       "matched_name": "Arcadis LLP"
@@ -4437,10 +4553,6 @@
       "status": "not_found",
       "matched_name": null
     },
-    "Meta": {
-      "status": "likely",
-      "matched_name": "3G Metal Fabrications Limited"
-    },
     "Energy Northwest": {
       "status": "likely",
       "matched_name": "The West Group"
@@ -4716,34 +4828,6 @@
     "Geosyntec Consultants": {
       "status": "confirmed",
       "matched_name": "Geosyntec Consultants Ltd"
-    },
-    "Tetra Tech Coffey": {
-      "status": "likely",
-      "matched_name": "A-TEC LIMITED"
-    },
-    "Experis": {
-      "status": "likely",
-      "matched_name": "PERI Limited"
-    },
-    "AARC Environmental Solutions": {
-      "status": "likely",
-      "matched_name": "ARC ENVIRONMENTAL LIMITED"
-    },
-    "ALRA | Australia\u2019s Leading Recruitment Agency": {
-      "status": "likely",
-      "matched_name": "Agency Inc Ltd"
-    },
-    "CalRecycle": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "City of Vista": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Air National Guard Units": {
-      "status": "not_found",
-      "matched_name": null
     }
   }
 }
