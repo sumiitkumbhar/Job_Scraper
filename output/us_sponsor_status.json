@@ -1,17 +1,232 @@
 {
-  "updated_at": "2026-09-18T11:32:32.013355+00:00",
+  "updated_at": "2026-09-19T11:16:21.096041+00:00",
   "source_files": [
     "https://www.dol.gov/media/LCA_Disclosure_Data_FY2026_Q3.xlsx",
     "https://www.dol.gov/sites/dolgov/files/ETA/oflc/pdfs/LCA_Disclosure_Data_FY2025_Q4.xlsx"
   ],
   "employer_count": 60026,
   "company_counts": {
-    "confirmed": 253,
-    "likely": 407,
-    "not_found": 522,
+    "confirmed": 258,
+    "likely": 417,
+    "not_found": 528,
     "unknown": 2
   },
   "companies": {
+    "Built": {
+      "status": "likely",
+      "matched_name": "HartBuilt Construction Corp",
+      "certified_lca_count": 1
+    },
+    "Meta": {
+      "status": "likely",
+      "matched_name": "Meta Platforms, Inc",
+      "certified_lca_count": 6004
+    },
+    "Fin": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Pflegia": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Boyd Gaming": {
+      "status": "likely",
+      "matched_name": "Boyd Corporation",
+      "certified_lca_count": 1
+    },
+    "Planet": {
+      "status": "likely",
+      "matched_name": "rPlanet Earth Los Angeles, LLC",
+      "certified_lca_count": 4
+    },
+    "Meili": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "GetCarl": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Deloitte": {
+      "status": "confirmed",
+      "matched_name": "Deloitte LLP",
+      "certified_lca_count": 11
+    },
+    "ACA Group": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Cogent Communications": {
+      "status": "likely",
+      "matched_name": "The Unica Group, Inc",
+      "certified_lca_count": 8
+    },
+    "Ashby": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Whatfix": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Agiloft": {
+      "status": "confirmed",
+      "matched_name": "Agiloft, Inc.",
+      "certified_lca_count": 1
+    },
+    "Daimler Truck North America": {
+      "status": "confirmed",
+      "matched_name": "Daimler Truck North America, LLC",
+      "certified_lca_count": 36
+    },
+    "Southwest Airlines": {
+      "status": "confirmed",
+      "matched_name": "Southwest Airlines Co.",
+      "certified_lca_count": 60
+    },
+    "Bluetail": {
+      "status": "likely",
+      "matched_name": "Blue & Co., LLC",
+      "certified_lca_count": 3
+    },
+    "BankUnited": {
+      "status": "likely",
+      "matched_name": "BankUnited N.A.",
+      "certified_lca_count": 4
+    },
+    "Osaic": {
+      "status": "likely",
+      "matched_name": "Mosaic Health System",
+      "certified_lca_count": 15
+    },
+    "Procore Technologies": {
+      "status": "confirmed",
+      "matched_name": "Procore Technologies, Inc",
+      "certified_lca_count": 29
+    },
+    "Calibrate": {
+      "status": "likely",
+      "matched_name": "Calibrated Consulting & Analytics LLC",
+      "certified_lca_count": 1
+    },
+    "Rovicare": {
+      "status": "confirmed",
+      "matched_name": "ROVICARE INC.",
+      "certified_lca_count": 1
+    },
+    "General Dynamics Information Technology": {
+      "status": "confirmed",
+      "matched_name": "General Dynamics Information Technology, Inc.",
+      "certified_lca_count": 27
+    },
+    "Uniti Group Inc.": {
+      "status": "likely",
+      "matched_name": "Mercy Clinic Springfield Communities",
+      "certified_lca_count": 28
+    },
+    "5th Revolution": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Judi Health": {
+      "status": "likely",
+      "matched_name": "Group Health, Inc.",
+      "certified_lca_count": 41
+    },
+    "SSi People": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Sacramento Suburban Water District": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "M Group Technology & Communications": {
+      "status": "likely",
+      "matched_name": "The Unica Group, Inc",
+      "certified_lca_count": 8
+    },
+    "WSP in the UK & Ireland": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Mitti by SafetyCulture": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Swarm Recruitment": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "AtkinsR\u00e9alis": {
+      "status": "likely",
+      "matched_name": "AtkinsR\u00e9alis USA Inc.",
+      "certified_lca_count": 11
+    },
+    "Sargent & Lundy": {
+      "status": "confirmed",
+      "matched_name": "Sargent & Lundy LLC",
+      "certified_lca_count": 1
+    },
+    "Stream Realty Partners": {
+      "status": "likely",
+      "matched_name": "REAL Holdings LLC",
+      "certified_lca_count": 2
+    },
+    "Citi": {
+      "status": "likely",
+      "matched_name": "First Citizens Bank and Trust Co.",
+      "certified_lca_count": 242
+    },
+    "Perplexity": {
+      "status": "likely",
+      "matched_name": "Perplexity AI, Inc.",
+      "certified_lca_count": 19
+    },
+    "AccountMakers": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "SAP": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Magna International": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Lincoln Financial": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "24 Seven Talent": {
+      "status": "likely",
+      "matched_name": "Talent Corporation, LLC",
+      "certified_lca_count": 1
+    },
+    "Black & Veatch": {
+      "status": "confirmed",
+      "matched_name": "Black & Veatch Corporation",
+      "certified_lca_count": 118
+    },
     "Posted date September 17, 2026 Post a job": {
       "status": "not_found",
       "matched_name": null,
@@ -70,11 +285,6 @@
     "Torch Dental": {
       "status": "likely",
       "matched_name": "CO Dental PC",
-      "certified_lca_count": 1
-    },
-    "Rovicare": {
-      "status": "confirmed",
-      "matched_name": "ROVICARE INC.",
       "certified_lca_count": 1
     },
     "Amazon": {
@@ -152,11 +362,6 @@
       "matched_name": "Ascend Learning LLC",
       "certified_lca_count": 20
     },
-    "SAP": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
     "Element - creators of Matrix": {
       "status": "not_found",
       "matched_name": null,
@@ -171,11 +376,6 @@
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
-    },
-    "Sargent & Lundy": {
-      "status": "confirmed",
-      "matched_name": "Sargent & Lundy LLC",
-      "certified_lca_count": 1
     },
     "Fidelity Investments": {
       "status": "likely",
@@ -501,11 +701,6 @@
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
-    },
-    "Deloitte": {
-      "status": "confirmed",
-      "matched_name": "Deloitte LLP",
-      "certified_lca_count": 11
     },
     "Xantrion": {
       "status": "not_found",
@@ -1237,11 +1432,6 @@
       "matched_name": "Mohawk Industries Inc.",
       "certified_lca_count": 33
     },
-    "Osaic": {
-      "status": "likely",
-      "matched_name": "Mosaic Health System",
-      "certified_lca_count": 15
-    },
     "Verapath": {
       "status": "likely",
       "matched_name": "PATH",
@@ -1421,11 +1611,6 @@
       "status": "likely",
       "matched_name": "Coyote Logistics, LLC",
       "certified_lca_count": 9
-    },
-    "Procore Technologies": {
-      "status": "confirmed",
-      "matched_name": "Procore Technologies, Inc",
-      "certified_lca_count": 29
     },
     "Sigma": {
       "status": "confirmed",
@@ -1832,11 +2017,6 @@
       "matched_name": "Relativity ODA LLC",
       "certified_lca_count": 27
     },
-    "ACA Group": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
     "Xcel Energy": {
       "status": "likely",
       "matched_name": "Xcel Energy Services, Inc.",
@@ -1943,11 +2123,6 @@
       "certified_lca_count": 86
     },
     "Mention Me": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Mitti by SafetyCulture": {
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
@@ -2517,11 +2692,6 @@
       "matched_name": "SAGE IT INC",
       "certified_lca_count": 163
     },
-    "Fin": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
     "TEKsystems": {
       "status": "confirmed",
       "matched_name": "TEKsystems, Inc.",
@@ -2648,11 +2818,6 @@
       "certified_lca_count": 0
     },
     "King Arthur Baking Company": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Ashby": {
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
@@ -2901,11 +3066,6 @@
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
-    },
-    "AtkinsR\u00e9alis": {
-      "status": "likely",
-      "matched_name": "AtkinsR\u00e9alis USA Inc.",
-      "certified_lca_count": 11
     },
     "HDR": {
       "status": "confirmed",
@@ -3617,11 +3777,6 @@
       "matched_name": null,
       "certified_lca_count": 0
     },
-    "WSP in the UK & Ireland": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
     "Rightmove": {
       "status": "likely",
       "matched_name": "Move Company LLC",
@@ -3741,11 +3896,6 @@
       "status": "likely",
       "matched_name": "Propelsys Technologies LLC",
       "certified_lca_count": 15
-    },
-    "Planet": {
-      "status": "likely",
-      "matched_name": "rPlanet Earth Los Angeles, LLC",
-      "certified_lca_count": 4
     },
     "Perceptyx": {
       "status": "confirmed",
@@ -4767,11 +4917,6 @@
       "matched_name": null,
       "certified_lca_count": 0
     },
-    "Lincoln Financial": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
     "Arcadis": {
       "status": "confirmed",
       "matched_name": "Arcadis Inc.",
@@ -5547,11 +5692,6 @@
       "matched_name": "BAYONE SOLUTIONS INC.",
       "certified_lca_count": 27
     },
-    "Meta": {
-      "status": "likely",
-      "matched_name": "Meta Platforms, Inc",
-      "certified_lca_count": 6004
-    },
     "Energy Northwest": {
       "status": "likely",
       "matched_name": "North, Inc.",
@@ -5896,41 +6036,6 @@
       "status": "confirmed",
       "matched_name": "Geosyntec Consultants, Inc.",
       "certified_lca_count": 50
-    },
-    "Tetra Tech Coffey": {
-      "status": "likely",
-      "matched_name": "Tetra Tech, Inc.",
-      "certified_lca_count": 11
-    },
-    "Experis": {
-      "status": "likely",
-      "matched_name": "Experis US, LLC",
-      "certified_lca_count": 166
-    },
-    "AARC Environmental Solutions": {
-      "status": "likely",
-      "matched_name": "AARC Environmental, Inc.",
-      "certified_lca_count": 2
-    },
-    "ALRA | Australia\u2019s Leading Recruitment Agency": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "CalRecycle": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "City of Vista": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Air National Guard Units": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
     }
   }
 }
