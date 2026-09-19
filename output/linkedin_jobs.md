@@ -1,49 +1,33 @@
 # 🔥 LinkedIn — Sumit's Planning & PropTech Roles
-*Last updated: 2026-09-19 00:56 UTC*
+*Last updated: 2026-09-19 05:32 UTC*
 
-**10 new role(s)** since last run · 10 total in last 1h
+**7 new role(s)** since last run · 7 total in last 1h
 
-### [Customer Success Manager](https://www.linkedin.com/jobs/view/4466937689/) — Meili
-- 📍 **Location:** Dublin, County Dublin, Ireland
+### [O9 Product Planning Consultant(m/w/d) - Germany](https://www.linkedin.com/jobs/view/4411353414/) — Infosys
+- 📍 **Location:** Frankfurt, Hesse, Germany
 - 🕒 **Posted:** 2026-09-19
 
-### [Customer Success Manager](https://www.linkedin.com/jobs/view/4469269488/) — GetCarl
-- 📍 **Location:** Cologne, North Rhine-Westphalia, Germany
+### [Microsoft Copilot Studio und AI Solutions Consultant (m/w/d)](https://www.linkedin.com/jobs/view/4468067212/) — Skaylink
+- 📍 **Location:** Munich, Bavaria, Germany
 - 🕒 **Posted:** 2026-09-19
 
-### [Junior GIS Analyst - Delivery Consultant, AI and Analytics Solutions](https://www.linkedin.com/jobs/view/4469272432/) — Deloitte
-- 📍 **Location:** Lake Mary, FL
+### [Expansion Customer Success Manager (m/w/d)  Frankreich C2 FR/DE](https://www.linkedin.com/jobs/view/4468066245/) — Pflegia
+- 📍 **Location:** Berlin, Berlin, Germany
 - 🕒 **Posted:** 2026-09-19
 
-### [Junior GIS Analyst - Delivery Consultant, AI and Analytics Solutions](https://www.linkedin.com/jobs/view/4469278362/) — Deloitte
-- 📍 **Location:** Mechanicsburg, PA
+### [Team Lead im Customer Success Management (m/w/d)](https://www.linkedin.com/jobs/view/4468077011/) — Pflegia
+- 📍 **Location:** Berlin, Berlin, Germany
 - 🕒 **Posted:** 2026-09-19
 
-### [Junior GIS Analyst - Delivery Consultant, AI and Analytics Solutions](https://www.linkedin.com/jobs/view/4469261965/) — Deloitte
-- 📍 **Location:** Gilbert, AZ
+### [Junior Customer Success Manager (m/w/d)](https://www.linkedin.com/jobs/view/4468065344/) — Pflegia
+- 📍 **Location:** Berlin, Berlin, Germany
 - 🕒 **Posted:** 2026-09-19
 
-### [Cybersecurity/GRC Compliance Analyst](https://www.linkedin.com/jobs/view/4321886837/) — Crawford Thomas Recruiting
-- 📍 **Location:** Orlando, FL
-- 💰 **Salary:** $80,000–$100,000
+### [Workforce Planning Analyst](https://www.linkedin.com/jobs/view/4469296591/) — Boyd Gaming
+- 📍 **Location:** Las Vegas, NV
 - 🕒 **Posted:** 2026-09-19
 
-### [Senior Compliance Analyst (MS), Anti-Money Laundering)](https://www.linkedin.com/jobs/view/4466927994/) — ACA Group
-- 📍 **Location:** Medford, OR
-- 💰 **Salary:** $65,000.00 - $70,000.00
-- 🕒 **Posted:** 2026-09-19
-
-### [Senior Compliance Analyst (MS), Anti-Money Laundering)](https://www.linkedin.com/jobs/view/4466937664/) — ACA Group
-- 📍 **Location:** Chattanooga, TN
-- 💰 **Salary:** $65,000.00 - $70,000.00
-- 🕒 **Posted:** 2026-09-19
-
-### [Enterprise Customer Success Manager, North America](https://www.linkedin.com/jobs/view/4469285002/) — Cogent Communications
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $20.00- $52.88 per hour
-- 🕒 **Posted:** 2026-09-19
-
-### [Trade Compliance Analyst - Export Classification : 26-02571](https://www.linkedin.com/jobs/view/4461227692/) — Akraya, Inc.
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $25-$30/Hr
+### [Manager, Customer Success - Commercial Markets](https://www.linkedin.com/jobs/view/4469501569/) — Planet
+- 📍 **Location:** Arlington, VA
+- 💰 **Salary:** $105,040—$131,280 USD
 - 🕒 **Posted:** 2026-09-19
