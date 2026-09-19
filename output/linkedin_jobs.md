@@ -1,92 +1,49 @@
 # 🔥 LinkedIn — Sumit's Planning & PropTech Roles
-*Last updated: 2026-09-18 22:18 UTC*
+*Last updated: 2026-09-19 00:56 UTC*
 
-**20 new role(s)** since last run · 20 total in last 1h
+**10 new role(s)** since last run · 10 total in last 1h
 
-### [Mid-Market Customer Success Manager - EMEA](https://www.linkedin.com/jobs/view/4468014624/) — Ashby
-- 📍 **Location:** United Kingdom
-- 🕒 **Posted:** 2026-09-18
+### [Customer Success Manager](https://www.linkedin.com/jobs/view/4466937689/) — Meili
+- 📍 **Location:** Dublin, County Dublin, Ireland
+- 🕒 **Posted:** 2026-09-19
 
-### [Sr. Solutions Consultant (German / English Speaking)](https://www.linkedin.com/jobs/view/4468028165/) — Whatfix
-- 📍 **Location:** London Area, United Kingdom
-- 🕒 **Posted:** 2026-09-18
+### [Customer Success Manager](https://www.linkedin.com/jobs/view/4469269488/) — GetCarl
+- 📍 **Location:** Cologne, North Rhine-Westphalia, Germany
+- 🕒 **Posted:** 2026-09-19
 
-### [Strategic Customer Success Manager](https://www.linkedin.com/jobs/view/4468025374/) — Agiloft
-- 📍 **Location:** United Kingdom
-- 🕒 **Posted:** 2026-09-18
+### [Junior GIS Analyst - Delivery Consultant, AI and Analytics Solutions](https://www.linkedin.com/jobs/view/4469272432/) — Deloitte
+- 📍 **Location:** Lake Mary, FL
+- 🕒 **Posted:** 2026-09-19
 
-### [Mid-Market Customer Success Manager - EMEA](https://www.linkedin.com/jobs/view/4468033124/) — Ashby
-- 📍 **Location:** Ireland
-- 🕒 **Posted:** 2026-09-18
+### [Junior GIS Analyst - Delivery Consultant, AI and Analytics Solutions](https://www.linkedin.com/jobs/view/4469278362/) — Deloitte
+- 📍 **Location:** Mechanicsburg, PA
+- 🕒 **Posted:** 2026-09-19
 
-### [Mid-Market Customer Success Manager - EMEA](https://www.linkedin.com/jobs/view/4468016415/) — Ashby
-- 📍 **Location:** Amsterdam, North Holland, Netherlands
-- 🕒 **Posted:** 2026-09-18
+### [Junior GIS Analyst - Delivery Consultant, AI and Analytics Solutions](https://www.linkedin.com/jobs/view/4469261965/) — Deloitte
+- 📍 **Location:** Gilbert, AZ
+- 🕒 **Posted:** 2026-09-19
 
-### [Supply Chain Planning Analyst I](https://www.linkedin.com/jobs/view/4466932575/) — Daimler Truck North America
-- 📍 **Location:** Detroit, MI
-- 💰 **Salary:** $65,000.00 - $83,000.00 USD
-- 🕒 **Posted:** 2026-09-18
+### [Cybersecurity/GRC Compliance Analyst](https://www.linkedin.com/jobs/view/4321886837/) — Crawford Thomas Recruiting
+- 📍 **Location:** Orlando, FL
+- 💰 **Salary:** $80,000–$100,000
+- 🕒 **Posted:** 2026-09-19
 
-### [Network Planning Analyst](https://www.linkedin.com/jobs/view/4468025283/) — Southwest Airlines
-- 📍 **Location:** Dallas, TX
-- 🕒 **Posted:** 2026-09-18
+### [Senior Compliance Analyst (MS), Anti-Money Laundering)](https://www.linkedin.com/jobs/view/4466927994/) — ACA Group
+- 📍 **Location:** Medford, OR
+- 💰 **Salary:** $65,000.00 - $70,000.00
+- 🕒 **Posted:** 2026-09-19
 
-### [Customer Success Manager](https://www.linkedin.com/jobs/view/4468013717/) — Bluetail
-- 📍 **Location:** Phoenix, AZ
-- 🕒 **Posted:** 2026-09-18
+### [Senior Compliance Analyst (MS), Anti-Money Laundering)](https://www.linkedin.com/jobs/view/4466937664/) — ACA Group
+- 📍 **Location:** Chattanooga, TN
+- 💰 **Salary:** $65,000.00 - $70,000.00
+- 🕒 **Posted:** 2026-09-19
 
-### [Network Planning Analyst](https://www.linkedin.com/jobs/view/4468020356/) — Southwest Airlines
-- 📍 **Location:** Dallas, TX
-- 🕒 **Posted:** 2026-09-18
-
-### [Treasury Solutions Consultant II](https://www.linkedin.com/jobs/view/4468014520/) — BankUnited
-- 📍 **Location:** Melville, NY
-- 💰 **Salary:** $130,000.00/yr - $160,000.00/yr
-- 🕒 **Posted:** 2026-09-18
-
-### [Technology Solutions Consultant](https://www.linkedin.com/jobs/view/4465150381/) — Osaic
-- 📍 **Location:** Oakdale, MN
-- 💰 **Salary:** $90,000 - $95,000 per year
-- 🕒 **Posted:** 2026-09-18
-
-### [Customer Success Manager 3 - DroneDeploy](https://www.linkedin.com/jobs/view/4469245640/) — Procore Technologies
-- 📍 **Location:** Texas, United States
-- 🕒 **Posted:** 2026-09-18
-
-### [Senior Customer Success Manager](https://www.linkedin.com/jobs/view/4469237912/) — Calibrate
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-18
-
-### [Customer Success Manager](https://www.linkedin.com/jobs/view/4385012170/) — Rovicare
-- 📍 **Location:** Tempe, AZ
-- 🕒 **Posted:** 2026-09-18
-
-### [Compliance Analyst - IA Administration](https://www.linkedin.com/jobs/view/4464144002/) — Osaic
-- 📍 **Location:** Scottsdale, AZ
-- 💰 **Salary:** $65k - $69k per year
-- 🕒 **Posted:** 2026-09-18
-
-### [Security Compliance Analyst](https://www.linkedin.com/jobs/view/4469233964/) — General Dynamics Information Technology
-- 📍 **Location:** United States
-- 💰 **Salary:** $96,569 - $130,651
-- 🕒 **Posted:** 2026-09-18
-
-### [Regulatory Analyst](https://www.linkedin.com/jobs/view/4469224913/) — Uniti Group Inc.
-- 📍 **Location:** United States
-- 💰 **Salary:** $50,000 to $74,500
-- 🕒 **Posted:** 2026-09-18
-
-### [Adobe Cloud Solutions Consultant](https://www.linkedin.com/jobs/view/4469258045/) — 5th Revolution
-- 📍 **Location:** United States
-- 💰 **Salary:** $110k-$215k
-- 🕒 **Posted:** 2026-09-18
-
-### [Customer Success Pharmacy Technician](https://www.linkedin.com/jobs/view/4468022447/) — Judi Health
+### [Enterprise Customer Success Manager, North America](https://www.linkedin.com/jobs/view/4469285002/) — Cogent Communications
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $56,800 USD - $71,000 USD
-- 🕒 **Posted:** 2026-09-18
+- 💰 **Salary:** $20.00- $52.88 per hour
+- 🕒 **Posted:** 2026-09-19
 
-### [Regulatory Analyst - Capital/CapEx, OPEX](https://www.linkedin.com/jobs/view/4466922697/) — SSi People
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-18
+### [Trade Compliance Analyst - Export Classification : 26-02571](https://www.linkedin.com/jobs/view/4461227692/) — Akraya, Inc.
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $25-$30/Hr
+- 🕒 **Posted:** 2026-09-19
