@@ -1,12 +1,26 @@
 # 🔥 LinkedIn — Sumit's Planning & PropTech Roles
-*Last updated: 2026-09-20 21:19 UTC*
+*Last updated: 2026-09-20 23:46 UTC*
 
-**2 new role(s)** since last run · 2 total in last 1h
+**5 new role(s)** since last run · 5 total in last 1h
 
-### [Customer Success Specialist, Entry Level](https://www.linkedin.com/jobs/view/4468467709/) — Jobright.ai
-- 📍 **Location:** United States
+### [Graduate Planner](https://www.linkedin.com/jobs/view/4469811872/) — United Utilities
+- 📍 **Location:** Warrington, England, United Kingdom
 - 🕒 **Posted:** 2026-09-20
 
-### [Compliance Analyst, Entry Level](https://www.linkedin.com/jobs/view/4468477493/) — Jobright.ai
+### [Customer Success Specialist, Entry Level](https://www.linkedin.com/jobs/view/4468475583/) — Jobright.ai
+- 📍 **Location:** United Kingdom
+- 🕒 **Posted:** 2026-09-20
+
+### [Compliance Analyst, Entry Level](https://www.linkedin.com/jobs/view/4468488277/) — Jobright.ai
+- 📍 **Location:** United Kingdom
+- 🕒 **Posted:** 2026-09-20
+
+### [Senior Compliance Analyst - Regulatory Exams](https://www.linkedin.com/jobs/view/4468468769/) — Cetera Financial Group
+- 📍 **Location:** Dallas, TX
+- 💰 **Salary:** $82,000 to $117,000,
+- 🕒 **Posted:** 2026-09-20
+
+### [Securities & Wealth Management Compliance Analyst](https://www.linkedin.com/jobs/view/4465218594/) — AI Workforce Hub
 - 📍 **Location:** United States
+- 💰 **Salary:** $100–$150 per hour
 - 🕒 **Posted:** 2026-09-20
