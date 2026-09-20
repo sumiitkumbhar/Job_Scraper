@@ -1,17 +1,77 @@
 {
-  "updated_at": "2026-09-19T10:34:20.768079+00:00",
+  "updated_at": "2026-09-20T10:57:03.230285+00:00",
   "register_source": "https://assets.publishing.service.gov.uk/media/6aacebbdce3f006bd4346c6b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-09-18.csv",
   "register_org_count": 126558,
   "company_counts": {
-    "confirmed": 195,
-    "likely": 522,
-    "not_found": 486,
+    "confirmed": 197,
+    "likely": 524,
+    "not_found": 483,
     "unknown": 2
   },
   "companies": {
+    "Arcadis": {
+      "status": "confirmed",
+      "matched_name": "Arcadis LLP"
+    },
     "Built": {
       "status": "likely",
       "matched_name": "ASBUILT DIGITAL UK LIMITED"
+    },
+    "Sability": {
+      "status": "likely",
+      "matched_name": "Action for Health, Education and Disability (AHEAD) International"
+    },
+    "Uniti Group Inc.": {
+      "status": "likely",
+      "matched_name": "ACORN DAY OPPORTUNITIES LTD"
+    },
+    "Jobright.ai": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "FAMU National Alumni Association": {
+      "status": "likely",
+      "matched_name": "Asso Ltd"
+    },
+    "DHYBRID Power Systems GmbH": {
+      "status": "likely",
+      "matched_name": "System ltd"
+    },
+    "Ferrero": {
+      "status": "confirmed",
+      "matched_name": "Ferrero UK Limited"
+    },
+    "Vantor": {
+      "status": "likely",
+      "matched_name": "Vantor Technologies UK Ltd"
+    },
+    "Fidelity Investments": {
+      "status": "likely",
+      "matched_name": "Fidel Limited"
+    },
+    "Mission Technologies, a division of HII": {
+      "status": "likely",
+      "matched_name": "Ion Technologies Ltd"
+    },
+    "Evlo AI": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Elite Technology": {
+      "status": "likely",
+      "matched_name": "Elite Ltd"
+    },
+    "SBM Management Services, LP": {
+      "status": "likely",
+      "matched_name": "Vice UK Limited"
+    },
+    "Allspring Global Investments": {
+      "status": "confirmed",
+      "matched_name": "Allspring Global Investments (UK) Limited"
+    },
+    "Greenberg Traurig, LLP": {
+      "status": "confirmed",
+      "matched_name": "Greenberg Traurig, LLP"
     },
     "Meta": {
       "status": "likely",
@@ -100,10 +160,6 @@
     "General Dynamics Information Technology": {
       "status": "likely",
       "matched_name": "Inform Holdings Ltd"
-    },
-    "Uniti Group Inc.": {
-      "status": "likely",
-      "matched_name": "ACORN DAY OPPORTUNITIES LTD"
     },
     "5th Revolution": {
       "status": "likely",
@@ -301,10 +357,6 @@
       "status": "not_found",
       "matched_name": null
     },
-    "Fidelity Investments": {
-      "status": "likely",
-      "matched_name": "Fidel Limited"
-    },
     "JTEKT North America Corporation": {
       "status": "not_found",
       "matched_name": null
@@ -456,10 +508,6 @@
     "Owen Thomas | B Corp\u2122": {
       "status": "not_found",
       "matched_name": null
-    },
-    "Vantor": {
-      "status": "likely",
-      "matched_name": "Vantor Technologies UK Ltd"
     },
     "OASES": {
       "status": "confirmed",
@@ -953,19 +1001,11 @@
       "status": "not_found",
       "matched_name": null
     },
-    "Jobright.ai": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "Dataminr": {
       "status": "confirmed",
       "matched_name": "Dataminr UK Ltd"
     },
     "Fifth Third Bank": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Evlo AI": {
       "status": "not_found",
       "matched_name": null
     },
@@ -1500,10 +1540,6 @@
     "Apollo.io": {
       "status": "likely",
       "matched_name": "ZENLEADS INTERNATIONAL LIMITED (Trading as Apollo.io)"
-    },
-    "Mission Technologies, a division of HII": {
-      "status": "likely",
-      "matched_name": "Ion Technologies Ltd"
     },
     "ConstructConnect": {
       "status": "likely",
@@ -3933,10 +3969,6 @@
       "status": "not_found",
       "matched_name": null
     },
-    "Arcadis": {
-      "status": "confirmed",
-      "matched_name": "Arcadis LLP"
-    },
     "Eurofins": {
       "status": "likely",
       "matched_name": "Eurofins Agroscience Services Limited"
@@ -4800,34 +4832,6 @@
     "Department of Resources Recycling & Recovery": {
       "status": "likely",
       "matched_name": "Ecover UK Limited"
-    },
-    "American Water": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "QK": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Solano County": {
-      "status": "likely",
-      "matched_name": "Count LTD"
-    },
-    "Transportation Security Administration": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Office of the Secretary of Transportation": {
-      "status": "likely",
-      "matched_name": "Office Holdings Limited"
-    },
-    "Department of Toxic Substances Control": {
-      "status": "likely",
-      "matched_name": "Ontro Ltd"
-    },
-    "Geosyntec Consultants": {
-      "status": "confirmed",
-      "matched_name": "Geosyntec Consultants Ltd"
     }
   }
 }
