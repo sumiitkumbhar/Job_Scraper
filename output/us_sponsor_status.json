@@ -1,21 +1,96 @@
 {
-  "updated_at": "2026-09-19T11:16:21.096041+00:00",
+  "updated_at": "2026-09-20T11:40:49.676433+00:00",
   "source_files": [
     "https://www.dol.gov/media/LCA_Disclosure_Data_FY2026_Q3.xlsx",
     "https://www.dol.gov/sites/dolgov/files/ETA/oflc/pdfs/LCA_Disclosure_Data_FY2025_Q4.xlsx"
   ],
   "employer_count": 60026,
   "company_counts": {
-    "confirmed": 258,
-    "likely": 417,
-    "not_found": 528,
+    "confirmed": 259,
+    "likely": 420,
+    "not_found": 525,
     "unknown": 2
   },
   "companies": {
+    "Arcadis": {
+      "status": "confirmed",
+      "matched_name": "Arcadis Inc.",
+      "certified_lca_count": 17
+    },
     "Built": {
       "status": "likely",
       "matched_name": "HartBuilt Construction Corp",
       "certified_lca_count": 1
+    },
+    "Sability": {
+      "status": "likely",
+      "matched_name": "Usability Sciences Corporation",
+      "certified_lca_count": 1
+    },
+    "Uniti Group Inc.": {
+      "status": "likely",
+      "matched_name": "Mercy Clinic Springfield Communities",
+      "certified_lca_count": 28
+    },
+    "Jobright.ai": {
+      "status": "likely",
+      "matched_name": "Jobright Inc.",
+      "certified_lca_count": 1
+    },
+    "FAMU National Alumni Association": {
+      "status": "likely",
+      "matched_name": "SOCi, Inc.",
+      "certified_lca_count": 1
+    },
+    "DHYBRID Power Systems GmbH": {
+      "status": "likely",
+      "matched_name": "R SYSTEMS INC.",
+      "certified_lca_count": 22
+    },
+    "Ferrero": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Vantor": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Fidelity Investments": {
+      "status": "likely",
+      "matched_name": "Fidelity Technology Group, LLC d/b/a Fidelity Investments",
+      "certified_lca_count": 2661
+    },
+    "Mission Technologies, a division of HII": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Evlo AI": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Elite Technology": {
+      "status": "likely",
+      "matched_name": "Technology Holding, LLC",
+      "certified_lca_count": 2
+    },
+    "SBM Management Services, LP": {
+      "status": "likely",
+      "matched_name": "Corporation Service Company",
+      "certified_lca_count": 21
+    },
+    "Allspring Global Investments": {
+      "status": "confirmed",
+      "matched_name": "Allspring Global Investments Holdings, LLC",
+      "certified_lca_count": 7
+    },
+    "Greenberg Traurig, LLP": {
+      "status": "confirmed",
+      "matched_name": "Greenberg Traurig, LLP",
+      "certified_lca_count": 16
     },
     "Meta": {
       "status": "likely",
@@ -126,11 +201,6 @@
       "status": "confirmed",
       "matched_name": "General Dynamics Information Technology, Inc.",
       "certified_lca_count": 27
-    },
-    "Uniti Group Inc.": {
-      "status": "likely",
-      "matched_name": "Mercy Clinic Springfield Communities",
-      "certified_lca_count": 28
     },
     "5th Revolution": {
       "status": "not_found",
@@ -377,11 +447,6 @@
       "matched_name": null,
       "certified_lca_count": 0
     },
-    "Fidelity Investments": {
-      "status": "likely",
-      "matched_name": "Fidelity Technology Group, LLC d/b/a Fidelity Investments",
-      "certified_lca_count": 2661
-    },
     "JTEKT North America Corporation": {
       "status": "confirmed",
       "matched_name": "JTEKT North America Corporation",
@@ -568,11 +633,6 @@
       "certified_lca_count": 0
     },
     "Owen Thomas | B Corp\u2122": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Vantor": {
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
@@ -1192,11 +1252,6 @@
       "matched_name": "Group Health, Inc.",
       "certified_lca_count": 41
     },
-    "Jobright.ai": {
-      "status": "likely",
-      "matched_name": "Jobright Inc.",
-      "certified_lca_count": 1
-    },
     "Dataminr": {
       "status": "confirmed",
       "matched_name": "Dataminr, Inc.",
@@ -1206,11 +1261,6 @@
       "status": "likely",
       "matched_name": "Fifth Third Bank, National Association",
       "certified_lca_count": 59
-    },
-    "Evlo AI": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
     },
     "World Wide Technology": {
       "status": "confirmed",
@@ -1873,11 +1923,6 @@
       "certified_lca_count": 0
     },
     "Apollo.io": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Mission Technologies, a division of HII": {
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
@@ -4917,11 +4962,6 @@
       "matched_name": null,
       "certified_lca_count": 0
     },
-    "Arcadis": {
-      "status": "confirmed",
-      "matched_name": "Arcadis Inc.",
-      "certified_lca_count": 17
-    },
     "Eurofins": {
       "status": "likely",
       "matched_name": "Eurofins EAG Materials Science, LLC",
@@ -6001,41 +6041,6 @@
       "status": "likely",
       "matched_name": "Source LLC",
       "certified_lca_count": 1
-    },
-    "American Water": {
-      "status": "likely",
-      "matched_name": "American Water Works Service Company, Inc.",
-      "certified_lca_count": 5
-    },
-    "QK": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Solano County": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Transportation Security Administration": {
-      "status": "likely",
-      "matched_name": "Curi Holdings, Inc",
-      "certified_lca_count": 2
-    },
-    "Office of the Secretary of Transportation": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Department of Toxic Substances Control": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Geosyntec Consultants": {
-      "status": "confirmed",
-      "matched_name": "Geosyntec Consultants, Inc.",
-      "certified_lca_count": 50
     }
   }
 }
