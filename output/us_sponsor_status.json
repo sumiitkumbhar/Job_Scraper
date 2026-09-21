@@ -1,17 +1,97 @@
 {
-  "updated_at": "2026-09-20T11:40:49.676433+00:00",
+  "updated_at": "2026-09-21T13:05:35.309526+00:00",
   "source_files": [
     "https://www.dol.gov/media/LCA_Disclosure_Data_FY2026_Q3.xlsx",
     "https://www.dol.gov/sites/dolgov/files/ETA/oflc/pdfs/LCA_Disclosure_Data_FY2025_Q4.xlsx"
   ],
   "employer_count": 60026,
   "company_counts": {
-    "confirmed": 259,
-    "likely": 420,
-    "not_found": 525,
+    "confirmed": 261,
+    "likely": 423,
+    "not_found": 527,
     "unknown": 2
   },
   "companies": {
+    "Street Group": {
+      "status": "likely",
+      "matched_name": "State Street Bank and Trust Company",
+      "certified_lca_count": 357
+    },
+    "Wise": {
+      "status": "likely",
+      "matched_name": "Bitwise Inc.",
+      "certified_lca_count": 69
+    },
+    "The Guildhall Northampton": {
+      "status": "likely",
+      "matched_name": "North, Inc.",
+      "certified_lca_count": 6
+    },
+    "Swarmia": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Aeko": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "GSM - Green SM": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Tangent": {
+      "status": "likely",
+      "matched_name": "Tangent Technologies, LLC.",
+      "certified_lca_count": 1
+    },
+    "United Utilities": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Cetera Financial Group": {
+      "status": "confirmed",
+      "matched_name": "Cetera Financial Group, Inc.",
+      "certified_lca_count": 10
+    },
+    "AI Workforce Hub": {
+      "status": "likely",
+      "matched_name": "KFORCE INC.",
+      "certified_lca_count": 773
+    },
+    "Jobright.ai": {
+      "status": "likely",
+      "matched_name": "Jobright Inc.",
+      "certified_lca_count": 1
+    },
+    "Rocket Software": {
+      "status": "confirmed",
+      "matched_name": "Rocket Software, Inc.",
+      "certified_lca_count": 15
+    },
+    "Conduit": {
+      "status": "likely",
+      "matched_name": "ALLIED TUBE AND CONDUIT CORPORATION",
+      "certified_lca_count": 5
+    },
+    "Commerce": {
+      "status": "likely",
+      "matched_name": "Global Mail, Inc. d/b/a DHL eCommerce",
+      "certified_lca_count": 10
+    },
+    "Northrop Grumman": {
+      "status": "likely",
+      "matched_name": "North, Inc.",
+      "certified_lca_count": 6
+    },
+    "Aires": {
+      "status": "likely",
+      "matched_name": "Airesafe International USA, Inc.",
+      "certified_lca_count": 1
+    },
     "Arcadis": {
       "status": "confirmed",
       "matched_name": "Arcadis Inc.",
@@ -31,11 +111,6 @@
       "status": "likely",
       "matched_name": "Mercy Clinic Springfield Communities",
       "certified_lca_count": 28
-    },
-    "Jobright.ai": {
-      "status": "likely",
-      "matched_name": "Jobright Inc.",
-      "certified_lca_count": 1
     },
     "FAMU National Alumni Association": {
       "status": "likely",
@@ -1272,11 +1347,6 @@
       "matched_name": null,
       "certified_lca_count": 0
     },
-    "Commerce": {
-      "status": "likely",
-      "matched_name": "Global Mail, Inc. d/b/a DHL eCommerce",
-      "certified_lca_count": 10
-    },
     "West Northamptonshire Council": {
       "status": "likely",
       "matched_name": "North, Inc.",
@@ -1696,11 +1766,6 @@
       "status": "confirmed",
       "matched_name": "BEST BUY CO., INC.",
       "certified_lca_count": 178
-    },
-    "Northrop Grumman": {
-      "status": "likely",
-      "matched_name": "North, Inc.",
-      "certified_lca_count": 6
     },
     "Strategic ACI": {
       "status": "not_found",
@@ -2586,11 +2651,6 @@
       "status": "likely",
       "matched_name": "NTT DATA Americas, Inc.",
       "certified_lca_count": 270
-    },
-    "The Guildhall Northampton": {
-      "status": "likely",
-      "matched_name": "North, Inc.",
-      "certified_lca_count": 6
     },
     "Women in Tech": {
       "status": "not_found",
@@ -3742,11 +3802,6 @@
       "matched_name": "DOT COMPLIANCE INC",
       "certified_lca_count": 2
     },
-    "Tangent": {
-      "status": "likely",
-      "matched_name": "Tangent Technologies, LLC.",
-      "certified_lca_count": 1
-    },
     "Crossover": {
       "status": "likely",
       "matched_name": "TCG Crossover Management LLC",
@@ -4441,11 +4496,6 @@
       "status": "likely",
       "matched_name": "Barton LLP",
       "certified_lca_count": 1
-    },
-    "Street Group": {
-      "status": "likely",
-      "matched_name": "State Street Bank and Trust Company",
-      "certified_lca_count": 357
     },
     "Propelr": {
       "status": "not_found",
@@ -6026,21 +6076,6 @@
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
-    },
-    "J&T Business Consulting": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Caltrans - CA Dept. of Transportation": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Department of Resources Recycling & Recovery": {
-      "status": "likely",
-      "matched_name": "Source LLC",
-      "certified_lca_count": 1
     }
   }
 }
