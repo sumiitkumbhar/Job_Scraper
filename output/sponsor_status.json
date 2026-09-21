@@ -1,14 +1,78 @@
 {
-  "updated_at": "2026-09-20T10:57:03.230285+00:00",
-  "register_source": "https://assets.publishing.service.gov.uk/media/6aacebbdce3f006bd4346c6b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-09-18.csv",
-  "register_org_count": 126558,
+  "updated_at": "2026-09-21T12:23:04.451290+00:00",
+  "register_source": "https://assets.publishing.service.gov.uk/media/6ab103433f8e4e96a6a66a9b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-09-21.csv",
+  "register_org_count": 126554,
   "company_counts": {
-    "confirmed": 197,
-    "likely": 524,
-    "not_found": 483,
+    "confirmed": 200,
+    "likely": 529,
+    "not_found": 482,
     "unknown": 2
   },
   "companies": {
+    "Street Group": {
+      "status": "likely",
+      "matched_name": "10 DINING STREET LIMITED"
+    },
+    "Wise": {
+      "status": "confirmed",
+      "matched_name": "UK Wise Group Ltd"
+    },
+    "The Guildhall Northampton": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Swarmia": {
+      "status": "likely",
+      "matched_name": "Warm Limited"
+    },
+    "Aeko": {
+      "status": "likely",
+      "matched_name": "Anaeko Limited"
+    },
+    "GSM - Green SM": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Tangent": {
+      "status": "likely",
+      "matched_name": "Tang & Co Limited"
+    },
+    "United Utilities": {
+      "status": "confirmed",
+      "matched_name": "United Utilities PLC"
+    },
+    "Cetera Financial Group": {
+      "status": "likely",
+      "matched_name": "ANCI GROUP LIMITED"
+    },
+    "AI Workforce Hub": {
+      "status": "likely",
+      "matched_name": "WORK LIMITED"
+    },
+    "Jobright.ai": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Rocket Software": {
+      "status": "confirmed",
+      "matched_name": "Rocket Software UK Limited"
+    },
+    "Conduit": {
+      "status": "likely",
+      "matched_name": "Conduit Real Estate Ltd"
+    },
+    "Commerce": {
+      "status": "likely",
+      "matched_name": "247 Commerce Ltd"
+    },
+    "Northrop Grumman": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Aires": {
+      "status": "likely",
+      "matched_name": "BS.AS. Maidstone Ltd T/A Buenos Aires Nights"
+    },
     "Arcadis": {
       "status": "confirmed",
       "matched_name": "Arcadis LLP"
@@ -24,10 +88,6 @@
     "Uniti Group Inc.": {
       "status": "likely",
       "matched_name": "ACORN DAY OPPORTUNITIES LTD"
-    },
-    "Jobright.ai": {
-      "status": "not_found",
-      "matched_name": null
     },
     "FAMU National Alumni Association": {
       "status": "likely",
@@ -1017,10 +1077,6 @@
       "status": "not_found",
       "matched_name": null
     },
-    "Commerce": {
-      "status": "likely",
-      "matched_name": "247 Commerce Ltd"
-    },
     "West Northamptonshire Council": {
       "status": "confirmed",
       "matched_name": "West Northamptonshire Council"
@@ -1357,10 +1413,6 @@
       "status": "confirmed",
       "matched_name": "Best Buy UK Ltd"
     },
-    "Northrop Grumman": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "Strategic ACI": {
       "status": "likely",
       "matched_name": "ATEGI LIMITED"
@@ -1650,8 +1702,8 @@
       "matched_name": "Relativity Global LLC"
     },
     "Xcel Energy": {
-      "status": "not_found",
-      "matched_name": null
+      "status": "likely",
+      "matched_name": "Excel Energy ltd"
     },
     "Altura Search": {
       "status": "likely",
@@ -2068,10 +2120,6 @@
     "NTT DATA": {
       "status": "confirmed",
       "matched_name": "NTT DATA UK LIMITED"
-    },
-    "The Guildhall Northampton": {
-      "status": "not_found",
-      "matched_name": null
     },
     "Women in Tech": {
       "status": "likely",
@@ -2993,10 +3041,6 @@
       "status": "not_found",
       "matched_name": null
     },
-    "Tangent": {
-      "status": "likely",
-      "matched_name": "Tang & Co Limited"
-    },
     "Crossover": {
       "status": "likely",
       "matched_name": "Crossover Care Ltd"
@@ -3251,7 +3295,7 @@
     },
     "Autoglass\u00ae": {
       "status": "likely",
-      "matched_name": "UK Glass Ltd"
+      "matched_name": "TOGL (HOLDINGS) LIMITED"
     },
     "Cellebrite": {
       "status": "confirmed",
@@ -3552,10 +3596,6 @@
     "West Dunbartonshire Council": {
       "status": "likely",
       "matched_name": "The West Group"
-    },
-    "Street Group": {
-      "status": "likely",
-      "matched_name": "10 DINING STREET LIMITED"
     },
     "Propelr": {
       "status": "likely",
@@ -4820,18 +4860,6 @@
     "County of Mendocino": {
       "status": "likely",
       "matched_name": "Count LTD"
-    },
-    "J&T Business Consulting": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Caltrans - CA Dept. of Transportation": {
-      "status": "likely",
-      "matched_name": "Dept UK Holding Ltd"
-    },
-    "Department of Resources Recycling & Recovery": {
-      "status": "likely",
-      "matched_name": "Ecover UK Limited"
     }
   }
 }
