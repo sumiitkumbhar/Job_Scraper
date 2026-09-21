@@ -1,94 +1,77 @@
 # 🔥 LinkedIn — Sumit's Planning & PropTech Roles
-*Last updated: 2026-09-21 20:35 UTC*
+*Last updated: 2026-09-21 23:56 UTC*
 
-**19 new role(s)** since last run · 19 total in last 1h
+**16 new role(s)** since last run · 16 total in last 1h
 
-### [Assistant Planner - Heavy Duty Truck Shop](https://www.linkedin.com/jobs/view/4469972200/) — Freeport-McMoRan
-- 📍 **Location:** Morenci, AZ
-- 💰 **Salary:** $28.00 - $38.00/hour
+### [Compliance Analyst, Entry Level](https://www.linkedin.com/jobs/view/4468187220/) — Jobright.ai
+- 📍 **Location:** United Kingdom
 - 🕒 **Posted:** 2026-09-21
 
-### [Associate GIS Analyst](https://www.linkedin.com/jobs/view/4468135552/) — TRC Companies, Inc.
-- 📍 **Location:** Woodinville, WA
-- 💰 **Salary:** USD $30.00 - USD $36.00 /Hr
+### [Customer Success Manager](https://www.linkedin.com/jobs/view/4468775473/) — SoftwareOne
+- 📍 **Location:** Amsterdam, North Holland, Netherlands
 - 🕒 **Posted:** 2026-09-21
 
-### [Digital Customer Success Program Manager](https://www.linkedin.com/jobs/view/4464946182/) — STACK Construction Technologies
-- 📍 **Location:** Cincinnati, OH
+### [GIS Analyst (On-Call)](https://www.linkedin.com/jobs/view/4469994947/) — ICF
+- 📍 **Location:** San Diego, CA
+- 💰 **Salary:** $60,967.00 - $103,643.00
 - 🕒 **Posted:** 2026-09-21
 
-### [Manager of Customer Success](https://www.linkedin.com/jobs/view/4464681371/) — STACK Construction Technologies
-- 📍 **Location:** Cincinnati, OH
+### [Senior Technical Implementation Consultant - Corporate Travel](https://www.linkedin.com/jobs/view/4468195003/) — Direct Travel
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-21
 
-### [Customer Success Manager](https://www.linkedin.com/jobs/view/4468142627/) — Forerunner
-- 📍 **Location:** Portland, ME
-- 💰 **Salary:** $90,000-$120,000
+### [Implementation Consultant - Enterprise Corrections](https://www.linkedin.com/jobs/view/4469991674/) — Tyler Technologies
+- 📍 **Location:** Franklin, TN
 - 🕒 **Posted:** 2026-09-21
 
-### [Customer Success Manager](https://www.linkedin.com/jobs/view/4468152067/) — SmartFinancial
-- 📍 **Location:** Newport Beach, CA
+### [VP, Customer Success](https://www.linkedin.com/jobs/view/4468165860/) — Reltio
+- 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $245,000—$300,000 USD
 - 🕒 **Posted:** 2026-09-21
 
-### [Customer Success Manager (SaaS) | New York hybrid](https://www.linkedin.com/jobs/view/4469952677/) — Workwize
+### [Customer Success Manager](https://www.linkedin.com/jobs/view/4470218076/) — JD Power
+- 📍 **Location:** United States
+- 💰 **Salary:** $56,500 - $74,500 USD per year
+- 🕒 **Posted:** 2026-09-21
+
+### [Enterprise Customer Success Manager](https://www.linkedin.com/jobs/view/4468179115/) — Imprivata
+- 📍 **Location:** United States
+- 💰 **Salary:** $136,000.00 to $166,000.00
+- 🕒 **Posted:** 2026-09-21
+
+### [Customer Success Manager](https://www.linkedin.com/jobs/view/4470203349/) — Swooped
+- 📍 **Location:** United States
+- 💰 **Salary:** $75,000 - $105,000
+- 🕒 **Posted:** 2026-09-21
+
+### [Customer Success Program Manager – Financial Technology](https://www.linkedin.com/jobs/view/4460930293/) — MarketStar
+- 📍 **Location:** United States
+- 💰 **Salary:** $90,000.00/yr - $120,000.00/yr
+- 🕒 **Posted:** 2026-09-21
+
+### [Customer Success Manager](https://www.linkedin.com/jobs/view/4470210299/) — NinjaOne
+- 📍 **Location:** Austin, Texas Metropolitan Area
+- 🕒 **Posted:** 2026-09-21
+
+### [Compliance Analyst - Senior Compliance Analyst](https://www.linkedin.com/jobs/view/4468317143/) — Duke Energy Corporation
+- 📍 **Location:** Belews Creek, NC
+- 🕒 **Posted:** 2026-09-21
+
+### [Information Governance Risk and Compliance Analyst](https://www.linkedin.com/jobs/view/4468191112/) — Fried Frank
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $80,000—$105,000 USD
+- 💰 **Salary:** $110,000—$125,000 USD
 - 🕒 **Posted:** 2026-09-21
 
-### [Customer Success Manager](https://www.linkedin.com/jobs/view/4468143175/) — Cennox
-- 📍 **Location:** United States
+### [Regulatory Compliance Consultant CII](https://www.linkedin.com/jobs/view/4470205011/) — Wipfli
+- 📍 **Location:** Rockford, IL
+- 💰 **Salary:** $66,000-89,000
 - 🕒 **Posted:** 2026-09-21
 
-### [Customer Success Representative - SiliconExpert](https://www.linkedin.com/jobs/view/4468135887/) — Arrow Electronics
-- 📍 **Location:** Centennial, CO
-- 💰 **Salary:** $22.11 - $27.03
+### [Regulatory Compliance Consultant CII](https://www.linkedin.com/jobs/view/4469986882/) — Wipfli
+- 📍 **Location:** Green Bay, WI
 - 🕒 **Posted:** 2026-09-21
 
-### [Customer Success Manager - I](https://www.linkedin.com/jobs/view/4467774368/) — Medtronic
-- 📍 **Location:** Lafayette, CO
-- 💰 **Salary:** $134,400.00 - $201,600.00
-- 🕒 **Posted:** 2026-09-21
-
-### [Customer Success Representative - SiliconExpert](https://www.linkedin.com/jobs/view/4468129908/) — Arrow Electronics
-- 📍 **Location:** Santa Clara, CA
-- 💰 **Salary:** $22.11 - $27.03
-- 🕒 **Posted:** 2026-09-21
-
-### [Compliance Analyst](https://www.linkedin.com/jobs/view/4469961676/) — LHH
-- 📍 **Location:** United States
-- 💰 **Salary:** $65,000.00/yr - $100,000.00/yr
-- 🕒 **Posted:** 2026-09-21
-
-### [Information Technology Compliance Analyst](https://www.linkedin.com/jobs/view/4469958648/) — Integrated Resources, Inc ( IRI )
-- 📍 **Location:** Rosemead, CA
-- 💰 **Salary:** $65.00/hr - $71.00/hr
-- 🕒 **Posted:** 2026-09-21
-
-### [Compliance Analyst - Remote](https://www.linkedin.com/jobs/view/4468144394/) — River
-- 📍 **Location:** United States
-- 💰 **Salary:** $75,000 - $85,000
-- 🕒 **Posted:** 2026-09-21
-
-### [Customer Success Representative - SiliconExpert](https://www.linkedin.com/jobs/view/4468145551/) — Arrow Electronics
-- 📍 **Location:** Melville, NY
-- 💰 **Salary:** $22.11 - $27.03
-- 🕒 **Posted:** 2026-09-21
-
-### [Senior Customer Success Manager](https://www.linkedin.com/jobs/view/4469959800/) — Stripe
+### [Enterprise Customer Success Manager](https://www.linkedin.com/jobs/view/4470208105/) — Too Good To Go
 - 📍 **Location:** New York, United States
-- 💰 **Salary:** $165,000 - $247,600
-- 🕒 **Posted:** 2026-09-21
-
-### [Customer Success Manager](https://www.linkedin.com/jobs/view/4469957946/) — Stripe
-- 📍 **Location:** New York, United States
-- 💰 **Salary:** $128,600 - $193,000
-- 🕒 **Posted:** 2026-09-21
-
-### [Technical Customer Success Manager](https://www.linkedin.com/jobs/view/4468132825/) — MintMCP
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-21
-
-### [Customer Success Manager, Enterprise](https://www.linkedin.com/jobs/view/4469970522/) — Stripe
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $220,300 - $330,500
+- 💰 **Salary:** $85,000 - $105,000
 - 🕒 **Posted:** 2026-09-21
