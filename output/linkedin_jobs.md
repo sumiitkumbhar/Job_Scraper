@@ -1,30 +1,24 @@
 # 🔥 LinkedIn — Sumit's Planning & PropTech Roles
-*Last updated: 2026-09-21 01:42 UTC*
+*Last updated: 2026-09-21 06:56 UTC*
 
-**6 new role(s)** since last run · 6 total in last 1h
+**5 new role(s)** since last run · 5 total in last 1h
 
-### [Graduate Customer Success Manager at London Tech Company (£30-45k base salary + Hybrid)](https://www.linkedin.com/jobs/view/4469825737/) — Tangent
-- 📍 **Location:** London Area, United Kingdom
+### [Principal Planning Policy Officer](https://www.linkedin.com/jobs/view/4467352927/) — The Guildhall Northampton
+- 📍 **Location:** Towcester, England, United Kingdom
 - 🕒 **Posted:** 2026-09-21
 
-### [Entry-level Customer Success Manager at at VC-backed startup (£30-£45k base salary)](https://www.linkedin.com/jobs/view/4469821849/) — Tangent
-- 📍 **Location:** London Area, United Kingdom
-- 🕒 **Posted:** 2026-09-21
-
-### [Graduate Customer Success Manager at Dublin Tech Company (€30-45k base salary + Hybrid)](https://www.linkedin.com/jobs/view/4469839054/) — Tangent
+### [Customer Success Manager (Engineering Intelligence Platform)](https://www.linkedin.com/jobs/view/4467363241/) — Swarmia
 - 📍 **Location:** Dublin, County Dublin, Ireland
 - 🕒 **Posted:** 2026-09-21
 
-### [Entry-level Customer Success Manager at Dublin Tech Company (€30-45k base salary + Hybrid)](https://www.linkedin.com/jobs/view/4469822781/) — Tangent
-- 📍 **Location:** Dublin, County Dublin, Ireland
+### [Expansion Customer Success Manager (m/w/d)  Frankreich C2 FR/DE](https://www.linkedin.com/jobs/view/4468066245/) — Pflegia
+- 📍 **Location:** Berlin, Berlin, Germany
 - 🕒 **Posted:** 2026-09-21
 
-### [Sr Customer Success Manager](https://www.linkedin.com/jobs/view/4461691498/) — KWI
-- 📍 **Location:** Melville, NY
-- 💰 **Salary:** $110,000.00/yr - $110,000.00/yr
+### [Customer Success Manager](https://www.linkedin.com/jobs/view/4468499575/) — Aeko
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-21
 
-### [Enterprise Customer Success Manager, North America](https://www.linkedin.com/jobs/view/4469837070/) — Cogent Communications
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $20.00- $52.88 per hour
+### [Customer Success Manager](https://www.linkedin.com/jobs/view/4467359382/) — GSM - Green SM
+- 📍 **Location:** Gardena, CA
 - 🕒 **Posted:** 2026-09-21
