@@ -1,77 +1,64 @@
 # 🔥 LinkedIn — Sumit's Planning & PropTech Roles
-*Last updated: 2026-09-21 23:56 UTC*
+*Last updated: 2026-09-22 02:24 UTC*
 
-**16 new role(s)** since last run · 16 total in last 1h
+**14 new role(s)** since last run · 14 total in last 1h
 
-### [Compliance Analyst, Entry Level](https://www.linkedin.com/jobs/view/4468187220/) — Jobright.ai
-- 📍 **Location:** United Kingdom
-- 🕒 **Posted:** 2026-09-21
+### [Manager, Technical Programmatic Solutions Consultants, Amazon Ads](https://www.linkedin.com/jobs/view/4470202767/) — Amazon
+- 📍 **Location:** London, England, United Kingdom
+- 🕒 **Posted:** 2026-09-22
 
-### [Customer Success Manager](https://www.linkedin.com/jobs/view/4468775473/) — SoftwareOne
+### [Customer Success Manager | Amsterdam Hybrid](https://www.linkedin.com/jobs/view/4470236194/) — Workwize
 - 📍 **Location:** Amsterdam, North Holland, Netherlands
-- 🕒 **Posted:** 2026-09-21
+- 🕒 **Posted:** 2026-09-22
 
-### [GIS Analyst (On-Call)](https://www.linkedin.com/jobs/view/4469994947/) — ICF
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $60,967.00 - $103,643.00
-- 🕒 **Posted:** 2026-09-21
+### [Werkstudent Customer Success (F/M/*)](https://www.linkedin.com/jobs/view/4468155164/) — amber
+- 📍 **Location:** Aachen, North Rhine-Westphalia, Germany
+- 🕒 **Posted:** 2026-09-22
 
-### [Senior Technical Implementation Consultant - Corporate Travel](https://www.linkedin.com/jobs/view/4468195003/) — Direct Travel
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-21
+### [Werkstudent Customer Success (F/M/*)](https://www.linkedin.com/jobs/view/4468140972/) — amber
+- 📍 **Location:** Cologne, North Rhine-Westphalia, Germany
+- 🕒 **Posted:** 2026-09-22
 
-### [Implementation Consultant - Enterprise Corrections](https://www.linkedin.com/jobs/view/4469991674/) — Tyler Technologies
-- 📍 **Location:** Franklin, TN
-- 🕒 **Posted:** 2026-09-21
+### [Manager of Customer Success](https://www.linkedin.com/jobs/view/4464681371/) — STACK Construction Technologies
+- 📍 **Location:** Cincinnati, OH
+- 🕒 **Posted:** 2026-09-22
 
-### [VP, Customer Success](https://www.linkedin.com/jobs/view/4468165860/) — Reltio
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $245,000—$300,000 USD
-- 🕒 **Posted:** 2026-09-21
+### [Corporate Planning Analyst](https://www.linkedin.com/jobs/view/4468788751/) — Plains
+- 📍 **Location:** Houston, TX
+- 🕒 **Posted:** 2026-09-22
 
-### [Customer Success Manager](https://www.linkedin.com/jobs/view/4470218076/) — JD Power
-- 📍 **Location:** United States
-- 💰 **Salary:** $56,500 - $74,500 USD per year
-- 🕒 **Posted:** 2026-09-21
+### [Customer Success Manager II](https://www.linkedin.com/jobs/view/4470245029/) — Todyl
+- 📍 **Location:** Denver, CO
+- 💰 **Salary:** $80,000.00/yr - $85,000.00/yr
+- 🕒 **Posted:** 2026-09-22
 
-### [Enterprise Customer Success Manager](https://www.linkedin.com/jobs/view/4468179115/) — Imprivata
-- 📍 **Location:** United States
-- 💰 **Salary:** $136,000.00 to $166,000.00
-- 🕒 **Posted:** 2026-09-21
-
-### [Customer Success Manager](https://www.linkedin.com/jobs/view/4470203349/) — Swooped
-- 📍 **Location:** United States
-- 💰 **Salary:** $75,000 - $105,000
-- 🕒 **Posted:** 2026-09-21
-
-### [Customer Success Program Manager – Financial Technology](https://www.linkedin.com/jobs/view/4460930293/) — MarketStar
-- 📍 **Location:** United States
-- 💰 **Salary:** $90,000.00/yr - $120,000.00/yr
-- 🕒 **Posted:** 2026-09-21
-
-### [Customer Success Manager](https://www.linkedin.com/jobs/view/4470210299/) — NinjaOne
-- 📍 **Location:** Austin, Texas Metropolitan Area
-- 🕒 **Posted:** 2026-09-21
-
-### [Compliance Analyst - Senior Compliance Analyst](https://www.linkedin.com/jobs/view/4468317143/) — Duke Energy Corporation
-- 📍 **Location:** Belews Creek, NC
-- 🕒 **Posted:** 2026-09-21
-
-### [Information Governance Risk and Compliance Analyst](https://www.linkedin.com/jobs/view/4468191112/) — Fried Frank
+### [Customer Success Engineer](https://www.linkedin.com/jobs/view/4468782627/) — Flint
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $110,000—$125,000 USD
-- 🕒 **Posted:** 2026-09-21
+- 💰 **Salary:** $100,000.00/yr - $140,000.00/yr
+- 🕒 **Posted:** 2026-09-22
 
-### [Regulatory Compliance Consultant CII](https://www.linkedin.com/jobs/view/4470205011/) — Wipfli
-- 📍 **Location:** Rockford, IL
-- 💰 **Salary:** $66,000-89,000
-- 🕒 **Posted:** 2026-09-21
+### [Customer Success and Implementation Lead](https://www.linkedin.com/jobs/view/4468776987/) — Eddi
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-09-22
 
-### [Regulatory Compliance Consultant CII](https://www.linkedin.com/jobs/view/4469986882/) — Wipfli
-- 📍 **Location:** Green Bay, WI
-- 🕒 **Posted:** 2026-09-21
+### [Sr Customer Success Manager](https://www.linkedin.com/jobs/view/4461691498/) — KWI
+- 📍 **Location:** Melville, NY
+- 💰 **Salary:** $110,000.00/yr - $110,000.00/yr
+- 🕒 **Posted:** 2026-09-22
 
-### [Enterprise Customer Success Manager](https://www.linkedin.com/jobs/view/4470208105/) — Too Good To Go
-- 📍 **Location:** New York, United States
-- 💰 **Salary:** $85,000 - $105,000
-- 🕒 **Posted:** 2026-09-21
+### [Regulatory Analyst](https://www.linkedin.com/jobs/view/4470237390/) — Uniti Group Inc.
+- 📍 **Location:** United States
+- 💰 **Salary:** $50,000 to $74,500
+- 🕒 **Posted:** 2026-09-22
+
+### [Health Care Compliance Analyst](https://www.linkedin.com/jobs/view/4470215913/) — County of Sonoma
+- 📍 **Location:** Santa Rosa, CA
+- 🕒 **Posted:** 2026-09-22
+
+### [Senior Security Risk & Compliance Analyst](https://www.linkedin.com/jobs/view/4448562097/) — APCO Holdings, LLC
+- 📍 **Location:** Westerville, OH
+- 🕒 **Posted:** 2026-09-22
+
+### [Customer Success Manager](https://www.linkedin.com/jobs/view/4470235116/) — Digital Executive
+- 📍 **Location:** English, IA
+- 🕒 **Posted:** 2026-09-22
