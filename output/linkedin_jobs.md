@@ -1,100 +1,78 @@
 # 🔥 LinkedIn — Sumit's Planning & PropTech Roles
-*Last updated: 2026-09-22 19:36 UTC*
+*Last updated: 2026-09-22 22:50 UTC*
 
-**22 new role(s)** since last run · 22 total in last 1h
+**16 new role(s)** since last run · 16 total in last 1h
 
-### [Fleet Planning Analyst, 12-month Fixed Term Contract (FTC), Global Fleet and Products](https://www.linkedin.com/jobs/view/4470475790/) — Amazon
-- 📍 **Location:** London, England, United Kingdom
+### [Place Planning Officer (SEND)](https://www.linkedin.com/jobs/view/4470638092/) — Nottinghamshire County Council
+- 📍 **Location:** Nottinghamshire, England, United Kingdom
 - 🕒 **Posted:** 2026-09-22
 
-### [Highways Development Management Engineer](https://www.linkedin.com/jobs/view/4470425284/) — West Northamptonshire Council
-- 📍 **Location:** Northampton, England, United Kingdom
+### [Senior Town Planner](https://www.linkedin.com/jobs/view/4469050429/) — AECOM
+- 📍 **Location:** Basingstoke, England, United Kingdom
 - 🕒 **Posted:** 2026-09-22
 
-### [Planning Analyst Undergraduate Placement](https://www.linkedin.com/jobs/view/4461796430/) — Volkswagen Financial Services (UK)
-- 📍 **Location:** Milton Keynes, England, United Kingdom
+### [Schedule Planning Analyst](https://www.linkedin.com/jobs/view/4469048872/) — Westinghouse Electric Company
+- 📍 **Location:** Cranberry Township, PA
+- 💰 **Salary:** $103,400 to $129,000 per year
 - 🕒 **Posted:** 2026-09-22
 
-### [Customer Success Manager](https://www.linkedin.com/jobs/view/4470489782/) — Wordsmith AI
-- 📍 **Location:** Edinburgh, Scotland, United Kingdom
-- 🕒 **Posted:** 2026-09-22
-
-### [Onboarding and Customer Success Manager](https://www.linkedin.com/jobs/view/4470486982/) — Glassbox
-- 📍 **Location:** Norwich, England, United Kingdom
-- 🕒 **Posted:** 2026-09-22
-
-### [Customer Success Manager, Senior Manager](https://www.linkedin.com/jobs/view/4470492653/) — Salesforce
-- 📍 **Location:** London, England, United Kingdom
-- 🕒 **Posted:** 2026-09-22
-
-### [Customer Success Manager](https://www.linkedin.com/jobs/view/4452489978/) — Klipboard
-- 📍 **Location:** Nottingham, England, United Kingdom
-- 🕒 **Posted:** 2026-09-22
-
-### [Junior Planner](https://www.linkedin.com/jobs/view/4469041272/) — JD Finish Line
-- 📍 **Location:** Indianapolis, IN
-- 🕒 **Posted:** 2026-09-22
-
-### [Assoc Workforce Planning Consultant](https://www.linkedin.com/jobs/view/4468916846/) — Florida Power & Light
-- 📍 **Location:** Juno Beach, FL
-- 🕒 **Posted:** 2026-09-22
-
-### [Project Planning Analyst Associate- Transmission Program Management Office (TPMO) Scheduler](https://www.linkedin.com/jobs/view/4466942239/) — Oncor Electric Delivery
-- 📍 **Location:** Fort Worth, TX
-- 💰 **Salary:** $64,687 - $86,249
-- 🕒 **Posted:** 2026-09-22
-
-### [Yardi Implementation Consultant - Construction & Job Costing](https://www.linkedin.com/jobs/view/4469045181/) — Addison Group
-- 📍 **Location:** California, United States
-- 💰 **Salary:** $65.00/hr - $80.00/hr
-- 🕒 **Posted:** 2026-09-22
-
-### [Implementation Consultant - NetSuite](https://www.linkedin.com/jobs/view/4470492712/) — SpectrumCareers
-- 📍 **Location:** Washington DC-Baltimore Area
-- 🕒 **Posted:** 2026-09-22
-
-### [Customer Success Manager](https://www.linkedin.com/jobs/view/4469028885/) — CrowdSync
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $55,000 - $65,000
-- 🕒 **Posted:** 2026-09-22
-
-### [Customer Success Manager, Enterprise](https://www.linkedin.com/jobs/view/4469041438/) — LearnUpon
-- 📍 **Location:** Salt Lake City, UT
-- 🕒 **Posted:** 2026-09-22
-
-### [Customer Success AI Operations Lead](https://www.linkedin.com/jobs/view/4469045259/) — Beacon Hill
-- 📍 **Location:** Boston, MA
-- 💰 **Salary:** $95,000.00/yr - $117,000.00/yr
-- 🕒 **Posted:** 2026-09-22
-
-### [Dental Customer Success Specialist](https://www.linkedin.com/jobs/view/4469037901/) — SourceClub - Dental Supply Savings
-- 📍 **Location:** United States
-- 💰 **Salary:** $10,000 to $30,000
-- 🕒 **Posted:** 2026-09-22
-
-### [Government Programs Compliance Consultant - Remote](https://www.linkedin.com/jobs/view/4470494249/) — Health Care Service Corporation
-- 📍 **Location:** Nashville, TN
-- 💰 **Salary:** $61,500.00 - $136,100.00
-- 🕒 **Posted:** 2026-09-22
-
-### [Solutions Consultant](https://www.linkedin.com/jobs/view/4446348286/) — Tabs
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $120K - $185K
-- 🕒 **Posted:** 2026-09-22
-
-### [Customer Success Manager](https://www.linkedin.com/jobs/view/4470491503/) — Harris Computer
-- 📍 **Location:** New York, United States
-- 🕒 **Posted:** 2026-09-22
-
-### [Compliance Analyst 1](https://www.linkedin.com/jobs/view/4469046201/) — Maxonic Inc.
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-09-22
-
-### [Trade Compliance Analyst - Export Classification : 26-02571](https://www.linkedin.com/jobs/view/4461227692/) — Akraya, Inc.
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $25-$30/Hr
-- 🕒 **Posted:** 2026-09-22
-
-### [Senior Customer Success Manager, Strategic Account Services](https://www.linkedin.com/jobs/view/4461509521/) — Amazon
+### [Senior Customer Success Engineer, General Contractors](https://www.linkedin.com/jobs/view/4470635376/) — Procore Technologies
 - 📍 **Location:** Austin, TX
+- 🕒 **Posted:** 2026-09-22
+
+### [Workforce Planning Analyst](https://www.linkedin.com/jobs/view/4466072105/) — Regions Bank
+- 📍 **Location:** Birmingham, AL
+- 🕒 **Posted:** 2026-09-22
+
+### [Strategic Customer Success Manager](https://www.linkedin.com/jobs/view/4468920972/) — Imprivata
+- 📍 **Location:** Austin, TX
+- 💰 **Salary:** $107,000.00 to $129,000.00
+- 🕒 **Posted:** 2026-09-22
+
+### [Senior Customer Success Manager, Enterprise](https://www.linkedin.com/jobs/view/4468937540/) — ComplyAdvantage
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $130,00 to $170,000
+- 🕒 **Posted:** 2026-09-22
+
+### [Senior Customer Success Manager - Technical Account Management](https://www.linkedin.com/jobs/view/4470637327/) — Zip
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $160,000 - $190,000
+- 🕒 **Posted:** 2026-09-22
+
+### [Customer Success Manager](https://www.linkedin.com/jobs/view/4469063684/) — TrueML
+- 📍 **Location:** United States
+- 💰 **Salary:** $80,000.00/yr - $105,000.00/yr
+- 🕒 **Posted:** 2026-09-22
+
+### [Senior Customer Success Manager](https://www.linkedin.com/jobs/view/4469051943/) — Unite Us
+- 📍 **Location:** United States
+- 💰 **Salary:** $95,000-$110,000
+- 🕒 **Posted:** 2026-09-22
+
+### [Associate Solutions Consultant II - SLC](https://www.linkedin.com/jobs/view/4470621621/) — Apollo.io
+- 📍 **Location:** Salt Lake City, UT
+- 💰 **Salary:** $100,000—$115,000 USD
+- 🕒 **Posted:** 2026-09-22
+
+### [Long-Term Portfolio Planning Analyst](https://www.linkedin.com/jobs/view/4468929775/) — TC Energy
+- 📍 **Location:** Greater Houston
+- 🕒 **Posted:** 2026-09-22
+
+### [Senior Compliance Consultant - Electric Compliance Controls Program](https://www.linkedin.com/jobs/view/4456988288/) — Global Technical Talent, an Inc. 5000 Company
+- 📍 **Location:** Oakland, CA
+- 💰 **Salary:** $55.00-$60.00
+- 🕒 **Posted:** 2026-09-22
+
+### [Senior Customer Success Manager - Technical Account Management](https://www.linkedin.com/jobs/view/4470634382/) — Zip
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $160,000 - $190,000
+- 🕒 **Posted:** 2026-09-22
+
+### [Scaled Customer Success Manager, K-12 Education](https://www.linkedin.com/jobs/view/4453289827/) — Eastridge Workforce Solutions
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $170.00 – $170.00 per hour
+- 🕒 **Posted:** 2026-09-22
+
+### [RIA Compliance Consultant](https://www.linkedin.com/jobs/view/4468940496/) — JCW Group
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-09-22
