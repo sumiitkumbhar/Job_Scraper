@@ -1,14 +1,206 @@
 {
-  "updated_at": "2026-09-21T12:23:04.451290+00:00",
-  "register_source": "https://assets.publishing.service.gov.uk/media/6ab103433f8e4e96a6a66a9b/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-09-21.csv",
-  "register_org_count": 126554,
+  "updated_at": "2026-09-22T11:13:47.635330+00:00",
+  "register_source": "https://assets.publishing.service.gov.uk/media/6ab233da1d3e9dd2a4a560ec/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-09-22.csv",
+  "register_org_count": 126535,
   "company_counts": {
-    "confirmed": 200,
-    "likely": 529,
-    "not_found": 482,
+    "confirmed": 207,
+    "likely": 544,
+    "not_found": 495,
     "unknown": 2
   },
   "companies": {
+    "Wipro": {
+      "status": "confirmed",
+      "matched_name": "Wipro Limited"
+    },
+    "Jack & Jill": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "EBN B.V.": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "JetBrains": {
+      "status": "confirmed",
+      "matched_name": "JETBRAINS UK LIMITED"
+    },
+    "foodforecast": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "aubex": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Werkia": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "SuperCom (NASDAQ: SPCB)": {
+      "status": "likely",
+      "matched_name": "Nasdaq Limited"
+    },
+    "Inspire": {
+      "status": "likely",
+      "matched_name": "Digitally Inspired Limited"
+    },
+    "DOMA Technologies": {
+      "status": "likely",
+      "matched_name": "A-TEC LIMITED"
+    },
+    "Jobster": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Linear Service GmbH": {
+      "status": "likely",
+      "matched_name": "Vice UK Limited"
+    },
+    "DigitalOcean": {
+      "status": "likely",
+      "matched_name": "DigitalOcean Droplet Limited"
+    },
+    "BILL": {
+      "status": "likely",
+      "matched_name": "89 BILLIONS THAI THERAPY LTD"
+    },
+    "GigFinder.ai": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "AppliedAI": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Scottish Environment Protection Agency": {
+      "status": "confirmed",
+      "matched_name": "Scottish Environment Protection Agency"
+    },
+    "Arup": {
+      "status": "likely",
+      "matched_name": "Hemaraji Santharupan T/A Baba Food City"
+    },
+    "Amazon.com": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "City of Montebello": {
+      "status": "likely",
+      "matched_name": "ELLO GROUP LTD"
+    },
+    "Capital Area Transit System": {
+      "status": "likely",
+      "matched_name": "Capita Plc"
+    },
+    "SoftwareOne": {
+      "status": "confirmed",
+      "matched_name": "SoftwareONE UK Limited"
+    },
+    "ICF": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Direct Travel": {
+      "status": "likely",
+      "matched_name": "AIRPORT DIRECT TRAVEL LIMITED T/A REZCOMM"
+    },
+    "Tyler Technologies": {
+      "status": "likely",
+      "matched_name": "Technolog Limited"
+    },
+    "Reltio": {
+      "status": "confirmed",
+      "matched_name": "Reltio UK Limited"
+    },
+    "JD Power": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Imprivata": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Swooped": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "MarketStar": {
+      "status": "likely",
+      "matched_name": "Markets Group Ltd"
+    },
+    "Duke Energy Corporation": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Fried Frank": {
+      "status": "likely",
+      "matched_name": "Fried, Frank, Harris, Shriver & Jacobson (London) LLP"
+    },
+    "Wipfli": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Too Good To Go": {
+      "status": "confirmed",
+      "matched_name": "Too Good To Go Ltd"
+    },
+    "Freeport-McMoRan": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "TRC Companies, Inc.": {
+      "status": "confirmed",
+      "matched_name": "TRC Companies Limited"
+    },
+    "STACK Construction Technologies": {
+      "status": "likely",
+      "matched_name": "Ion Technologies Ltd"
+    },
+    "Forerunner": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "SmartFinancial": {
+      "status": "likely",
+      "matched_name": "ANCI GROUP LIMITED"
+    },
+    "Workwize": {
+      "status": "likely",
+      "matched_name": "WORK LIMITED"
+    },
+    "Cennox": {
+      "status": "confirmed",
+      "matched_name": "Cennox Group Limited"
+    },
+    "Arrow Electronics": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Medtronic": {
+      "status": "confirmed",
+      "matched_name": "Medtronic Limited"
+    },
+    "LHH": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Integrated Resources, Inc ( IRI )": {
+      "status": "likely",
+      "matched_name": "Integrate UK"
+    },
+    "River": {
+      "status": "confirmed",
+      "matched_name": "RIVER UK LIMITED"
+    },
+    "Stripe": {
+      "status": "likely",
+      "matched_name": "Silverstripe Advisors Ltd"
+    },
+    "MintMCP": {
+      "status": "not_found",
+      "matched_name": null
+    },
     "Street Group": {
       "status": "likely",
       "matched_name": "10 DINING STREET LIMITED"
@@ -689,10 +881,6 @@
       "status": "not_found",
       "matched_name": null
     },
-    "Swooped": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "nexfibre": {
       "status": "likely",
       "matched_name": "Nexfibre Networks Limited"
@@ -840,10 +1028,6 @@
     "Buro Happold": {
       "status": "likely",
       "matched_name": "Buro Happold Engineers Limited"
-    },
-    "Arup": {
-      "status": "likely",
-      "matched_name": "Hemaraji Santharupan T/A Baba Food City"
     },
     "Swish Analytics": {
       "status": "not_found",
@@ -1037,10 +1221,6 @@
       "status": "not_found",
       "matched_name": null
     },
-    "MintMCP": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "Smith": {
       "status": "likely",
       "matched_name": "1010 Restaurant @ The Blacksmiths arms"
@@ -1229,10 +1409,6 @@
       "status": "confirmed",
       "matched_name": "Culture Amp Limited"
     },
-    "Jack & Jill": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "Johnson & Johnson MedTech": {
       "status": "likely",
       "matched_name": "JOHNS&CO"
@@ -1325,10 +1501,6 @@
       "status": "likely",
       "matched_name": "Consensus Support Services Limited"
     },
-    "TRC Companies, Inc.": {
-      "status": "confirmed",
-      "matched_name": "TRC Companies Limited"
-    },
     "Levelpath": {
       "status": "not_found",
       "matched_name": null
@@ -1396,10 +1568,6 @@
     "Hiya Inc.": {
       "status": "likely",
       "matched_name": "MRS SATHTHIYA SRIKUMAR  T/A MAIDSTONE FOOD AND WINE"
-    },
-    "Jobster": {
-      "status": "not_found",
-      "matched_name": null
     },
     "Twin Health": {
       "status": "likely",
@@ -2133,10 +2301,6 @@
       "status": "not_found",
       "matched_name": null
     },
-    "Stripe": {
-      "status": "likely",
-      "matched_name": "Silverstripe Advisors Ltd"
-    },
     "Nimble": {
       "status": "likely",
       "matched_name": "Nimble Elearning Ltd"
@@ -2170,10 +2334,6 @@
       "matched_name": "Adaptimmune Limited"
     },
     "Southern Company": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Amazon.com": {
       "status": "not_found",
       "matched_name": null
     },
@@ -2925,10 +3085,6 @@
       "status": "likely",
       "matched_name": "Ridia Limited"
     },
-    "ICF": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "Nufarm": {
       "status": "confirmed",
       "matched_name": "Nufarm UK Limited"
@@ -3360,10 +3516,6 @@
     "FarmAct": {
       "status": "not_found",
       "matched_name": null
-    },
-    "JetBrains": {
-      "status": "confirmed",
-      "matched_name": "JETBRAINS UK LIMITED"
     },
     "National Highways": {
       "status": "confirmed",
@@ -4081,10 +4233,6 @@
       "status": "likely",
       "matched_name": "AnTech Ltd"
     },
-    "Medtronic": {
-      "status": "confirmed",
-      "matched_name": "Medtronic Limited"
-    },
     "University of Massachusetts System": {
       "status": "likely",
       "matched_name": "MASS (UK) LTD"
@@ -4529,10 +4677,6 @@
       "status": "confirmed",
       "matched_name": "Bechtel Limited"
     },
-    "LHH": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "Environmental Science and Assessment": {
       "status": "likely",
       "matched_name": "Science (UK) Limited"
@@ -4856,10 +5000,6 @@
     "Trinity Consultants": {
       "status": "likely",
       "matched_name": "Consulta Limited"
-    },
-    "County of Mendocino": {
-      "status": "likely",
-      "matched_name": "Count LTD"
     }
   }
 }
