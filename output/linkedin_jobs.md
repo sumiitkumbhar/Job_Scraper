@@ -1,64 +1,41 @@
 # 🔥 LinkedIn — Sumit's Planning & PropTech Roles
-*Last updated: 2026-09-22 02:24 UTC*
+*Last updated: 2026-09-22 05:46 UTC*
 
-**14 new role(s)** since last run · 14 total in last 1h
+**8 new role(s)** since last run · 8 total in last 1h
 
-### [Manager, Technical Programmatic Solutions Consultants, Amazon Ads](https://www.linkedin.com/jobs/view/4470202767/) — Amazon
-- 📍 **Location:** London, England, United Kingdom
-- 🕒 **Posted:** 2026-09-22
-
-### [Customer Success Manager | Amsterdam Hybrid](https://www.linkedin.com/jobs/view/4470236194/) — Workwize
+### [Customer Success Advisor | German - Undutchables](https://www.linkedin.com/jobs/view/4470246781/) — Jobster
 - 📍 **Location:** Amsterdam, North Holland, Netherlands
+- 💰 **Salary:** $3,000.00/mo - $3,700.00/mo
 - 🕒 **Posted:** 2026-09-22
 
-### [Werkstudent Customer Success (F/M/*)](https://www.linkedin.com/jobs/view/4468155164/) — amber
-- 📍 **Location:** Aachen, North Rhine-Westphalia, Germany
+### [Microsoft Copilot Studio und AI Solutions Consultant (m/w/d)](https://www.linkedin.com/jobs/view/4470264063/) — Skaylink
+- 📍 **Location:** Munich, Bavaria, Germany
 - 🕒 **Posted:** 2026-09-22
 
-### [Werkstudent Customer Success (F/M/*)](https://www.linkedin.com/jobs/view/4468140972/) — amber
-- 📍 **Location:** Cologne, North Rhine-Westphalia, Germany
+### [Customer Success Manager Buchhaltung & Kundenbetreuung (m/w/d)](https://www.linkedin.com/jobs/view/4468503908/) — Linear Service GmbH
+- 📍 **Location:** Berlin, Berlin, Germany
 - 🕒 **Posted:** 2026-09-22
 
-### [Manager of Customer Success](https://www.linkedin.com/jobs/view/4464681371/) — STACK Construction Technologies
-- 📍 **Location:** Cincinnati, OH
+### [Senior Business Operations Analyst, Infrastructure Planning and Operational Excellence](https://www.linkedin.com/jobs/view/4467798432/) — DigitalOcean
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $108,000 - $134,000
 - 🕒 **Posted:** 2026-09-22
 
-### [Corporate Planning Analyst](https://www.linkedin.com/jobs/view/4468788751/) — Plains
-- 📍 **Location:** Houston, TX
+### [Scaled Customer Success Manager](https://www.linkedin.com/jobs/view/4470251406/) — BILL
+- 📍 **Location:** California, United States
+- 💰 **Salary:** $88,000—$105,600 USD
 - 🕒 **Posted:** 2026-09-22
 
-### [Customer Success Manager II](https://www.linkedin.com/jobs/view/4470245029/) — Todyl
-- 📍 **Location:** Denver, CO
-- 💰 **Salary:** $80,000.00/yr - $85,000.00/yr
+### [Principal Customer Success Manager](https://www.linkedin.com/jobs/view/4470244865/) — GigFinder.ai
+- 📍 **Location:** Indiana, United States
+- 💰 **Salary:** $143,000.00 - $240,000.00
 - 🕒 **Posted:** 2026-09-22
 
-### [Customer Success Engineer](https://www.linkedin.com/jobs/view/4468782627/) — Flint
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $100,000.00/yr - $140,000.00/yr
+### [Trade Compliance Analyst - Export Classification : 26-02571](https://www.linkedin.com/jobs/view/4461227692/) — Akraya, Inc.
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $25-$30/Hr
 - 🕒 **Posted:** 2026-09-22
 
-### [Customer Success and Implementation Lead](https://www.linkedin.com/jobs/view/4468776987/) — Eddi
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-22
-
-### [Sr Customer Success Manager](https://www.linkedin.com/jobs/view/4461691498/) — KWI
-- 📍 **Location:** Melville, NY
-- 💰 **Salary:** $110,000.00/yr - $110,000.00/yr
-- 🕒 **Posted:** 2026-09-22
-
-### [Regulatory Analyst](https://www.linkedin.com/jobs/view/4470237390/) — Uniti Group Inc.
-- 📍 **Location:** United States
-- 💰 **Salary:** $50,000 to $74,500
-- 🕒 **Posted:** 2026-09-22
-
-### [Health Care Compliance Analyst](https://www.linkedin.com/jobs/view/4470215913/) — County of Sonoma
-- 📍 **Location:** Santa Rosa, CA
-- 🕒 **Posted:** 2026-09-22
-
-### [Senior Security Risk & Compliance Analyst](https://www.linkedin.com/jobs/view/4448562097/) — APCO Holdings, LLC
-- 📍 **Location:** Westerville, OH
-- 🕒 **Posted:** 2026-09-22
-
-### [Customer Success Manager](https://www.linkedin.com/jobs/view/4470235116/) — Digital Executive
-- 📍 **Location:** English, IA
+### [AI Solutions Consultant](https://www.linkedin.com/jobs/view/4468509961/) — AppliedAI
+- 📍 **Location:** Austin, TX
 - 🕒 **Posted:** 2026-09-22
