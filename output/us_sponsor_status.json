@@ -1,17 +1,257 @@
 {
-  "updated_at": "2026-09-21T13:05:35.309526+00:00",
+  "updated_at": "2026-09-22T11:55:09.878776+00:00",
   "source_files": [
     "https://www.dol.gov/media/LCA_Disclosure_Data_FY2026_Q3.xlsx",
     "https://www.dol.gov/sites/dolgov/files/ETA/oflc/pdfs/LCA_Disclosure_Data_FY2025_Q4.xlsx"
   ],
   "employer_count": 60026,
   "company_counts": {
-    "confirmed": 261,
-    "likely": 423,
-    "not_found": 527,
+    "confirmed": 270,
+    "likely": 435,
+    "not_found": 541,
     "unknown": 2
   },
   "companies": {
+    "Wipro": {
+      "status": "confirmed",
+      "matched_name": "WIPRO LIMITED",
+      "certified_lca_count": 2342
+    },
+    "Jack & Jill": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "EBN B.V.": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "JetBrains": {
+      "status": "likely",
+      "matched_name": "AINS, LLC",
+      "certified_lca_count": 6
+    },
+    "foodforecast": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "aubex": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Werkia": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "SuperCom (NASDAQ: SPCB)": {
+      "status": "likely",
+      "matched_name": "Nasdaq, Inc.",
+      "certified_lca_count": 15
+    },
+    "Inspire": {
+      "status": "likely",
+      "matched_name": "Spire Inc.",
+      "certified_lca_count": 14
+    },
+    "DOMA Technologies": {
+      "status": "likely",
+      "matched_name": "MA TECHNOLOGIES LLC",
+      "certified_lca_count": 1
+    },
+    "Jobster": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Linear Service GmbH": {
+      "status": "likely",
+      "matched_name": "Corporation Service Company",
+      "certified_lca_count": 21
+    },
+    "DigitalOcean": {
+      "status": "confirmed",
+      "matched_name": "DigitalOcean, LLC",
+      "certified_lca_count": 35
+    },
+    "BILL": {
+      "status": "likely",
+      "matched_name": "BILL Operations LLC",
+      "certified_lca_count": 78
+    },
+    "GigFinder.ai": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "AppliedAI": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Scottish Environment Protection Agency": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Arup": {
+      "status": "likely",
+      "matched_name": "ARUP Laboratories",
+      "certified_lca_count": 96
+    },
+    "Amazon.com": {
+      "status": "likely",
+      "matched_name": "Amazon.com Services LLC",
+      "certified_lca_count": 16489
+    },
+    "City of Montebello": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Capital Area Transit System": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "SoftwareOne": {
+      "status": "confirmed",
+      "matched_name": "SoftwareOne, Inc.",
+      "certified_lca_count": 1
+    },
+    "ICF": {
+      "status": "confirmed",
+      "matched_name": "ICF Incorporated, LLC",
+      "certified_lca_count": 58
+    },
+    "Direct Travel": {
+      "status": "confirmed",
+      "matched_name": "Direct Travel, Inc.",
+      "certified_lca_count": 1
+    },
+    "Tyler Technologies": {
+      "status": "confirmed",
+      "matched_name": "Tyler Technologies, Inc.",
+      "certified_lca_count": 40
+    },
+    "Reltio": {
+      "status": "confirmed",
+      "matched_name": "Reltio, Inc",
+      "certified_lca_count": 9
+    },
+    "JD Power": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Imprivata": {
+      "status": "confirmed",
+      "matched_name": "Imprivata, Inc.",
+      "certified_lca_count": 8
+    },
+    "Swooped": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "MarketStar": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Duke Energy Corporation": {
+      "status": "likely",
+      "matched_name": "Duke Energy Business Services, LLC",
+      "certified_lca_count": 4
+    },
+    "Fried Frank": {
+      "status": "likely",
+      "matched_name": "FRIED, FRANK, HARRIS, SHRIVER & JACOBSON LLP",
+      "certified_lca_count": 21
+    },
+    "Wipfli": {
+      "status": "confirmed",
+      "matched_name": "Wipfli LLP",
+      "certified_lca_count": 2
+    },
+    "Too Good To Go": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Freeport-McMoRan": {
+      "status": "likely",
+      "matched_name": "Freeport-McMoRan Morenci Inc.",
+      "certified_lca_count": 19
+    },
+    "TRC Companies, Inc.": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "STACK Construction Technologies": {
+      "status": "likely",
+      "matched_name": "Struction Incorporated",
+      "certified_lca_count": 1
+    },
+    "Forerunner": {
+      "status": "likely",
+      "matched_name": "Forerunner Ventures Management, LLC",
+      "certified_lca_count": 1
+    },
+    "SmartFinancial": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Workwize": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Cennox": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Arrow Electronics": {
+      "status": "confirmed",
+      "matched_name": "Arrow Electronics, Inc.",
+      "certified_lca_count": 53
+    },
+    "Medtronic": {
+      "status": "confirmed",
+      "matched_name": "Medtronic, Inc.",
+      "certified_lca_count": 268
+    },
+    "LHH": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Integrated Resources, Inc ( IRI )": {
+      "status": "likely",
+      "matched_name": "Integrated Resources, Inc.",
+      "certified_lca_count": 7
+    },
+    "River": {
+      "status": "likely",
+      "matched_name": "Blue River Technology",
+      "certified_lca_count": 17
+    },
+    "Stripe": {
+      "status": "confirmed",
+      "matched_name": "Stripe, Inc.",
+      "certified_lca_count": 294
+    },
+    "MintMCP": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
     "Street Group": {
       "status": "likely",
       "matched_name": "State Street Bank and Trust Company",
@@ -862,11 +1102,6 @@
       "matched_name": "The RMR Group LLC",
       "certified_lca_count": 1
     },
-    "Swooped": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
     "nexfibre": {
       "status": "not_found",
       "matched_name": null,
@@ -1051,11 +1286,6 @@
       "status": "likely",
       "matched_name": "BURO HAPPOLD CONSULTING ENGINEERS, INC.",
       "certified_lca_count": 5
-    },
-    "Arup": {
-      "status": "likely",
-      "matched_name": "ARUP Laboratories",
-      "certified_lca_count": 96
     },
     "Swish Analytics": {
       "status": "confirmed",
@@ -1297,11 +1527,6 @@
       "matched_name": null,
       "certified_lca_count": 0
     },
-    "MintMCP": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
     "Smith": {
       "status": "likely",
       "matched_name": "SmithGroup, Inc., subsidiary of SmithGroup Co., Inc.",
@@ -1537,11 +1762,6 @@
       "matched_name": null,
       "certified_lca_count": 0
     },
-    "Jack & Jill": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
     "Johnson & Johnson MedTech": {
       "status": "not_found",
       "matched_name": null,
@@ -1657,11 +1877,6 @@
       "matched_name": "Consensus Cloud Solutions, LLC",
       "certified_lca_count": 3
     },
-    "TRC Companies, Inc.": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
     "Levelpath": {
       "status": "confirmed",
       "matched_name": "Levelpath, Inc.",
@@ -1746,11 +1961,6 @@
       "status": "confirmed",
       "matched_name": "Hiya, Inc.",
       "certified_lca_count": 1
-    },
-    "Jobster": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
     },
     "Twin Health": {
       "status": "confirmed",
@@ -2667,11 +2877,6 @@
       "matched_name": null,
       "certified_lca_count": 0
     },
-    "Stripe": {
-      "status": "confirmed",
-      "matched_name": "Stripe, Inc.",
-      "certified_lca_count": 294
-    },
     "Nimble": {
       "status": "likely",
       "matched_name": "NimbleRx Inc.",
@@ -2716,11 +2921,6 @@
       "status": "likely",
       "matched_name": "SOUTHERN METHODIST UNIVERSITY",
       "certified_lca_count": 41
-    },
-    "Amazon.com": {
-      "status": "likely",
-      "matched_name": "Amazon.com Services LLC",
-      "certified_lca_count": 16489
     },
     "Bossier City Police Department": {
       "status": "not_found",
@@ -3657,11 +3857,6 @@
       "matched_name": null,
       "certified_lca_count": 0
     },
-    "ICF": {
-      "status": "confirmed",
-      "matched_name": "ICF Incorporated, LLC",
-      "certified_lca_count": 58
-    },
     "Nufarm": {
       "status": "likely",
       "matched_name": "Nufarm Americas Inc.",
@@ -4201,11 +4396,6 @@
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
-    },
-    "JetBrains": {
-      "status": "likely",
-      "matched_name": "AINS, LLC",
-      "certified_lca_count": 6
     },
     "National Highways": {
       "status": "not_found",
@@ -5102,11 +5292,6 @@
       "matched_name": null,
       "certified_lca_count": 0
     },
-    "Medtronic": {
-      "status": "confirmed",
-      "matched_name": "Medtronic, Inc.",
-      "certified_lca_count": 268
-    },
     "University of Massachusetts System": {
       "status": "not_found",
       "matched_name": null,
@@ -5662,11 +5847,6 @@
       "matched_name": "Bechtel Energy Inc.",
       "certified_lca_count": 51
     },
-    "LHH": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
     "Environmental Science and Assessment": {
       "status": "likely",
       "matched_name": "Science Corporation",
@@ -6071,11 +6251,6 @@
       "status": "confirmed",
       "matched_name": "Trinity Consultants, Inc.",
       "certified_lca_count": 60
-    },
-    "County of Mendocino": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
     }
   }
 }
