@@ -1,14 +1,194 @@
 {
-  "updated_at": "2026-09-22T11:13:47.635330+00:00",
-  "register_source": "https://assets.publishing.service.gov.uk/media/6ab233da1d3e9dd2a4a560ec/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-09-22.csv",
-  "register_org_count": 126535,
+  "updated_at": "2026-09-23T11:05:47.769011+00:00",
+  "register_source": "https://assets.publishing.service.gov.uk/media/6ab3900f8cb3c0580e501018/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-09-23.csv",
+  "register_org_count": 126530,
   "company_counts": {
-    "confirmed": 207,
-    "likely": 544,
-    "not_found": 495,
+    "confirmed": 211,
+    "likely": 552,
+    "not_found": 506,
     "unknown": 2
   },
   "companies": {
+    "Stoke on Trent City Council": {
+      "status": "confirmed",
+      "matched_name": "Stoke-on-Trent City Council"
+    },
+    "Giraffe360": {
+      "status": "confirmed",
+      "matched_name": "GIRAFFE360 LIMITED"
+    },
+    "Arup": {
+      "status": "likely",
+      "matched_name": "Hemaraji Santharupan T/A Baba Food City"
+    },
+    "AECOM": {
+      "status": "confirmed",
+      "matched_name": "AECOM LIMITED"
+    },
+    "Daniels Associates": {
+      "status": "likely",
+      "matched_name": "Asso Ltd"
+    },
+    "The Guildhall Northampton": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Mateo": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "GEOMIRA": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Jacobs": {
+      "status": "confirmed",
+      "matched_name": "Jacobs Holding LLP"
+    },
+    "The Alden Network": {
+      "status": "likely",
+      "matched_name": "WORK LIMITED"
+    },
+    "Harvey": {
+      "status": "likely",
+      "matched_name": "Elden Harvey Burke"
+    },
+    "DHL Express": {
+      "status": "confirmed",
+      "matched_name": "DHL Express UK LTD"
+    },
+    "ACA Group": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Amazon Web Services (AWS)": {
+      "status": "likely",
+      "matched_name": "Vice UK Limited"
+    },
+    "Westinghouse Electric Company": {
+      "status": "likely",
+      "matched_name": "GHOUS LTD"
+    },
+    "Procore Technologies": {
+      "status": "likely",
+      "matched_name": "Core"
+    },
+    "Regions Bank": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Imprivata": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "ComplyAdvantage": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Zip": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "TrueML": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Unite Us": {
+      "status": "likely",
+      "matched_name": "Unite"
+    },
+    "Apollo.io": {
+      "status": "likely",
+      "matched_name": "ZENLEADS INTERNATIONAL LIMITED (Trading as Apollo.io)"
+    },
+    "TC Energy": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Global Technical Talent, an Inc. 5000 Company": {
+      "status": "likely",
+      "matched_name": "LOBA GROUP LIMITED"
+    },
+    "JCW Group": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Amazon": {
+      "status": "likely",
+      "matched_name": "Amazon Charitable Trust"
+    },
+    "West Northamptonshire Council": {
+      "status": "confirmed",
+      "matched_name": "West Northamptonshire Council"
+    },
+    "Volkswagen Financial Services (UK)": {
+      "status": "confirmed",
+      "matched_name": "VOLKSWAGEN FINANCIAL SERVICES (UK) LIMITED"
+    },
+    "Wordsmith AI": {
+      "status": "confirmed",
+      "matched_name": "Wordsmith AI Ltd"
+    },
+    "Glassbox": {
+      "status": "likely",
+      "matched_name": "Glassbox Digital UK Ltd"
+    },
+    "Salesforce": {
+      "status": "confirmed",
+      "matched_name": "Salesforce UK Limited"
+    },
+    "JD Finish Line": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Florida Power & Light": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Oncor Electric Delivery": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Addison Group": {
+      "status": "likely",
+      "matched_name": "Addison and Khan Solicitors London Limited"
+    },
+    "SpectrumCareers": {
+      "status": "likely",
+      "matched_name": "Care & Co Ltd"
+    },
+    "CrowdSync": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "LearnUpon": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Beacon Hill": {
+      "status": "likely",
+      "matched_name": "Beacon Hill Academy"
+    },
+    "SourceClub - Dental Supply Savings": {
+      "status": "likely",
+      "matched_name": "Dental Group Ltd"
+    },
+    "Health Care Service Corporation": {
+      "status": "likely",
+      "matched_name": "Care & Co Ltd"
+    },
+    "Tabs": {
+      "status": "likely",
+      "matched_name": "Tabs FM Ltd"
+    },
+    "Harris Computer": {
+      "status": "likely",
+      "matched_name": "Arri Holdings Limited"
+    },
+    "Maxonic Inc.": {
+      "status": "not_found",
+      "matched_name": null
+    },
     "Wipro": {
       "status": "confirmed",
       "matched_name": "Wipro Limited"
@@ -77,10 +257,6 @@
       "status": "confirmed",
       "matched_name": "Scottish Environment Protection Agency"
     },
-    "Arup": {
-      "status": "likely",
-      "matched_name": "Hemaraji Santharupan T/A Baba Food City"
-    },
     "Amazon.com": {
       "status": "not_found",
       "matched_name": null
@@ -114,10 +290,6 @@
       "matched_name": "Reltio UK Limited"
     },
     "JD Power": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Imprivata": {
       "status": "not_found",
       "matched_name": null
     },
@@ -208,10 +380,6 @@
     "Wise": {
       "status": "confirmed",
       "matched_name": "UK Wise Group Ltd"
-    },
-    "The Guildhall Northampton": {
-      "status": "not_found",
-      "matched_name": null
     },
     "Swarmia": {
       "status": "likely",
@@ -357,10 +525,6 @@
       "status": "confirmed",
       "matched_name": "Deloitte LLP"
     },
-    "ACA Group": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "Cogent Communications": {
       "status": "likely",
       "matched_name": "Communications Inc"
@@ -396,10 +560,6 @@
     "Osaic": {
       "status": "likely",
       "matched_name": "ioMosaic International Limited"
-    },
-    "Procore Technologies": {
-      "status": "likely",
-      "matched_name": "Core"
     },
     "Calibrate": {
       "status": "likely",
@@ -537,10 +697,6 @@
       "status": "likely",
       "matched_name": "Dental Group Ltd"
     },
-    "Amazon": {
-      "status": "likely",
-      "matched_name": "Amazon Charitable Trust"
-    },
     "Ochsner Health": {
       "status": "not_found",
       "matched_name": null
@@ -673,10 +829,6 @@
       "status": "not_found",
       "matched_name": null
     },
-    "AECOM": {
-      "status": "confirmed",
-      "matched_name": "AECOM LIMITED"
-    },
     "Stantec": {
       "status": "confirmed",
       "matched_name": "Stantec UK Ltd"
@@ -734,10 +886,6 @@
       "matched_name": null
     },
     "Ncontracts": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Regions Bank": {
       "status": "not_found",
       "matched_name": null
     },
@@ -1257,10 +1405,6 @@
       "status": "not_found",
       "matched_name": null
     },
-    "West Northamptonshire Council": {
-      "status": "confirmed",
-      "matched_name": "West Northamptonshire Council"
-    },
     "NV5": {
       "status": "not_found",
       "matched_name": null
@@ -1756,10 +1900,6 @@
     "Pereview Software": {
       "status": "not_found",
       "matched_name": null
-    },
-    "Apollo.io": {
-      "status": "likely",
-      "matched_name": "ZENLEADS INTERNATIONAL LIMITED (Trading as Apollo.io)"
     },
     "ConstructConnect": {
       "status": "likely",
@@ -2421,10 +2561,6 @@
       "status": "likely",
       "matched_name": "Aeros Limited"
     },
-    "Oncor Electric Delivery": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "SMART Technologies": {
       "status": "likely",
       "matched_name": "Art Technologies Limited"
@@ -2925,10 +3061,6 @@
       "status": "not_found",
       "matched_name": null
     },
-    "Amazon Web Services (AWS)": {
-      "status": "likely",
-      "matched_name": "Vice UK Limited"
-    },
     "CoderPad": {
       "status": "not_found",
       "matched_name": null
@@ -3001,17 +3133,9 @@
       "status": "not_found",
       "matched_name": null
     },
-    "Salesforce": {
-      "status": "confirmed",
-      "matched_name": "Salesforce UK Limited"
-    },
     "Suvoda": {
       "status": "not_found",
       "matched_name": null
-    },
-    "Health Care Service Corporation": {
-      "status": "likely",
-      "matched_name": "Care & Co Ltd"
     },
     "talentpluto": {
       "status": "not_found",
@@ -3501,10 +3625,6 @@
       "status": "likely",
       "matched_name": "Adams Gold Limited"
     },
-    "Jacobs": {
-      "status": "confirmed",
-      "matched_name": "Jacobs Holding LLP"
-    },
     "Perrigo Company plc": {
       "status": "not_found",
       "matched_name": null
@@ -3752,10 +3872,6 @@
     "Propelr": {
       "status": "likely",
       "matched_name": "Propel Holdings Limited"
-    },
-    "Harvey": {
-      "status": "likely",
-      "matched_name": "Elden Harvey Burke"
     },
     "Rent a Recruiter": {
       "status": "not_found",
@@ -4976,30 +5092,6 @@
     "City of Berkeley": {
       "status": "likely",
       "matched_name": "THE BERK LTD"
-    },
-    "Muckleshoot Indian Tribe": {
-      "status": "likely",
-      "matched_name": "India Inc. Limited"
-    },
-    "Bah": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Resourceful Recruitment": {
-      "status": "likely",
-      "matched_name": "Resource Limited"
-    },
-    "Allen Engineering and Science, Inc.": {
-      "status": "likely",
-      "matched_name": "Science (UK) Limited"
-    },
-    "OpenAI": {
-      "status": "confirmed",
-      "matched_name": "OpenAI UK Ltd"
-    },
-    "Trinity Consultants": {
-      "status": "likely",
-      "matched_name": "Consulta Limited"
     }
   }
 }
