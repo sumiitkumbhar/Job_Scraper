@@ -1,100 +1,78 @@
 # 🔥 LinkedIn — Sumit's Planning & PropTech Roles
-*Last updated: 2026-09-23 19:43 UTC*
+*Last updated: 2026-09-23 22:56 UTC*
 
-**22 new role(s)** since last run · 22 total in last 1h
+**17 new role(s)** since last run · 17 total in last 1h
 
-### [Production Planning Analyst, Supply Chain,Local Trans & Supply Chain](https://www.linkedin.com/jobs/view/4470998142/) — Amazon
-- 📍 **Location:** London, England, United Kingdom
+### [Assistant Town Planner to Town Planner](https://www.linkedin.com/jobs/view/4469343817/) — Cobalt Recruitment
+- 📍 **Location:** Reading, England, United Kingdom
 - 🕒 **Posted:** 2026-09-23
 
-### [Senior Town Planner](https://www.linkedin.com/jobs/view/4426351873/) — WSP in the UK & Ireland
-- 📍 **Location:** Newcastle Upon Tyne, England, United Kingdom
+### [Place Planning Officer (SEND)](https://www.linkedin.com/jobs/view/4471132383/) — Nottinghamshire County Council
+- 📍 **Location:** Nottinghamshire, England, United Kingdom
 - 🕒 **Posted:** 2026-09-23
 
-### [Town Planner (Infrastructure Planning)](https://www.linkedin.com/jobs/view/4462153786/) — WSP in the UK & Ireland
-- 📍 **Location:** Manchester, England, United Kingdom
+### [European Customer Success Manager](https://www.linkedin.com/jobs/view/4471123637/) — Collins Aerospace
+- 📍 **Location:** Crawley, England, United Kingdom
 - 🕒 **Posted:** 2026-09-23
 
-### [Customer Success Manager - UK and Europe](https://www.linkedin.com/jobs/view/4470988720/) — Dexory
-- 📍 **Location:** Wallingford, England, United Kingdom
-- 🕒 **Posted:** 2026-09-23
-
-### [Customer Success Manager -German speaker](https://www.linkedin.com/jobs/view/4470997551/) — Salesforce
-- 📍 **Location:** Dublin, County Dublin, Ireland
-- 🕒 **Posted:** 2026-09-23
-
-### [Customer Success Manager -French speaker](https://www.linkedin.com/jobs/view/4470997556/) — Salesforce
-- 📍 **Location:** Dublin, County Dublin, Ireland
-- 🕒 **Posted:** 2026-09-23
-
-### [Customer Success Manager – Dutch or Swedish speaker](https://www.linkedin.com/jobs/view/4470990809/) — Salesforce
-- 📍 **Location:** Dublin, County Dublin, Ireland
-- 🕒 **Posted:** 2026-09-23
-
-### [Senior Manager Customer Success](https://www.linkedin.com/jobs/view/4469357009/) — Afiniti
+### [EMEA Customer Success Manager (Ireland)](https://www.linkedin.com/jobs/view/4469608616/) — BioRender
 - 📍 **Location:** Ireland
 - 🕒 **Posted:** 2026-09-23
 
-### [Customer Success Specialist - 6 month FTC (parental leave cover)](https://www.linkedin.com/jobs/view/4465695111/) — Tandem Health
-- 📍 **Location:** Leiden, South Holland, Netherlands
+### [Digital Solutions Consultant (w/m/d) EPCM Industry – Factory Lifecycle Management](https://www.linkedin.com/jobs/view/4469350856/) — DS-Bauconcept GmbH
+- 📍 **Location:** Frankfurt, Hesse, Germany
 - 🕒 **Posted:** 2026-09-23
 
-### [Junior Customer Success Manger - Bezahltes Praktikum](https://www.linkedin.com/jobs/view/4470997362/) — Magma Math
-- 📍 **Location:** Berlin, Germany
+### [Customer Success Manager:in](https://www.linkedin.com/jobs/view/4469352777/) — TÜV NORD Mobilität GmbH & Co. KG
+- 📍 **Location:** Essen, North Rhine-Westphalia, Germany
 - 🕒 **Posted:** 2026-09-23
 
-### [Planning Consultant - The Woodlands, TX](https://www.linkedin.com/jobs/view/4470993509/) — Fidelity Investments
-- 📍 **Location:** Spring, TX
+### [Demand Planning Analyst](https://www.linkedin.com/jobs/view/4469363158/) — ASK Consulting
+- 📍 **Location:** Plano, TX
+- 💰 **Salary:** $28.00/hr - $36.00/hr
 - 🕒 **Posted:** 2026-09-23
 
-### [Senior Workforce Planning Analyst](https://www.linkedin.com/jobs/view/4471106481/) — Rowan Digital Infrastructure
-- 📍 **Location:** Denver, CO
-- 💰 **Salary:** $126K - $150K
+### [Capacity Planning Consultant](https://www.linkedin.com/jobs/view/4469352806/) — The Hartford
+- 📍 **Location:** Hartford, CT
+- 💰 **Salary:** $74,400 - $111,600
 - 🕒 **Posted:** 2026-09-23
 
-### [Principal Customer Success Executive, U.S. Federal](https://www.linkedin.com/jobs/view/4470992822/) — ServiceNow
-- 📍 **Location:** Vienna, VA
-- 💰 **Salary:** $180,200 - $281,600
+### [Customer Success Manager 3 - DroneDeploy](https://www.linkedin.com/jobs/view/4471131650/) — Procore Technologies
+- 📍 **Location:** Austin, TX
 - 🕒 **Posted:** 2026-09-23
 
-### [Customer Success Manager II, Enterprise](https://www.linkedin.com/jobs/view/4470991901/) — Braze
-- 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $94,620 - $102,000/year
+### [Customer Success Coordinator](https://www.linkedin.com/jobs/view/4471128805/) — Relay
+- 📍 **Location:** Raleigh, NC
 - 🕒 **Posted:** 2026-09-23
 
-### [Customer Success Manager](https://www.linkedin.com/jobs/view/4470489699/) — Harris Computer
-- 📍 **Location:** Utah, United States
+### [Solutions Consultant](https://www.linkedin.com/jobs/view/4471130623/) — Brex
+- 📍 **Location:** Salt Lake City, UT
+- 💰 **Salary:** $137,600 to $172,000
 - 🕒 **Posted:** 2026-09-23
 
-### [Customer Success Manager](https://www.linkedin.com/jobs/view/4470496211/) — Harris Computer
+### [Solutions Consultant](https://www.linkedin.com/jobs/view/4471120988/) — Brex
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $155,488 to $194,360
+- 🕒 **Posted:** 2026-09-23
+
+### [Customer Success Manager, Global Strategic Brands](https://www.linkedin.com/jobs/view/4471123734/) — Canary Technologies
 - 📍 **Location:** Washington, DC
+- 💰 **Salary:** $147,200 – $200,000,
 - 🕒 **Posted:** 2026-09-23
 
-### [Customer Success Specialist - Wellbeing](https://www.linkedin.com/jobs/view/4471105412/) — PracticeTek
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $19-$23/Hr
+### [Principal Customer Success Manager](https://www.linkedin.com/jobs/view/4469615538/) — Fortra
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-23
 
-### [Compliance Analyst](https://www.linkedin.com/jobs/view/4470993928/) — ARMADA, Ltd.
-- 📍 **Location:** Andrews AFB, MD
+### [Compliance Analyst - AML](https://www.linkedin.com/jobs/view/4469358821/) — Cetera Financial Group
+- 📍 **Location:** Des Moines, IA
 - 🕒 **Posted:** 2026-09-23
 
-### [System Pharmacy Billing & Compliance Analyst](https://www.linkedin.com/jobs/view/4471106396/) — UVM Health - UVM Medical Center
-- 📍 **Location:** Colchester, VT
-- 💰 **Salary:** $27.85/hr - $41.78/hr
-- 🕒 **Posted:** 2026-09-23
-
-### [Customer Success Manager](https://www.linkedin.com/jobs/view/4471104365/) — monday.com
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $102,000.00/yr - $129,000.00/yr
-- 🕒 **Posted:** 2026-09-23
-
-### [Customer Success Manager II, Enterprise](https://www.linkedin.com/jobs/view/4471102619/) — Braze
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $94,620 - $102,000/year
-- 🕒 **Posted:** 2026-09-23
-
-### [Job 1244 — Scaled Customer Success Manager, K-12 (Claude for Teachers) (contract, hybrid NY or SF)](https://www.linkedin.com/jobs/view/4469354228/) — Employer.com
+### [Solutions Consultant](https://www.linkedin.com/jobs/view/4471121927/) — Brex
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $170.00/hr - $170.00/hr
+- 💰 **Salary:** $155,488 to $194,360
+- 🕒 **Posted:** 2026-09-23
+
+### [Compliance Analyst](https://www.linkedin.com/jobs/view/4469609676/) — Stellar Consulting Solutions, LLC
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-23
