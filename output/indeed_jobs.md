@@ -1,42 +1,64 @@
 # 🟦 Indeed — Sumit's Planning & PropTech Roles
-*Last updated: 2026-09-22 02:26 UTC*
+*Last updated: 2026-09-23 06:37 UTC*
 
-**6 new role(s)** since last run · 6 total in last 24h
+**10 new role(s)** since last run · 10 total in last 24h
 
-### [Senior Planning Officer](https://uk.indeed.com/viewjob?jk=c5947e1b3ab08f03) — Scottish Environment Protection Agency
-- 📍 **Location:** Holytown, SCT, GB
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-21
-
-### [Graduate Computational Urban Designer (G2) - Bristol](https://uk.indeed.com/viewjob?jk=dce85bc314ee7f2d) — Arup
-- 📍 **Location:** Bristol, ENG, GB
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-21
-
-### [Manager, Technical Programmatic Solutions Consultants, Amazon Ads](https://uk.indeed.com/viewjob?jk=c365a1a6b6be3f57) — Amazon.com
+### [Graduate Town Planner](https://uk.indeed.com/viewjob?jk=b8bafb667949aa30) — Arup
 - 📍 **Location:** London, ENG, GB
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-14
+- 🕒 **Posted:** 2026-09-22
 
-### [GIS Analyst (On-Call)](https://www.indeed.com/viewjob?jk=4583b7f0b5731853) — ICF
-- 📍 **Location:** San Diego, CA, US
-- 💰 **Salary:** $61k–$104k/yr
+### [Senior Town Planner](https://uk.indeed.com/viewjob?jk=2108627fc5d9b2c4) — AECOM
+- 📍 **Location:** Plymouth, ENG, GB
 - **Work mode:** Remote in-state eligible
-- **Job type:** parttime
-- 🕒 **Posted:** 2026-09-21
-
-### [ASSISTANT PLANNER](https://www.indeed.com/viewjob?jk=c1622c5dfc08b10e) — City of Montebello
-- 📍 **Location:** Montebello, CA, US
-- 💰 **Salary:** $77k–$96k/yr
-- **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-21
+- 🕒 **Posted:** 2026-09-22
 
-### [Transit Planning Analyst](https://www.indeed.com/viewjob?jk=abafa2f9598c0c95) — Capital Area Transit System
-- 📍 **Location:** Baton Rouge, LA, US
-- **Work mode:** On-site
+### [Senior Town Planner](https://uk.indeed.com/viewjob?jk=ee18defe70015599) — AECOM
+- 📍 **Location:** Leeds, ENG, GB
+- **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-21
+- 🕒 **Posted:** 2026-09-22
+
+### [Senior Town Planner](https://uk.indeed.com/viewjob?jk=14a3368ffae229fc) — AECOM
+- 📍 **Location:** Chesterfield, ENG, GB
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-22
+
+### [Senior Town Planner](https://uk.indeed.com/viewjob?jk=43530f51a7e81478) — AECOM
+- 📍 **Location:** Bristol, ENG, GB
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-22
+
+### [Senior Town Planner](https://uk.indeed.com/viewjob?jk=3c146da30cee748b) — AECOM
+- 📍 **Location:** Birmingham, ENG, GB
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-22
+
+### [Senior Town Planner](https://uk.indeed.com/viewjob?jk=130293e00f296049) — AECOM
+- 📍 **Location:** Basingstoke, ENG, GB
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-22
+
+### [Senior Town Planner](https://uk.indeed.com/viewjob?jk=3f8bfc1968b4d4ad) — AECOM
+- 📍 **Location:** London, ENG, GB
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-22
+
+### [GIS Analyst - III](https://www.indeed.com/viewjob?jk=efb864061f3723f1) — Daniels Associates
+- 📍 **Location:** Indianapolis, IN, US
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-22
+
+### [GIS Analyst - II](https://www.indeed.com/viewjob?jk=8d9dad301fc3c183) — Daniels Associates
+- 📍 **Location:** Indianapolis, IN, US
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-22
