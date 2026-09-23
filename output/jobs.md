@@ -1,24 +1,28 @@
 # 🏛 Priority Employers — Sumit's Planning & PropTech Roles
-*Last updated: 2026-09-22 09:33 UTC*
+*Last updated: 2026-09-23 09:18 UTC*
 
-**5 new role(s)** since last run · 5 total in last 24h
+**6 new role(s)** since last run · 6 total in last 24h
 
-### [Senior ERP Consultant – Implementation & Customer Success - Field / Remote UK](https://www.linkedin.com/jobs/view/4470282843/) — RR
-- 📍 **Location:** Birmingham, England, United Kingdom
+### [Graduate Town Planner](https://www.linkedin.com/jobs/view/4468557778/) — Arup
+- 📍 **Location:** London, England, United Kingdom
 - 🕒 **Posted:** 2026-09-22
 
-### [Customer Success and Support Analyst](https://www.linkedin.com/jobs/view/4470283725/) — PASS
-- 📍 **Location:** Farnborough, England, United Kingdom
+### [Graduate Urban Designer - Community Development - 2027 (Manchester)](https://www.linkedin.com/jobs/view/4451124449/) — Stantec
+- 📍 **Location:** Manchester, England, United Kingdom
 - 🕒 **Posted:** 2026-09-22
 
-### [Graduate Computational Urban Designer (G2) - Bristol](https://www.linkedin.com/jobs/view/4467624380/) — Arup
-- 📍 **Location:** Bristol, England, United Kingdom
-- 🕒 **Posted:** 2026-09-21
+### [Town Planning | Expression of Interest](https://www.linkedin.com/jobs/view/4198702144/) — Stantec
+- 📍 **Location:** Reading, England, United Kingdom
+- 🕒 **Posted:** 2026-09-22
 
-### [Town Planning | Expression of Interest](https://www.linkedin.com/jobs/view/4198702146/) — Stantec
-- 📍 **Location:** Birmingham, England, United Kingdom
-- 🕒 **Posted:** 2026-09-21
+### [Senior Town Planner](https://www.linkedin.com/jobs/view/4469050429/) — AECOM
+- 📍 **Location:** Basingstoke, England, United Kingdom
+- 🕒 **Posted:** 2026-09-22
 
-### [Town Planner](https://www.linkedin.com/jobs/view/4424433582/) — Stantec
-- 📍 **Location:** Kings Hill, England, United Kingdom
-- 🕒 **Posted:** 2026-09-21
+### [Key Customer Success Manager](https://www.linkedin.com/jobs/view/4470448403/) — Giraffe360
+- 📍 **Location:** Manchester Area, United Kingdom
+- 🕒 **Posted:** 2026-09-22
+
+### [Senior Customer Success Engineer, General Contractors](https://www.linkedin.com/jobs/view/4470635376/) — Procore Technologies
+- 📍 **Location:** Austin, TX
+- 🕒 **Posted:** 2026-09-22
