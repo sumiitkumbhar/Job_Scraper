@@ -1,17 +1,242 @@
 {
-  "updated_at": "2026-09-22T11:55:09.878776+00:00",
+  "updated_at": "2026-09-23T11:53:18.169847+00:00",
   "source_files": [
     "https://www.dol.gov/media/LCA_Disclosure_Data_FY2026_Q3.xlsx",
     "https://www.dol.gov/sites/dolgov/files/ETA/oflc/pdfs/LCA_Disclosure_Data_FY2025_Q4.xlsx"
   ],
   "employer_count": 60026,
   "company_counts": {
-    "confirmed": 270,
-    "likely": 435,
-    "not_found": 541,
+    "confirmed": 272,
+    "likely": 449,
+    "not_found": 548,
     "unknown": 2
   },
   "companies": {
+    "Stoke on Trent City Council": {
+      "status": "likely",
+      "matched_name": "Stok, LLC",
+      "certified_lca_count": 1
+    },
+    "Giraffe360": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Arup": {
+      "status": "likely",
+      "matched_name": "ARUP Laboratories",
+      "certified_lca_count": 96
+    },
+    "AECOM": {
+      "status": "confirmed",
+      "matched_name": "AECOM",
+      "certified_lca_count": 1
+    },
+    "Daniels Associates": {
+      "status": "confirmed",
+      "matched_name": "DANIELS ASSOCIATES INC",
+      "certified_lca_count": 3
+    },
+    "The Guildhall Northampton": {
+      "status": "likely",
+      "matched_name": "North, Inc.",
+      "certified_lca_count": 6
+    },
+    "Mateo": {
+      "status": "likely",
+      "matched_name": "SAN MATEO - FOSTER CITY SCHOOL DISTRICT",
+      "certified_lca_count": 4
+    },
+    "GEOMIRA": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Jacobs": {
+      "status": "confirmed",
+      "matched_name": "Jacobs Corporation",
+      "certified_lca_count": 1
+    },
+    "The Alden Network": {
+      "status": "likely",
+      "matched_name": "The Alden Group Inc",
+      "certified_lca_count": 2
+    },
+    "Harvey": {
+      "status": "confirmed",
+      "matched_name": "Harvey & Company LLC",
+      "certified_lca_count": 1
+    },
+    "DHL Express": {
+      "status": "likely",
+      "matched_name": "DHL Express (USA), Inc.",
+      "certified_lca_count": 11
+    },
+    "ACA Group": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Amazon Web Services (AWS)": {
+      "status": "likely",
+      "matched_name": "Amazon Web Services, Inc.",
+      "certified_lca_count": 2987
+    },
+    "Westinghouse Electric Company": {
+      "status": "confirmed",
+      "matched_name": "Westinghouse Electric Company LLC",
+      "certified_lca_count": 2
+    },
+    "Procore Technologies": {
+      "status": "confirmed",
+      "matched_name": "Procore Technologies, Inc",
+      "certified_lca_count": 29
+    },
+    "Regions Bank": {
+      "status": "confirmed",
+      "matched_name": "Regions Bank",
+      "certified_lca_count": 48
+    },
+    "Imprivata": {
+      "status": "confirmed",
+      "matched_name": "Imprivata, Inc.",
+      "certified_lca_count": 8
+    },
+    "ComplyAdvantage": {
+      "status": "likely",
+      "matched_name": "Vanta Inc.",
+      "certified_lca_count": 28
+    },
+    "Zip": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "TrueML": {
+      "status": "likely",
+      "matched_name": "TrueML Products LLC",
+      "certified_lca_count": 1
+    },
+    "Unite Us": {
+      "status": "likely",
+      "matched_name": "Unite USA Inc.",
+      "certified_lca_count": 7
+    },
+    "Apollo.io": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "TC Energy": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Global Technical Talent, an Inc. 5000 Company": {
+      "status": "likely",
+      "matched_name": "Talent Corporation, LLC",
+      "certified_lca_count": 1
+    },
+    "JCW Group": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Amazon": {
+      "status": "confirmed",
+      "matched_name": "Amazon LLC",
+      "certified_lca_count": 2
+    },
+    "West Northamptonshire Council": {
+      "status": "likely",
+      "matched_name": "North, Inc.",
+      "certified_lca_count": 6
+    },
+    "Volkswagen Financial Services (UK)": {
+      "status": "likely",
+      "matched_name": "Corporation Service Company",
+      "certified_lca_count": 21
+    },
+    "Wordsmith AI": {
+      "status": "likely",
+      "matched_name": "Smith.ai, Inc.",
+      "certified_lca_count": 1
+    },
+    "Glassbox": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Salesforce": {
+      "status": "confirmed",
+      "matched_name": "Salesforce, Inc.",
+      "certified_lca_count": 2004
+    },
+    "JD Finish Line": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Florida Power & Light": {
+      "status": "confirmed",
+      "matched_name": "Florida Power & Light Company",
+      "certified_lca_count": 52
+    },
+    "Oncor Electric Delivery": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Addison Group": {
+      "status": "likely",
+      "matched_name": "Addison Professional Financial Search LLC (APFS LLC)",
+      "certified_lca_count": 1
+    },
+    "SpectrumCareers": {
+      "status": "likely",
+      "matched_name": "REER INC",
+      "certified_lca_count": 3
+    },
+    "CrowdSync": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "LearnUpon": {
+      "status": "likely",
+      "matched_name": "LEAR CORPORATION",
+      "certified_lca_count": 44
+    },
+    "Beacon Hill": {
+      "status": "likely",
+      "matched_name": "Beacon Hill Solutions Group LLC",
+      "certified_lca_count": 172
+    },
+    "SourceClub - Dental Supply Savings": {
+      "status": "likely",
+      "matched_name": "CO Dental PC",
+      "certified_lca_count": 1
+    },
+    "Health Care Service Corporation": {
+      "status": "confirmed",
+      "matched_name": "HEALTH CARE SERVICE CORPORATION",
+      "certified_lca_count": 194
+    },
+    "Tabs": {
+      "status": "likely",
+      "matched_name": "Tabs Platform Inc.",
+      "certified_lca_count": 6
+    },
+    "Harris Computer": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Maxonic Inc.": {
+      "status": "likely",
+      "matched_name": "Maxon Corporation",
+      "certified_lca_count": 1
+    },
     "Wipro": {
       "status": "confirmed",
       "matched_name": "WIPRO LIMITED",
@@ -97,11 +322,6 @@
       "matched_name": null,
       "certified_lca_count": 0
     },
-    "Arup": {
-      "status": "likely",
-      "matched_name": "ARUP Laboratories",
-      "certified_lca_count": 96
-    },
     "Amazon.com": {
       "status": "likely",
       "matched_name": "Amazon.com Services LLC",
@@ -146,11 +366,6 @@
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
-    },
-    "Imprivata": {
-      "status": "confirmed",
-      "matched_name": "Imprivata, Inc.",
-      "certified_lca_count": 8
     },
     "Swooped": {
       "status": "not_found",
@@ -261,11 +476,6 @@
       "status": "likely",
       "matched_name": "Bitwise Inc.",
       "certified_lca_count": 69
-    },
-    "The Guildhall Northampton": {
-      "status": "likely",
-      "matched_name": "North, Inc.",
-      "certified_lca_count": 6
     },
     "Swarmia": {
       "status": "not_found",
@@ -447,11 +657,6 @@
       "matched_name": "Deloitte LLP",
       "certified_lca_count": 11
     },
-    "ACA Group": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
     "Cogent Communications": {
       "status": "likely",
       "matched_name": "The Unica Group, Inc",
@@ -496,11 +701,6 @@
       "status": "likely",
       "matched_name": "Mosaic Health System",
       "certified_lca_count": 15
-    },
-    "Procore Technologies": {
-      "status": "confirmed",
-      "matched_name": "Procore Technologies, Inc",
-      "certified_lca_count": 29
     },
     "Calibrate": {
       "status": "likely",
@@ -672,11 +872,6 @@
       "matched_name": "CO Dental PC",
       "certified_lca_count": 1
     },
-    "Amazon": {
-      "status": "confirmed",
-      "matched_name": "Amazon LLC",
-      "certified_lca_count": 2
-    },
     "Ochsner Health": {
       "status": "likely",
       "matched_name": "Group Health, Inc.",
@@ -842,11 +1037,6 @@
       "matched_name": null,
       "certified_lca_count": 0
     },
-    "AECOM": {
-      "status": "confirmed",
-      "matched_name": "AECOM",
-      "certified_lca_count": 1
-    },
     "Stantec": {
       "status": "likely",
       "matched_name": "Stantec Architecture Inc.",
@@ -921,11 +1111,6 @@
       "status": "confirmed",
       "matched_name": "Ncontracts, LLC",
       "certified_lca_count": 1
-    },
-    "Regions Bank": {
-      "status": "confirmed",
-      "matched_name": "Regions Bank",
-      "certified_lca_count": 48
     },
     "Vanderbilt University Medical Center": {
       "status": "confirmed",
@@ -1572,11 +1757,6 @@
       "matched_name": null,
       "certified_lca_count": 0
     },
-    "West Northamptonshire Council": {
-      "status": "likely",
-      "matched_name": "North, Inc.",
-      "certified_lca_count": 6
-    },
     "NV5": {
       "status": "confirmed",
       "matched_name": "NV5, Inc.",
@@ -2193,11 +2373,6 @@
       "certified_lca_count": 0
     },
     "Pereview Software": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Apollo.io": {
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
@@ -3027,11 +3202,6 @@
       "matched_name": "Howmet Aerospace Inc.",
       "certified_lca_count": 1
     },
-    "Oncor Electric Delivery": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
     "SMART Technologies": {
       "status": "likely",
       "matched_name": "Netsmart Technologies, Inc.",
@@ -3657,11 +3827,6 @@
       "matched_name": null,
       "certified_lca_count": 0
     },
-    "Amazon Web Services (AWS)": {
-      "status": "likely",
-      "matched_name": "Amazon Web Services, Inc.",
-      "certified_lca_count": 2987
-    },
     "CoderPad": {
       "status": "likely",
       "matched_name": "Code Corporation",
@@ -3752,20 +3917,10 @@
       "matched_name": "YUBICO INC.",
       "certified_lca_count": 5
     },
-    "Salesforce": {
-      "status": "confirmed",
-      "matched_name": "Salesforce, Inc.",
-      "certified_lca_count": 2004
-    },
     "Suvoda": {
       "status": "likely",
       "matched_name": "Voda Inc.",
       "certified_lca_count": 1
-    },
-    "Health Care Service Corporation": {
-      "status": "confirmed",
-      "matched_name": "HEALTH CARE SERVICE CORPORATION",
-      "certified_lca_count": 194
     },
     "talentpluto": {
       "status": "likely",
@@ -4377,11 +4532,6 @@
       "matched_name": "GOLDMAN SACHS SERVICES LLC",
       "certified_lca_count": 661
     },
-    "Jacobs": {
-      "status": "confirmed",
-      "matched_name": "Jacobs Corporation",
-      "certified_lca_count": 1
-    },
     "Perrigo Company plc": {
       "status": "likely",
       "matched_name": "Perrigo Company",
@@ -4691,11 +4841,6 @@
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
-    },
-    "Harvey": {
-      "status": "confirmed",
-      "matched_name": "Harvey & Company LLC",
-      "certified_lca_count": 1
     },
     "Rent a Recruiter": {
       "status": "not_found",
@@ -6221,36 +6366,6 @@
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
-    },
-    "Muckleshoot Indian Tribe": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Bah": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Resourceful Recruitment": {
-      "status": "likely",
-      "matched_name": "Source LLC",
-      "certified_lca_count": 1
-    },
-    "Allen Engineering and Science, Inc.": {
-      "status": "likely",
-      "matched_name": "Science Corporation",
-      "certified_lca_count": 5
-    },
-    "OpenAI": {
-      "status": "likely",
-      "matched_name": "OpenAI OpCo, LLC",
-      "certified_lca_count": 233
-    },
-    "Trinity Consultants": {
-      "status": "confirmed",
-      "matched_name": "Trinity Consultants, Inc.",
-      "certified_lca_count": 60
     }
   }
 }
