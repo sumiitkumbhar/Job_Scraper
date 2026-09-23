@@ -1,37 +1,30 @@
 # 🔥 LinkedIn — Sumit's Planning & PropTech Roles
-*Last updated: 2026-09-23 01:12 UTC*
+*Last updated: 2026-09-23 06:31 UTC*
 
-**7 new role(s)** since last run · 7 total in last 1h
+**6 new role(s)** since last run · 6 total in last 1h
 
-### [Geospatial Analyst II](https://www.linkedin.com/jobs/view/4463527424/) — Dewberry
-- 📍 **Location:** Fairfax, VA
-- 💰 **Salary:** $69,000-$88,000 annually
+### [Highways Development Management Engineer](https://www.linkedin.com/jobs/view/4468969704/) — The Guildhall Northampton
+- 📍 **Location:** Northampton, England, United Kingdom
 - 🕒 **Posted:** 2026-09-23
 
-### [Majors Customer Success Manager](https://www.linkedin.com/jobs/view/4469083460/) — Harvey
-- 📍 **Location:** New York, United States
-- 💰 **Salary:** $180,000-$210,000
+### [Microsoft Copilot Studio und AI Solutions Consultant (m/w/d)](https://www.linkedin.com/jobs/view/4469411787/) — Skaylink
+- 📍 **Location:** Munich, Bavaria, Germany
 - 🕒 **Posted:** 2026-09-23
 
-### [Export Compliance Analyst](https://www.linkedin.com/jobs/view/4470607829/) — DHL Express
-- 📍 **Location:** Erlanger, KY
+### [Customer Success Manager (m/w/d) - dein Quereinstieg aus Optik, Hörakustik oder Autohandel](https://www.linkedin.com/jobs/view/4468981444/) — Mateo
+- 📍 **Location:** Berlin, Berlin, Germany
 - 🕒 **Posted:** 2026-09-23
 
-### [Senior Compliance Analyst (MS), Anti-Money Laundering)](https://www.linkedin.com/jobs/view/4468936908/) — ACA Group
-- 📍 **Location:** Nebraska, United States
-- 💰 **Salary:** $65,000.00 - $70,000.00
+### [Geospatial Data Analyst / Developer](https://www.linkedin.com/jobs/view/4470682656/) — GEOMIRA
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-23
 
-### [Senior Compliance Analyst (MS), Anti-Money Laundering)](https://www.linkedin.com/jobs/view/4468934941/) — ACA Group
-- 📍 **Location:** New Jersey, United States
-- 💰 **Salary:** $65,000.00 - $70,000.00
+### [Environmental Compliance Consultant](https://www.linkedin.com/jobs/view/4470688114/) — Jacobs
+- 📍 **Location:** Houston, TX
+- 💰 **Salary:** $91,400.00/yr - $136,000.00/yr
 - 🕒 **Posted:** 2026-09-23
 
-### [Senior Compliance Analyst (MS), Anti-Money Laundering)](https://www.linkedin.com/jobs/view/4468951078/) — ACA Group
-- 📍 **Location:** New York, United States
-- 💰 **Salary:** $65,000.00 - $70,000.00
-- 🕒 **Posted:** 2026-09-23
-
-### [Sr. Global Procurement Category Manager, Infrastructure Planning and Sourcing](https://www.linkedin.com/jobs/view/4470652248/) — Amazon Web Services (AWS)
-- 📍 **Location:** Austin, TX
+### [Audit and Compliance Analyst](https://www.linkedin.com/jobs/view/4469403998/) — The Alden Network
+- 📍 **Location:** Chicago, IL
+- 💰 **Salary:** $50,000.00/yr - $60,000.00/yr
 - 🕒 **Posted:** 2026-09-23
