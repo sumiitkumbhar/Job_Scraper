@@ -1,14 +1,274 @@
 {
-  "updated_at": "2026-09-23T11:05:47.769011+00:00",
-  "register_source": "https://assets.publishing.service.gov.uk/media/6ab3900f8cb3c0580e501018/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-09-23.csv",
-  "register_org_count": 126530,
+  "updated_at": "2026-09-24T11:23:10.207201+00:00",
+  "register_source": "https://assets.publishing.service.gov.uk/media/6ab50422997a4b2950ccee7a/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-09-24.csv",
+  "register_org_count": 126523,
   "company_counts": {
-    "confirmed": 211,
-    "likely": 552,
-    "not_found": 506,
+    "confirmed": 215,
+    "likely": 565,
+    "not_found": 521,
     "unknown": 2
   },
   "companies": {
+    "NHS Essex Interated Care Board": {
+      "status": "likely",
+      "matched_name": "Care & Co Ltd"
+    },
+    "Sigma": {
+      "status": "likely",
+      "matched_name": "Alfasigma UK Limited"
+    },
+    "Bluebeam": {
+      "status": "likely",
+      "matched_name": "Beam Inc Ltd"
+    },
+    "AECOM": {
+      "status": "confirmed",
+      "matched_name": "AECOM LIMITED"
+    },
+    "Arup": {
+      "status": "likely",
+      "matched_name": "Hemaraji Santharupan T/A Baba Food City"
+    },
+    "SportsKey": {
+      "status": "likely",
+      "matched_name": "UK PORTS LTD"
+    },
+    "Meta": {
+      "status": "likely",
+      "matched_name": "3G Metal Fabrications Limited"
+    },
+    "Zillow": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Office Angels": {
+      "status": "likely",
+      "matched_name": "Office Holdings Limited"
+    },
+    "Jack & Jill": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "FE fundinfo": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Neuron7.ai": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Keysight Technologies": {
+      "status": "confirmed",
+      "matched_name": "Keysight Technologies UK Limited"
+    },
+    "AtkinsR\u00e9alis": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Mirantus Health": {
+      "status": "likely",
+      "matched_name": "Miran Limited"
+    },
+    "SimScale": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "vivenu": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Hippocratic AI": {
+      "status": "likely",
+      "matched_name": "Atic Limited"
+    },
+    "Scint.ai": {
+      "status": "likely",
+      "matched_name": "Cint UK Limited"
+    },
+    "LifeWork Search": {
+      "status": "likely",
+      "matched_name": "UK Search Limited"
+    },
+    "DoorDash": {
+      "status": "likely",
+      "matched_name": "Doorda Limited"
+    },
+    "STATION F": {
+      "status": "likely",
+      "matched_name": "Fry Station Ltd T/A Fry Station Fish and Chip Shop"
+    },
+    "Tacoma Public Utilities": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Deloitte": {
+      "status": "confirmed",
+      "matched_name": "Deloitte LLP"
+    },
+    "Lansweeper": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Teamworks": {
+      "status": "likely",
+      "matched_name": "Teamworks Innovations UK Limited"
+    },
+    "Sophos": {
+      "status": "confirmed",
+      "matched_name": "SOPHOS LIMITED"
+    },
+    "Roboflow": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Stampli": {
+      "status": "likely",
+      "matched_name": "Tamp Ltd"
+    },
+    "C.H. Robinson": {
+      "status": "likely",
+      "matched_name": "C.H. Robinson Worldwide (UK) Limited"
+    },
+    "City National Bank": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "ACA Group": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Paylocity": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Flint": {
+      "status": "likely",
+      "matched_name": "ABI SUPERMARKET LIMITED T/A Flints Stores"
+    },
+    "Hyperbound": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Cobalt Recruitment": {
+      "status": "likely",
+      "matched_name": "COBA Holdings Limited"
+    },
+    "Collins Aerospace": {
+      "status": "likely",
+      "matched_name": "Aeros Limited"
+    },
+    "BioRender": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "DS-Bauconcept GmbH": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "T\u00dcV NORD Mobilit\u00e4t GmbH & Co. KG": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "ASK Consulting": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "The Hartford": {
+      "status": "likely",
+      "matched_name": "Hartford Care Group Limited"
+    },
+    "Procore Technologies": {
+      "status": "likely",
+      "matched_name": "Core"
+    },
+    "Relay": {
+      "status": "likely",
+      "matched_name": "Global Relay UK Limited"
+    },
+    "Brex": {
+      "status": "likely",
+      "matched_name": "Brexa International Limited"
+    },
+    "Canary Technologies": {
+      "status": "likely",
+      "matched_name": "Technolog Limited"
+    },
+    "Fortra": {
+      "status": "likely",
+      "matched_name": "Fortra International Ltd"
+    },
+    "Cetera Financial Group": {
+      "status": "likely",
+      "matched_name": "ANCI GROUP LIMITED"
+    },
+    "Stellar Consulting Solutions, LLC": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Amazon": {
+      "status": "likely",
+      "matched_name": "Amazon Charitable Trust"
+    },
+    "Dexory": {
+      "status": "confirmed",
+      "matched_name": "DEXORY"
+    },
+    "Salesforce": {
+      "status": "confirmed",
+      "matched_name": "Salesforce UK Limited"
+    },
+    "Afiniti": {
+      "status": "likely",
+      "matched_name": "Afiniti Europe Technologies Limited"
+    },
+    "Tandem Health": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Magma Math": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Fidelity Investments": {
+      "status": "likely",
+      "matched_name": "Fidel Limited"
+    },
+    "Rowan Digital Infrastructure": {
+      "status": "likely",
+      "matched_name": "DIGITAL-I LIMITED"
+    },
+    "ServiceNow": {
+      "status": "confirmed",
+      "matched_name": "ServiceNow UK Limited"
+    },
+    "Braze": {
+      "status": "confirmed",
+      "matched_name": "Braze Limited"
+    },
+    "Harris Computer": {
+      "status": "likely",
+      "matched_name": "Arri Holdings Limited"
+    },
+    "PracticeTek": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "ARMADA, Ltd.": {
+      "status": "likely",
+      "matched_name": "Armada Engineering Ltd"
+    },
+    "UVM Health - UVM Medical Center": {
+      "status": "likely",
+      "matched_name": "The Medical Group"
+    },
+    "monday.com": {
+      "status": "likely",
+      "matched_name": "monday.com 2020 UK Ltd"
+    },
+    "Employer.com": {
+      "status": "not_found",
+      "matched_name": null
+    },
     "Stoke on Trent City Council": {
       "status": "confirmed",
       "matched_name": "Stoke-on-Trent City Council"
@@ -16,14 +276,6 @@
     "Giraffe360": {
       "status": "confirmed",
       "matched_name": "GIRAFFE360 LIMITED"
-    },
-    "Arup": {
-      "status": "likely",
-      "matched_name": "Hemaraji Santharupan T/A Baba Food City"
-    },
-    "AECOM": {
-      "status": "confirmed",
-      "matched_name": "AECOM LIMITED"
     },
     "Daniels Associates": {
       "status": "likely",
@@ -57,10 +309,6 @@
       "status": "confirmed",
       "matched_name": "DHL Express UK LTD"
     },
-    "ACA Group": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "Amazon Web Services (AWS)": {
       "status": "likely",
       "matched_name": "Vice UK Limited"
@@ -68,10 +316,6 @@
     "Westinghouse Electric Company": {
       "status": "likely",
       "matched_name": "GHOUS LTD"
-    },
-    "Procore Technologies": {
-      "status": "likely",
-      "matched_name": "Core"
     },
     "Regions Bank": {
       "status": "not_found",
@@ -113,10 +357,6 @@
       "status": "not_found",
       "matched_name": null
     },
-    "Amazon": {
-      "status": "likely",
-      "matched_name": "Amazon Charitable Trust"
-    },
     "West Northamptonshire Council": {
       "status": "confirmed",
       "matched_name": "West Northamptonshire Council"
@@ -132,10 +372,6 @@
     "Glassbox": {
       "status": "likely",
       "matched_name": "Glassbox Digital UK Ltd"
-    },
-    "Salesforce": {
-      "status": "confirmed",
-      "matched_name": "Salesforce UK Limited"
     },
     "JD Finish Line": {
       "status": "not_found",
@@ -181,10 +417,6 @@
       "status": "likely",
       "matched_name": "Tabs FM Ltd"
     },
-    "Harris Computer": {
-      "status": "likely",
-      "matched_name": "Arri Holdings Limited"
-    },
     "Maxonic Inc.": {
       "status": "not_found",
       "matched_name": null
@@ -192,10 +424,6 @@
     "Wipro": {
       "status": "confirmed",
       "matched_name": "Wipro Limited"
-    },
-    "Jack & Jill": {
-      "status": "not_found",
-      "matched_name": null
     },
     "EBN B.V.": {
       "status": "not_found",
@@ -401,10 +629,6 @@
       "status": "confirmed",
       "matched_name": "United Utilities PLC"
     },
-    "Cetera Financial Group": {
-      "status": "likely",
-      "matched_name": "ANCI GROUP LIMITED"
-    },
     "AI Workforce Hub": {
       "status": "likely",
       "matched_name": "WORK LIMITED"
@@ -465,10 +689,6 @@
       "status": "likely",
       "matched_name": "Vantor Technologies UK Ltd"
     },
-    "Fidelity Investments": {
-      "status": "likely",
-      "matched_name": "Fidel Limited"
-    },
     "Mission Technologies, a division of HII": {
       "status": "likely",
       "matched_name": "Ion Technologies Ltd"
@@ -493,10 +713,6 @@
       "status": "confirmed",
       "matched_name": "Greenberg Traurig, LLP"
     },
-    "Meta": {
-      "status": "likely",
-      "matched_name": "3G Metal Fabrications Limited"
-    },
     "Fin": {
       "status": "not_found",
       "matched_name": null
@@ -520,10 +736,6 @@
     "GetCarl": {
       "status": "not_found",
       "matched_name": null
-    },
-    "Deloitte": {
-      "status": "confirmed",
-      "matched_name": "Deloitte LLP"
     },
     "Cogent Communications": {
       "status": "likely",
@@ -604,10 +816,6 @@
     "Swarm Recruitment": {
       "status": "likely",
       "matched_name": "Warm Limited"
-    },
-    "AtkinsR\u00e9alis": {
-      "status": "not_found",
-      "matched_name": null
     },
     "Sargent & Lundy": {
       "status": "not_found",
@@ -708,10 +916,6 @@
     "Nottinghamshire County Council": {
       "status": "confirmed",
       "matched_name": "Nottinghamshire County Council"
-    },
-    "Collins Aerospace": {
-      "status": "likely",
-      "matched_name": "Aeros Limited"
     },
     "HP": {
       "status": "not_found",
@@ -857,15 +1061,7 @@
       "status": "not_found",
       "matched_name": null
     },
-    "Paylocity": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "CO-Ver, Inc.": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Magma Math": {
       "status": "not_found",
       "matched_name": null
     },
@@ -944,10 +1140,6 @@
     "Workday": {
       "status": "confirmed",
       "matched_name": "Workday (UK) Limited"
-    },
-    "Teamworks": {
-      "status": "likely",
-      "matched_name": "Teamworks Innovations UK Limited"
     },
     "Whip Around": {
       "status": "likely",
@@ -1361,10 +1553,6 @@
       "status": "confirmed",
       "matched_name": "April Holdings Ltd"
     },
-    "Braze": {
-      "status": "confirmed",
-      "matched_name": "Braze Limited"
-    },
     "Teli Labs": {
       "status": "not_found",
       "matched_name": null
@@ -1700,10 +1888,6 @@
     "- COYOTE -": {
       "status": "likely",
       "matched_name": "RED COYOTE GUARDING LTD"
-    },
-    "Sigma": {
-      "status": "likely",
-      "matched_name": "Alfasigma UK Limited"
     },
     "Belk": {
       "status": "likely",
@@ -2125,10 +2309,6 @@
       "status": "confirmed",
       "matched_name": "TechWolf Limited"
     },
-    "Canary Technologies": {
-      "status": "likely",
-      "matched_name": "Technolog Limited"
-    },
     "Trintech": {
       "status": "confirmed",
       "matched_name": "Trintech (UK) Limited"
@@ -2352,10 +2532,6 @@
     "Net Health": {
       "status": "likely",
       "matched_name": "Cygnet Health Care Ltd"
-    },
-    "PracticeTek": {
-      "status": "not_found",
-      "matched_name": null
     },
     "Nebraska Department of Health and Human Services": {
       "status": "likely",
@@ -3085,10 +3261,6 @@
       "status": "likely",
       "matched_name": "Modern"
     },
-    "Zillow": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "Kastle Systems": {
       "status": "likely",
       "matched_name": "System ltd"
@@ -3484,10 +3656,6 @@
     "AXIS (AXIS Capital)": {
       "status": "likely",
       "matched_name": "Capita Plc"
-    },
-    "Cobalt Recruitment": {
-      "status": "likely",
-      "matched_name": "COBA Holdings Limited"
     },
     "Verdantix": {
       "status": "confirmed",
@@ -3968,10 +4136,6 @@
     "Factory": {
       "status": "likely",
       "matched_name": "AA Dream Factory Ltd"
-    },
-    "Bluebeam": {
-      "status": "likely",
-      "matched_name": "Beam Inc Ltd"
     },
     "Confero": {
       "status": "not_found",
@@ -5056,42 +5220,6 @@
     "Animal and Plant Health Inspection Service": {
       "status": "likely",
       "matched_name": "Inspection Limited"
-    },
-    "Nutrien": {
-      "status": "likely",
-      "matched_name": "Anglo American Crop Nutrients Limited"
-    },
-    "EHSCareers": {
-      "status": "likely",
-      "matched_name": "Care & Co Ltd"
-    },
-    "BBN Consulting": {
-      "status": "likely",
-      "matched_name": "N Consulting Ltd"
-    },
-    "State of Utah": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Alpine County District Atty": {
-      "status": "likely",
-      "matched_name": "Alpi UK Ltd"
-    },
-    "Central Nevada Gold": {
-      "status": "likely",
-      "matched_name": "CENTRAL UK GROUP LIMITED"
-    },
-    "Booz Allen Hamilton": {
-      "status": "likely",
-      "matched_name": "BOOZ ALLEN HAMILTON INTERNATIONAL (U.K.) LTD"
-    },
-    "Brevard County Board of County Commissioners": {
-      "status": "likely",
-      "matched_name": "Count LTD"
-    },
-    "City of Berkeley": {
-      "status": "likely",
-      "matched_name": "THE BERK LTD"
     }
   }
 }
