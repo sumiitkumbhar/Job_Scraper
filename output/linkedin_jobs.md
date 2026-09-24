@@ -1,78 +1,116 @@
 # 🔥 LinkedIn — Sumit's Planning & PropTech Roles
-*Last updated: 2026-09-23 22:56 UTC*
+*Last updated: 2026-09-24 01:24 UTC*
 
-**17 new role(s)** since last run · 17 total in last 1h
+**23 new role(s)** since last run · 23 total in last 1h
 
-### [Assistant Town Planner to Town Planner](https://www.linkedin.com/jobs/view/4469343817/) — Cobalt Recruitment
-- 📍 **Location:** Reading, England, United Kingdom
-- 🕒 **Posted:** 2026-09-23
+### [CUSTOMER SUCCESS MANAGER, MID MARKET - UNITED KINGDOM](https://www.linkedin.com/jobs/view/4469620595/) — STATION F
+- 📍 **Location:** London, England, United Kingdom
+- 🕒 **Posted:** 2026-09-24
 
-### [Place Planning Officer (SEND)](https://www.linkedin.com/jobs/view/4471132383/) — Nottinghamshire County Council
-- 📍 **Location:** Nottinghamshire, England, United Kingdom
-- 🕒 **Posted:** 2026-09-23
+### [GIS Analyst (IT Analyst, Senior Technical)](https://www.linkedin.com/jobs/view/4469639057/) — Tacoma Public Utilities
+- 📍 **Location:** Tacoma, WA
+- 💰 **Salary:** $47.70 - $74.00
+- 🕒 **Posted:** 2026-09-24
 
-### [European Customer Success Manager](https://www.linkedin.com/jobs/view/4471123637/) — Collins Aerospace
-- 📍 **Location:** Crawley, England, United Kingdom
-- 🕒 **Posted:** 2026-09-23
+### [Retirement & Wealth Provider Solutions Consultant](https://www.linkedin.com/jobs/view/4471162209/) — Deloitte
+- 📍 **Location:** Greater Sacramento
+- 💰 **Salary:** $91,100 to $179,500
+- 🕒 **Posted:** 2026-09-24
 
-### [EMEA Customer Success Manager (Ireland)](https://www.linkedin.com/jobs/view/4469608616/) — BioRender
-- 📍 **Location:** Ireland
-- 🕒 **Posted:** 2026-09-23
-
-### [Digital Solutions Consultant (w/m/d) EPCM Industry – Factory Lifecycle Management](https://www.linkedin.com/jobs/view/4469350856/) — DS-Bauconcept GmbH
-- 📍 **Location:** Frankfurt, Hesse, Germany
-- 🕒 **Posted:** 2026-09-23
-
-### [Customer Success Manager:in](https://www.linkedin.com/jobs/view/4469352777/) — TÜV NORD Mobilität GmbH & Co. KG
-- 📍 **Location:** Essen, North Rhine-Westphalia, Germany
-- 🕒 **Posted:** 2026-09-23
-
-### [Demand Planning Analyst](https://www.linkedin.com/jobs/view/4469363158/) — ASK Consulting
-- 📍 **Location:** Plano, TX
-- 💰 **Salary:** $28.00/hr - $36.00/hr
-- 🕒 **Posted:** 2026-09-23
-
-### [Capacity Planning Consultant](https://www.linkedin.com/jobs/view/4469352806/) — The Hartford
-- 📍 **Location:** Hartford, CT
-- 💰 **Salary:** $74,400 - $111,600
-- 🕒 **Posted:** 2026-09-23
-
-### [Customer Success Manager 3 - DroneDeploy](https://www.linkedin.com/jobs/view/4471131650/) — Procore Technologies
+### [Enterprise Customer Success Manager](https://www.linkedin.com/jobs/view/4471151801/) — Lansweeper
 - 📍 **Location:** Austin, TX
-- 🕒 **Posted:** 2026-09-23
+- 💰 **Salary:** $83,282 – $135,332.60 USD
+- 🕒 **Posted:** 2026-09-24
 
-### [Customer Success Coordinator](https://www.linkedin.com/jobs/view/4471128805/) — Relay
-- 📍 **Location:** Raleigh, NC
-- 🕒 **Posted:** 2026-09-23
+### [Retirement & Wealth Provider Solutions Consultant](https://www.linkedin.com/jobs/view/4471158485/) — Deloitte
+- 📍 **Location:** Las Vegas, NV
+- 💰 **Salary:** $91,100 to $179,500
+- 🕒 **Posted:** 2026-09-24
 
-### [Solutions Consultant](https://www.linkedin.com/jobs/view/4471130623/) — Brex
-- 📍 **Location:** Salt Lake City, UT
-- 💰 **Salary:** $137,600 to $172,000
-- 🕒 **Posted:** 2026-09-23
-
-### [Solutions Consultant](https://www.linkedin.com/jobs/view/4471120988/) — Brex
-- 📍 **Location:** Seattle, WA
-- 💰 **Salary:** $155,488 to $194,360
-- 🕒 **Posted:** 2026-09-23
-
-### [Customer Success Manager, Global Strategic Brands](https://www.linkedin.com/jobs/view/4471123734/) — Canary Technologies
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $147,200 – $200,000,
-- 🕒 **Posted:** 2026-09-23
-
-### [Principal Customer Success Manager](https://www.linkedin.com/jobs/view/4469615538/) — Fortra
+### [Customer Success Manager II (DI Collegiate, North America)](https://www.linkedin.com/jobs/view/4471170155/) — Teamworks
 - 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-23
+- 💰 **Salary:** $85,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-09-24
 
-### [Compliance Analyst - AML](https://www.linkedin.com/jobs/view/4469358821/) — Cetera Financial Group
-- 📍 **Location:** Des Moines, IA
-- 🕒 **Posted:** 2026-09-23
+### [Manager, Customer Success (Enterprise)](https://www.linkedin.com/jobs/view/4471149819/) — Sophos
+- 📍 **Location:** United States
+- 💰 **Salary:** $101,600 to $168,800
+- 🕒 **Posted:** 2026-09-24
 
-### [Solutions Consultant](https://www.linkedin.com/jobs/view/4471121927/) — Brex
+### [Customer Success Engineer](https://www.linkedin.com/jobs/view/4471173020/) — Roboflow
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-09-24
+
+### [Implementation Consultant/Project Manager](https://www.linkedin.com/jobs/view/4471152937/) — Stampli
+- 📍 **Location:** Mountain View, CA
+- 💰 **Salary:** $80,000-95,000
+- 🕒 **Posted:** 2026-09-24
+
+### [Customer Success Manager](https://www.linkedin.com/jobs/view/4469622501/) — C.H. Robinson
+- 📍 **Location:** Eden Prairie, MN
+- 💰 **Salary:** $56,430.40 - $121,513.60
+- 🕒 **Posted:** 2026-09-24
+
+### [Compliance Analyst](https://www.linkedin.com/jobs/view/4471166165/) — City National Bank
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $70,000 - $120,000 per year
+- 🕒 **Posted:** 2026-09-24
+
+### [Senior Compliance Analyst (MS), Anti-Money Laundering)](https://www.linkedin.com/jobs/view/4469361690/) — ACA Group
+- 📍 **Location:** Missouri, United States
+- 💰 **Salary:** $65,000.00 - $70,000.00
+- 🕒 **Posted:** 2026-09-24
+
+### [Senior Compliance Analyst (MS), Anti-Money Laundering)](https://www.linkedin.com/jobs/view/4469363599/) — ACA Group
+- 📍 **Location:** Oxford, MS
+- 💰 **Salary:** $65,000.00 - $70,000.00
+- 🕒 **Posted:** 2026-09-24
+
+### [TPA Implementation Consultant I](https://www.linkedin.com/jobs/view/4471162139/) — Paylocity
+- 📍 **Location:** Rochester, NY
+- 💰 **Salary:** $37,200 - $55,000/yr
+- 🕒 **Posted:** 2026-09-24
+
+### [Retirement & Wealth Provider Solutions Consultant](https://www.linkedin.com/jobs/view/4471161221/) — Deloitte
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $91,100 to $179,500
+- 🕒 **Posted:** 2026-09-24
+
+### [Enterprise Customer Success Manager, North America](https://www.linkedin.com/jobs/view/4471159639/) — Cogent Communications
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $20.00- $52.88 per hour
+- 🕒 **Posted:** 2026-09-24
+
+### [Lead Customer Success Engineer](https://www.linkedin.com/jobs/view/4469626483/) — Flint
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $140,000.00/yr - $160,000.00/yr
+- 🕒 **Posted:** 2026-09-24
+
+### [Customer Success Manager](https://www.linkedin.com/jobs/view/4470491503/) — Harris Computer
+- 📍 **Location:** New York, United States
+- 🕒 **Posted:** 2026-09-24
+
+### [Retirement & Wealth Provider Solutions Consultant](https://www.linkedin.com/jobs/view/4471157470/) — Deloitte
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $155,488 to $194,360
-- 🕒 **Posted:** 2026-09-23
+- 💰 **Salary:** $91,100 to $179,500
+- 🕒 **Posted:** 2026-09-24
 
-### [Compliance Analyst](https://www.linkedin.com/jobs/view/4469609676/) — Stellar Consulting Solutions, LLC
+### [Retirement & Wealth Provider Solutions Consultant](https://www.linkedin.com/jobs/view/4471158483/) — Deloitte
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $91,100 to $179,500
+- 🕒 **Posted:** 2026-09-24
+
+### [Public Utilities Regulatory Analyst IV](https://www.linkedin.com/jobs/view/4469379278/) — California Public Utilities Commission
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-23
+- 💰 **Salary:** $8,766.00/mo - $10,973.00/mo
+- 🕒 **Posted:** 2026-09-24
+
+### [Technical Customer Success Manager, Mid Market](https://www.linkedin.com/jobs/view/4469630364/) — Hyperbound
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $130,000.00/yr - $160,000.00/yr
+- 🕒 **Posted:** 2026-09-24
+
+### [Retirement & Wealth Provider Solutions Consultant](https://www.linkedin.com/jobs/view/4471147902/) — Deloitte
+- 📍 **Location:** Austin, TX
+- 💰 **Salary:** $91,100 to $179,500
+- 🕒 **Posted:** 2026-09-24
