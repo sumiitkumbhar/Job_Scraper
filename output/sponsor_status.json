@@ -1,14 +1,234 @@
 {
-  "updated_at": "2026-09-24T11:23:10.207201+00:00",
-  "register_source": "https://assets.publishing.service.gov.uk/media/6ab50422997a4b2950ccee7a/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-09-24.csv",
-  "register_org_count": 126523,
+  "updated_at": "2026-09-25T11:29:17.930617+00:00",
+  "register_source": "https://assets.publishing.service.gov.uk/media/6ab641b78cb3c0580e5011d9/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-09-25.csv",
+  "register_org_count": 126519,
   "company_counts": {
-    "confirmed": 215,
-    "likely": 565,
-    "not_found": 521,
+    "confirmed": 217,
+    "likely": 582,
+    "not_found": 537,
     "unknown": 2
   },
   "companies": {
+    "ICE": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "amber": {
+      "status": "likely",
+      "matched_name": "39 Essex Chambers (Services) Limited"
+    },
+    "Autodesk": {
+      "status": "confirmed",
+      "matched_name": "Autodesk Ltd"
+    },
+    "Coopman Search and Selection | B Corp\u2122": {
+      "status": "likely",
+      "matched_name": "N-Sea UK Ltd"
+    },
+    "INCONSYS GmbH": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Omnora": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "PDQ": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "ZappHire": {
+      "status": "likely",
+      "matched_name": "APPH Limited"
+    },
+    "Association Of Operating Room Nurses Inc": {
+      "status": "likely",
+      "matched_name": "Asso Ltd"
+    },
+    "Apple": {
+      "status": "likely",
+      "matched_name": "Apple & Way Limited"
+    },
+    "sourc-e GmbH": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "BLP": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Kimley-Horn": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Robinhood": {
+      "status": "likely",
+      "matched_name": "Robinhood U.K Ltd."
+    },
+    "Pax8": {
+      "status": "confirmed",
+      "matched_name": "Pax8 UK Limited"
+    },
+    "Anaconda": {
+      "status": "likely",
+      "matched_name": "Anaconda Equipment International"
+    },
+    "HIRECLOUT": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Pike Corporation": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "County of Sonoma": {
+      "status": "likely",
+      "matched_name": "Count LTD"
+    },
+    "University of Washington": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "TikTok USDS Joint Venture": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "talisman": {
+      "status": "likely",
+      "matched_name": "TALISMAN AUTOS SERVICE LIMITED (T/A HS Motor Repair ltd)"
+    },
+    "Con Edison": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Salesforce": {
+      "status": "confirmed",
+      "matched_name": "Salesforce UK Limited"
+    },
+    "Balfour Beatty": {
+      "status": "likely",
+      "matched_name": "Balfour Beatty Group Employment Limited"
+    },
+    "National Annexe Providers Consultancy": {
+      "status": "likely",
+      "matched_name": "Consulta Limited"
+    },
+    "Arup": {
+      "status": "likely",
+      "matched_name": "Hemaraji Santharupan T/A Baba Food City"
+    },
+    "Life Less Ordinary": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Wignalls Chartered Surveyors": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Town of Brighton": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "North Texas Municipal Water District": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "People, Technology & Processes": {
+      "status": "likely",
+      "matched_name": "Technolog Limited"
+    },
+    "University of Houston": {
+      "status": "likely",
+      "matched_name": "Houst Limited"
+    },
+    "City of Lincoln City": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "E-Logic, Inc.": {
+      "status": "likely",
+      "matched_name": "Aire Logic Limited"
+    },
+    "Relay": {
+      "status": "likely",
+      "matched_name": "Global Relay UK Limited"
+    },
+    "Portside": {
+      "status": "likely",
+      "matched_name": "Side UK Limited"
+    },
+    "The Fedcap Group": {
+      "status": "confirmed",
+      "matched_name": "Fedcap UK"
+    },
+    "Procare HR": {
+      "status": "likely",
+      "matched_name": "Care & Co Ltd"
+    },
+    "AbsenceSoft": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Sundayy": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Ford Motor Company": {
+      "status": "confirmed",
+      "matched_name": "Ford Motor Company Limited"
+    },
+    "DATAECONOMY": {
+      "status": "likely",
+      "matched_name": "Data Inc UK Ltd"
+    },
+    "Alliant Systems": {
+      "status": "likely",
+      "matched_name": "Allia Ltd"
+    },
+    "Conga": {
+      "status": "likely",
+      "matched_name": "CONGA EUROPE LTD"
+    },
+    "BarnTools": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "AppCard, Inc.": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Benepass": {
+      "status": "likely",
+      "matched_name": "ePass"
+    },
+    "L3Harris Technologies": {
+      "status": "likely",
+      "matched_name": "Arri Holdings Limited"
+    },
+    "TalentHop": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Silicon Valley Search Group": {
+      "status": "likely",
+      "matched_name": "UK Search Limited"
+    },
+    "The Catalyst Corporation": {
+      "status": "confirmed",
+      "matched_name": "Catalyst Corporation Ltd"
+    },
+    "The Baldwin Group": {
+      "status": "likely",
+      "matched_name": "Baldwin and Francis Limited"
+    },
+    "Fulcrum": {
+      "status": "likely",
+      "matched_name": "Fulcrum Asset Management LLP"
+    },
+    "ServiceNow": {
+      "status": "confirmed",
+      "matched_name": "ServiceNow UK Limited"
+    },
     "NHS Essex Interated Care Board": {
       "status": "likely",
       "matched_name": "Care & Co Ltd"
@@ -24,10 +244,6 @@
     "AECOM": {
       "status": "confirmed",
       "matched_name": "AECOM LIMITED"
-    },
-    "Arup": {
-      "status": "likely",
-      "matched_name": "Hemaraji Santharupan T/A Baba Food City"
     },
     "SportsKey": {
       "status": "likely",
@@ -181,10 +397,6 @@
       "status": "likely",
       "matched_name": "Core"
     },
-    "Relay": {
-      "status": "likely",
-      "matched_name": "Global Relay UK Limited"
-    },
     "Brex": {
       "status": "likely",
       "matched_name": "Brexa International Limited"
@@ -213,10 +425,6 @@
       "status": "confirmed",
       "matched_name": "DEXORY"
     },
-    "Salesforce": {
-      "status": "confirmed",
-      "matched_name": "Salesforce UK Limited"
-    },
     "Afiniti": {
       "status": "likely",
       "matched_name": "Afiniti Europe Technologies Limited"
@@ -236,10 +444,6 @@
     "Rowan Digital Infrastructure": {
       "status": "likely",
       "matched_name": "DIGITAL-I LIMITED"
-    },
-    "ServiceNow": {
-      "status": "confirmed",
-      "matched_name": "ServiceNow UK Limited"
     },
     "Braze": {
       "status": "confirmed",
@@ -924,10 +1128,6 @@
     "Themesoft Inc.": {
       "status": "not_found",
       "matched_name": null
-    },
-    "Autodesk": {
-      "status": "confirmed",
-      "matched_name": "Autodesk Ltd"
     },
     "JobTread Software": {
       "status": "not_found",
@@ -2201,10 +2401,6 @@
       "status": "likely",
       "matched_name": "UK Search Limited"
     },
-    "The Fedcap Group": {
-      "status": "confirmed",
-      "matched_name": "Fedcap UK"
-    },
     "Navan": {
       "status": "likely",
       "matched_name": "Mrs Upalini Navaneethan"
@@ -2721,10 +2917,6 @@
       "status": "not_found",
       "matched_name": null
     },
-    "Ford Motor Company": {
-      "status": "confirmed",
-      "matched_name": "Ford Motor Company Limited"
-    },
     "Uber": {
       "status": "likely",
       "matched_name": "Rotamat Limited trading as Huber Technology"
@@ -2748,10 +2940,6 @@
     "California Public Utilities Commission": {
       "status": "likely",
       "matched_name": "The Mission Group plc"
-    },
-    "University of Washington": {
-      "status": "not_found",
-      "matched_name": null
     },
     "Transamerica": {
       "status": "not_found",
@@ -3518,10 +3706,6 @@
       "matched_name": null
     },
     "MaineHealth": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "AppCard, Inc.": {
       "status": "not_found",
       "matched_name": null
     },
@@ -4391,7 +4575,7 @@
     },
     "FlatironDragados": {
       "status": "likely",
-      "matched_name": "Ondra LLP"
+      "matched_name": "Ondra UK Limited"
     },
     "Eurofins Environment Testing (USA)": {
       "status": "likely",
@@ -4897,10 +5081,6 @@
       "status": "likely",
       "matched_name": "Vice UK Limited"
     },
-    "Kimley-Horn": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "WSP in the U.S.": {
       "status": "not_found",
       "matched_name": null
@@ -5180,46 +5360,6 @@
     "Department Of Forestry & Fire Protection": {
       "status": "likely",
       "matched_name": "Prot Ltd"
-    },
-    "Sydney Water": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Utahcounty": {
-      "status": "likely",
-      "matched_name": "Count LTD"
-    },
-    "California Department of Forestry and Fire Protection (CAL FIRE)": {
-      "status": "likely",
-      "matched_name": "Prot Ltd"
-    },
-    "City of Redding": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Liberty": {
-      "status": "likely",
-      "matched_name": "Bioliberty Ltd"
-    },
-    "County of Sonoma (CA)": {
-      "status": "likely",
-      "matched_name": "Count LTD"
-    },
-    "Oldcastle APG": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Astrix": {
-      "status": "likely",
-      "matched_name": "Strix UK Ltd"
-    },
-    "Kings County": {
-      "status": "likely",
-      "matched_name": "Count LTD"
-    },
-    "Animal and Plant Health Inspection Service": {
-      "status": "likely",
-      "matched_name": "Inspection Limited"
     }
   }
 }
