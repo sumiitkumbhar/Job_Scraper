@@ -1,17 +1,292 @@
 {
-  "updated_at": "2026-09-24T12:01:27.780913+00:00",
+  "updated_at": "2026-09-25T12:03:35.388280+00:00",
   "source_files": [
     "https://www.dol.gov/media/LCA_Disclosure_Data_FY2026_Q3.xlsx",
     "https://www.dol.gov/sites/dolgov/files/ETA/oflc/pdfs/LCA_Disclosure_Data_FY2025_Q4.xlsx"
   ],
   "employer_count": 60026,
   "company_counts": {
-    "confirmed": 283,
-    "likely": 459,
-    "not_found": 559,
+    "confirmed": 293,
+    "likely": 471,
+    "not_found": 572,
     "unknown": 2
   },
   "companies": {
+    "ICE": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "amber": {
+      "status": "likely",
+      "matched_name": "Lambert Radiology Medical Group",
+      "certified_lca_count": 3
+    },
+    "Autodesk": {
+      "status": "confirmed",
+      "matched_name": "Autodesk, Inc.",
+      "certified_lca_count": 221
+    },
+    "Coopman Search and Selection | B Corp\u2122": {
+      "status": "likely",
+      "matched_name": "Arch Group LLC",
+      "certified_lca_count": 2
+    },
+    "INCONSYS GmbH": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Omnora": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "PDQ": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "ZappHire": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Association Of Operating Room Nurses Inc": {
+      "status": "likely",
+      "matched_name": "SOCi, Inc.",
+      "certified_lca_count": 1
+    },
+    "Apple": {
+      "status": "confirmed",
+      "matched_name": "Apple Inc.",
+      "certified_lca_count": 7076
+    },
+    "sourc-e GmbH": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "BLP": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Kimley-Horn": {
+      "status": "likely",
+      "matched_name": "Kimley-Horn and Associates, Inc.",
+      "certified_lca_count": 17
+    },
+    "Robinhood": {
+      "status": "likely",
+      "matched_name": "ROBINHOOD MARKETS, INC",
+      "certified_lca_count": 229
+    },
+    "Pax8": {
+      "status": "confirmed",
+      "matched_name": "Pax8 Inc",
+      "certified_lca_count": 1
+    },
+    "Anaconda": {
+      "status": "confirmed",
+      "matched_name": "Anaconda, Inc.",
+      "certified_lca_count": 5
+    },
+    "HIRECLOUT": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Pike Corporation": {
+      "status": "likely",
+      "matched_name": "Pennsylvania Turnpike Commission",
+      "certified_lca_count": 3
+    },
+    "County of Sonoma": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "University of Washington": {
+      "status": "confirmed",
+      "matched_name": "University of Washington",
+      "certified_lca_count": 196
+    },
+    "TikTok USDS Joint Venture": {
+      "status": "confirmed",
+      "matched_name": "TikTok USDS Joint Venture LLC",
+      "certified_lca_count": 171
+    },
+    "talisman": {
+      "status": "confirmed",
+      "matched_name": "TALISMAN LLC",
+      "certified_lca_count": 5
+    },
+    "Con Edison": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Salesforce": {
+      "status": "confirmed",
+      "matched_name": "Salesforce, Inc.",
+      "certified_lca_count": 2004
+    },
+    "Balfour Beatty": {
+      "status": "likely",
+      "matched_name": "Balfour Beatty Infrastructure Inc.",
+      "certified_lca_count": 4
+    },
+    "National Annexe Providers Consultancy": {
+      "status": "likely",
+      "matched_name": "Ulta, Inc.",
+      "certified_lca_count": 20
+    },
+    "Arup": {
+      "status": "likely",
+      "matched_name": "ARUP Laboratories",
+      "certified_lca_count": 96
+    },
+    "Life Less Ordinary": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Wignalls Chartered Surveyors": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Town of Brighton": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "North Texas Municipal Water District": {
+      "status": "likely",
+      "matched_name": "North, Inc.",
+      "certified_lca_count": 6
+    },
+    "People, Technology & Processes": {
+      "status": "likely",
+      "matched_name": "People Tech Group, Inc",
+      "certified_lca_count": 481
+    },
+    "University of Houston": {
+      "status": "confirmed",
+      "matched_name": "University of Houston",
+      "certified_lca_count": 81
+    },
+    "City of Lincoln City": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "E-Logic, Inc.": {
+      "status": "likely",
+      "matched_name": "Innovative Logic Solutions Inc",
+      "certified_lca_count": 6
+    },
+    "Relay": {
+      "status": "likely",
+      "matched_name": "Relay Network, LLC",
+      "certified_lca_count": 2
+    },
+    "Portside": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "The Fedcap Group": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Procare HR": {
+      "status": "likely",
+      "matched_name": "CARE",
+      "certified_lca_count": 1
+    },
+    "AbsenceSoft": {
+      "status": "likely",
+      "matched_name": "CESO Inc.",
+      "certified_lca_count": 3
+    },
+    "Sundayy": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Ford Motor Company": {
+      "status": "confirmed",
+      "matched_name": "FORD MOTOR COMPANY",
+      "certified_lca_count": 830
+    },
+    "DATAECONOMY": {
+      "status": "confirmed",
+      "matched_name": "DATAECONOMY, INC.",
+      "certified_lca_count": 68
+    },
+    "Alliant Systems": {
+      "status": "confirmed",
+      "matched_name": "Alliant Systems, LLC",
+      "certified_lca_count": 1
+    },
+    "Conga": {
+      "status": "confirmed",
+      "matched_name": "Conga Corporation",
+      "certified_lca_count": 38
+    },
+    "BarnTools": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "AppCard, Inc.": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Benepass": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "L3Harris Technologies": {
+      "status": "confirmed",
+      "matched_name": "L3Harris Technologies Inc",
+      "certified_lca_count": 5
+    },
+    "TalentHop": {
+      "status": "likely",
+      "matched_name": "Talent Corporation, LLC",
+      "certified_lca_count": 1
+    },
+    "Silicon Valley Search Group": {
+      "status": "likely",
+      "matched_name": "Silicon, Inc.",
+      "certified_lca_count": 3
+    },
+    "The Catalyst Corporation": {
+      "status": "confirmed",
+      "matched_name": "The Catalyst Group",
+      "certified_lca_count": 2
+    },
+    "The Baldwin Group": {
+      "status": "likely",
+      "matched_name": "ABRAHAM BALDWIN AGRICULTURAL COLLEGE",
+      "certified_lca_count": 3
+    },
+    "Fulcrum": {
+      "status": "likely",
+      "matched_name": "Fulcrum Asset Management LP",
+      "certified_lca_count": 1
+    },
+    "ServiceNow": {
+      "status": "confirmed",
+      "matched_name": "ServiceNow, Inc.",
+      "certified_lca_count": 660
+    },
     "NHS Essex Interated Care Board": {
       "status": "likely",
       "matched_name": "CARE",
@@ -31,11 +306,6 @@
       "status": "confirmed",
       "matched_name": "AECOM",
       "certified_lca_count": 1
-    },
-    "Arup": {
-      "status": "likely",
-      "matched_name": "ARUP Laboratories",
-      "certified_lca_count": 96
     },
     "SportsKey": {
       "status": "not_found",
@@ -227,11 +497,6 @@
       "matched_name": "Procore Technologies, Inc",
       "certified_lca_count": 29
     },
-    "Relay": {
-      "status": "likely",
-      "matched_name": "Relay Network, LLC",
-      "certified_lca_count": 2
-    },
     "Brex": {
       "status": "confirmed",
       "matched_name": "Brex Inc.",
@@ -267,11 +532,6 @@
       "matched_name": "Dexory Inc",
       "certified_lca_count": 1
     },
-    "Salesforce": {
-      "status": "confirmed",
-      "matched_name": "Salesforce, Inc.",
-      "certified_lca_count": 2004
-    },
     "Afiniti": {
       "status": "confirmed",
       "matched_name": "Afiniti, Inc.",
@@ -296,11 +556,6 @@
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
-    },
-    "ServiceNow": {
-      "status": "confirmed",
-      "matched_name": "ServiceNow, Inc.",
-      "certified_lca_count": 660
     },
     "Braze": {
       "status": "confirmed",
@@ -1156,11 +1411,6 @@
       "status": "confirmed",
       "matched_name": "THEMESOFT INC.",
       "certified_lca_count": 8
-    },
-    "Autodesk": {
-      "status": "confirmed",
-      "matched_name": "Autodesk, Inc.",
-      "certified_lca_count": 221
     },
     "JobTread Software": {
       "status": "not_found",
@@ -2752,11 +3002,6 @@
       "matched_name": "Arch Group LLC",
       "certified_lca_count": 2
     },
-    "The Fedcap Group": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
     "Navan": {
       "status": "confirmed",
       "matched_name": "Navan, Inc.",
@@ -3402,11 +3647,6 @@
       "matched_name": "North, Inc.",
       "certified_lca_count": 6
     },
-    "Ford Motor Company": {
-      "status": "confirmed",
-      "matched_name": "FORD MOTOR COMPANY",
-      "certified_lca_count": 830
-    },
     "Uber": {
       "status": "likely",
       "matched_name": "Uber Freight US LLC",
@@ -3436,11 +3676,6 @@
       "status": "confirmed",
       "matched_name": "California Public Utilities Commission",
       "certified_lca_count": 3
-    },
-    "University of Washington": {
-      "status": "confirmed",
-      "matched_name": "University of Washington",
-      "certified_lca_count": 196
     },
     "Transamerica": {
       "status": "likely",
@@ -4401,11 +4636,6 @@
       "status": "confirmed",
       "matched_name": "MaineHealth",
       "certified_lca_count": 17
-    },
-    "AppCard, Inc.": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
     },
     "Avid": {
       "status": "likely",
@@ -6122,11 +6352,6 @@
       "matched_name": "Corporation Service Company",
       "certified_lca_count": 21
     },
-    "Kimley-Horn": {
-      "status": "likely",
-      "matched_name": "Kimley-Horn and Associates, Inc.",
-      "certified_lca_count": 17
-    },
     "WSP in the U.S.": {
       "status": "not_found",
       "matched_name": null,
@@ -6476,56 +6701,6 @@
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
-    },
-    "Sydney Water": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Utahcounty": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "California Department of Forestry and Fire Protection (CAL FIRE)": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "City of Redding": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Liberty": {
-      "status": "likely",
-      "matched_name": "Liberty Mutual Technology Group Inc.",
-      "certified_lca_count": 75
-    },
-    "County of Sonoma (CA)": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Oldcastle APG": {
-      "status": "confirmed",
-      "matched_name": "Oldcastle APG, Inc.",
-      "certified_lca_count": 1
-    },
-    "Astrix": {
-      "status": "likely",
-      "matched_name": "Astrix Technology, LLC",
-      "certified_lca_count": 9
-    },
-    "Kings County": {
-      "status": "likely",
-      "matched_name": "Kings County Services Inc.",
-      "certified_lca_count": 2
-    },
-    "Animal and Plant Health Inspection Service": {
-      "status": "likely",
-      "matched_name": "Corporation Service Company",
-      "certified_lca_count": 21
     }
   }
 }
