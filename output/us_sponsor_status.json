@@ -1,17 +1,232 @@
 {
-  "updated_at": "2026-09-25T12:03:35.388280+00:00",
+  "updated_at": "2026-09-26T11:38:47.003730+00:00",
   "source_files": [
     "https://www.dol.gov/media/LCA_Disclosure_Data_FY2026_Q3.xlsx",
     "https://www.dol.gov/sites/dolgov/files/ETA/oflc/pdfs/LCA_Disclosure_Data_FY2025_Q4.xlsx"
   ],
   "employer_count": 60026,
   "company_counts": {
-    "confirmed": 293,
-    "likely": 471,
-    "not_found": 572,
+    "confirmed": 298,
+    "likely": 480,
+    "not_found": 582,
     "unknown": 2
   },
   "companies": {
+    "Autodesk": {
+      "status": "confirmed",
+      "matched_name": "Autodesk, Inc.",
+      "certified_lca_count": 221
+    },
+    "Arcadis": {
+      "status": "confirmed",
+      "matched_name": "Arcadis Inc.",
+      "certified_lca_count": 17
+    },
+    "Simpson Associates": {
+      "status": "likely",
+      "matched_name": "SOCi, Inc.",
+      "certified_lca_count": 1
+    },
+    "Branch": {
+      "status": "likely",
+      "matched_name": "Natixis New York Branch",
+      "certified_lca_count": 16
+    },
+    "BigTime Software, Inc.": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "STATION F": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Align Technology": {
+      "status": "confirmed",
+      "matched_name": "Align Technology, Inc.",
+      "certified_lca_count": 53
+    },
+    "Menlo Security Inc.": {
+      "status": "confirmed",
+      "matched_name": "Menlo Security, Inc.",
+      "certified_lca_count": 1
+    },
+    "Zayo Group": {
+      "status": "confirmed",
+      "matched_name": "Zayo Group LLC",
+      "certified_lca_count": 10
+    },
+    "Vehlo": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Piper Companies": {
+      "status": "confirmed",
+      "matched_name": "Piper Companies, LLC",
+      "certified_lca_count": 3
+    },
+    "Luthor": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Betsi Cadwaladr University Health Board": {
+      "status": "likely",
+      "matched_name": "Group Health, Inc.",
+      "certified_lca_count": 41
+    },
+    "Tracera": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Fifth Dimension": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Accurx": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Tepa Companies": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Personio": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Civil & Environmental Consultants, Inc.": {
+      "status": "confirmed",
+      "matched_name": "Civil & Environmental Consultants, Inc.",
+      "certified_lca_count": 11
+    },
+    "Marathon Petroleum Corporation": {
+      "status": "likely",
+      "matched_name": "Marathon Petroleum Company LP",
+      "certified_lca_count": 5
+    },
+    "Celigo": {
+      "status": "confirmed",
+      "matched_name": "Celigo, Inc.",
+      "certified_lca_count": 3
+    },
+    "WP Engine": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Order.co": {
+      "status": "likely",
+      "matched_name": "Border States Industries, Inc.",
+      "certified_lca_count": 2
+    },
+    "Phoenix Staff, Inc.": {
+      "status": "confirmed",
+      "matched_name": "Phoenix Staff, Inc.",
+      "certified_lca_count": 4
+    },
+    "Cambia Health Solutions": {
+      "status": "confirmed",
+      "matched_name": "Cambia Health Solutions, Inc.",
+      "certified_lca_count": 6
+    },
+    "ECMC Group": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Kforce Inc": {
+      "status": "confirmed",
+      "matched_name": "KFORCE INC.",
+      "certified_lca_count": 773
+    },
+    "Weiss Asset Management": {
+      "status": "likely",
+      "matched_name": "Weiss Asset Management LP",
+      "certified_lca_count": 8
+    },
+    "Zones EMEA": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Conga": {
+      "status": "confirmed",
+      "matched_name": "Conga Corporation",
+      "certified_lca_count": 38
+    },
+    "Carta": {
+      "status": "likely",
+      "matched_name": "Cartage AI, Inc.",
+      "certified_lca_count": 1
+    },
+    "HiBob": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Salesforce": {
+      "status": "confirmed",
+      "matched_name": "Salesforce, Inc.",
+      "certified_lca_count": 2004
+    },
+    "Amazon": {
+      "status": "confirmed",
+      "matched_name": "Amazon LLC",
+      "certified_lca_count": 2
+    },
+    "GMR Marketing": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Core One": {
+      "status": "likely",
+      "matched_name": "Core One Physical Therapy and Chiropractic",
+      "certified_lca_count": 2
+    },
+    "VetJobs": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Teamwork.com": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Gartner": {
+      "status": "confirmed",
+      "matched_name": "Gartner Inc",
+      "certified_lca_count": 39
+    },
+    "ServiceNow": {
+      "status": "confirmed",
+      "matched_name": "ServiceNow, Inc.",
+      "certified_lca_count": 660
+    },
+    "Clark Construction Group": {
+      "status": "confirmed",
+      "matched_name": "CLARK CONSTRUCTION GROUP, LLC",
+      "certified_lca_count": 7
+    },
+    "Lectra": {
+      "status": "likely",
+      "matched_name": "Electra Information Systems, Inc.",
+      "certified_lca_count": 3
+    },
+    "Assured": {
+      "status": "likely",
+      "matched_name": "Assured Health Inc",
+      "certified_lca_count": 1
+    },
     "ICE": {
       "status": "not_found",
       "matched_name": null,
@@ -21,11 +236,6 @@
       "status": "likely",
       "matched_name": "Lambert Radiology Medical Group",
       "certified_lca_count": 3
-    },
-    "Autodesk": {
-      "status": "confirmed",
-      "matched_name": "Autodesk, Inc.",
-      "certified_lca_count": 221
     },
     "Coopman Search and Selection | B Corp\u2122": {
       "status": "likely",
@@ -127,11 +337,6 @@
       "matched_name": null,
       "certified_lca_count": 0
     },
-    "Salesforce": {
-      "status": "confirmed",
-      "matched_name": "Salesforce, Inc.",
-      "certified_lca_count": 2004
-    },
     "Balfour Beatty": {
       "status": "likely",
       "matched_name": "Balfour Beatty Infrastructure Inc.",
@@ -232,11 +437,6 @@
       "matched_name": "Alliant Systems, LLC",
       "certified_lca_count": 1
     },
-    "Conga": {
-      "status": "confirmed",
-      "matched_name": "Conga Corporation",
-      "certified_lca_count": 38
-    },
     "BarnTools": {
       "status": "not_found",
       "matched_name": null,
@@ -281,11 +481,6 @@
       "status": "likely",
       "matched_name": "Fulcrum Asset Management LP",
       "certified_lca_count": 1
-    },
-    "ServiceNow": {
-      "status": "confirmed",
-      "matched_name": "ServiceNow, Inc.",
-      "certified_lca_count": 660
     },
     "NHS Essex Interated Care Board": {
       "status": "likely",
@@ -386,11 +581,6 @@
       "status": "confirmed",
       "matched_name": "DoorDash, Inc.",
       "certified_lca_count": 488
-    },
-    "STATION F": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
     },
     "Tacoma Public Utilities": {
       "status": "likely",
@@ -520,11 +710,6 @@
     "Stellar Consulting Solutions, LLC": {
       "status": "likely",
       "matched_name": "G-SOL LLC",
-      "certified_lca_count": 2
-    },
-    "Amazon": {
-      "status": "confirmed",
-      "matched_name": "Amazon LLC",
       "certified_lca_count": 2
     },
     "Dexory": {
@@ -1077,11 +1262,6 @@
       "matched_name": "Airesafe International USA, Inc.",
       "certified_lca_count": 1
     },
-    "Arcadis": {
-      "status": "confirmed",
-      "matched_name": "Arcadis Inc.",
-      "certified_lca_count": 17
-    },
     "Built": {
       "status": "likely",
       "matched_name": "HartBuilt Construction Corp",
@@ -1597,11 +1777,6 @@
       "matched_name": null,
       "certified_lca_count": 0
     },
-    "WP Engine": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
     "Ncontracts": {
       "status": "confirmed",
       "matched_name": "Ncontracts, LLC",
@@ -2066,11 +2241,6 @@
       "status": "likely",
       "matched_name": "CENTRA INC.",
       "certified_lca_count": 1
-    },
-    "ECMC Group": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
     },
     "OTG Management": {
       "status": "not_found",
@@ -2591,11 +2761,6 @@
       "status": "likely",
       "matched_name": "Northwestern Mutual Life Insurance Company",
       "certified_lca_count": 116
-    },
-    "Clark Construction Group": {
-      "status": "confirmed",
-      "matched_name": "CLARK CONSTRUCTION GROUP, LLC",
-      "certified_lca_count": 7
     },
     "WillScot": {
       "status": "not_found",
@@ -4491,11 +4656,6 @@
       "status": "likely",
       "matched_name": "Tror LLC",
       "certified_lca_count": 42
-    },
-    "Civil & Environmental Consultants, Inc.": {
-      "status": "confirmed",
-      "matched_name": "Civil & Environmental Consultants, Inc.",
-      "certified_lca_count": 11
     },
     "New York Technology Partners": {
       "status": "confirmed",
@@ -6658,46 +6818,6 @@
       "certified_lca_count": 0
     },
     "United States Army Installation Management Command": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "SoCalGas": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "KELLER": {
-      "status": "likely",
-      "matched_name": "KELLERMEYER BERGENSONS SERVICES LLC",
-      "certified_lca_count": 2
-    },
-    "Total HRM": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Procter & Gamble": {
-      "status": "confirmed",
-      "matched_name": "The Procter & Gamble Company",
-      "certified_lca_count": 14
-    },
-    "Colliers Engineering & Design": {
-      "status": "confirmed",
-      "matched_name": "Colliers Engineering & Design, Inc.",
-      "certified_lca_count": 4
-    },
-    "New York State": {
-      "status": "confirmed",
-      "matched_name": "NEW YORK STATE",
-      "certified_lca_count": 4
-    },
-    "CALIFORNIA ENERGY COMMISSION": {
-      "status": "confirmed",
-      "matched_name": "California Energy Commission",
-      "certified_lca_count": 11
-    },
-    "Department Of Forestry & Fire Protection": {
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
