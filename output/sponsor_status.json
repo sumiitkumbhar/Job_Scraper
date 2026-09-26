@@ -1,14 +1,186 @@
 {
-  "updated_at": "2026-09-25T11:29:17.930617+00:00",
+  "updated_at": "2026-09-26T11:03:37.168776+00:00",
   "register_source": "https://assets.publishing.service.gov.uk/media/6ab641b78cb3c0580e5011d9/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-09-25.csv",
   "register_org_count": 126519,
   "company_counts": {
-    "confirmed": 217,
-    "likely": 582,
-    "not_found": 537,
+    "confirmed": 223,
+    "likely": 595,
+    "not_found": 542,
     "unknown": 2
   },
   "companies": {
+    "Autodesk": {
+      "status": "confirmed",
+      "matched_name": "Autodesk Ltd"
+    },
+    "Arcadis": {
+      "status": "confirmed",
+      "matched_name": "Arcadis LLP"
+    },
+    "Simpson Associates": {
+      "status": "likely",
+      "matched_name": "Asso Ltd"
+    },
+    "Branch": {
+      "status": "likely",
+      "matched_name": "A.Menarini Farmaceutica Internazionale SRL-UK Branch"
+    },
+    "BigTime Software, Inc.": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "STATION F": {
+      "status": "likely",
+      "matched_name": "Fry Station Ltd T/A Fry Station Fish and Chip Shop"
+    },
+    "Align Technology": {
+      "status": "confirmed",
+      "matched_name": "Align Technology UK Limited"
+    },
+    "Menlo Security Inc.": {
+      "status": "confirmed",
+      "matched_name": "Menlo Security Limited"
+    },
+    "Zayo Group": {
+      "status": "confirmed",
+      "matched_name": "Zayo Group UK Limited"
+    },
+    "Vehlo": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Piper Companies": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Luthor": {
+      "status": "likely",
+      "matched_name": "Thor Ltd"
+    },
+    "Betsi Cadwaladr University Health Board": {
+      "status": "confirmed",
+      "matched_name": "The Betsi Cadwaladr University Health Board"
+    },
+    "Tracera": {
+      "status": "likely",
+      "matched_name": "Acer UK Limited"
+    },
+    "Fifth Dimension": {
+      "status": "likely",
+      "matched_name": "Fifth Dimension AI Ltd"
+    },
+    "Accurx": {
+      "status": "confirmed",
+      "matched_name": "AccuRx Limited"
+    },
+    "Tepa Companies": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Personio": {
+      "status": "likely",
+      "matched_name": "Personio Group SE (UK Branch)"
+    },
+    "Civil & Environmental Consultants, Inc.": {
+      "status": "likely",
+      "matched_name": "Consulta Limited"
+    },
+    "Marathon Petroleum Corporation": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Celigo": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "WP Engine": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Order.co": {
+      "status": "likely",
+      "matched_name": "All in order Solutions Ltd"
+    },
+    "Phoenix Staff, Inc.": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Cambia Health Solutions": {
+      "status": "likely",
+      "matched_name": "Ambi & Co (UK) Ltd"
+    },
+    "ECMC Group": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Kforce Inc": {
+      "status": "likely",
+      "matched_name": "M&MWORKFORCELTD"
+    },
+    "Weiss Asset Management": {
+      "status": "likely",
+      "matched_name": "Asset UK Limited"
+    },
+    "Zones EMEA": {
+      "status": "likely",
+      "matched_name": "Zones UK LTD"
+    },
+    "Conga": {
+      "status": "likely",
+      "matched_name": "CONGA EUROPE LTD"
+    },
+    "Carta": {
+      "status": "likely",
+      "matched_name": "Carta Financial Services Limited"
+    },
+    "HiBob": {
+      "status": "likely",
+      "matched_name": "HIBO LTD"
+    },
+    "Salesforce": {
+      "status": "confirmed",
+      "matched_name": "Salesforce UK Limited"
+    },
+    "Amazon": {
+      "status": "likely",
+      "matched_name": "Amazon Charitable Trust"
+    },
+    "GMR Marketing": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Core One": {
+      "status": "likely",
+      "matched_name": "Core"
+    },
+    "VetJobs": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Teamwork.com": {
+      "status": "likely",
+      "matched_name": "Teamwork Commerce Limited"
+    },
+    "Gartner": {
+      "status": "confirmed",
+      "matched_name": "Gartner UK Limited"
+    },
+    "ServiceNow": {
+      "status": "confirmed",
+      "matched_name": "ServiceNow UK Limited"
+    },
+    "Clark Construction Group": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Lectra": {
+      "status": "confirmed",
+      "matched_name": "Lectra UK Ltd"
+    },
+    "Assured": {
+      "status": "confirmed",
+      "matched_name": "Assured Group Ltd"
+    },
     "ICE": {
       "status": "not_found",
       "matched_name": null
@@ -16,10 +188,6 @@
     "amber": {
       "status": "likely",
       "matched_name": "39 Essex Chambers (Services) Limited"
-    },
-    "Autodesk": {
-      "status": "confirmed",
-      "matched_name": "Autodesk Ltd"
     },
     "Coopman Search and Selection | B Corp\u2122": {
       "status": "likely",
@@ -101,10 +269,6 @@
       "status": "not_found",
       "matched_name": null
     },
-    "Salesforce": {
-      "status": "confirmed",
-      "matched_name": "Salesforce UK Limited"
-    },
     "Balfour Beatty": {
       "status": "likely",
       "matched_name": "Balfour Beatty Group Employment Limited"
@@ -185,10 +349,6 @@
       "status": "likely",
       "matched_name": "Allia Ltd"
     },
-    "Conga": {
-      "status": "likely",
-      "matched_name": "CONGA EUROPE LTD"
-    },
     "BarnTools": {
       "status": "not_found",
       "matched_name": null
@@ -224,10 +384,6 @@
     "Fulcrum": {
       "status": "likely",
       "matched_name": "Fulcrum Asset Management LLP"
-    },
-    "ServiceNow": {
-      "status": "confirmed",
-      "matched_name": "ServiceNow UK Limited"
     },
     "NHS Essex Interated Care Board": {
       "status": "likely",
@@ -308,10 +464,6 @@
     "DoorDash": {
       "status": "likely",
       "matched_name": "Doorda Limited"
-    },
-    "STATION F": {
-      "status": "likely",
-      "matched_name": "Fry Station Ltd T/A Fry Station Fish and Chip Shop"
     },
     "Tacoma Public Utilities": {
       "status": "not_found",
@@ -416,10 +568,6 @@
     "Stellar Consulting Solutions, LLC": {
       "status": "not_found",
       "matched_name": null
-    },
-    "Amazon": {
-      "status": "likely",
-      "matched_name": "Amazon Charitable Trust"
     },
     "Dexory": {
       "status": "confirmed",
@@ -861,10 +1009,6 @@
       "status": "likely",
       "matched_name": "BS.AS. Maidstone Ltd T/A Buenos Aires Nights"
     },
-    "Arcadis": {
-      "status": "confirmed",
-      "matched_name": "Arcadis LLP"
-    },
     "Built": {
       "status": "likely",
       "matched_name": "ASBUILT DIGITAL UK LIMITED"
@@ -1277,10 +1421,6 @@
       "status": "not_found",
       "matched_name": null
     },
-    "WP Engine": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "Ncontracts": {
       "status": "not_found",
       "matched_name": null
@@ -1652,10 +1792,6 @@
     "CentralReach": {
       "status": "likely",
       "matched_name": "CENTRAL UK GROUP LIMITED"
-    },
-    "ECMC Group": {
-      "status": "not_found",
-      "matched_name": null
     },
     "OTG Management": {
       "status": "not_found",
@@ -2072,10 +2208,6 @@
     "Northwestern Mutual": {
       "status": "likely",
       "matched_name": "Tern PLC"
-    },
-    "Clark Construction Group": {
-      "status": "not_found",
-      "matched_name": null
     },
     "WillScot": {
       "status": "not_found",
@@ -3592,10 +3724,6 @@
     "GastroRocket GmbH": {
       "status": "not_found",
       "matched_name": null
-    },
-    "Civil & Environmental Consultants, Inc.": {
-      "status": "likely",
-      "matched_name": "Consulta Limited"
     },
     "New York Technology Partners": {
       "status": "likely",
@@ -5328,38 +5456,6 @@
     "United States Army Installation Management Command": {
       "status": "likely",
       "matched_name": "ION MAN LIMITED"
-    },
-    "SoCalGas": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "KELLER": {
-      "status": "confirmed",
-      "matched_name": "Keller Group Plc"
-    },
-    "Total HRM": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Procter & Gamble": {
-      "status": "confirmed",
-      "matched_name": "Procter & Gamble Limited"
-    },
-    "Colliers Engineering & Design": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "New York State": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "CALIFORNIA ENERGY COMMISSION": {
-      "status": "likely",
-      "matched_name": "The Mission Group plc"
-    },
-    "Department Of Forestry & Fire Protection": {
-      "status": "likely",
-      "matched_name": "Prot Ltd"
     }
   }
 }
