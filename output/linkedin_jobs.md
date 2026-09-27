@@ -1,12 +1,8 @@
 # 🔥 LinkedIn — Sumit's Planning & PropTech Roles
-*Last updated: 2026-09-26 22:24 UTC*
+*Last updated: 2026-09-27 01:04 UTC*
 
-**2 new role(s)** since last run · 2 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-### [Senior Workforce Planning Officer](https://www.linkedin.com/jobs/view/4472410508/) — Betsi Cadwaladr University Health Board
-- 📍 **Location:** Llanfairfechan, Wales, United Kingdom
-- 🕒 **Posted:** 2026-09-26
-
-### [Customer Success Specialist, Entry Level](https://www.linkedin.com/jobs/view/4471076235/) — Jobright.ai
-- 📍 **Location:** United Kingdom
-- 🕒 **Posted:** 2026-09-26
+### [Financial Planning Analyst](https://www.linkedin.com/jobs/view/4471067756/) — WATT Fuel Cell
+- 📍 **Location:** Mount Pleasant, PA
+- 🕒 **Posted:** 2026-09-27
