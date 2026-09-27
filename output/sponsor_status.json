@@ -1,14 +1,70 @@
 {
-  "updated_at": "2026-09-26T11:03:37.168776+00:00",
+  "updated_at": "2026-09-27T11:42:39.038702+00:00",
   "register_source": "https://assets.publishing.service.gov.uk/media/6ab641b78cb3c0580e5011d9/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-09-25.csv",
   "register_org_count": 126519,
   "company_counts": {
     "confirmed": 223,
-    "likely": 595,
-    "not_found": 542,
+    "likely": 596,
+    "not_found": 538,
     "unknown": 2
   },
   "companies": {
+    "Fin": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Bluebeam": {
+      "status": "likely",
+      "matched_name": "Beam Inc Ltd"
+    },
+    "WATT Fuel Cell": {
+      "status": "likely",
+      "matched_name": "Cell Ltd"
+    },
+    "City of Houston, TX": {
+      "status": "likely",
+      "matched_name": "Houst Limited"
+    },
+    "QTS Data Centers": {
+      "status": "likely",
+      "matched_name": "Data Inc UK Ltd"
+    },
+    "ServiceNow": {
+      "status": "confirmed",
+      "matched_name": "ServiceNow UK Limited"
+    },
+    "WSP in the U.S.": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Amentum": {
+      "status": "confirmed",
+      "matched_name": "AMENTUM (UK) LTD"
+    },
+    "Fidelity Investments": {
+      "status": "likely",
+      "matched_name": "Fidel Limited"
+    },
+    "IST Management": {
+      "status": "likely",
+      "matched_name": "Caroline Dunkley DJ and Artist Management"
+    },
+    "6sense": {
+      "status": "likely",
+      "matched_name": "6sense Insights UK Ltd"
+    },
+    "Broadridge": {
+      "status": "likely",
+      "matched_name": "Broadridge Financial Solutions Ltd"
+    },
+    "Baylor Scott & White Health": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Amazon Web Services (AWS)": {
+      "status": "likely",
+      "matched_name": "Vice UK Limited"
+    },
     "Autodesk": {
       "status": "confirmed",
       "matched_name": "Autodesk Ltd"
@@ -164,10 +220,6 @@
     "Gartner": {
       "status": "confirmed",
       "matched_name": "Gartner UK Limited"
-    },
-    "ServiceNow": {
-      "status": "confirmed",
-      "matched_name": "ServiceNow UK Limited"
     },
     "Clark Construction Group": {
       "status": "not_found",
@@ -393,10 +445,6 @@
       "status": "likely",
       "matched_name": "Alfasigma UK Limited"
     },
-    "Bluebeam": {
-      "status": "likely",
-      "matched_name": "Beam Inc Ltd"
-    },
     "AECOM": {
       "status": "confirmed",
       "matched_name": "AECOM LIMITED"
@@ -585,10 +633,6 @@
       "status": "not_found",
       "matched_name": null
     },
-    "Fidelity Investments": {
-      "status": "likely",
-      "matched_name": "Fidel Limited"
-    },
     "Rowan Digital Infrastructure": {
       "status": "likely",
       "matched_name": "DIGITAL-I LIMITED"
@@ -660,10 +704,6 @@
     "DHL Express": {
       "status": "confirmed",
       "matched_name": "DHL Express UK LTD"
-    },
-    "Amazon Web Services (AWS)": {
-      "status": "likely",
-      "matched_name": "Vice UK Limited"
     },
     "Westinghouse Electric Company": {
       "status": "likely",
@@ -1060,10 +1100,6 @@
     "Greenberg Traurig, LLP": {
       "status": "confirmed",
       "matched_name": "Greenberg Traurig, LLP"
-    },
-    "Fin": {
-      "status": "not_found",
-      "matched_name": null
     },
     "Pflegia": {
       "status": "not_found",
@@ -3197,10 +3233,6 @@
       "status": "likely",
       "matched_name": "Arri Holdings Limited"
     },
-    "Amentum": {
-      "status": "confirmed",
-      "matched_name": "AMENTUM (UK) LTD"
-    },
     "Aspida": {
       "status": "not_found",
       "matched_name": null
@@ -5209,10 +5241,6 @@
       "status": "likely",
       "matched_name": "Vice UK Limited"
     },
-    "WSP in the U.S.": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "Geosyntec Consultants, Inc.": {
       "status": "confirmed",
       "matched_name": "Geosyntec Consultants Ltd"
@@ -5416,46 +5444,6 @@
     "California State University, Chico": {
       "status": "not_found",
       "matched_name": null
-    },
-    "COUNTY OF FRESNO": {
-      "status": "likely",
-      "matched_name": "Count LTD"
-    },
-    "Hunter Industries": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "United Water Conservation District": {
-      "status": "likely",
-      "matched_name": "Unite"
-    },
-    "Deringer": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Orion Group": {
-      "status": "likely",
-      "matched_name": "AURORION LUXDRIVE LTD"
-    },
-    "Summit College": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "DLA Careers": {
-      "status": "likely",
-      "matched_name": "Care & Co Ltd"
-    },
-    "Golden State Water Company": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Commander, Navy Installations Command": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "United States Army Installation Management Command": {
-      "status": "likely",
-      "matched_name": "ION MAN LIMITED"
     }
   }
 }
