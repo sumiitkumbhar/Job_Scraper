@@ -1,27 +1,24 @@
 # 🔥 LinkedIn — Sumit's Planning & PropTech Roles
-*Last updated: 2026-09-27 19:30 UTC*
+*Last updated: 2026-09-27 22:41 UTC*
 
 **5 new role(s)** since last run · 5 total in last 1h
 
-### [Project Manager - Customer Success](https://www.linkedin.com/jobs/view/4434716287/) — GRUNDFOS
-- 📍 **Location:** Tadworth, England, United Kingdom
+### [Place Planning Officer (SEND)](https://www.linkedin.com/jobs/view/4472469316/) — Nottinghamshire County Council
+- 📍 **Location:** Nottinghamshire, England, United Kingdom
 - 🕒 **Posted:** 2026-09-27
 
-### [Assistant Planner](https://www.linkedin.com/jobs/view/4469056355/) — Hunter Hamilton
-- 📍 **Location:** Emeryville, CA
-- 💰 **Salary:** $32.00/hr - $36.00/hr
+### [Senior Workforce Planning Officer](https://www.linkedin.com/jobs/view/4472471262/) — Betsi Cadwaladr University Health Board
+- 📍 **Location:** Llanfairfechan, Wales, United Kingdom
 - 🕒 **Posted:** 2026-09-27
 
-### [GIS Analyst](https://www.linkedin.com/jobs/view/4470819380/) — TalentHop
+### [Customer Success Specialist, Entry Level](https://www.linkedin.com/jobs/view/4471300688/) — Jobright.ai
+- 📍 **Location:** United Kingdom
+- 🕒 **Posted:** 2026-09-27
+
+### [Compliance Analyst, Entry Level](https://www.linkedin.com/jobs/view/4471300695/) — Jobright.ai
+- 📍 **Location:** United Kingdom
+- 🕒 **Posted:** 2026-09-27
+
+### [Customer Success Manager](https://www.linkedin.com/jobs/view/4472466397/) — Bankors
 - 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-27
-
-### [Customer Success Engineer - Ohio Valley](https://www.linkedin.com/jobs/view/4470809673/) — TalentHop
-- 📍 **Location:** United States
-- 💰 **Salary:** $140,000-$160,000
-- 🕒 **Posted:** 2026-09-27
-
-### [Sr. Customer Success Engineer](https://www.linkedin.com/jobs/view/4471098562/) — RemoteHunter
-- 📍 **Location:** United States
-- 💰 **Salary:** $103,200.00/yr - $264,300.00/yr
 - 🕒 **Posted:** 2026-09-27
