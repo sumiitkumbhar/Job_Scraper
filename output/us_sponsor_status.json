@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T11:38:47.003730+00:00",
+  "updated_at": "2026-09-27T12:17:33.034063+00:00",
   "source_files": [
     "https://www.dol.gov/media/LCA_Disclosure_Data_FY2026_Q3.xlsx",
     "https://www.dol.gov/sites/dolgov/files/ETA/oflc/pdfs/LCA_Disclosure_Data_FY2025_Q4.xlsx"
@@ -7,11 +7,81 @@
   "employer_count": 60026,
   "company_counts": {
     "confirmed": 298,
-    "likely": 480,
-    "not_found": 582,
+    "likely": 481,
+    "not_found": 578,
     "unknown": 2
   },
   "companies": {
+    "Fin": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Bluebeam": {
+      "status": "confirmed",
+      "matched_name": "Bluebeam, Inc.",
+      "certified_lca_count": 1
+    },
+    "WATT Fuel Cell": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "City of Houston, TX": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "QTS Data Centers": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "ServiceNow": {
+      "status": "confirmed",
+      "matched_name": "ServiceNow, Inc.",
+      "certified_lca_count": 660
+    },
+    "WSP in the U.S.": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Amentum": {
+      "status": "likely",
+      "matched_name": "AMENTUM SERVICES INC.",
+      "certified_lca_count": 2
+    },
+    "Fidelity Investments": {
+      "status": "likely",
+      "matched_name": "Fidelity Technology Group, LLC d/b/a Fidelity Investments",
+      "certified_lca_count": 2661
+    },
+    "IST Management": {
+      "status": "likely",
+      "matched_name": "List Management Services, Inc.",
+      "certified_lca_count": 1
+    },
+    "6sense": {
+      "status": "likely",
+      "matched_name": "6Sense Insights, Inc.",
+      "certified_lca_count": 16
+    },
+    "Broadridge": {
+      "status": "likely",
+      "matched_name": "BROADRIDGE FINANCIAL SOLUTIONS, INC.",
+      "certified_lca_count": 68
+    },
+    "Baylor Scott & White Health": {
+      "status": "confirmed",
+      "matched_name": "Baylor Scott & White Health",
+      "certified_lca_count": 14
+    },
+    "Amazon Web Services (AWS)": {
+      "status": "likely",
+      "matched_name": "Amazon Web Services, Inc.",
+      "certified_lca_count": 2987
+    },
     "Autodesk": {
       "status": "confirmed",
       "matched_name": "Autodesk, Inc.",
@@ -206,11 +276,6 @@
       "status": "confirmed",
       "matched_name": "Gartner Inc",
       "certified_lca_count": 39
-    },
-    "ServiceNow": {
-      "status": "confirmed",
-      "matched_name": "ServiceNow, Inc.",
-      "certified_lca_count": 660
     },
     "Clark Construction Group": {
       "status": "confirmed",
@@ -492,11 +557,6 @@
       "matched_name": "SIGMA Corporation",
       "certified_lca_count": 7
     },
-    "Bluebeam": {
-      "status": "confirmed",
-      "matched_name": "Bluebeam, Inc.",
-      "certified_lca_count": 1
-    },
     "AECOM": {
       "status": "confirmed",
       "matched_name": "AECOM",
@@ -732,11 +792,6 @@
       "matched_name": "Magma Holding Inc.",
       "certified_lca_count": 4
     },
-    "Fidelity Investments": {
-      "status": "likely",
-      "matched_name": "Fidelity Technology Group, LLC d/b/a Fidelity Investments",
-      "certified_lca_count": 2661
-    },
     "Rowan Digital Infrastructure": {
       "status": "not_found",
       "matched_name": null,
@@ -826,11 +881,6 @@
       "status": "likely",
       "matched_name": "DHL Express (USA), Inc.",
       "certified_lca_count": 11
-    },
-    "Amazon Web Services (AWS)": {
-      "status": "likely",
-      "matched_name": "Amazon Web Services, Inc.",
-      "certified_lca_count": 2987
     },
     "Westinghouse Electric Company": {
       "status": "confirmed",
@@ -1326,11 +1376,6 @@
       "status": "confirmed",
       "matched_name": "Greenberg Traurig, LLP",
       "certified_lca_count": 16
-    },
-    "Fin": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
     },
     "Pflegia": {
       "status": "not_found",
@@ -3997,11 +4042,6 @@
       "matched_name": "Carrier Corporation",
       "certified_lca_count": 8
     },
-    "Amentum": {
-      "status": "likely",
-      "matched_name": "AMENTUM SERVICES INC.",
-      "certified_lca_count": 2
-    },
     "Aspida": {
       "status": "not_found",
       "matched_name": null,
@@ -6512,11 +6552,6 @@
       "matched_name": "Corporation Service Company",
       "certified_lca_count": 21
     },
-    "WSP in the U.S.": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
     "Geosyntec Consultants, Inc.": {
       "status": "confirmed",
       "matched_name": "Geosyntec Consultants, Inc.",
@@ -6771,56 +6806,6 @@
       "status": "confirmed",
       "matched_name": "California State University, Chico",
       "certified_lca_count": 3
-    },
-    "COUNTY OF FRESNO": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Hunter Industries": {
-      "status": "confirmed",
-      "matched_name": "Hunter Industries, Inc.",
-      "certified_lca_count": 2
-    },
-    "United Water Conservation District": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Deringer": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Orion Group": {
-      "status": "likely",
-      "matched_name": "Orion Systems Integrators LLC",
-      "certified_lca_count": 118
-    },
-    "Summit College": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "DLA Careers": {
-      "status": "likely",
-      "matched_name": "REER INC",
-      "certified_lca_count": 3
-    },
-    "Golden State Water Company": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Commander, Navy Installations Command": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "United States Army Installation Management Command": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
     }
   }
 }
