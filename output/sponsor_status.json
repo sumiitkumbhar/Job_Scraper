@@ -1,14 +1,66 @@
 {
-  "updated_at": "2026-09-27T11:42:39.038702+00:00",
-  "register_source": "https://assets.publishing.service.gov.uk/media/6ab641b78cb3c0580e5011d9/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-09-25.csv",
-  "register_org_count": 126519,
+  "updated_at": "2026-09-28T13:19:56.151624+00:00",
+  "register_source": "https://assets.publishing.service.gov.uk/media/6aba23f4734e2435f202f12a/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-09-28.csv",
+  "register_org_count": 126508,
   "company_counts": {
-    "confirmed": 223,
-    "likely": 596,
-    "not_found": 538,
+    "confirmed": 225,
+    "likely": 598,
+    "not_found": 539,
     "unknown": 2
   },
   "companies": {
+    "Michael Kors": {
+      "status": "confirmed",
+      "matched_name": "Michael Kors UK Limited"
+    },
+    "Airbnb": {
+      "status": "confirmed",
+      "matched_name": "Airbnb UK Limited"
+    },
+    "NiCE": {
+      "status": "confirmed",
+      "matched_name": "Nice UK Ltd"
+    },
+    "Workspace 365": {
+      "status": "likely",
+      "matched_name": "WORK LIMITED"
+    },
+    "LevelUp Group": {
+      "status": "likely",
+      "matched_name": "LevelUP Talent Solutions Ltd"
+    },
+    "Peter Park": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "STATION F": {
+      "status": "likely",
+      "matched_name": "Fry Station Ltd T/A Fry Station Fish and Chip Shop"
+    },
+    "Swooped": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "ACA Group": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Bankors": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Hunter Hamilton": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "TalentHop": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "RemoteHunter": {
+      "status": "not_found",
+      "matched_name": null
+    },
     "Fin": {
       "status": "not_found",
       "matched_name": null
@@ -84,10 +136,6 @@
     "BigTime Software, Inc.": {
       "status": "not_found",
       "matched_name": null
-    },
-    "STATION F": {
-      "status": "likely",
-      "matched_name": "Fry Station Ltd T/A Fry Station Fish and Chip Shop"
     },
     "Align Technology": {
       "status": "confirmed",
@@ -417,10 +465,6 @@
       "status": "likely",
       "matched_name": "Arri Holdings Limited"
     },
-    "TalentHop": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "Silicon Valley Search Group": {
       "status": "likely",
       "matched_name": "UK Search Limited"
@@ -546,10 +590,6 @@
       "matched_name": "C.H. Robinson Worldwide (UK) Limited"
     },
     "City National Bank": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "ACA Group": {
       "status": "not_found",
       "matched_name": null
     },
@@ -910,10 +950,6 @@
       "matched_name": "Reltio UK Limited"
     },
     "JD Power": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Swooped": {
       "status": "not_found",
       "matched_name": null
     },
@@ -1768,10 +1804,6 @@
     "WarriorBabe": {
       "status": "likely",
       "matched_name": "Arri Holdings Limited"
-    },
-    "RemoteHunter": {
-      "status": "not_found",
-      "matched_name": null
     },
     "Rithum": {
       "status": "likely",
@@ -3969,10 +4001,6 @@
       "status": "confirmed",
       "matched_name": "Moray Council"
     },
-    "Michael Kors": {
-      "status": "confirmed",
-      "matched_name": "Michael Kors UK Limited"
-    },
     "Local Government Jobs Ireland": {
       "status": "likely",
       "matched_name": "THE LOCAL"
@@ -5434,14 +5462,6 @@
       "matched_name": "DBAY UK Limited"
     },
     "South Coast Air Quality Management District": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "State of Maryland - MDH Ofc of Chief Med Examiner": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "California State University, Chico": {
       "status": "not_found",
       "matched_name": null
     }
