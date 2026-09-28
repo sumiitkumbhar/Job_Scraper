@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T12:17:33.034063+00:00",
+  "updated_at": "2026-09-28T14:14:45.378224+00:00",
   "source_files": [
     "https://www.dol.gov/media/LCA_Disclosure_Data_FY2026_Q3.xlsx",
     "https://www.dol.gov/sites/dolgov/files/ETA/oflc/pdfs/LCA_Disclosure_Data_FY2025_Q4.xlsx"
@@ -7,11 +7,76 @@
   "employer_count": 60026,
   "company_counts": {
     "confirmed": 298,
-    "likely": 481,
-    "not_found": 578,
+    "likely": 484,
+    "not_found": 580,
     "unknown": 2
   },
   "companies": {
+    "Michael Kors": {
+      "status": "likely",
+      "matched_name": "MICHAEL KORS USA, INC.",
+      "certified_lca_count": 14
+    },
+    "Airbnb": {
+      "status": "confirmed",
+      "matched_name": "AIRBNB, INC.",
+      "certified_lca_count": 207
+    },
+    "NiCE": {
+      "status": "likely",
+      "matched_name": "Nice North America LLC",
+      "certified_lca_count": 2
+    },
+    "Workspace 365": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "LevelUp Group": {
+      "status": "likely",
+      "matched_name": "Level, Inc.",
+      "certified_lca_count": 1
+    },
+    "Peter Park": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "STATION F": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Swooped": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "ACA Group": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Bankors": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Hunter Hamilton": {
+      "status": "likely",
+      "matched_name": "HAMILTON COMPANY",
+      "certified_lca_count": 2
+    },
+    "TalentHop": {
+      "status": "likely",
+      "matched_name": "Talent Corporation, LLC",
+      "certified_lca_count": 1
+    },
+    "RemoteHunter": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
     "Fin": {
       "status": "not_found",
       "matched_name": null,
@@ -103,11 +168,6 @@
       "certified_lca_count": 16
     },
     "BigTime Software, Inc.": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "STATION F": {
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
@@ -522,11 +582,6 @@
       "matched_name": "L3Harris Technologies Inc",
       "certified_lca_count": 5
     },
-    "TalentHop": {
-      "status": "likely",
-      "matched_name": "Talent Corporation, LLC",
-      "certified_lca_count": 1
-    },
     "Silicon Valley Search Group": {
       "status": "likely",
       "matched_name": "Silicon, Inc.",
@@ -686,11 +741,6 @@
       "status": "confirmed",
       "matched_name": "City National Bank",
       "certified_lca_count": 81
-    },
-    "ACA Group": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
     },
     "Paylocity": {
       "status": "confirmed",
@@ -1138,11 +1188,6 @@
       "certified_lca_count": 9
     },
     "JD Power": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Swooped": {
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
@@ -2208,11 +2253,6 @@
       "certified_lca_count": 245
     },
     "WarriorBabe": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "RemoteHunter": {
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
@@ -4962,11 +5002,6 @@
       "matched_name": null,
       "certified_lca_count": 0
     },
-    "Michael Kors": {
-      "status": "likely",
-      "matched_name": "MICHAEL KORS USA, INC.",
-      "certified_lca_count": 14
-    },
     "Local Government Jobs Ireland": {
       "status": "not_found",
       "matched_name": null,
@@ -6796,16 +6831,6 @@
       "status": "confirmed",
       "matched_name": "South Coast Air Quality Management District",
       "certified_lca_count": 1
-    },
-    "State of Maryland - MDH Ofc of Chief Med Examiner": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "California State University, Chico": {
-      "status": "confirmed",
-      "matched_name": "California State University, Chico",
-      "certified_lca_count": 3
     }
   }
 }
