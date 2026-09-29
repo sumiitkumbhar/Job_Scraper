@@ -1,89 +1,70 @@
 # 🔥 LinkedIn — Sumit's Planning & PropTech Roles
-*Last updated: 2026-09-28 21:52 UTC*
+*Last updated: 2026-09-29 01:37 UTC*
 
-**19 new role(s)** since last run · 19 total in last 1h
+**14 new role(s)** since last run · 14 total in last 1h
 
-### [Solutions Consultant](https://www.linkedin.com/jobs/view/4471556044/) — Morgan McKinley
-- 📍 **Location:** London Area, United Kingdom
-- 🕒 **Posted:** 2026-09-28
+### [Customer Success Manager](https://www.linkedin.com/jobs/view/4471580358/) — Personal Group
+- 📍 **Location:** Milton Keynes, England, United Kingdom
+- 🕒 **Posted:** 2026-09-29
 
-### [Solutions Consultant [AQ-19859]](https://www.linkedin.com/jobs/view/4470893697/) — Aquent
-- 📍 **Location:** London, England, United Kingdom
-- 🕒 **Posted:** 2026-09-28
+### [Senior Trade Compliance Analyst (m/f/d)](https://www.linkedin.com/jobs/view/4471234231/) — Brooks Automation
+- 📍 **Location:** Steisslingen, Baden-Württemberg, Germany
+- 🕒 **Posted:** 2026-09-29
 
-### [Postdoc Position in Digital Planning Framework for Circular and Climate Resilient Urban Environments](https://www.linkedin.com/jobs/view/4467084868/) — Delft University of Technology
-- 📍 **Location:** Delft, South Holland, Netherlands
-- 🕒 **Posted:** 2026-09-28
+### [Finanical Planning Officer, Truist Investment Services Richmond, VA](https://www.linkedin.com/jobs/view/4473056265/) — Truist
+- 📍 **Location:** Richmond, VA
+- 💰 **Salary:** $57,800- $106,730
+- 🕒 **Posted:** 2026-09-29
 
-### [Compliance Analyst](https://www.linkedin.com/jobs/view/4473013367/) — EcoEngineers
-- 📍 **Location:** Des Moines, IA
-- 💰 **Salary:** $75,000.00/yr - $95,000.00/yr
-- 🕒 **Posted:** 2026-09-28
+### [Sr Merch Planning Analyst](https://www.linkedin.com/jobs/view/4473032981/) — Sprouts Healthy Communities Foundation
+- 📍 **Location:** Greater Phoenix Area
+- 🕒 **Posted:** 2026-09-29
 
-### [Demand and Intercompany Planning Analyst](https://www.linkedin.com/jobs/view/4472798939/) — Ghirardelli Chocolate Company
-- 📍 **Location:** San Leandro, CA
-- 💰 **Salary:** $75,000 - $97,000 per year
-- 🕒 **Posted:** 2026-09-28
-
-### [Senior Strategic Planning Analyst](https://www.linkedin.com/jobs/view/4468303439/) — Motion Recruitment
-- 📍 **Location:** Irving, TX
-- 💰 **Salary:** $100,000.00/yr - $105,000.00/yr
-- 🕒 **Posted:** 2026-09-28
-
-### [Customer Success Manager, Enterprise](https://www.linkedin.com/jobs/view/4471553266/) — Cvent
-- 📍 **Location:** Tysons Corner, VA
-- 💰 **Salary:** $85,000-$115,000 annually
-- 🕒 **Posted:** 2026-09-28
-
-### [Customer Success Lead (TX DIR)](https://www.linkedin.com/jobs/view/4465167783/) — Peraton
-- 📍 **Location:** Texas, United States
-- 💰 **Salary:** $86,000 - $138,000
-- 🕒 **Posted:** 2026-09-28
-
-### [Customer Success Manager, MM/ENT (East Coast)](https://www.linkedin.com/jobs/view/4471550342/) — Nooks
-- 📍 **Location:** Greater Idaho Falls
-- 🕒 **Posted:** 2026-09-28
-
-### [Customer Success Manager](https://www.linkedin.com/jobs/view/4467593435/) — Circadia Health
-- 📍 **Location:** Michigan, United States
-- 💰 **Salary:** $120,000 - $180,000
-- 🕒 **Posted:** 2026-09-28
-
-### [Associate Customer Success Specialist - Service](https://www.linkedin.com/jobs/view/4473027342/) — CDK Global
+### [Senior Transmission Planning Consultant](https://www.linkedin.com/jobs/view/4471225444/) — E Source
 - 📍 **Location:** United States
-- 💰 **Salary:** $60,000 - $68,000
-- 🕒 **Posted:** 2026-09-28
+- 💰 **Salary:** $160,000.00/yr - $220,000.00/yr
+- 🕒 **Posted:** 2026-09-29
 
-### [Customer Success Manager, Platforms](https://www.linkedin.com/jobs/view/4473001839/) — Stripe
-- 📍 **Location:** Seattle, WA
-- 💰 **Salary:** $200,200 - $300,400
-- 🕒 **Posted:** 2026-09-28
-
-### [Software Solutions Consultant](https://www.linkedin.com/jobs/view/4473013503/) — Designed Conveyor Systems (DCS)
-- 📍 **Location:** Franklin, TN
-- 🕒 **Posted:** 2026-09-28
-
-### [Compliance Analyst I](https://www.linkedin.com/jobs/view/4470898976/) — AutoNation
-- 📍 **Location:** Irving, TX
-- 💰 **Salary:** $52,500.00 - $87,500.00
-- 🕒 **Posted:** 2026-09-28
-
-### [Compliance Analyst, Entry Level](https://www.linkedin.com/jobs/view/4471554224/) — Jobright.ai
+### [Transmission System Planning Consultant](https://www.linkedin.com/jobs/view/4471222472/) — E Source
 - 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-28
+- 💰 **Salary:** $140,000.00/yr - $180,000.00/yr
+- 🕒 **Posted:** 2026-09-29
 
-### [Financial Planning Analyst - CO2](https://www.linkedin.com/jobs/view/4472088450/) — Kinder Morgan, Inc.
-- 📍 **Location:** Midland, TX
-- 🕒 **Posted:** 2026-09-28
+### [Customer Success Manager - Onshape](https://www.linkedin.com/jobs/view/4473052337/) — PTC
+- 📍 **Location:** Boston, MA
+- 💰 **Salary:** $90,000 - 119,000
+- 🕒 **Posted:** 2026-09-29
 
-### [Solutions Consultant 2 - SLED](https://www.linkedin.com/jobs/view/4471215502/) — Palo Alto Networks
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-09-28
-
-### [Solutions Consultant 2 - SLED](https://www.linkedin.com/jobs/view/4470899950/) — Palo Alto Networks
+### [Senior Customer Success Manager](https://www.linkedin.com/jobs/view/4471580369/) — Strategy
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-28
+- 💰 **Salary:** $114,000 to $205,700
+- 🕒 **Posted:** 2026-09-29
 
-### [Customer Success Specialist](https://www.linkedin.com/jobs/view/4472797889/) — Fagron
-- 📍 **Location:** Austin, TX
-- 🕒 **Posted:** 2026-09-28
+### [Customer Success Manager](https://www.linkedin.com/jobs/view/4471571985/) — Dots
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $150,000.00/yr - $210,000.00/yr
+- 🕒 **Posted:** 2026-09-29
+
+### [Customer Success Manager](https://www.linkedin.com/jobs/view/4471593171/) — Dots
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $150,000.00/yr - $210,000.00/yr
+- 🕒 **Posted:** 2026-09-29
+
+### [Customer Success Manager, RepairPal](https://www.linkedin.com/jobs/view/4473064147/) — Yelp
+- 📍 **Location:** United States
+- 💰 **Salary:** $62,000 - $72,000 annually
+- 🕒 **Posted:** 2026-09-29
+
+### [Health Care Compliance Analyst](https://www.linkedin.com/jobs/view/4473052545/) — County of Sonoma
+- 📍 **Location:** Santa Rosa, CA
+- 🕒 **Posted:** 2026-09-29
+
+### [Compliance Analyst](https://www.linkedin.com/jobs/view/4472071144/) — Clark Construction Group
+- 📍 **Location:** McLean, VA
+- 💰 **Salary:** $60,0000-$75,000
+- 🕒 **Posted:** 2026-09-29
+
+### [Technical Customer Success Manager](https://www.linkedin.com/jobs/view/4473053306/) — Munich Re
+- 📍 **Location:** New York, United States
+- 💰 **Salary:** $115,600- $169,500
+- 🕒 **Posted:** 2026-09-29
