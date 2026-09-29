@@ -1,17 +1,192 @@
 {
-  "updated_at": "2026-09-28T14:14:45.378224+00:00",
+  "updated_at": "2026-09-29T13:11:23.221381+00:00",
   "source_files": [
     "https://www.dol.gov/media/LCA_Disclosure_Data_FY2026_Q3.xlsx",
     "https://www.dol.gov/sites/dolgov/files/ETA/oflc/pdfs/LCA_Disclosure_Data_FY2025_Q4.xlsx"
   ],
   "employer_count": 60026,
   "company_counts": {
-    "confirmed": 298,
-    "likely": 484,
-    "not_found": 580,
+    "confirmed": 304,
+    "likely": 498,
+    "not_found": 585,
     "unknown": 2
   },
   "companies": {
+    "Conference Compass": {
+      "status": "likely",
+      "matched_name": "Compass, Inc.",
+      "certified_lca_count": 5
+    },
+    "OMP": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "ICE": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Way": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Floy GmbH": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "microtech GmbH": {
+      "status": "likely",
+      "matched_name": "Microtec, Inc.",
+      "certified_lca_count": 2
+    },
+    "Bluebird": {
+      "status": "likely",
+      "matched_name": "Blue & Co., LLC",
+      "certified_lca_count": 3
+    },
+    "AiDASH": {
+      "status": "confirmed",
+      "matched_name": "AiDASH Inc.",
+      "certified_lca_count": 6
+    },
+    "Imbox Protection": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Brooks Automation": {
+      "status": "likely",
+      "matched_name": "Toma, Inc.",
+      "certified_lca_count": 1
+    },
+    "Truist": {
+      "status": "likely",
+      "matched_name": "Truist Bank",
+      "certified_lca_count": 318
+    },
+    "Sprouts Healthy Communities Foundation": {
+      "status": "likely",
+      "matched_name": "Group Health, Inc.",
+      "certified_lca_count": 41
+    },
+    "E Source": {
+      "status": "likely",
+      "matched_name": "Lion Re:Sources, Inc.",
+      "certified_lca_count": 3
+    },
+    "PTC": {
+      "status": "confirmed",
+      "matched_name": "PTC Inc.",
+      "certified_lca_count": 38
+    },
+    "Strategy": {
+      "status": "confirmed",
+      "matched_name": "Strategy Incorporated",
+      "certified_lca_count": 15
+    },
+    "Dots": {
+      "status": "likely",
+      "matched_name": "DOTS TECHNOLOGIES, INC.",
+      "certified_lca_count": 6
+    },
+    "Yelp": {
+      "status": "confirmed",
+      "matched_name": "Yelp Inc.",
+      "certified_lca_count": 45
+    },
+    "Munich Re": {
+      "status": "likely",
+      "matched_name": "Munich Re America Services, Inc.",
+      "certified_lca_count": 30
+    },
+    "Morgan McKinley": {
+      "status": "likely",
+      "matched_name": "Morgan Corp.",
+      "certified_lca_count": 2
+    },
+    "Aquent": {
+      "status": "likely",
+      "matched_name": "TRI VENTURES, INC. D/B/A AQUENT LLC",
+      "certified_lca_count": 13
+    },
+    "Delft University of Technology": {
+      "status": "likely",
+      "matched_name": "Technology Holding, LLC",
+      "certified_lca_count": 2
+    },
+    "EcoEngineers": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Ghirardelli Chocolate Company": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Motion Recruitment": {
+      "status": "likely",
+      "matched_name": "Motion Recruitment Partners, LLC",
+      "certified_lca_count": 35
+    },
+    "Cvent": {
+      "status": "confirmed",
+      "matched_name": "Cvent, Inc.",
+      "certified_lca_count": 32
+    },
+    "Nooks": {
+      "status": "likely",
+      "matched_name": "Nooks Communications, Inc.",
+      "certified_lca_count": 9
+    },
+    "Circadia Health": {
+      "status": "likely",
+      "matched_name": "Group Health, Inc.",
+      "certified_lca_count": 41
+    },
+    "CDK Global": {
+      "status": "confirmed",
+      "matched_name": "CDK GLOBAL, LLC",
+      "certified_lca_count": 34
+    },
+    "Stripe": {
+      "status": "confirmed",
+      "matched_name": "Stripe, Inc.",
+      "certified_lca_count": 294
+    },
+    "Designed Conveyor Systems (DCS)": {
+      "status": "likely",
+      "matched_name": "R SYSTEMS INC.",
+      "certified_lca_count": 22
+    },
+    "AutoNation": {
+      "status": "confirmed",
+      "matched_name": "AutoNation, Inc.",
+      "certified_lca_count": 7
+    },
+    "Jobright.ai": {
+      "status": "likely",
+      "matched_name": "Jobright Inc.",
+      "certified_lca_count": 1
+    },
+    "Kinder Morgan, Inc.": {
+      "status": "confirmed",
+      "matched_name": "Kinder Morgan Inc",
+      "certified_lca_count": 5
+    },
+    "Palo Alto Networks": {
+      "status": "confirmed",
+      "matched_name": "Palo Alto Networks, Inc.",
+      "certified_lca_count": 522
+    },
+    "Fagron": {
+      "status": "likely",
+      "matched_name": "Fagron Holding USA, LLC",
+      "certified_lca_count": 2
+    },
     "Michael Kors": {
       "status": "likely",
       "matched_name": "MICHAEL KORS USA, INC.",
@@ -351,11 +526,6 @@
       "status": "likely",
       "matched_name": "Assured Health Inc",
       "certified_lca_count": 1
-    },
-    "ICE": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
     },
     "amber": {
       "status": "likely",
@@ -1277,11 +1447,6 @@
       "matched_name": "Blue River Technology",
       "certified_lca_count": 17
     },
-    "Stripe": {
-      "status": "confirmed",
-      "matched_name": "Stripe, Inc.",
-      "certified_lca_count": 294
-    },
     "MintMCP": {
       "status": "not_found",
       "matched_name": null,
@@ -1326,11 +1491,6 @@
       "status": "likely",
       "matched_name": "KFORCE INC.",
       "certified_lca_count": 773
-    },
-    "Jobright.ai": {
-      "status": "likely",
-      "matched_name": "Jobright Inc.",
-      "certified_lca_count": 1
     },
     "Rocket Software": {
       "status": "confirmed",
@@ -1742,11 +1902,6 @@
       "matched_name": "Leidos, Inc.",
       "certified_lca_count": 53
     },
-    "Truist": {
-      "status": "likely",
-      "matched_name": "Truist Bank",
-      "certified_lca_count": 318
-    },
     "360Factor": {
       "status": "likely",
       "matched_name": "360Factor Consulting LLC",
@@ -2091,11 +2246,6 @@
       "status": "likely",
       "matched_name": "ABBOTT LABORATORIES",
       "certified_lca_count": 92
-    },
-    "Palo Alto Networks": {
-      "status": "confirmed",
-      "matched_name": "Palo Alto Networks, Inc.",
-      "certified_lca_count": 522
     },
     "Akraya, Inc.": {
       "status": "confirmed",
@@ -3157,11 +3307,6 @@
       "matched_name": "Worldpay, LLC",
       "certified_lca_count": 92
     },
-    "Motion Recruitment": {
-      "status": "likely",
-      "matched_name": "Motion Recruitment Partners, LLC",
-      "certified_lca_count": 35
-    },
     "Elysia & Co": {
       "status": "likely",
       "matched_name": "Elysian Landscapes Inc.",
@@ -4216,11 +4361,6 @@
       "status": "confirmed",
       "matched_name": "SPS Commerce, Inc.",
       "certified_lca_count": 1
-    },
-    "PTC": {
-      "status": "confirmed",
-      "matched_name": "PTC Inc.",
-      "certified_lca_count": 38
     },
     "NVIDIA AI": {
       "status": "likely",
@@ -6816,21 +6956,6 @@
       "status": "likely",
       "matched_name": "Bay Area Environmental Research Institute",
       "certified_lca_count": 10
-    },
-    "Cordant Health Solutions": {
-      "status": "likely",
-      "matched_name": "Group Health, Inc.",
-      "certified_lca_count": 41
-    },
-    "Hudbay": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "South Coast Air Quality Management District": {
-      "status": "confirmed",
-      "matched_name": "South Coast Air Quality Management District",
-      "certified_lca_count": 1
     }
   }
 }
