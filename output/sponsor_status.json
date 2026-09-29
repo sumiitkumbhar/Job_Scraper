@@ -1,14 +1,154 @@
 {
-  "updated_at": "2026-09-28T13:19:56.151624+00:00",
-  "register_source": "https://assets.publishing.service.gov.uk/media/6aba23f4734e2435f202f12a/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-09-28.csv",
-  "register_org_count": 126508,
+  "updated_at": "2026-09-29T12:26:01.112418+00:00",
+  "register_source": "https://assets.publishing.service.gov.uk/media/6abb7089fe72ed1e2b02f19e/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-09-29.csv",
+  "register_org_count": 126506,
   "company_counts": {
-    "confirmed": 225,
-    "likely": 598,
-    "not_found": 539,
+    "confirmed": 228,
+    "likely": 612,
+    "not_found": 547,
     "unknown": 2
   },
   "companies": {
+    "Conference Compass": {
+      "status": "likely",
+      "matched_name": "Compass Group Plc"
+    },
+    "OMP": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "ICE": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Way": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Floy GmbH": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "microtech GmbH": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Bluebird": {
+      "status": "likely",
+      "matched_name": "Ahmed & Gul Ltd T/A Bluebird Care"
+    },
+    "AiDASH": {
+      "status": "confirmed",
+      "matched_name": "AiDash UK Limited"
+    },
+    "Imbox Protection": {
+      "status": "likely",
+      "matched_name": "Prot Ltd"
+    },
+    "Brooks Automation": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Truist": {
+      "status": "likely",
+      "matched_name": "ALTRUISTIC CARE LIMITED"
+    },
+    "Sprouts Healthy Communities Foundation": {
+      "status": "likely",
+      "matched_name": "Found Group Limited"
+    },
+    "E Source": {
+      "status": "likely",
+      "matched_name": "KAL WINE SOURCE UK LTD"
+    },
+    "PTC": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Strategy": {
+      "status": "likely",
+      "matched_name": "8th Day Strategy Ltd"
+    },
+    "Dots": {
+      "status": "likely",
+      "matched_name": "4 Dots Training & Advisory Limited"
+    },
+    "Yelp": {
+      "status": "confirmed",
+      "matched_name": "Yelp UK Limited"
+    },
+    "Munich Re": {
+      "status": "likely",
+      "matched_name": "Munich Re UK Services Limited"
+    },
+    "Morgan McKinley": {
+      "status": "confirmed",
+      "matched_name": "Morgan McKinley"
+    },
+    "Aquent": {
+      "status": "likely",
+      "matched_name": "Aquent LLC"
+    },
+    "Delft University of Technology": {
+      "status": "likely",
+      "matched_name": "Technolog Limited"
+    },
+    "EcoEngineers": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Ghirardelli Chocolate Company": {
+      "status": "likely",
+      "matched_name": "Colate Ltd"
+    },
+    "Motion Recruitment": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Cvent": {
+      "status": "likely",
+      "matched_name": "Cvent Europe Limited"
+    },
+    "Nooks": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Circadia Health": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "CDK Global": {
+      "status": "likely",
+      "matched_name": "LOBA GROUP LIMITED"
+    },
+    "Stripe": {
+      "status": "likely",
+      "matched_name": "Silverstripe Advisors Ltd"
+    },
+    "Designed Conveyor Systems (DCS)": {
+      "status": "likely",
+      "matched_name": "System ltd"
+    },
+    "AutoNation": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Jobright.ai": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Kinder Morgan, Inc.": {
+      "status": "likely",
+      "matched_name": "Kinde & Co Limited"
+    },
+    "Palo Alto Networks": {
+      "status": "confirmed",
+      "matched_name": "PALO ALTO NETWORKS (UK) LIMITED"
+    },
+    "Fagron": {
+      "status": "not_found",
+      "matched_name": null
+    },
     "Michael Kors": {
       "status": "confirmed",
       "matched_name": "Michael Kors UK Limited"
@@ -280,10 +420,6 @@
     "Assured": {
       "status": "confirmed",
       "matched_name": "Assured Group Ltd"
-    },
-    "ICE": {
-      "status": "not_found",
-      "matched_name": null
     },
     "amber": {
       "status": "likely",
@@ -1021,10 +1157,6 @@
       "status": "confirmed",
       "matched_name": "RIVER UK LIMITED"
     },
-    "Stripe": {
-      "status": "likely",
-      "matched_name": "Silverstripe Advisors Ltd"
-    },
     "MintMCP": {
       "status": "not_found",
       "matched_name": null
@@ -1060,10 +1192,6 @@
     "AI Workforce Hub": {
       "status": "likely",
       "matched_name": "WORK LIMITED"
-    },
-    "Jobright.ai": {
-      "status": "not_found",
-      "matched_name": null
     },
     "Rocket Software": {
       "status": "confirmed",
@@ -1393,10 +1521,6 @@
       "status": "likely",
       "matched_name": "Kaleidoscope Group Ltd"
     },
-    "Truist": {
-      "status": "likely",
-      "matched_name": "ALTRUISTIC CARE LIMITED"
-    },
     "360Factor": {
       "status": "not_found",
       "matched_name": null
@@ -1672,10 +1796,6 @@
     "Abbott": {
       "status": "likely",
       "matched_name": "Abbott & Co (Newark) Ltd"
-    },
-    "Palo Alto Networks": {
-      "status": "confirmed",
-      "matched_name": "PALO ALTO NETWORKS (UK) LIMITED"
     },
     "Akraya, Inc.": {
       "status": "not_found",
@@ -2525,10 +2645,6 @@
       "status": "confirmed",
       "matched_name": "WorldPay (UK) Ltd"
     },
-    "Motion Recruitment": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "Elysia & Co": {
       "status": "likely",
       "matched_name": "Elysia Capital Ltd"
@@ -3370,10 +3486,6 @@
       "matched_name": "Genuit Group plc"
     },
     "SPS Commerce": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "PTC": {
       "status": "not_found",
       "matched_name": null
     },
@@ -5452,18 +5564,6 @@
     "Environmental Research Group": {
       "status": "likely",
       "matched_name": "UK Search Limited"
-    },
-    "Cordant Health Solutions": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Hudbay": {
-      "status": "likely",
-      "matched_name": "DBAY UK Limited"
-    },
-    "South Coast Air Quality Management District": {
-      "status": "not_found",
-      "matched_name": null
     }
   }
 }
