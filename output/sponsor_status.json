@@ -1,14 +1,142 @@
 {
-  "updated_at": "2026-09-29T12:26:01.112418+00:00",
-  "register_source": "https://assets.publishing.service.gov.uk/media/6abb7089fe72ed1e2b02f19e/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-09-29.csv",
-  "register_org_count": 126506,
+  "updated_at": "2026-09-30T12:11:13.254363+00:00",
+  "register_source": "https://assets.publishing.service.gov.uk/media/6abcd218efad0f1df672277d/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-09-30.csv",
+  "register_org_count": 126538,
   "company_counts": {
-    "confirmed": 228,
-    "likely": 612,
-    "not_found": 547,
+    "confirmed": 232,
+    "likely": 614,
+    "not_found": 553,
     "unknown": 2
   },
   "companies": {
+    "KeyShot": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Arup": {
+      "status": "likely",
+      "matched_name": "Hemaraji Santharupan T/A Baba Food City"
+    },
+    "Office for National Statistics": {
+      "status": "confirmed",
+      "matched_name": "Office for National Statistics"
+    },
+    "Signal AI": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Adamantine Recruitment": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Pflegia": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Appinio": {
+      "status": "confirmed",
+      "matched_name": "Appinio Limited"
+    },
+    "ADP": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Gains In Bulk": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Amazon": {
+      "status": "likely",
+      "matched_name": "Amazon Charitable Trust"
+    },
+    "Docusign": {
+      "status": "confirmed",
+      "matched_name": "DocuSign UK Limited"
+    },
+    "SUSE": {
+      "status": "likely",
+      "matched_name": "Mr Suseetharan Somasuntharam T/As News Rack"
+    },
+    "ICF": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Philips": {
+      "status": "likely",
+      "matched_name": "Andrew Philips Limited"
+    },
+    "Veeva Systems": {
+      "status": "confirmed",
+      "matched_name": "Veeva Systems UK Ltd"
+    },
+    "EDSA, Inc.": {
+      "status": "likely",
+      "matched_name": "Click To Go Limited T/A Ledsa Mart"
+    },
+    "TalentHop": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Smithfield Foods": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Goliath Data": {
+      "status": "likely",
+      "matched_name": "Data Inc UK Ltd"
+    },
+    "Heartland Business Systems": {
+      "status": "likely",
+      "matched_name": "System ltd"
+    },
+    "Compass": {
+      "status": "confirmed",
+      "matched_name": "Compass Group Plc"
+    },
+    "Siteimprove": {
+      "status": "confirmed",
+      "matched_name": "Siteimprove Limited"
+    },
+    "Propelus": {
+      "status": "likely",
+      "matched_name": "Propel Holdings Limited"
+    },
+    "CYVL": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Massachusetts Institute of Technology": {
+      "status": "likely",
+      "matched_name": "MASS (UK) LTD"
+    },
+    "Pelham Berkeley Search": {
+      "status": "likely",
+      "matched_name": "THE BERK LTD"
+    },
+    "Dominion Energy": {
+      "status": "likely",
+      "matched_name": "Domin Limited"
+    },
+    "Hanwha Defense USA, Inc.": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Radiant Systems Inc": {
+      "status": "likely",
+      "matched_name": "Radian Group Ltd"
+    },
+    "OpenAsset": {
+      "status": "likely",
+      "matched_name": "Asset UK Limited"
+    },
+    "ITCAPS LLC": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "30 Minutes to President's Club": {
+      "status": "likely",
+      "matched_name": "MINU GROUP LTD"
+    },
     "Conference Compass": {
       "status": "likely",
       "matched_name": "Compass Group Plc"
@@ -190,10 +318,6 @@
       "matched_name": null
     },
     "Hunter Hamilton": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "TalentHop": {
       "status": "not_found",
       "matched_name": null
     },
@@ -385,10 +509,6 @@
       "status": "confirmed",
       "matched_name": "Salesforce UK Limited"
     },
-    "Amazon": {
-      "status": "likely",
-      "matched_name": "Amazon Charitable Trust"
-    },
     "GMR Marketing": {
       "status": "not_found",
       "matched_name": null
@@ -512,10 +632,6 @@
     "National Annexe Providers Consultancy": {
       "status": "likely",
       "matched_name": "Consulta Limited"
-    },
-    "Arup": {
-      "status": "likely",
-      "matched_name": "Hemaraji Santharupan T/A Baba Food City"
     },
     "Life Less Ordinary": {
       "status": "not_found",
@@ -1069,10 +1185,6 @@
       "status": "confirmed",
       "matched_name": "SoftwareONE UK Limited"
     },
-    "ICF": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "Direct Travel": {
       "status": "likely",
       "matched_name": "AIRPORT DIRECT TRAVEL LIMITED T/A REZCOMM"
@@ -1265,10 +1377,6 @@
       "status": "confirmed",
       "matched_name": "Greenberg Traurig, LLP"
     },
-    "Pflegia": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "Boyd Gaming": {
       "status": "not_found",
       "matched_name": null
@@ -1416,10 +1524,6 @@
     "Robin Radar Systems": {
       "status": "likely",
       "matched_name": "Rada Ltd"
-    },
-    "ADP": {
-      "status": "not_found",
-      "matched_name": null
     },
     "The Best Job Board": {
       "status": "not_found",
@@ -1712,10 +1816,6 @@
     "Key Talent Solutions": {
       "status": "not_found",
       "matched_name": null
-    },
-    "Compass": {
-      "status": "confirmed",
-      "matched_name": "Compass Group Plc"
     },
     "Rev": {
       "status": "not_found",
@@ -2609,10 +2709,6 @@
       "status": "likely",
       "matched_name": "ONNEC Group UK Limited"
     },
-    "OpenAsset": {
-      "status": "likely",
-      "matched_name": "Asset UK Limited"
-    },
     "Planhat": {
       "status": "confirmed",
       "matched_name": "Planhat Ltd"
@@ -2628,10 +2724,6 @@
     "Kpler": {
       "status": "confirmed",
       "matched_name": "Kpler Limited"
-    },
-    "Docusign": {
-      "status": "confirmed",
-      "matched_name": "DocuSign UK Limited"
     },
     "Wolters Kluwer": {
       "status": "confirmed",
@@ -4106,8 +4198,8 @@
       "matched_name": "University of Westminster"
     },
     "North Devon Council": {
-      "status": "not_found",
-      "matched_name": null
+      "status": "confirmed",
+      "matched_name": "North Devon Council"
     },
     "MORAY COUNCIL": {
       "status": "confirmed",
@@ -4328,10 +4420,6 @@
     "Tap Retail - Shop Local": {
       "status": "likely",
       "matched_name": "SHOP INC LTD"
-    },
-    "Veeva Systems": {
-      "status": "confirmed",
-      "matched_name": "Veeva Systems UK Ltd"
     },
     "Rentman": {
       "status": "not_found",
@@ -5524,46 +5612,6 @@
     "BayOne Solutions": {
       "status": "not_found",
       "matched_name": null
-    },
-    "Energy Northwest": {
-      "status": "likely",
-      "matched_name": "The West Group"
-    },
-    "Queensland Government": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "CA&M": {
-      "status": "likely",
-      "matched_name": "Africa Matters Limited"
-    },
-    "WESTWOOD PROFESSIONAL SERVICES INC": {
-      "status": "likely",
-      "matched_name": "OD PR Limited"
-    },
-    "Salt River Project": {
-      "status": "likely",
-      "matched_name": "RIVER UK LIMITED"
-    },
-    "Element Materials Technology": {
-      "status": "likely",
-      "matched_name": "ELEMENT MATERIALS TECHNOLOGY SHARED SERVICES LIMITED"
-    },
-    "Pattern Energy": {
-      "status": "likely",
-      "matched_name": "Tern PLC"
-    },
-    "Trinity Consultants Engineering & EHS Workforce Solutions": {
-      "status": "likely",
-      "matched_name": "Consulta Limited"
-    },
-    "Oracle": {
-      "status": "likely",
-      "matched_name": "Office Oracle Group Limited"
-    },
-    "Environmental Research Group": {
-      "status": "likely",
-      "matched_name": "UK Search Limited"
     }
   }
 }
