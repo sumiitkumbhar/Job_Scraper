@@ -1,17 +1,177 @@
 {
-  "updated_at": "2026-09-29T13:11:23.221381+00:00",
+  "updated_at": "2026-09-30T12:51:40.953175+00:00",
   "source_files": [
     "https://www.dol.gov/media/LCA_Disclosure_Data_FY2026_Q3.xlsx",
     "https://www.dol.gov/sites/dolgov/files/ETA/oflc/pdfs/LCA_Disclosure_Data_FY2025_Q4.xlsx"
   ],
   "employer_count": 60026,
   "company_counts": {
-    "confirmed": 304,
+    "confirmed": 308,
     "likely": 498,
-    "not_found": 585,
+    "not_found": 593,
     "unknown": 2
   },
   "companies": {
+    "KeyShot": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Arup": {
+      "status": "likely",
+      "matched_name": "ARUP Laboratories",
+      "certified_lca_count": 96
+    },
+    "Office for National Statistics": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Signal AI": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Adamantine Recruitment": {
+      "status": "likely",
+      "matched_name": "Daman, Inc.",
+      "certified_lca_count": 7
+    },
+    "Pflegia": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Appinio": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "ADP": {
+      "status": "confirmed",
+      "matched_name": "ADP, Inc.",
+      "certified_lca_count": 58
+    },
+    "Gains In Bulk": {
+      "status": "likely",
+      "matched_name": "AINS, LLC",
+      "certified_lca_count": 6
+    },
+    "Amazon": {
+      "status": "confirmed",
+      "matched_name": "Amazon LLC",
+      "certified_lca_count": 2
+    },
+    "Docusign": {
+      "status": "confirmed",
+      "matched_name": "Docusign Inc.",
+      "certified_lca_count": 322
+    },
+    "SUSE": {
+      "status": "likely",
+      "matched_name": "Susea, Inc.",
+      "certified_lca_count": 2
+    },
+    "ICF": {
+      "status": "confirmed",
+      "matched_name": "ICF Incorporated, LLC",
+      "certified_lca_count": 58
+    },
+    "Philips": {
+      "status": "likely",
+      "matched_name": "PHILIPS NORTH AMERICA LLC",
+      "certified_lca_count": 32
+    },
+    "Veeva Systems": {
+      "status": "confirmed",
+      "matched_name": "Veeva Systems Inc.",
+      "certified_lca_count": 87
+    },
+    "EDSA, Inc.": {
+      "status": "confirmed",
+      "matched_name": "EDSA, Inc.",
+      "certified_lca_count": 12
+    },
+    "TalentHop": {
+      "status": "likely",
+      "matched_name": "Talent Corporation, LLC",
+      "certified_lca_count": 1
+    },
+    "Smithfield Foods": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Goliath Data": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Heartland Business Systems": {
+      "status": "confirmed",
+      "matched_name": "Heartland Business Systems LLC",
+      "certified_lca_count": 1
+    },
+    "Compass": {
+      "status": "confirmed",
+      "matched_name": "Compass, Inc.",
+      "certified_lca_count": 5
+    },
+    "Siteimprove": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Propelus": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "CYVL": {
+      "status": "confirmed",
+      "matched_name": "Cyvl, Inc.",
+      "certified_lca_count": 1
+    },
+    "Massachusetts Institute of Technology": {
+      "status": "confirmed",
+      "matched_name": "Massachusetts Institute of Technology",
+      "certified_lca_count": 248
+    },
+    "Pelham Berkeley Search": {
+      "status": "likely",
+      "matched_name": "Arch Group LLC",
+      "certified_lca_count": 2
+    },
+    "Dominion Energy": {
+      "status": "likely",
+      "matched_name": "Dominion Energy Services, Inc.",
+      "certified_lca_count": 8
+    },
+    "Hanwha Defense USA, Inc.": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Radiant Systems Inc": {
+      "status": "likely",
+      "matched_name": "Radian Group Inc.",
+      "certified_lca_count": 9
+    },
+    "OpenAsset": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "ITCAPS LLC": {
+      "status": "confirmed",
+      "matched_name": "ITCAPS LLC",
+      "certified_lca_count": 8
+    },
+    "30 Minutes to President's Club": {
+      "status": "likely",
+      "matched_name": "IDEN GROUP HOLDING INC.",
+      "certified_lca_count": 1
+    },
     "Conference Compass": {
       "status": "likely",
       "matched_name": "Compass, Inc.",
@@ -241,11 +401,6 @@
       "status": "likely",
       "matched_name": "HAMILTON COMPANY",
       "certified_lca_count": 2
-    },
-    "TalentHop": {
-      "status": "likely",
-      "matched_name": "Talent Corporation, LLC",
-      "certified_lca_count": 1
     },
     "RemoteHunter": {
       "status": "not_found",
@@ -482,11 +637,6 @@
       "matched_name": "Salesforce, Inc.",
       "certified_lca_count": 2004
     },
-    "Amazon": {
-      "status": "confirmed",
-      "matched_name": "Amazon LLC",
-      "certified_lca_count": 2
-    },
     "GMR Marketing": {
       "status": "not_found",
       "matched_name": null,
@@ -641,11 +791,6 @@
       "status": "likely",
       "matched_name": "Ulta, Inc.",
       "certified_lca_count": 20
-    },
-    "Arup": {
-      "status": "likely",
-      "matched_name": "ARUP Laboratories",
-      "certified_lca_count": 96
     },
     "Life Less Ordinary": {
       "status": "not_found",
@@ -1337,11 +1482,6 @@
       "matched_name": "SoftwareOne, Inc.",
       "certified_lca_count": 1
     },
-    "ICF": {
-      "status": "confirmed",
-      "matched_name": "ICF Incorporated, LLC",
-      "certified_lca_count": 58
-    },
     "Direct Travel": {
       "status": "confirmed",
       "matched_name": "Direct Travel, Inc.",
@@ -1582,11 +1722,6 @@
       "matched_name": "Greenberg Traurig, LLP",
       "certified_lca_count": 16
     },
-    "Pflegia": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
     "Boyd Gaming": {
       "status": "likely",
       "matched_name": "Boyd Corporation",
@@ -1771,11 +1906,6 @@
       "status": "likely",
       "matched_name": "R SYSTEMS INC.",
       "certified_lca_count": 22
-    },
-    "ADP": {
-      "status": "confirmed",
-      "matched_name": "ADP, Inc.",
-      "certified_lca_count": 58
     },
     "The Best Job Board": {
       "status": "not_found",
@@ -2141,11 +2271,6 @@
       "status": "likely",
       "matched_name": "SOLUTIONS INC",
       "certified_lca_count": 1
-    },
-    "Compass": {
-      "status": "confirmed",
-      "matched_name": "Compass, Inc.",
-      "certified_lca_count": 5
     },
     "Rev": {
       "status": "not_found",
@@ -3262,11 +3387,6 @@
       "matched_name": null,
       "certified_lca_count": 0
     },
-    "OpenAsset": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
     "Planhat": {
       "status": "not_found",
       "matched_name": null,
@@ -3286,11 +3406,6 @@
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
-    },
-    "Docusign": {
-      "status": "confirmed",
-      "matched_name": "Docusign Inc.",
-      "certified_lca_count": 322
     },
     "Wolters Kluwer": {
       "status": "likely",
@@ -5412,11 +5527,6 @@
       "matched_name": null,
       "certified_lca_count": 0
     },
-    "Veeva Systems": {
-      "status": "confirmed",
-      "matched_name": "Veeva Systems Inc.",
-      "certified_lca_count": 87
-    },
     "Rentman": {
       "status": "not_found",
       "matched_name": null,
@@ -6906,56 +7016,6 @@
       "status": "confirmed",
       "matched_name": "BAYONE SOLUTIONS INC.",
       "certified_lca_count": 27
-    },
-    "Energy Northwest": {
-      "status": "likely",
-      "matched_name": "North, Inc.",
-      "certified_lca_count": 6
-    },
-    "Queensland Government": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "CA&M": {
-      "status": "likely",
-      "matched_name": "HCA Management Services LP",
-      "certified_lca_count": 114
-    },
-    "WESTWOOD PROFESSIONAL SERVICES INC": {
-      "status": "confirmed",
-      "matched_name": "Westwood Professional Services, Inc.",
-      "certified_lca_count": 18
-    },
-    "Salt River Project": {
-      "status": "likely",
-      "matched_name": "Rive Inc.",
-      "certified_lca_count": 2
-    },
-    "Element Materials Technology": {
-      "status": "likely",
-      "matched_name": "Element Materials Technology DC, LLC",
-      "certified_lca_count": 1
-    },
-    "Pattern Energy": {
-      "status": "likely",
-      "matched_name": "Pattern, Inc.",
-      "certified_lca_count": 33
-    },
-    "Trinity Consultants Engineering & EHS Workforce Solutions": {
-      "status": "likely",
-      "matched_name": "KFORCE INC.",
-      "certified_lca_count": 773
-    },
-    "Oracle": {
-      "status": "likely",
-      "matched_name": "Oracle America, Inc.",
-      "certified_lca_count": 1033
-    },
-    "Environmental Research Group": {
-      "status": "likely",
-      "matched_name": "Bay Area Environmental Research Institute",
-      "certified_lca_count": 10
     }
   }
 }
