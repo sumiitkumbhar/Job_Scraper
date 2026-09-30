@@ -1,15 +1,17 @@
 # 🌍 Additional Job Sources — Sumit's Planning & PropTech Roles
-*Last updated: 2026-09-29 10:45 UTC*
+*Last updated: 2026-09-30 10:52 UTC*
 
 **3 new role(s)** since last run · 10 total in current postings across enabled additional sources
 
-### [Planning Manager (Development Management)](https://www.planningjobs.com/planning-manager-development-management-pjcom2836) — Hyndburn Borough Council
+### [Principal Planning Officer (Strategic Planning)](https://www.planningjobs.com/principal-planning-officer-pjcom2833) — Maidstone Borough Council
+- 📍 **Location:** Maidstone, South East
+- 💰 **Salary:** £52,033 - £56,858
+- 🕒 **Posted:** Posted 34 days ago
+
+### [Senior Planning Officer/Principal Planning Officer (Career Grade)](https://www.planningjobs.com/senior-officer-principal-planning-officer-pjcom2826) — Hyndburn Borough Council
 - 📍 **Location:** Accrington, North West
-- 💰 **Salary:** £48,226 to £51,356 + car extra Location
-- 🕒 **Posted:** Posted 26 days ago
+- 💰 **Salary:** £41,771- £45,091
+- 🕒 **Posted:** Posted 43 days ago
 
-### [PropTech Analyst](https://proptechjobs.com/job/proptech-analyst-2/?company=Confidential Company) — Confidential Company
-- 📍 **Location:** United Kingdom
-
-### [Java Developer – PropTech](https://proptechjobs.com/job/java-developer-proptech/?company=Confidential Company) — Confidential Company
+### [PropTech Legal Analyst](https://proptechjobs.com/job/proptech-legal-analyst/?company=Confidential Company) — Confidential Company
 - 📍 **Location:** United Kingdom
