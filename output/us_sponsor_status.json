@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T12:51:40.953175+00:00",
+  "updated_at": "2026-10-01T13:36:39.708992+00:00",
   "source_files": [
     "https://www.dol.gov/media/LCA_Disclosure_Data_FY2026_Q3.xlsx",
     "https://www.dol.gov/sites/dolgov/files/ETA/oflc/pdfs/LCA_Disclosure_Data_FY2025_Q4.xlsx"
@@ -7,11 +7,111 @@
   "employer_count": 60026,
   "company_counts": {
     "confirmed": 308,
-    "likely": 498,
-    "not_found": 593,
+    "likely": 502,
+    "not_found": 598,
     "unknown": 2
   },
   "companies": {
+    "Yardi": {
+      "status": "likely",
+      "matched_name": "Yardi Systems, Inc.",
+      "certified_lca_count": 23
+    },
+    "Octave": {
+      "status": "likely",
+      "matched_name": "Octave Holdings and Investments",
+      "certified_lca_count": 4
+    },
+    "ADP": {
+      "status": "confirmed",
+      "matched_name": "ADP, Inc.",
+      "certified_lca_count": 58
+    },
+    "Torentify": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Bask Health": {
+      "status": "confirmed",
+      "matched_name": "Bask Health Inc",
+      "certified_lca_count": 3
+    },
+    "CVS Health": {
+      "status": "likely",
+      "matched_name": "Group Health, Inc.",
+      "certified_lca_count": 41
+    },
+    "Interhyp Gruppe": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Kimley-Horn": {
+      "status": "likely",
+      "matched_name": "Kimley-Horn and Associates, Inc.",
+      "certified_lca_count": 17
+    },
+    "Kinder Morgan, Inc.": {
+      "status": "confirmed",
+      "matched_name": "Kinder Morgan Inc",
+      "certified_lca_count": 5
+    },
+    "MRA Recruiting Services": {
+      "status": "likely",
+      "matched_name": "Corporation Service Company",
+      "certified_lca_count": 21
+    },
+    "PermitFlow": {
+      "status": "confirmed",
+      "matched_name": "PermitFlow Inc.",
+      "certified_lca_count": 3
+    },
+    "Brown-Forman": {
+      "status": "confirmed",
+      "matched_name": "Brown-Forman Corporation",
+      "certified_lca_count": 1
+    },
+    "Randstad Digital Americas": {
+      "status": "likely",
+      "matched_name": "RANDSTAD DIGITAL, LLC",
+      "certified_lca_count": 908
+    },
+    "Overhaul": {
+      "status": "confirmed",
+      "matched_name": "OVERHAUL GROUP, INC.",
+      "certified_lca_count": 2
+    },
+    "Horizon3.ai": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Affinity (CRM)": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "RLDatix": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Uniti Group Inc.": {
+      "status": "likely",
+      "matched_name": "Mercy Clinic Springfield Communities",
+      "certified_lca_count": 28
+    },
+    "GLOVIS America, Inc.": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Jack & Jill": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
     "KeyShot": {
       "status": "not_found",
       "matched_name": null,
@@ -46,11 +146,6 @@
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
-    },
-    "ADP": {
-      "status": "confirmed",
-      "matched_name": "ADP, Inc.",
-      "certified_lca_count": 58
     },
     "Gains In Bulk": {
       "status": "likely",
@@ -331,11 +426,6 @@
       "status": "likely",
       "matched_name": "Jobright Inc.",
       "certified_lca_count": 1
-    },
-    "Kinder Morgan, Inc.": {
-      "status": "confirmed",
-      "matched_name": "Kinder Morgan Inc",
-      "certified_lca_count": 5
     },
     "Palo Alto Networks": {
       "status": "confirmed",
@@ -727,11 +817,6 @@
       "matched_name": null,
       "certified_lca_count": 0
     },
-    "Kimley-Horn": {
-      "status": "likely",
-      "matched_name": "Kimley-Horn and Associates, Inc.",
-      "certified_lca_count": 17
-    },
     "Robinhood": {
       "status": "likely",
       "matched_name": "ROBINHOOD MARKETS, INC",
@@ -948,11 +1033,6 @@
       "certified_lca_count": 98
     },
     "Office Angels": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Jack & Jill": {
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
@@ -1667,11 +1747,6 @@
       "matched_name": "Usability Sciences Corporation",
       "certified_lca_count": 1
     },
-    "Uniti Group Inc.": {
-      "status": "likely",
-      "matched_name": "Mercy Clinic Springfield Communities",
-      "certified_lca_count": 28
-    },
     "FAMU National Alumni Association": {
       "status": "likely",
       "matched_name": "SOCi, Inc.",
@@ -2241,11 +2316,6 @@
       "status": "likely",
       "matched_name": "Emergere Technologies LLC",
       "certified_lca_count": 7
-    },
-    "Bask Health": {
-      "status": "confirmed",
-      "matched_name": "Bask Health Inc",
-      "certified_lca_count": 3
     },
     "Pure Search": {
       "status": "likely",
@@ -4207,11 +4277,6 @@
       "matched_name": "New York Society for Relief of Ruptured & Crippled",
       "certified_lca_count": 36
     },
-    "Torentify": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
     "The Ohio State University Wexner Medical Center": {
       "status": "likely",
       "matched_name": "The Ohio State University",
@@ -5056,11 +5121,6 @@
       "status": "likely",
       "matched_name": "Monument Health Rapid City Hospital, Inc.",
       "certified_lca_count": 24
-    },
-    "PermitFlow": {
-      "status": "confirmed",
-      "matched_name": "PermitFlow Inc.",
-      "certified_lca_count": 3
     },
     "Wrike": {
       "status": "confirmed",
@@ -7001,21 +7061,6 @@
       "status": "likely",
       "matched_name": "SEMI",
       "certified_lca_count": 2
-    },
-    "Ayres Associates": {
-      "status": "likely",
-      "matched_name": "SOCi, Inc.",
-      "certified_lca_count": 1
-    },
-    "EKI Environment & Water, Inc.": {
-      "status": "confirmed",
-      "matched_name": "EKI Environment & Water, Inc.",
-      "certified_lca_count": 3
-    },
-    "BayOne Solutions": {
-      "status": "confirmed",
-      "matched_name": "BAYONE SOLUTIONS INC.",
-      "certified_lca_count": 27
     }
   }
 }
