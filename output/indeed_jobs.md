@@ -1,17 +1,22 @@
 # 🟦 Indeed — Sumit's Planning & PropTech Roles
-*Last updated: 2026-10-01 00:17 UTC*
+*Last updated: 2026-10-01 06:41 UTC*
 
-**2 new role(s)** since last run · 7 total in last 24h
+**3 new role(s)** since last run · 9 total in last 24h
 
-### [Lead Urban Designer](https://www.indeed.com/viewjob?jk=6ccaa07a98debde2) — Inspire Placemaking Collective
-- 📍 **Location:** Boston, MA, US
+### [Senior Customer Success Consultant](https://uk.indeed.com/viewjob?jk=0dae7c0831e2f0b4) — HammerTech
+- 📍 **Location:** Manchester, ENG, GB
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-09-30
+
+### [Senior Customer Success Manager](https://uk.indeed.com/viewjob?jk=74d28974381aba84) — Kinaxis
+- 📍 **Location:** Remote, GB
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-30
 
-### [Assistant Planner, Sephora Account](https://www.indeed.com/viewjob?jk=15b444b2098ac79f) — Christian Dior
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $65k–$85k/yr
-- **Work mode:** On-site
+### [Facility & Infrastructure Planner](https://www.indeed.com/viewjob?jk=c9302c7a24a23644) — Concourse Federal Group
+- 📍 **Location:** Camp Lejeune, NC, US
+- 💰 **Salary:** $89k–$96k/yr
+- **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-29
+- 🕒 **Posted:** 2026-10-01
