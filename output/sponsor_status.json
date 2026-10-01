@@ -1,14 +1,94 @@
 {
-  "updated_at": "2026-09-30T12:11:13.254363+00:00",
-  "register_source": "https://assets.publishing.service.gov.uk/media/6abcd218efad0f1df672277d/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-09-30.csv",
-  "register_org_count": 126538,
+  "updated_at": "2026-10-01T12:45:40.503533+00:00",
+  "register_source": "https://assets.publishing.service.gov.uk/media/6abe33d2efad0f1df6722889/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-10-01.csv",
+  "register_org_count": 126543,
   "company_counts": {
     "confirmed": 232,
-    "likely": 614,
-    "not_found": 553,
+    "likely": 621,
+    "not_found": 555,
     "unknown": 2
   },
   "companies": {
+    "Yardi": {
+      "status": "likely",
+      "matched_name": "Yardi Systems Limited"
+    },
+    "Octave": {
+      "status": "likely",
+      "matched_name": "Octave Services Limited"
+    },
+    "ADP": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Torentify": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Bask Health": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "CVS Health": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Interhyp Gruppe": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Kimley-Horn": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Kinder Morgan, Inc.": {
+      "status": "likely",
+      "matched_name": "Kinde & Co Limited"
+    },
+    "MRA Recruiting Services": {
+      "status": "likely",
+      "matched_name": "ING Services Limited"
+    },
+    "PermitFlow": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Brown-Forman": {
+      "status": "likely",
+      "matched_name": "Brown-Forman Beverages, Europe, Limited"
+    },
+    "Randstad Digital Americas": {
+      "status": "likely",
+      "matched_name": "Randstad UK Holding Ltd"
+    },
+    "Overhaul": {
+      "status": "likely",
+      "matched_name": "RWG (Repair & Overhauls) Limited"
+    },
+    "Horizon3.ai": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Affinity (CRM)": {
+      "status": "likely",
+      "matched_name": "Affinity (UK) Limited"
+    },
+    "RLDatix": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Uniti Group Inc.": {
+      "status": "likely",
+      "matched_name": "ACORN DAY OPPORTUNITIES LTD"
+    },
+    "GLOVIS America, Inc.": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Jack & Jill": {
+      "status": "not_found",
+      "matched_name": null
+    },
     "KeyShot": {
       "status": "not_found",
       "matched_name": null
@@ -36,10 +116,6 @@
     "Appinio": {
       "status": "confirmed",
       "matched_name": "Appinio Limited"
-    },
-    "ADP": {
-      "status": "not_found",
-      "matched_name": null
     },
     "Gains In Bulk": {
       "status": "not_found",
@@ -264,10 +340,6 @@
     "Jobright.ai": {
       "status": "not_found",
       "matched_name": null
-    },
-    "Kinder Morgan, Inc.": {
-      "status": "likely",
-      "matched_name": "Kinde & Co Limited"
     },
     "Palo Alto Networks": {
       "status": "confirmed",
@@ -581,10 +653,6 @@
       "status": "not_found",
       "matched_name": null
     },
-    "Kimley-Horn": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "Robinhood": {
       "status": "likely",
       "matched_name": "Robinhood U.K Ltd."
@@ -760,10 +828,6 @@
     "Office Angels": {
       "status": "likely",
       "matched_name": "Office Holdings Limited"
-    },
-    "Jack & Jill": {
-      "status": "not_found",
-      "matched_name": null
     },
     "FE fundinfo": {
       "status": "not_found",
@@ -1333,10 +1397,6 @@
       "status": "likely",
       "matched_name": "Action for Health, Education and Disability (AHEAD) International"
     },
-    "Uniti Group Inc.": {
-      "status": "likely",
-      "matched_name": "ACORN DAY OPPORTUNITIES LTD"
-    },
     "FAMU National Alumni Association": {
       "status": "likely",
       "matched_name": "Asso Ltd"
@@ -1792,10 +1852,6 @@
     "Merge": {
       "status": "likely",
       "matched_name": "Emerge Management & Communications Limited"
-    },
-    "Bask Health": {
-      "status": "not_found",
-      "matched_name": null
     },
     "Pure Search": {
       "status": "likely",
@@ -3365,10 +3421,6 @@
       "status": "confirmed",
       "matched_name": "Ripple+ Limited"
     },
-    "Torentify": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "The Ohio State University Wexner Medical Center": {
       "status": "likely",
       "matched_name": "The Medical Group"
@@ -4045,10 +4097,6 @@
       "status": "likely",
       "matched_name": "African Peoples Historical Monument Foundation (Black Cultural Archives) Ltd"
     },
-    "PermitFlow": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "Wrike": {
       "status": "not_found",
       "matched_name": null
@@ -4246,8 +4294,8 @@
       "matched_name": null
     },
     "Shiftbase": {
-      "status": "not_found",
-      "matched_name": null
+      "status": "likely",
+      "matched_name": "Shift Holdings Ltd"
     },
     "Renor": {
       "status": "likely",
@@ -5598,18 +5646,6 @@
       "matched_name": "Count LTD"
     },
     "Tower Semiconductor": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Ayres Associates": {
-      "status": "likely",
-      "matched_name": "Asso Ltd"
-    },
-    "EKI Environment & Water, Inc.": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "BayOne Solutions": {
       "status": "not_found",
       "matched_name": null
     }
