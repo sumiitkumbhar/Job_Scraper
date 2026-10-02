@@ -1,14 +1,158 @@
 {
-  "updated_at": "2026-10-01T12:45:40.503533+00:00",
-  "register_source": "https://assets.publishing.service.gov.uk/media/6abe33d2efad0f1df6722889/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-10-01.csv",
-  "register_org_count": 126543,
+  "updated_at": "2026-10-02T12:09:24.191513+00:00",
+  "register_source": "https://assets.publishing.service.gov.uk/media/6abf628355bc01d752a7f28a/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-10-02.csv",
+  "register_org_count": 126547,
   "company_counts": {
-    "confirmed": 232,
-    "likely": 621,
-    "not_found": 555,
+    "confirmed": 235,
+    "likely": 627,
+    "not_found": 564,
     "unknown": 2
   },
   "companies": {
+    "Posted date September 30, 2026": {
+      "status": "likely",
+      "matched_name": "SEPT GROUP LIMITED"
+    },
+    "SYSTRA": {
+      "status": "confirmed",
+      "matched_name": "SYSTRA Ltd"
+    },
+    "Built": {
+      "status": "likely",
+      "matched_name": "ASBUILT DIGITAL UK LIMITED"
+    },
+    "Jobgether": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "HEIMLADEN": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "TS Imagine": {
+      "status": "confirmed",
+      "matched_name": "TS Imagine (UK) Ltd"
+    },
+    "QuestionPro GmbH": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Dale WorkForce Solutions": {
+      "status": "likely",
+      "matched_name": "WORK LIMITED"
+    },
+    "Bitsight": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Fullpath": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "HSI": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Propeller": {
+      "status": "likely",
+      "matched_name": "Propel Holdings Limited"
+    },
+    "EverCommerce": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Sovos Latinoam\u00e9rica": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Swooped": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Devon Energy": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Realtor.com": {
+      "status": "likely",
+      "matched_name": "Real Group Ltd"
+    },
+    "Heim": {
+      "status": "likely",
+      "matched_name": "Alzheimer's Research UK"
+    },
+    "GDH": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Stonegate Workforce Group": {
+      "status": "likely",
+      "matched_name": "WORK LIMITED"
+    },
+    "NoBlue2": {
+      "status": "confirmed",
+      "matched_name": "NoBlue2 Limited"
+    },
+    "Transax Software": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Jobot": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Pearson": {
+      "status": "confirmed",
+      "matched_name": "Pearson plc"
+    },
+    "Apt": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "ConnecX Guard": {
+      "status": "likely",
+      "matched_name": "ONNEC Group UK Limited"
+    },
+    "SWK Technologies, Inc.": {
+      "status": "likely",
+      "matched_name": "Technolog Limited"
+    },
+    "RapidScale": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "SPS Commerce": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "LettrLabs": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Exostar": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Sword": {
+      "status": "likely",
+      "matched_name": "AgileBits UK Ltd trading as 1Password"
+    },
+    "Uniti Group Inc.": {
+      "status": "likely",
+      "matched_name": "ACORN DAY OPPORTUNITIES LTD"
+    },
+    "KinderCare Learning Companies": {
+      "status": "likely",
+      "matched_name": "Care & Co Ltd"
+    },
+    "GSPANN Technologies, Inc": {
+      "status": "likely",
+      "matched_name": "Technolog Limited"
+    },
+    "Brevo": {
+      "status": "not_found",
+      "matched_name": null
+    },
     "Yardi": {
       "status": "likely",
       "matched_name": "Yardi Systems Limited"
@@ -76,10 +220,6 @@
     "RLDatix": {
       "status": "not_found",
       "matched_name": null
-    },
-    "Uniti Group Inc.": {
-      "status": "likely",
-      "matched_name": "ACORN DAY OPPORTUNITIES LTD"
     },
     "GLOVIS America, Inc.": {
       "status": "not_found",
@@ -376,10 +516,6 @@
     "STATION F": {
       "status": "likely",
       "matched_name": "Fry Station Ltd T/A Fry Station Fish and Chip Shop"
-    },
-    "Swooped": {
-      "status": "not_found",
-      "matched_name": null
     },
     "ACA Group": {
       "status": "not_found",
@@ -1389,10 +1525,6 @@
       "status": "likely",
       "matched_name": "BS.AS. Maidstone Ltd T/A Buenos Aires Nights"
     },
-    "Built": {
-      "status": "likely",
-      "matched_name": "ASBUILT DIGITAL UK LIMITED"
-    },
     "Sability": {
       "status": "likely",
       "matched_name": "Action for Health, Education and Disability (AHEAD) International"
@@ -1897,10 +2029,6 @@
       "status": "not_found",
       "matched_name": null
     },
-    "Jobgether": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "RevolutionParts": {
       "status": "likely",
       "matched_name": "EVOLU GROUP LIMITED"
@@ -2329,10 +2457,6 @@
       "status": "likely",
       "matched_name": "ioMosaic International Limited"
     },
-    "SYSTRA": {
-      "status": "confirmed",
-      "matched_name": "SYSTRA Ltd"
-    },
     "Mott MacDonald": {
       "status": "confirmed",
       "matched_name": "Mott MacDonald Ltd"
@@ -2598,10 +2722,6 @@
       "matched_name": "Intapp Limited"
     },
     "Mercury Marine": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Sovos Latinoam\u00e9rica": {
       "status": "not_found",
       "matched_name": null
     },
@@ -3561,10 +3681,6 @@
       "status": "not_found",
       "matched_name": null
     },
-    "HSI": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "Brighthouse Financial": {
       "status": "likely",
       "matched_name": "ANCI GROUP LIMITED"
@@ -3629,10 +3745,6 @@
       "status": "likely",
       "matched_name": "Genuit Group plc"
     },
-    "SPS Commerce": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "NVIDIA AI": {
       "status": "likely",
       "matched_name": "NVIDIA Ltd"
@@ -3640,10 +3752,6 @@
     "Broadcom": {
       "status": "likely",
       "matched_name": "Broadcom Europe Limited"
-    },
-    "Devon Energy": {
-      "status": "not_found",
-      "matched_name": null
     },
     "Masis Professional Group": {
       "status": "not_found",
@@ -5612,42 +5720,6 @@
     "Prime Analytical Laboratories, LLC": {
       "status": "likely",
       "matched_name": "TORI Limited"
-    },
-    "Sarpy County": {
-      "status": "likely",
-      "matched_name": "Count LTD"
-    },
-    "MPHI": {
-      "status": "likely",
-      "matched_name": "Amphibio Ltd"
-    },
-    "EnSafe Inc.": {
-      "status": "likely",
-      "matched_name": "Gensafe Limited"
-    },
-    "RoseyFields": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "CDR Companies": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Department of Energy Headquarters": {
-      "status": "likely",
-      "matched_name": "Head UK Limited"
-    },
-    "Air Force Materiel Command": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "County of San Luis Obispo": {
-      "status": "likely",
-      "matched_name": "Count LTD"
-    },
-    "Tower Semiconductor": {
-      "status": "not_found",
-      "matched_name": null
     }
   }
 }
