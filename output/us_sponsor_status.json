@@ -1,17 +1,197 @@
 {
-  "updated_at": "2026-10-01T13:36:39.708992+00:00",
+  "updated_at": "2026-10-02T12:55:32.677393+00:00",
   "source_files": [
     "https://www.dol.gov/media/LCA_Disclosure_Data_FY2026_Q3.xlsx",
     "https://www.dol.gov/sites/dolgov/files/ETA/oflc/pdfs/LCA_Disclosure_Data_FY2025_Q4.xlsx"
   ],
   "employer_count": 60026,
   "company_counts": {
-    "confirmed": 308,
-    "likely": 502,
-    "not_found": 598,
+    "confirmed": 316,
+    "likely": 511,
+    "not_found": 599,
     "unknown": 2
   },
   "companies": {
+    "Posted date September 30, 2026": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "SYSTRA": {
+      "status": "likely",
+      "matched_name": "SYSTRA Consulting, Inc.",
+      "certified_lca_count": 1
+    },
+    "Built": {
+      "status": "likely",
+      "matched_name": "HartBuilt Construction Corp",
+      "certified_lca_count": 1
+    },
+    "Jobgether": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "HEIMLADEN": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "TS Imagine": {
+      "status": "likely",
+      "matched_name": "The Imagine Group, LLC",
+      "certified_lca_count": 1
+    },
+    "QuestionPro GmbH": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Dale WorkForce Solutions": {
+      "status": "confirmed",
+      "matched_name": "Dale Workforce Solutions, LLC",
+      "certified_lca_count": 1
+    },
+    "Bitsight": {
+      "status": "likely",
+      "matched_name": "Bitsight Technologies, Inc.",
+      "certified_lca_count": 3
+    },
+    "Fullpath": {
+      "status": "likely",
+      "matched_name": "PATH",
+      "certified_lca_count": 2
+    },
+    "HSI": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Propeller": {
+      "status": "confirmed",
+      "matched_name": "PROPELLER, INC.",
+      "certified_lca_count": 1
+    },
+    "EverCommerce": {
+      "status": "likely",
+      "matched_name": "EverCommerce Solutions Inc.",
+      "certified_lca_count": 10
+    },
+    "Sovos Latinoam\u00e9rica": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Swooped": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Devon Energy": {
+      "status": "likely",
+      "matched_name": "Devon Energy Production Company, LP",
+      "certified_lca_count": 3
+    },
+    "Realtor.com": {
+      "status": "likely",
+      "matched_name": "REAL Holdings LLC",
+      "certified_lca_count": 2
+    },
+    "Heim": {
+      "status": "likely",
+      "matched_name": "Guggenheim Securities, LLC",
+      "certified_lca_count": 4
+    },
+    "GDH": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Stonegate Workforce Group": {
+      "status": "likely",
+      "matched_name": "KFORCE INC.",
+      "certified_lca_count": 773
+    },
+    "NoBlue2": {
+      "status": "likely",
+      "matched_name": "Blue & Co., LLC",
+      "certified_lca_count": 3
+    },
+    "Transax Software": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Jobot": {
+      "status": "likely",
+      "matched_name": "JOBOTICS AI INC",
+      "certified_lca_count": 1
+    },
+    "Pearson": {
+      "status": "confirmed",
+      "matched_name": "PEARSON, PC",
+      "certified_lca_count": 1
+    },
+    "Apt": {
+      "status": "confirmed",
+      "matched_name": "APT Holdings LLC",
+      "certified_lca_count": 21
+    },
+    "ConnecX Guard": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "SWK Technologies, Inc.": {
+      "status": "confirmed",
+      "matched_name": "SWK Technologies, Inc.",
+      "certified_lca_count": 2
+    },
+    "RapidScale": {
+      "status": "confirmed",
+      "matched_name": "RapidScale Inc.",
+      "certified_lca_count": 2
+    },
+    "SPS Commerce": {
+      "status": "confirmed",
+      "matched_name": "SPS Commerce, Inc.",
+      "certified_lca_count": 1
+    },
+    "LettrLabs": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Exostar": {
+      "status": "confirmed",
+      "matched_name": "Exostar LLC",
+      "certified_lca_count": 3
+    },
+    "Sword": {
+      "status": "likely",
+      "matched_name": "Crossword Staffing Solutions LLC",
+      "certified_lca_count": 4
+    },
+    "Uniti Group Inc.": {
+      "status": "likely",
+      "matched_name": "Mercy Clinic Springfield Communities",
+      "certified_lca_count": 28
+    },
+    "KinderCare Learning Companies": {
+      "status": "likely",
+      "matched_name": "LEAR CORPORATION",
+      "certified_lca_count": 44
+    },
+    "GSPANN Technologies, Inc": {
+      "status": "confirmed",
+      "matched_name": "GSPANN TECHNOLOGIES, INC.",
+      "certified_lca_count": 46
+    },
+    "Brevo": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
     "Yardi": {
       "status": "likely",
       "matched_name": "Yardi Systems, Inc.",
@@ -96,11 +276,6 @@
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
-    },
-    "Uniti Group Inc.": {
-      "status": "likely",
-      "matched_name": "Mercy Clinic Springfield Communities",
-      "certified_lca_count": 28
     },
     "GLOVIS America, Inc.": {
       "status": "not_found",
@@ -468,11 +643,6 @@
       "certified_lca_count": 0
     },
     "STATION F": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Swooped": {
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
@@ -1737,11 +1907,6 @@
       "matched_name": "Airesafe International USA, Inc.",
       "certified_lca_count": 1
     },
-    "Built": {
-      "status": "likely",
-      "matched_name": "HartBuilt Construction Corp",
-      "certified_lca_count": 1
-    },
     "Sability": {
       "status": "likely",
       "matched_name": "Usability Sciences Corporation",
@@ -2372,11 +2537,6 @@
       "matched_name": null,
       "certified_lca_count": 0
     },
-    "Jobgether": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
     "RevolutionParts": {
       "status": "confirmed",
       "matched_name": "RevolutionParts, Inc.",
@@ -2912,11 +3072,6 @@
       "matched_name": "SAICON CONSULTANTS, INC.",
       "certified_lca_count": 30
     },
-    "SYSTRA": {
-      "status": "likely",
-      "matched_name": "SYSTRA Consulting, Inc.",
-      "certified_lca_count": 1
-    },
     "Mott MacDonald": {
       "status": "confirmed",
       "matched_name": "Mott MacDonald Group Inc.",
@@ -3251,11 +3406,6 @@
       "status": "likely",
       "matched_name": "Arine Inc.",
       "certified_lca_count": 5
-    },
-    "Sovos Latinoam\u00e9rica": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
     },
     "ePlus inc.": {
       "status": "likely",
@@ -4452,11 +4602,6 @@
       "matched_name": "YLINK LLC",
       "certified_lca_count": 1
     },
-    "HSI": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
     "Brighthouse Financial": {
       "status": "not_found",
       "matched_name": null,
@@ -4537,11 +4682,6 @@
       "matched_name": "Enuit, LLC",
       "certified_lca_count": 2
     },
-    "SPS Commerce": {
-      "status": "confirmed",
-      "matched_name": "SPS Commerce, Inc.",
-      "certified_lca_count": 1
-    },
     "NVIDIA AI": {
       "status": "likely",
       "matched_name": "NVIDIA Corporation",
@@ -4551,11 +4691,6 @@
       "status": "confirmed",
       "matched_name": "Broadcom Corporation",
       "certified_lca_count": 101
-    },
-    "Devon Energy": {
-      "status": "likely",
-      "matched_name": "Devon Energy Production Company, LP",
-      "certified_lca_count": 3
     },
     "Masis Professional Group": {
       "status": "not_found",
@@ -7015,51 +7150,6 @@
     "Prime Analytical Laboratories, LLC": {
       "status": "likely",
       "matched_name": "Prime Group Holdings LLC",
-      "certified_lca_count": 2
-    },
-    "Sarpy County": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "MPHI": {
-      "status": "likely",
-      "matched_name": "The University of Memphis",
-      "certified_lca_count": 33
-    },
-    "EnSafe Inc.": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "RoseyFields": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "CDR Companies": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Department of Energy Headquarters": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Air Force Materiel Command": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "County of San Luis Obispo": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Tower Semiconductor": {
-      "status": "likely",
-      "matched_name": "SEMI",
       "certified_lca_count": 2
     }
   }
