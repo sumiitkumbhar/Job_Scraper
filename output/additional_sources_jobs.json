@@ -1,40 +1,14 @@
 {
-  "scraped_at": "2026-10-01 11:05 UTC",
-  "total": 10,
-  "new_count": 3,
+  "scraped_at": "2026-10-02 10:34 UTC",
+  "total": 9,
+  "new_count": 2,
   "jobs": [
-    {
-      "title": "Senior Planning Officer/Principal Planning Officer (Career Grade)",
-      "company": "Hyndburn Borough Council",
-      "location": "Accrington, North West",
-      "url": "https://www.planningjobs.com/senior-officer-principal-planning-officer-pjcom2826",
-      "date_posted": "Posted 44 days ago",
-      "description": "",
-      "salary": "£41,771- £45,091",
-      "job_type": "",
-      "is_remote": null,
-      "work_arrangement": "",
-      "ats": "PlanningJobs.com"
-    },
-    {
-      "title": "Associate Town Planner / Senior Associate",
-      "company": "Vivid Consulting",
-      "location": "Norwich City Centre, East of England",
-      "url": "https://www.planningjobs.com/associate-town-planner-senior-associate-pjcom2841",
-      "date_posted": "Posted 15 days ago",
-      "description": "",
-      "salary": "",
-      "job_type": "",
-      "is_remote": null,
-      "work_arrangement": "",
-      "ats": "PlanningJobs.com"
-    },
     {
       "title": "Assistant Estates Manager - Town Planning",
       "company": "NHS Essex Interated Care Board",
       "location": "Chelmsford, East of England",
       "url": "https://www.planningjobs.com/assistant-estates-manager-pjcom2844",
-      "date_posted": "Posted 7 days ago",
+      "date_posted": "Posted 8 days ago",
       "description": "",
       "salary": "£49,387 to £56,515",
       "job_type": "",
@@ -47,7 +21,7 @@
       "company": "Stoke on Trent City Council",
       "location": "Stoke-on-Trent, Midlands",
       "url": "https://www.planningjobs.com/senior-planning-officer-policy-pjcom2843",
-      "date_posted": "Posted 9 days ago",
+      "date_posted": "Posted 10 days ago",
       "description": "",
       "salary": "£46,579 - £49,817",
       "job_type": "",
@@ -60,7 +34,7 @@
       "company": "Hastings Borough Council",
       "location": "Hastings, South East",
       "url": "https://www.planningjobs.com/senior-planning-officer-pjcom2842",
-      "date_posted": "Posted 15 days ago",
+      "date_posted": "Posted 16 days ago",
       "description": "",
       "salary": "£35,412 to £44,075",
       "job_type": "",
@@ -73,7 +47,7 @@
       "company": "Royal Borough of Greenwich",
       "location": "Woolwich, London",
       "url": "https://www.planningjobs.com/principal-planning-policy-officer-pjcom2840",
-      "date_posted": "Posted 16 days ago",
+      "date_posted": "Posted 17 days ago",
       "description": "",
       "salary": "£52,194 - £57,402",
       "job_type": "",
@@ -86,13 +60,26 @@
       "company": "West Northamptonshire Council",
       "location": "Northampton, Midlands",
       "url": "https://www.planningjobs.com/principal-planning-policy-officer-pjcom2839",
-      "date_posted": "Posted 20 days ago",
+      "date_posted": "Posted 21 days ago",
       "description": "",
       "salary": "£51,224 - £54,605",
       "job_type": "",
       "is_remote": null,
       "work_arrangement": "",
       "ats": "PlanningJobs.com"
+    },
+    {
+      "title": "PropTech Analyst",
+      "company": "Confidential Company",
+      "location": "United Kingdom",
+      "url": "https://proptechjobs.com/job/proptech-analyst-2/?company=Confidential Company",
+      "date_posted": "",
+      "description": "",
+      "salary": "",
+      "job_type": "",
+      "is_remote": null,
+      "work_arrangement": "",
+      "ats": "Proptech Jobs"
     },
     {
       "title": "PropTech Account Manager",
@@ -108,10 +95,10 @@
       "ats": "Proptech Jobs"
     },
     {
-      "title": "PropTech Analyst",
+      "title": "Java Developer – PropTech",
       "company": "Confidential Company",
       "location": "United Kingdom",
-      "url": "https://proptechjobs.com/job/proptech-analyst/?company=Confidential Company",
+      "url": "https://proptechjobs.com/job/java-developer-proptech/?company=Confidential Company",
       "date_posted": "",
       "description": "",
       "salary": "",
@@ -122,8 +109,8 @@
     },
     {
       "title": "Customer Success Advisor | French Sales Amsterdam Posted date September 30, 2026",
-      "company": "IamExpat",
-      "location": "Netherlands",
+      "company": "Posted date September 30, 2026",
+      "location": "Amsterdam",
       "url": "https://www.iamexpat.nl/career/jobs-netherlands/sales-positions/customer-success-advisor-french/4c7K1QJvrQaAj9CW7a7y6K",
       "date_posted": "",
       "description": "",
@@ -136,23 +123,10 @@
   ],
   "new_jobs": [
     {
-      "title": "PropTech Account Manager",
-      "company": "Confidential Company",
-      "location": "United States",
-      "url": "https://proptechjobs.com/job/proptech-account-manager/?company=Confidential Company",
-      "date_posted": "",
-      "description": "",
-      "salary": "",
-      "job_type": "",
-      "is_remote": null,
-      "work_arrangement": "",
-      "ats": "Proptech Jobs"
-    },
-    {
       "title": "PropTech Analyst",
       "company": "Confidential Company",
       "location": "United Kingdom",
-      "url": "https://proptechjobs.com/job/proptech-analyst/?company=Confidential Company",
+      "url": "https://proptechjobs.com/job/proptech-analyst-2/?company=Confidential Company",
       "date_posted": "",
       "description": "",
       "salary": "",
@@ -162,17 +136,17 @@
       "ats": "Proptech Jobs"
     },
     {
-      "title": "Customer Success Advisor | French Sales Amsterdam Posted date September 30, 2026",
-      "company": "IamExpat",
-      "location": "Netherlands",
-      "url": "https://www.iamexpat.nl/career/jobs-netherlands/sales-positions/customer-success-advisor-french/4c7K1QJvrQaAj9CW7a7y6K",
+      "title": "Java Developer – PropTech",
+      "company": "Confidential Company",
+      "location": "United Kingdom",
+      "url": "https://proptechjobs.com/job/java-developer-proptech/?company=Confidential Company",
       "date_posted": "",
       "description": "",
       "salary": "",
       "job_type": "",
       "is_remote": null,
       "work_arrangement": "",
-      "ats": "IamExpat"
+      "ats": "Proptech Jobs"
     }
   ]
 }
