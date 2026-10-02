@@ -1,5 +1,5 @@
 # 🟧 ZipRecruiter — Sumit's Planning & PropTech Roles
-*Last updated: 2026-10-01 21:11 UTC*
+*Last updated: 2026-10-02 20:52 UTC*
 
 **0 new role(s)** since last run · 0 total in last 24h
 
