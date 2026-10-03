@@ -1,14 +1,122 @@
 {
-  "updated_at": "2026-10-02T12:09:24.191513+00:00",
+  "updated_at": "2026-10-03T11:19:59.290261+00:00",
   "register_source": "https://assets.publishing.service.gov.uk/media/6abf628355bc01d752a7f28a/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-10-02.csv",
   "register_org_count": 126547,
   "company_counts": {
-    "confirmed": 235,
-    "likely": 627,
+    "confirmed": 234,
+    "likely": 625,
     "not_found": 564,
     "unknown": 2
   },
   "companies": {
+    "Sigma": {
+      "status": "likely",
+      "matched_name": "Alfasigma UK Limited"
+    },
+    "Arup": {
+      "status": "likely",
+      "matched_name": "Hemaraji Santharupan T/A Baba Food City"
+    },
+    "Radar": {
+      "status": "likely",
+      "matched_name": "Bond Radar Limited"
+    },
+    "McGraw Hill": {
+      "status": "likely",
+      "matched_name": "McGraw Hill Education (UK) Limited"
+    },
+    "Amazon": {
+      "status": "likely",
+      "matched_name": "Amazon Charitable Trust"
+    },
+    "Paylocity": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Dispatch": {
+      "status": "likely",
+      "matched_name": "Business Dispatch Ltd"
+    },
+    "Bloomreach": {
+      "status": "confirmed",
+      "matched_name": "BloomReach UK Ltd"
+    },
+    "Lead": {
+      "status": "likely",
+      "matched_name": "360 Leaders Ltd"
+    },
+    "Meltwater": {
+      "status": "confirmed",
+      "matched_name": "Meltwater (UK) Limited"
+    },
+    "P-1 AI": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Cerby": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "WorkBuzz": {
+      "status": "likely",
+      "matched_name": "WORK LIMITED"
+    },
+    "Salesforce": {
+      "status": "confirmed",
+      "matched_name": "Salesforce UK Limited"
+    },
+    "3Shape": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "TSCG": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Brightpath Associates LLC": {
+      "status": "likely",
+      "matched_name": "Asso Ltd"
+    },
+    "Wolters Kluwer": {
+      "status": "confirmed",
+      "matched_name": "Wolters Kluwer (UK) Ltd"
+    },
+    "TalentHop": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Appvion": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Circadia Health": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "KSAT Inc.": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "UPS": {
+      "status": "confirmed",
+      "matched_name": "UPS Ltd"
+    },
+    "RELX": {
+      "status": "confirmed",
+      "matched_name": "RELX (UK) Limited"
+    },
+    "LexisNexis": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Huge": {
+      "status": "confirmed",
+      "matched_name": "Huge UK Limited"
+    },
+    "Speridian Technologies": {
+      "status": "likely",
+      "matched_name": "PERI Limited"
+    },
     "Posted date September 30, 2026": {
       "status": "likely",
       "matched_name": "SEPT GROUP LIMITED"
@@ -233,10 +341,6 @@
       "status": "not_found",
       "matched_name": null
     },
-    "Arup": {
-      "status": "likely",
-      "matched_name": "Hemaraji Santharupan T/A Baba Food City"
-    },
     "Office for National Statistics": {
       "status": "confirmed",
       "matched_name": "Office for National Statistics"
@@ -261,10 +365,6 @@
       "status": "not_found",
       "matched_name": null
     },
-    "Amazon": {
-      "status": "likely",
-      "matched_name": "Amazon Charitable Trust"
-    },
     "Docusign": {
       "status": "confirmed",
       "matched_name": "DocuSign UK Limited"
@@ -288,10 +388,6 @@
     "EDSA, Inc.": {
       "status": "likely",
       "matched_name": "Click To Go Limited T/A Ledsa Mart"
-    },
-    "TalentHop": {
-      "status": "not_found",
-      "matched_name": null
     },
     "Smithfield Foods": {
       "status": "not_found",
@@ -454,10 +550,6 @@
       "matched_name": "Cvent Europe Limited"
     },
     "Nooks": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Circadia Health": {
       "status": "not_found",
       "matched_name": null
     },
@@ -713,10 +805,6 @@
       "status": "likely",
       "matched_name": "HIBO LTD"
     },
-    "Salesforce": {
-      "status": "confirmed",
-      "matched_name": "Salesforce UK Limited"
-    },
     "GMR Marketing": {
       "status": "not_found",
       "matched_name": null
@@ -941,10 +1029,6 @@
       "status": "likely",
       "matched_name": "Care & Co Ltd"
     },
-    "Sigma": {
-      "status": "likely",
-      "matched_name": "Alfasigma UK Limited"
-    },
     "AECOM": {
       "status": "confirmed",
       "matched_name": "AECOM LIMITED"
@@ -1042,10 +1126,6 @@
       "matched_name": "C.H. Robinson Worldwide (UK) Limited"
     },
     "City National Bank": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Paylocity": {
       "status": "not_found",
       "matched_name": null
     },
@@ -2233,10 +2313,6 @@
       "status": "likely",
       "matched_name": "UK Search Limited"
     },
-    "UPS": {
-      "status": "confirmed",
-      "matched_name": "UPS Ltd"
-    },
     "OSF HealthCare": {
       "status": "likely",
       "matched_name": "Care & Co Ltd"
@@ -2428,10 +2504,6 @@
     "Nsight Health": {
       "status": "likely",
       "matched_name": "EXECUTIVE INSIGHT HEALTHCARE CONSULTANTS LTD"
-    },
-    "Bloomreach": {
-      "status": "confirmed",
-      "matched_name": "BloomReach UK Ltd"
     },
     "Cisco": {
       "status": "likely",
@@ -2901,10 +2973,6 @@
       "status": "confirmed",
       "matched_name": "Kpler Limited"
     },
-    "Wolters Kluwer": {
-      "status": "confirmed",
-      "matched_name": "Wolters Kluwer (UK) Ltd"
-    },
     "Loomis, Sayles & Company": {
       "status": "not_found",
       "matched_name": null
@@ -2948,10 +3016,6 @@
     "Siemens Digital Industries Software": {
       "status": "likely",
       "matched_name": "DIGITAL-I LIMITED"
-    },
-    "Meltwater": {
-      "status": "confirmed",
-      "matched_name": "Meltwater (UK) Limited"
     },
     "Convene": {
       "status": "confirmed",
@@ -3948,10 +4012,6 @@
     "City of Atlanta": {
       "status": "not_found",
       "matched_name": null
-    },
-    "McGraw Hill": {
-      "status": "likely",
-      "matched_name": "McGraw Hill Education (UK) Limited"
     },
     "M&T Bank": {
       "status": "not_found",
@@ -5648,78 +5708,6 @@
     "Bureau of Engraving and Printing": {
       "status": "likely",
       "matched_name": "RAVI LIMITED"
-    },
-    "SLR Consulting": {
-      "status": "confirmed",
-      "matched_name": "SLR Consulting Limited"
-    },
-    "California Department of Toxic Substances Control": {
-      "status": "likely",
-      "matched_name": "Ontro Ltd"
-    },
-    "Battelle": {
-      "status": "confirmed",
-      "matched_name": "Battelle UK limited"
-    },
-    "Calista Brice": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Airswift": {
-      "status": "likely",
-      "matched_name": "Swift Group Limited"
-    },
-    "City of Port Adelaide Enfield": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Bechtel": {
-      "status": "confirmed",
-      "matched_name": "Bechtel Limited"
-    },
-    "Environmental Science and Assessment": {
-      "status": "likely",
-      "matched_name": "Science (UK) Limited"
-    },
-    "Caltrans": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Recology": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Jobs in Council": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "The Davey Tree Expert Company": {
-      "status": "likely",
-      "matched_name": "Y TREE Limited"
-    },
-    "Tecolote Research, Inc.": {
-      "status": "likely",
-      "matched_name": "UK Search Limited"
-    },
-    "Atlas Technical Consultants": {
-      "status": "likely",
-      "matched_name": "Atlas Technica UK Ltd"
-    },
-    "Wsc": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Brunel": {
-      "status": "likely",
-      "matched_name": "Brunel International UK Limited"
-    },
-    "Veterans Health Administration": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Prime Analytical Laboratories, LLC": {
-      "status": "likely",
-      "matched_name": "TORI Limited"
     }
   }
 }
