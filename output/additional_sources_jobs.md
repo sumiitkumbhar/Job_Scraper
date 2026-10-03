@@ -1,10 +1,12 @@
 # 🌍 Additional Job Sources — Sumit's Planning & PropTech Roles
-*Last updated: 2026-10-02 10:34 UTC*
+*Last updated: 2026-10-03 09:55 UTC*
 
-**2 new role(s)** since last run · 9 total in current postings across enabled additional sources
+**2 new role(s)** since last run · 7 total in current postings across enabled additional sources
 
-### [PropTech Analyst](https://proptechjobs.com/job/proptech-analyst-2/?company=Confidential Company) — Confidential Company
-- 📍 **Location:** United Kingdom
+### [Planning Manager (Development Management)](https://www.planningjobs.com/planning-manager-development-management-pjcom2836) — Hyndburn Borough Council
+- 📍 **Location:** Accrington, North West
+- 💰 **Salary:** £48,226 to £51,356 + car extra Location
+- 🕒 **Posted:** Posted 30 days ago
 
-### [Java Developer – PropTech](https://proptechjobs.com/job/java-developer-proptech/?company=Confidential Company) — Confidential Company
+### [PropTech Analyst](https://proptechjobs.com/job/proptech-analyst/?company=Confidential Company) — Confidential Company
 - 📍 **Location:** United Kingdom
