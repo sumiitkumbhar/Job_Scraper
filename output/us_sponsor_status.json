@@ -1,17 +1,152 @@
 {
-  "updated_at": "2026-10-02T12:55:32.677393+00:00",
+  "updated_at": "2026-10-03T11:53:45.715060+00:00",
   "source_files": [
     "https://www.dol.gov/media/LCA_Disclosure_Data_FY2026_Q3.xlsx",
     "https://www.dol.gov/sites/dolgov/files/ETA/oflc/pdfs/LCA_Disclosure_Data_FY2025_Q4.xlsx"
   ],
   "employer_count": 60026,
   "company_counts": {
-    "confirmed": 316,
-    "likely": 511,
-    "not_found": 599,
+    "confirmed": 319,
+    "likely": 509,
+    "not_found": 595,
     "unknown": 2
   },
   "companies": {
+    "Sigma": {
+      "status": "confirmed",
+      "matched_name": "SIGMA Corporation",
+      "certified_lca_count": 7
+    },
+    "Arup": {
+      "status": "likely",
+      "matched_name": "ARUP Laboratories",
+      "certified_lca_count": 96
+    },
+    "Radar": {
+      "status": "confirmed",
+      "matched_name": "RADaR, LLC",
+      "certified_lca_count": 1
+    },
+    "McGraw Hill": {
+      "status": "confirmed",
+      "matched_name": "McGraw Hill LLC",
+      "certified_lca_count": 21
+    },
+    "Amazon": {
+      "status": "confirmed",
+      "matched_name": "Amazon LLC",
+      "certified_lca_count": 2
+    },
+    "Paylocity": {
+      "status": "confirmed",
+      "matched_name": "Paylocity Corporation",
+      "certified_lca_count": 22
+    },
+    "Dispatch": {
+      "status": "likely",
+      "matched_name": "DispatchTrack, LLC",
+      "certified_lca_count": 1
+    },
+    "Bloomreach": {
+      "status": "confirmed",
+      "matched_name": "BloomReach, Inc.",
+      "certified_lca_count": 7
+    },
+    "Lead": {
+      "status": "likely",
+      "matched_name": "Tek Leaders Inc",
+      "certified_lca_count": 147
+    },
+    "Meltwater": {
+      "status": "likely",
+      "matched_name": "Meltwater News US Inc.",
+      "certified_lca_count": 5
+    },
+    "P-1 AI": {
+      "status": "confirmed",
+      "matched_name": "P-1 AI, Inc.",
+      "certified_lca_count": 3
+    },
+    "Cerby": {
+      "status": "confirmed",
+      "matched_name": "Cerby, Inc.",
+      "certified_lca_count": 1
+    },
+    "WorkBuzz": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Salesforce": {
+      "status": "confirmed",
+      "matched_name": "Salesforce, Inc.",
+      "certified_lca_count": 2004
+    },
+    "3Shape": {
+      "status": "likely",
+      "matched_name": "Shape Corp.",
+      "certified_lca_count": 5
+    },
+    "TSCG": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Brightpath Associates LLC": {
+      "status": "likely",
+      "matched_name": "SOCi, Inc.",
+      "certified_lca_count": 1
+    },
+    "Wolters Kluwer": {
+      "status": "likely",
+      "matched_name": "Wolters Kluwer DXG U.S., Inc.",
+      "certified_lca_count": 101
+    },
+    "TalentHop": {
+      "status": "likely",
+      "matched_name": "Talent Corporation, LLC",
+      "certified_lca_count": 1
+    },
+    "Appvion": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Circadia Health": {
+      "status": "likely",
+      "matched_name": "Group Health, Inc.",
+      "certified_lca_count": 41
+    },
+    "KSAT Inc.": {
+      "status": "likely",
+      "matched_name": "ZIKSATECH, LLC",
+      "certified_lca_count": 6
+    },
+    "UPS": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "RELX": {
+      "status": "confirmed",
+      "matched_name": "RELX, Inc.",
+      "certified_lca_count": 257
+    },
+    "LexisNexis": {
+      "status": "likely",
+      "matched_name": "LexisNexis Risk Data Management LLC",
+      "certified_lca_count": 36
+    },
+    "Huge": {
+      "status": "confirmed",
+      "matched_name": "HUGE, LLC",
+      "certified_lca_count": 1
+    },
+    "Speridian Technologies": {
+      "status": "confirmed",
+      "matched_name": "Speridian Technologies, LLC",
+      "certified_lca_count": 60
+    },
     "Posted date September 30, 2026": {
       "status": "not_found",
       "matched_name": null,
@@ -292,11 +427,6 @@
       "matched_name": null,
       "certified_lca_count": 0
     },
-    "Arup": {
-      "status": "likely",
-      "matched_name": "ARUP Laboratories",
-      "certified_lca_count": 96
-    },
     "Office for National Statistics": {
       "status": "not_found",
       "matched_name": null,
@@ -327,11 +457,6 @@
       "matched_name": "AINS, LLC",
       "certified_lca_count": 6
     },
-    "Amazon": {
-      "status": "confirmed",
-      "matched_name": "Amazon LLC",
-      "certified_lca_count": 2
-    },
     "Docusign": {
       "status": "confirmed",
       "matched_name": "Docusign Inc.",
@@ -361,11 +486,6 @@
       "status": "confirmed",
       "matched_name": "EDSA, Inc.",
       "certified_lca_count": 12
-    },
-    "TalentHop": {
-      "status": "likely",
-      "matched_name": "Talent Corporation, LLC",
-      "certified_lca_count": 1
     },
     "Smithfield Foods": {
       "status": "not_found",
@@ -571,11 +691,6 @@
       "status": "likely",
       "matched_name": "Nooks Communications, Inc.",
       "certified_lca_count": 9
-    },
-    "Circadia Health": {
-      "status": "likely",
-      "matched_name": "Group Health, Inc.",
-      "certified_lca_count": 41
     },
     "CDK Global": {
       "status": "confirmed",
@@ -892,11 +1007,6 @@
       "matched_name": null,
       "certified_lca_count": 0
     },
-    "Salesforce": {
-      "status": "confirmed",
-      "matched_name": "Salesforce, Inc.",
-      "certified_lca_count": 2004
-    },
     "GMR Marketing": {
       "status": "not_found",
       "matched_name": null,
@@ -1177,11 +1287,6 @@
       "matched_name": "CARE",
       "certified_lca_count": 1
     },
-    "Sigma": {
-      "status": "confirmed",
-      "matched_name": "SIGMA Corporation",
-      "certified_lca_count": 7
-    },
     "AECOM": {
       "status": "confirmed",
       "matched_name": "AECOM",
@@ -1306,11 +1411,6 @@
       "status": "confirmed",
       "matched_name": "City National Bank",
       "certified_lca_count": 81
-    },
-    "Paylocity": {
-      "status": "confirmed",
-      "matched_name": "Paylocity Corporation",
-      "certified_lca_count": 22
     },
     "Flint": {
       "status": "likely",
@@ -2792,11 +2892,6 @@
       "matched_name": "Staffing Inc.",
       "certified_lca_count": 1
     },
-    "UPS": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
     "OSF HealthCare": {
       "status": "likely",
       "matched_name": "OSF Healthcare System",
@@ -3036,11 +3131,6 @@
       "status": "likely",
       "matched_name": "Group Health, Inc.",
       "certified_lca_count": 41
-    },
-    "Bloomreach": {
-      "status": "confirmed",
-      "matched_name": "BloomReach, Inc.",
-      "certified_lca_count": 7
     },
     "Cisco": {
       "status": "likely",
@@ -3627,11 +3717,6 @@
       "matched_name": null,
       "certified_lca_count": 0
     },
-    "Wolters Kluwer": {
-      "status": "likely",
-      "matched_name": "Wolters Kluwer DXG U.S., Inc.",
-      "certified_lca_count": 101
-    },
     "Loomis, Sayles & Company": {
       "status": "likely",
       "matched_name": "Loomis, Sayles & Company, LP",
@@ -3686,11 +3771,6 @@
       "status": "likely",
       "matched_name": "INDUS GROUP, INC.",
       "certified_lca_count": 47
-    },
-    "Meltwater": {
-      "status": "likely",
-      "matched_name": "Meltwater News US Inc.",
-      "certified_lca_count": 5
     },
     "Convene": {
       "status": "confirmed",
@@ -4936,11 +5016,6 @@
       "status": "confirmed",
       "matched_name": "City of Atlanta",
       "certified_lca_count": 1
-    },
-    "McGraw Hill": {
-      "status": "confirmed",
-      "matched_name": "McGraw Hill LLC",
-      "certified_lca_count": 21
     },
     "M&T Bank": {
       "status": "confirmed",
@@ -7061,96 +7136,6 @@
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
-    },
-    "SLR Consulting": {
-      "status": "likely",
-      "matched_name": "LR Consulting LLC",
-      "certified_lca_count": 1
-    },
-    "California Department of Toxic Substances Control": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Battelle": {
-      "status": "likely",
-      "matched_name": "UT-BATTELLE, LLC (OAK RIDGE NATIONAL LABORATORY)",
-      "certified_lca_count": 266
-    },
-    "Calista Brice": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Airswift": {
-      "status": "likely",
-      "matched_name": "SWIFT, Inc.",
-      "certified_lca_count": 1
-    },
-    "City of Port Adelaide Enfield": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Bechtel": {
-      "status": "likely",
-      "matched_name": "Bechtel Energy Inc.",
-      "certified_lca_count": 51
-    },
-    "Environmental Science and Assessment": {
-      "status": "likely",
-      "matched_name": "Science Corporation",
-      "certified_lca_count": 5
-    },
-    "Caltrans": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Recology": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Jobs in Council": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "The Davey Tree Expert Company": {
-      "status": "confirmed",
-      "matched_name": "The Davey Tree Expert Company",
-      "certified_lca_count": 1
-    },
-    "Tecolote Research, Inc.": {
-      "status": "likely",
-      "matched_name": "Arch Group LLC",
-      "certified_lca_count": 2
-    },
-    "Atlas Technical Consultants": {
-      "status": "confirmed",
-      "matched_name": "Atlas Technical Consultants LLC",
-      "certified_lca_count": 9
-    },
-    "Wsc": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Brunel": {
-      "status": "likely",
-      "matched_name": "Brunel Energy, Inc.",
-      "certified_lca_count": 1
-    },
-    "Veterans Health Administration": {
-      "status": "confirmed",
-      "matched_name": "Veterans Health Administration",
-      "certified_lca_count": 4
-    },
-    "Prime Analytical Laboratories, LLC": {
-      "status": "likely",
-      "matched_name": "Prime Group Holdings LLC",
-      "certified_lca_count": 2
     }
   }
 }
