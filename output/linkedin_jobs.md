@@ -1,21 +1,12 @@
 # 🔥 LinkedIn — Sumit's Planning & PropTech Roles
-*Last updated: 2026-10-04 02:21 UTC*
+*Last updated: 2026-10-04 07:25 UTC*
 
-**4 new role(s)** since last run · 4 total in last 1h
+**2 new role(s)** since last run · 2 total in last 1h
 
-### [Graduate Town Planner](https://www.linkedin.com/jobs/view/4475359441/) — TipTopJob
-- 📍 **Location:** Lancashire, England, United Kingdom
+### [Regulatory Compliance Analyst](https://www.linkedin.com/jobs/view/4444707198/) — Devon Energy
+- 📍 **Location:** Pittsburgh, PA
 - 🕒 **Posted:** 2026-10-04
 
-### [Senior Town Planner](https://www.linkedin.com/jobs/view/4475354572/) — TipTopJob
-- 📍 **Location:** Macclesfield, England, United Kingdom
-- 🕒 **Posted:** 2026-10-04
-
-### [Solutions Consultant](https://www.linkedin.com/jobs/view/4473885756/) — KWI
-- 📍 **Location:** Melville, NY
-- 💰 **Salary:** $130,000.00/yr - $140,000.00/yr
-- 🕒 **Posted:** 2026-10-04
-
-### [Major Customer Success Mgr](https://www.linkedin.com/jobs/view/4475362445/) — Uniti Group Inc.
-- 📍 **Location:** Colorado, United States
+### [Compliance Analyst IV](https://www.linkedin.com/jobs/view/4475366525/) — American Fidelity
+- 📍 **Location:** Oklahoma City, OK
 - 🕒 **Posted:** 2026-10-04
