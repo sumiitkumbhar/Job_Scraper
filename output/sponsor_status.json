@@ -1,14 +1,66 @@
 {
-  "updated_at": "2026-10-03T11:19:59.290261+00:00",
+  "updated_at": "2026-10-04T12:00:51.698470+00:00",
   "register_source": "https://assets.publishing.service.gov.uk/media/6abf628355bc01d752a7f28a/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-10-02.csv",
   "register_org_count": 126547,
   "company_counts": {
-    "confirmed": 234,
-    "likely": 625,
-    "not_found": 564,
+    "confirmed": 233,
+    "likely": 622,
+    "not_found": 563,
     "unknown": 2
   },
   "companies": {
+    "VTS": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Haystack": {
+      "status": "likely",
+      "matched_name": "Hays PLC"
+    },
+    "American Fidelity": {
+      "status": "likely",
+      "matched_name": "Fidel Limited"
+    },
+    "TipTopJob": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "KWI": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "val's services": {
+      "status": "likely",
+      "matched_name": "Vice UK Limited"
+    },
+    "Datassential": {
+      "status": "confirmed",
+      "matched_name": "Datassential UK Limited"
+    },
+    "WP Engine": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Imprivata": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "KaiHonua": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "San Jos\u00e9 State University": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Docket Build": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Family Dollar": {
+      "status": "not_found",
+      "matched_name": null
+    },
     "Sigma": {
       "status": "likely",
       "matched_name": "Alfasigma UK Limited"
@@ -761,10 +813,6 @@
       "status": "not_found",
       "matched_name": null
     },
-    "WP Engine": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "Order.co": {
       "status": "likely",
       "matched_name": "All in order Solutions Ltd"
@@ -1282,10 +1330,6 @@
       "matched_name": "GHOUS LTD"
     },
     "Regions Bank": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Imprivata": {
       "status": "not_found",
       "matched_name": null
     },
@@ -3469,10 +3513,6 @@
       "status": "likely",
       "matched_name": "Regent Tandoori Ltd trading as Sonargaon Tandoori"
     },
-    "VTS": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "Outreach": {
       "status": "likely",
       "matched_name": "ASN Assertive outreach and consultancy Limited"
@@ -3480,10 +3520,6 @@
     "Infosys": {
       "status": "confirmed",
       "matched_name": "Infosys Limited"
-    },
-    "TipTopJob": {
-      "status": "not_found",
-      "matched_name": null
     },
     "Hollister Incorporated": {
       "status": "likely",
@@ -3838,10 +3874,6 @@
       "matched_name": null
     },
     "Austal USA": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "KWI": {
       "status": "not_found",
       "matched_name": null
     },
@@ -5656,58 +5688,6 @@
     "Ethos": {
       "status": "likely",
       "matched_name": "Aethos U.K. Limited"
-    },
-    "WSP": {
-      "status": "confirmed",
-      "matched_name": "WSP Group Limited"
-    },
-    "Allied Universal": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Glaukos Corporation": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "State of South Dakota": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Johnson, Mirmiran & Thompson, Inc.": {
-      "status": "likely",
-      "matched_name": "JOHNS&CO"
-    },
-    "California Department of Public Health": {
-      "status": "likely",
-      "matched_name": "The Department UK Ltd"
-    },
-    "Langan Engineering & Environmental Services": {
-      "status": "likely",
-      "matched_name": "Vice UK Limited"
-    },
-    "Geosyntec Consultants, Inc.": {
-      "status": "confirmed",
-      "matched_name": "Geosyntec Consultants Ltd"
-    },
-    "Goldman Sachs": {
-      "status": "likely",
-      "matched_name": "Goldman Sachs (UK) SVC. Limited"
-    },
-    "Weber County Careers": {
-      "status": "likely",
-      "matched_name": "Care & Co Ltd"
-    },
-    "Cherokee Federal": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "ING": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Bureau of Engraving and Printing": {
-      "status": "likely",
-      "matched_name": "RAVI LIMITED"
     }
   }
 }
