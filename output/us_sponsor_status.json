@@ -1,17 +1,82 @@
 {
-  "updated_at": "2026-10-03T11:53:45.715060+00:00",
+  "updated_at": "2026-10-04T12:36:53.272830+00:00",
   "source_files": [
     "https://www.dol.gov/media/LCA_Disclosure_Data_FY2026_Q3.xlsx",
     "https://www.dol.gov/sites/dolgov/files/ETA/oflc/pdfs/LCA_Disclosure_Data_FY2025_Q4.xlsx"
   ],
   "employer_count": 60026,
   "company_counts": {
-    "confirmed": 319,
+    "confirmed": 315,
     "likely": 509,
-    "not_found": 595,
+    "not_found": 594,
     "unknown": 2
   },
   "companies": {
+    "VTS": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Haystack": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "American Fidelity": {
+      "status": "likely",
+      "matched_name": "American Fidelity Assurance Company",
+      "certified_lca_count": 4
+    },
+    "TipTopJob": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "KWI": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "val's services": {
+      "status": "likely",
+      "matched_name": "Corporation Service Company",
+      "certified_lca_count": 21
+    },
+    "Datassential": {
+      "status": "confirmed",
+      "matched_name": "Datassential, Inc.",
+      "certified_lca_count": 2
+    },
+    "WP Engine": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Imprivata": {
+      "status": "confirmed",
+      "matched_name": "Imprivata, Inc.",
+      "certified_lca_count": 8
+    },
+    "KaiHonua": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "San Jos\u00e9 State University": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Docket Build": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Family Dollar": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
     "Sigma": {
       "status": "confirmed",
       "matched_name": "SIGMA Corporation",
@@ -952,11 +1017,6 @@
       "matched_name": "Celigo, Inc.",
       "certified_lca_count": 3
     },
-    "WP Engine": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
     "Order.co": {
       "status": "likely",
       "matched_name": "Border States Industries, Inc.",
@@ -1606,11 +1666,6 @@
       "status": "confirmed",
       "matched_name": "Regions Bank",
       "certified_lca_count": 48
-    },
-    "Imprivata": {
-      "status": "confirmed",
-      "matched_name": "Imprivata, Inc.",
-      "certified_lca_count": 8
     },
     "ComplyAdvantage": {
       "status": "likely",
@@ -4337,11 +4392,6 @@
       "matched_name": "WILSONART, LLC",
       "certified_lca_count": 2
     },
-    "VTS": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
     "Outreach": {
       "status": "confirmed",
       "matched_name": "Outreach Corporation",
@@ -4351,11 +4401,6 @@
       "status": "confirmed",
       "matched_name": "INFOSYS LIMITED",
       "certified_lca_count": 6432
-    },
-    "TipTopJob": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
     },
     "Hollister Incorporated": {
       "status": "likely",
@@ -4798,11 +4843,6 @@
       "certified_lca_count": 0
     },
     "Austal USA": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "KWI": {
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
@@ -7071,71 +7111,6 @@
       "status": "likely",
       "matched_name": "Ethos Systems, Inc.",
       "certified_lca_count": 2
-    },
-    "WSP": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Allied Universal": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Glaukos Corporation": {
-      "status": "confirmed",
-      "matched_name": "Glaukos Corporation",
-      "certified_lca_count": 7
-    },
-    "State of South Dakota": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Johnson, Mirmiran & Thompson, Inc.": {
-      "status": "confirmed",
-      "matched_name": "Johnson, Mirmiran & Thompson, Inc.",
-      "certified_lca_count": 9
-    },
-    "California Department of Public Health": {
-      "status": "confirmed",
-      "matched_name": "California Department of Public Health",
-      "certified_lca_count": 1
-    },
-    "Langan Engineering & Environmental Services": {
-      "status": "likely",
-      "matched_name": "Corporation Service Company",
-      "certified_lca_count": 21
-    },
-    "Geosyntec Consultants, Inc.": {
-      "status": "confirmed",
-      "matched_name": "Geosyntec Consultants, Inc.",
-      "certified_lca_count": 50
-    },
-    "Goldman Sachs": {
-      "status": "confirmed",
-      "matched_name": "GOLDMAN SACHS & CO. LLC",
-      "certified_lca_count": 1219
-    },
-    "Weber County Careers": {
-      "status": "likely",
-      "matched_name": "REER INC",
-      "certified_lca_count": 3
-    },
-    "Cherokee Federal": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "ING": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Bureau of Engraving and Printing": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
     }
   }
 }
