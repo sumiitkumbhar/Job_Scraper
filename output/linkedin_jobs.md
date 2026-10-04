@@ -1,18 +1,21 @@
 # 🔥 LinkedIn — Sumit's Planning & PropTech Roles
-*Last updated: 2026-10-04 01:07 UTC*
+*Last updated: 2026-10-04 02:21 UTC*
 
-**3 new role(s)** since last run · 3 total in last 1h
+**4 new role(s)** since last run · 4 total in last 1h
 
-### [Business Planning Analyst](https://www.linkedin.com/jobs/view/4475346773/) — val's services
-- 📍 **Location:** Marysville, OH
+### [Graduate Town Planner](https://www.linkedin.com/jobs/view/4475359441/) — TipTopJob
+- 📍 **Location:** Lancashire, England, United Kingdom
 - 🕒 **Posted:** 2026-10-04
 
-### [Customer Success Manager](https://www.linkedin.com/jobs/view/4473442976/) — Datassential
-- 📍 **Location:** United States
-- 💰 **Salary:** $90,000-$105,000
+### [Senior Town Planner](https://www.linkedin.com/jobs/view/4475354572/) — TipTopJob
+- 📍 **Location:** Macclesfield, England, United Kingdom
 - 🕒 **Posted:** 2026-10-04
 
-### [Senior Compliance Analyst (MS), Anti-Money Laundering)](https://www.linkedin.com/jobs/view/4473451614/) — ACA Group
-- 📍 **Location:** Evanston, WY
-- 💰 **Salary:** $60,000.00 - $75,000.00
+### [Solutions Consultant](https://www.linkedin.com/jobs/view/4473885756/) — KWI
+- 📍 **Location:** Melville, NY
+- 💰 **Salary:** $130,000.00/yr - $140,000.00/yr
+- 🕒 **Posted:** 2026-10-04
+
+### [Major Customer Success Mgr](https://www.linkedin.com/jobs/view/4475362445/) — Uniti Group Inc.
+- 📍 **Location:** Colorado, United States
 - 🕒 **Posted:** 2026-10-04
