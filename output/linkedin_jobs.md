@@ -1,13 +1,21 @@
 # 🔥 LinkedIn — Sumit's Planning & PropTech Roles
-*Last updated: 2026-10-04 09:11 UTC*
+*Last updated: 2026-10-04 19:11 UTC*
 
-**2 new role(s)** since last run · 2 total in last 1h
+**4 new role(s)** since last run · 4 total in last 1h
 
-### [Customer Success Associate](https://www.linkedin.com/jobs/view/4473899726/) — Haystack
-- 📍 **Location:** United States
-- 💰 **Salary:** $110,000 - $130,000
+### [Town Planner (Infrastructure Planning)](https://www.linkedin.com/jobs/view/4439305482/) — WSP in the UK & Ireland
+- 📍 **Location:** Leeds, England, United Kingdom
 - 🕒 **Posted:** 2026-10-04
 
-### [Customer Success Manager](https://www.linkedin.com/jobs/view/4474205459/) — Haystack
-- 📍 **Location:** Los Angeles Metropolitan Area
+### [Customer Experience Customer Success Specialist](https://www.linkedin.com/jobs/view/4457523631/) — Cisco
+- 📍 **Location:** London, England, United Kingdom
+- 🕒 **Posted:** 2026-10-04
+
+### [Customer Success Advisor (Remote)](https://www.linkedin.com/jobs/view/4473496390/) — TalentHop
+- 📍 **Location:** United States
+- 💰 **Salary:** $165,000-$200,000 annually
+- 🕒 **Posted:** 2026-10-04
+
+### [Customer Success Manager III (Remote)](https://www.linkedin.com/jobs/view/4473498261/) — TalentHop
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-10-04
