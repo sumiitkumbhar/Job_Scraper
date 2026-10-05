@@ -1,13 +1,13 @@
 {
-  "scraped_at": "2026-10-04 10:38 UTC",
+  "scraped_at": "2026-10-05 11:35 UTC",
   "total": 2,
-  "new_count": 0,
+  "new_count": 2,
   "jobs": [
     {
       "title": "PropTech Analyst",
       "company": "Confidential Company",
       "location": "United Kingdom",
-      "url": "https://proptechjobs.com/job/proptech-analyst-2/?company=Confidential Company",
+      "url": "https://proptechjobs.com/job/proptech-analyst/?company=Confidential Company",
       "date_posted": "",
       "description": "",
       "salary": "",
@@ -17,18 +17,45 @@
       "ats": "Proptech Jobs"
     },
     {
-      "title": "Customer Success Advisor | French Sales Amsterdam Posted date September 30, 2026",
-      "company": "Posted date September 30, 2026",
-      "location": "Amsterdam",
-      "url": "https://www.iamexpat.nl/career/jobs-netherlands/sales-positions/customer-success-advisor-french/4c7K1QJvrQaAj9CW7a7y6K",
+      "title": "Java Developer – PropTech",
+      "company": "Confidential Company",
+      "location": "United Kingdom",
+      "url": "https://proptechjobs.com/job/java-developer-proptech/?company=Confidential Company",
       "date_posted": "",
       "description": "",
       "salary": "",
       "job_type": "",
       "is_remote": null,
       "work_arrangement": "",
-      "ats": "IamExpat"
+      "ats": "Proptech Jobs"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "title": "PropTech Analyst",
+      "company": "Confidential Company",
+      "location": "United Kingdom",
+      "url": "https://proptechjobs.com/job/proptech-analyst/?company=Confidential Company",
+      "date_posted": "",
+      "description": "",
+      "salary": "",
+      "job_type": "",
+      "is_remote": null,
+      "work_arrangement": "",
+      "ats": "Proptech Jobs"
+    },
+    {
+      "title": "Java Developer – PropTech",
+      "company": "Confidential Company",
+      "location": "United Kingdom",
+      "url": "https://proptechjobs.com/job/java-developer-proptech/?company=Confidential Company",
+      "date_posted": "",
+      "description": "",
+      "salary": "",
+      "job_type": "",
+      "is_remote": null,
+      "work_arrangement": "",
+      "ats": "Proptech Jobs"
+    }
+  ]
 }
