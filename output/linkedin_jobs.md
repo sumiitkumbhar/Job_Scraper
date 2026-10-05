@@ -1,90 +1,81 @@
 # 🔥 LinkedIn — Sumit's Planning & PropTech Roles
-*Last updated: 2026-10-05 09:48 UTC*
+*Last updated: 2026-10-05 22:39 UTC*
 
-**19 new role(s)** since last run · 19 total in last 1h
+**18 new role(s)** since last run · 18 total in last 1h
 
-### [Emergency Planning Officer](https://www.linkedin.com/jobs/view/4475541721/) — London Borough of Hillingdon
+### [Planning Officer](https://www.linkedin.com/jobs/view/4474001000/) — North Northamptonshire Council
+- 📍 **Location:** Thrapston, England, United Kingdom
+- 🕒 **Posted:** 2026-10-05
+
+### [Principal Development Management Officer](https://www.linkedin.com/jobs/view/4473697226/) — North Northamptonshire Council
+- 📍 **Location:** Thrapston, England, United Kingdom
+- 🕒 **Posted:** 2026-10-05
+
+### [Senior Customer Success Associate - Employee Experience Channels](https://www.linkedin.com/jobs/view/4475865641/) — JPMorganChase
+- 📍 **Location:** Bournemouth, England, United Kingdom
+- 🕒 **Posted:** 2026-10-05
+
+### [Customer Success Engineer](https://www.linkedin.com/jobs/view/4473681762/) — HUMAN
 - 📍 **Location:** London, England, United Kingdom
 - 🕒 **Posted:** 2026-10-05
 
-### [Customer Success Manager](https://www.linkedin.com/jobs/view/4473624355/) — Aiviq
+### [Customer Success Manager- Barclaycard Payments BPL](https://www.linkedin.com/jobs/view/4473698181/) — Barclays
+- 📍 **Location:** Northampton, England, United Kingdom
+- 🕒 **Posted:** 2026-10-05
+
+### [Implementation Consultant](https://www.linkedin.com/jobs/view/4475865945/) — Procentia - Pensions Software Solutions
+- 📍 **Location:** Bristol, England, United Kingdom
+- 🕒 **Posted:** 2026-10-05
+
+### [Implementation Consultant - Payroll](https://www.linkedin.com/jobs/view/4475868982/) — Procentia - Pensions Software Solutions
+- 📍 **Location:** Bristol, England, United Kingdom
+- 🕒 **Posted:** 2026-10-05
+
+### [Senior Customer Success Manager](https://www.linkedin.com/jobs/view/4473693287/) — Unily
 - 📍 **Location:** London Area, United Kingdom
 - 🕒 **Posted:** 2026-10-05
 
-### [Information Security Governance and Compliance Analyst](https://www.linkedin.com/jobs/view/4475549543/) — London North Eastern Railway
-- 📍 **Location:** York, England, United Kingdom
+### [Customer Success Engineer](https://www.linkedin.com/jobs/view/4475877473/) — Hightouch
+- 📍 **Location:** London, England, United Kingdom
 - 🕒 **Posted:** 2026-10-05
 
-### [Town Planner](https://www.linkedin.com/jobs/view/4475542808/) — Hirecracker® Built Environment
-- 📍 **Location:** London Area, United Kingdom
+### [Capital Material Planning Analyst](https://www.linkedin.com/jobs/view/4474633367/) — Santee Cooper
+- 📍 **Location:** Moncks Corner, SC
+- 💰 **Salary:** $67,720 - $84,640
 - 🕒 **Posted:** 2026-10-05
 
-### [Customer Success Manager (m/w/d)](https://www.linkedin.com/jobs/view/4473612991/) — Ariadne
-- 📍 **Location:** Aachen, North Rhine-Westphalia, Germany
+### [GIS Analyst - LOCAL ONLY](https://www.linkedin.com/jobs/view/4474627816/) — InstantServe LLC
+- 📍 **Location:** Lansing, MI
+- 💰 **Salary:** $50.00/hr - $55.00/hr
 - 🕒 **Posted:** 2026-10-05
 
-### [Senior Customer Success Manager](https://www.linkedin.com/jobs/view/4473098533/) — Bluebird
-- 📍 **Location:** Berlin, Germany
+### [GIS ANALYST](https://www.linkedin.com/jobs/view/4471352021/) — Santee Cooper
+- 📍 **Location:** Myrtle Beach, SC
+- 💰 **Salary:** $93,830 - $117,290
 - 🕒 **Posted:** 2026-10-05
 
-### [Solutions Consultant – Hospitality (Hotel Tech)](https://www.linkedin.com/jobs/view/4409639062/) — SiteMinder
-- 📍 **Location:** Dallas, TX
+### [Senior Financial Planning Analyst](https://www.linkedin.com/jobs/view/4474618943/) — BrightSpring Health Services
+- 📍 **Location:** Louisville, KY
 - 🕒 **Posted:** 2026-10-05
 
-### [Technical Maximo Senior Consultant - Real Estate Technology](https://www.linkedin.com/jobs/view/4457891443/) — Deloitte
-- 📍 **Location:** Charlotte, NC
-- 💰 **Salary:** $116,200 - $229,100
+### [Regulatory Compliance Consultant - Wildfire Risk Management](https://www.linkedin.com/jobs/view/4474627753/) — Puget Sound Energy
+- 📍 **Location:** Bothell, WA
+- 💰 **Salary:** $94,300.00 - $156,900.00
 - 🕒 **Posted:** 2026-10-05
 
-### [Technical Maximo Senior Consultant - Real Estate Technology](https://www.linkedin.com/jobs/view/4457875499/) — Deloitte
-- 📍 **Location:** Raleigh, NC
-- 💰 **Salary:** $116,200 - $229,100
+### [Customer Success Specialist](https://www.linkedin.com/jobs/view/4474629575/) — Catapult
+- 📍 **Location:** Miami, FL
+- 💰 **Salary:** $49,990- $117,976 per year
 - 🕒 **Posted:** 2026-10-05
 
-### [Technical Maximo Senior Consultant - Real Estate Technology](https://www.linkedin.com/jobs/view/4457879502/) — Deloitte
-- 📍 **Location:** Houston, TX
-- 💰 **Salary:** $116,200 - $229,100
+### [Customer Success Outcomes Senior Analyst (Remote)](https://www.linkedin.com/jobs/view/4475876973/) — Procore Technologies
+- 📍 **Location:** Austin, TX
 - 🕒 **Posted:** 2026-10-05
 
-### [Technical Maximo Senior Consultant - Real Estate Technology](https://www.linkedin.com/jobs/view/4457885512/) — Deloitte
-- 📍 **Location:** Baltimore, MD
-- 💰 **Salary:** $116,200 - $229,100
+### [Senior Compliance Analyst](https://www.linkedin.com/jobs/view/4475878801/) — JPS Health Network
+- 📍 **Location:** Fort Worth, TX
 - 🕒 **Posted:** 2026-10-05
 
-### [Technical Maximo Senior Consultant - Real Estate Technology](https://www.linkedin.com/jobs/view/4457879501/) — Deloitte
-- 📍 **Location:** New Orleans, LA
-- 💰 **Salary:** $116,200 - $229,100
-- 🕒 **Posted:** 2026-10-05
-
-### [Technical Maximo Senior Consultant - Real Estate Technology](https://www.linkedin.com/jobs/view/4457886487/) — Deloitte
-- 📍 **Location:** Milwaukee, WI
-- 💰 **Salary:** $116,200 - $229,100
-- 🕒 **Posted:** 2026-10-05
-
-### [Customer Success Manager, Mid-Market](https://www.linkedin.com/jobs/view/4473620586/) — TalentHop
-- 📍 **Location:** United States
-- 💰 **Salary:** $77,100.00/yr - $96,400.00/yr
-- 🕒 **Posted:** 2026-10-05
-
-### [Customer Success Manager](https://www.linkedin.com/jobs/view/4473615841/) — TalentHop
-- 📍 **Location:** United States
-- 💰 **Salary:** $70,000.00/yr - $90,000.00/yr
-- 🕒 **Posted:** 2026-10-05
-
-### [Regulatory Analyst](https://www.linkedin.com/jobs/view/4473629192/) — TalentHop
-- 📍 **Location:** United States
-- 💰 **Salary:** $70,100.00/yr - $126,200.00/yr
-- 🕒 **Posted:** 2026-10-05
-
-### [Security Compliance Analyst](https://www.linkedin.com/jobs/view/4474246914/) — Base-2 Solutions
-- 📍 **Location:** Doral, FL
-- 🕒 **Posted:** 2026-10-05
-
-### [Security & Compliance Analyst](https://www.linkedin.com/jobs/view/4474259446/) — Base-2 Solutions
-- 📍 **Location:** Doral, FL
-- 🕒 **Posted:** 2026-10-05
-
-### [Sr IT Procurement and Compliance Analyst](https://www.linkedin.com/jobs/view/4474254621/) — RemoteHunter
-- 📍 **Location:** United States
-- 💰 **Salary:** $87,500 to $109,350
+### [Customer Success Adoption Manager](https://www.linkedin.com/jobs/view/4473693504/) — HID
+- 📍 **Location:** Austin, TX
 - 🕒 **Posted:** 2026-10-05
