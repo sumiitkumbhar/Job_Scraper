@@ -1,21 +1,121 @@
 {
-  "updated_at": "2026-10-04T12:00:51.698470+00:00",
-  "register_source": "https://assets.publishing.service.gov.uk/media/6abf628355bc01d752a7f28a/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-10-02.csv",
-  "register_org_count": 126547,
+  "updated_at": "2026-10-05T14:02:54.236264+00:00",
+  "register_source": "https://assets.publishing.service.gov.uk/media/6ac36b2111ed58342ad8e45e/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-10-05.csv",
+  "register_org_count": 126566,
   "company_counts": {
-    "confirmed": 233,
-    "likely": 622,
-    "not_found": 563,
+    "confirmed": 239,
+    "likely": 626,
+    "not_found": 569,
     "unknown": 2
   },
   "companies": {
-    "VTS": {
+    "Keyloop": {
+      "status": "confirmed",
+      "matched_name": "Keyloop (UK) Limited"
+    },
+    "London Borough of Hillingdon": {
+      "status": "confirmed",
+      "matched_name": "London Borough of Hillingdon"
+    },
+    "Aiviq": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "London North Eastern Railway": {
+      "status": "confirmed",
+      "matched_name": "London North Eastern Railway"
+    },
+    "Hirecracker\u00ae Built Environment": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Ariadne": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "SiteMinder": {
+      "status": "likely",
+      "matched_name": "SiteMinder Distribution Limited"
+    },
+    "Deloitte": {
+      "status": "confirmed",
+      "matched_name": "Deloitte LLP"
+    },
+    "TalentHop": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Base-2 Solutions": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "RemoteHunter": {
       "status": "not_found",
       "matched_name": null
     },
     "Haystack": {
       "status": "likely",
       "matched_name": "Hays PLC"
+    },
+    "PVcase": {
+      "status": "confirmed",
+      "matched_name": "PVCASE UK LTD"
+    },
+    "Zycus": {
+      "status": "likely",
+      "matched_name": "Zycus Infotech Private Limited"
+    },
+    "Opella": {
+      "status": "likely",
+      "matched_name": "Opella Healthcare UK Limited"
+    },
+    "Digital Nomad World": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "City of Gresham": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Jobgether": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Cyera": {
+      "status": "confirmed",
+      "matched_name": "Cyera UK Ltd"
+    },
+    "Confidential Global Company": {
+      "status": "likely",
+      "matched_name": "ENTIA LTD"
+    },
+    "Teledyne Technologies Incorporated": {
+      "status": "likely",
+      "matched_name": "Edyn Limited"
+    },
+    "Swooped": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Greater Lincolnshire Combined County Authority": {
+      "status": "likely",
+      "matched_name": "Count LTD"
+    },
+    "WP Engine": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "GREATTECH.NET": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Atlas Consulting Group, LLC.": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "VTS": {
+      "status": "not_found",
+      "matched_name": null
     },
     "American Fidelity": {
       "status": "likely",
@@ -36,10 +136,6 @@
     "Datassential": {
       "status": "confirmed",
       "matched_name": "Datassential UK Limited"
-    },
-    "WP Engine": {
-      "status": "not_found",
-      "matched_name": null
     },
     "Imprivata": {
       "status": "not_found",
@@ -133,10 +229,6 @@
       "status": "confirmed",
       "matched_name": "Wolters Kluwer (UK) Ltd"
     },
-    "TalentHop": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "Appvion": {
       "status": "not_found",
       "matched_name": null
@@ -181,10 +273,6 @@
       "status": "likely",
       "matched_name": "ASBUILT DIGITAL UK LIMITED"
     },
-    "Jobgether": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "HEIMLADEN": {
       "status": "not_found",
       "matched_name": null
@@ -222,10 +310,6 @@
       "matched_name": null
     },
     "Sovos Latinoam\u00e9rica": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Swooped": {
       "status": "not_found",
       "matched_name": null
     },
@@ -670,10 +754,6 @@
       "matched_name": null
     },
     "Hunter Hamilton": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "RemoteHunter": {
       "status": "not_found",
       "matched_name": null
     },
@@ -1144,10 +1224,6 @@
     "Tacoma Public Utilities": {
       "status": "not_found",
       "matched_name": null
-    },
-    "Deloitte": {
-      "status": "confirmed",
-      "matched_name": "Deloitte LLP"
     },
     "Lansweeper": {
       "status": "not_found",
@@ -1919,7 +1995,7 @@
     },
     "Ascend": {
       "status": "likely",
-      "matched_name": "Ascend Airways Limited"
+      "matched_name": "Ascend Creative Limited"
     },
     "Element - creators of Matrix": {
       "status": "likely",
@@ -1986,8 +2062,8 @@
       "matched_name": "MongoDB UK Limited"
     },
     "Hastings Borough Council": {
-      "status": "not_found",
-      "matched_name": null
+      "status": "confirmed",
+      "matched_name": "Hastings Borough Council"
     },
     "Vivid Consulting": {
       "status": "not_found",
@@ -3095,7 +3171,7 @@
     },
     "Navan": {
       "status": "likely",
-      "matched_name": "Mrs Upalini Navaneethan"
+      "matched_name": "Canavan Joinery Services Ltd"
     },
     "Molson Coors Beverage Company": {
       "status": "likely",
@@ -3692,10 +3768,6 @@
     "Recharge": {
       "status": "likely",
       "matched_name": "Rech Ltd"
-    },
-    "Teledyne Technologies Incorporated": {
-      "status": "likely",
-      "matched_name": "Edyn Limited"
     },
     "Ordergroove": {
       "status": "not_found",
@@ -5680,14 +5752,6 @@
     "Baxter International Inc.": {
       "status": "likely",
       "matched_name": "CO INTERNATIONAL LTD"
-    },
-    "South Dakota State Government": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Ethos": {
-      "status": "likely",
-      "matched_name": "Aethos U.K. Limited"
     }
   }
 }
