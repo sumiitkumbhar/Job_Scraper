@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T12:36:53.272830+00:00",
+  "updated_at": "2026-10-05T15:02:57.311985+00:00",
   "source_files": [
     "https://www.dol.gov/media/LCA_Disclosure_Data_FY2026_Q3.xlsx",
     "https://www.dol.gov/sites/dolgov/files/ETA/oflc/pdfs/LCA_Disclosure_Data_FY2025_Q4.xlsx"
@@ -7,17 +7,142 @@
   "employer_count": 60026,
   "company_counts": {
     "confirmed": 315,
-    "likely": 509,
-    "not_found": 594,
+    "likely": 515,
+    "not_found": 604,
     "unknown": 2
   },
   "companies": {
-    "VTS": {
+    "Keyloop": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "London Borough of Hillingdon": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Aiviq": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "London North Eastern Railway": {
+      "status": "likely",
+      "matched_name": "Aster Inc",
+      "certified_lca_count": 5
+    },
+    "Hirecracker\u00ae Built Environment": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Ariadne": {
+      "status": "likely",
+      "matched_name": "Ariadne Genomics, Inc.",
+      "certified_lca_count": 3
+    },
+    "SiteMinder": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Deloitte": {
+      "status": "confirmed",
+      "matched_name": "Deloitte LLP",
+      "certified_lca_count": 11
+    },
+    "TalentHop": {
+      "status": "likely",
+      "matched_name": "Talent Corporation, LLC",
+      "certified_lca_count": 1
+    },
+    "Base-2 Solutions": {
+      "status": "likely",
+      "matched_name": "SOLUTIONS INC",
+      "certified_lca_count": 1
+    },
+    "RemoteHunter": {
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
     },
     "Haystack": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "PVcase": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Zycus": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Opella": {
+      "status": "likely",
+      "matched_name": "Pella Corporation",
+      "certified_lca_count": 16
+    },
+    "Digital Nomad World": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "City of Gresham": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Jobgether": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Cyera": {
+      "status": "likely",
+      "matched_name": "Cyera US Inc.",
+      "certified_lca_count": 12
+    },
+    "Confidential Global Company": {
+      "status": "likely",
+      "matched_name": "IDEN GROUP HOLDING INC.",
+      "certified_lca_count": 1
+    },
+    "Teledyne Technologies Incorporated": {
+      "status": "likely",
+      "matched_name": "E-Technologies Group, LLC.",
+      "certified_lca_count": 23
+    },
+    "Swooped": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Greater Lincolnshire Combined County Authority": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "WP Engine": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "GREATTECH.NET": {
+      "status": "likely",
+      "matched_name": "Tech-Net Inc.",
+      "certified_lca_count": 7
+    },
+    "Atlas Consulting Group, LLC.": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "VTS": {
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
@@ -46,11 +171,6 @@
       "status": "confirmed",
       "matched_name": "Datassential, Inc.",
       "certified_lca_count": 2
-    },
-    "WP Engine": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
     },
     "Imprivata": {
       "status": "confirmed",
@@ -167,11 +287,6 @@
       "matched_name": "Wolters Kluwer DXG U.S., Inc.",
       "certified_lca_count": 101
     },
-    "TalentHop": {
-      "status": "likely",
-      "matched_name": "Talent Corporation, LLC",
-      "certified_lca_count": 1
-    },
     "Appvion": {
       "status": "not_found",
       "matched_name": null,
@@ -227,11 +342,6 @@
       "matched_name": "HartBuilt Construction Corp",
       "certified_lca_count": 1
     },
-    "Jobgether": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
     "HEIMLADEN": {
       "status": "not_found",
       "matched_name": null,
@@ -278,11 +388,6 @@
       "certified_lca_count": 10
     },
     "Sovos Latinoam\u00e9rica": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Swooped": {
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
@@ -841,11 +946,6 @@
       "status": "likely",
       "matched_name": "HAMILTON COMPANY",
       "certified_lca_count": 2
-    },
-    "RemoteHunter": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
     },
     "Fin": {
       "status": "not_found",
@@ -1431,11 +1531,6 @@
       "status": "likely",
       "matched_name": "Taco, Inc.",
       "certified_lca_count": 2
-    },
-    "Deloitte": {
-      "status": "confirmed",
-      "matched_name": "Deloitte LLP",
-      "certified_lca_count": 11
     },
     "Lansweeper": {
       "status": "not_found",
@@ -4617,11 +4712,6 @@
       "matched_name": "Recharge LLC",
       "certified_lca_count": 2
     },
-    "Teledyne Technologies Incorporated": {
-      "status": "likely",
-      "matched_name": "E-Technologies Group, LLC.",
-      "certified_lca_count": 23
-    },
     "Ordergroove": {
       "status": "not_found",
       "matched_name": null,
@@ -7101,16 +7191,6 @@
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
-    },
-    "South Dakota State Government": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Ethos": {
-      "status": "likely",
-      "matched_name": "Ethos Systems, Inc.",
-      "certified_lca_count": 2
     }
   }
 }
