@@ -1,17 +1,227 @@
 {
-  "updated_at": "2026-10-05T15:02:57.311985+00:00",
+  "updated_at": "2026-10-06T13:30:40.491545+00:00",
   "source_files": [
     "https://www.dol.gov/media/LCA_Disclosure_Data_FY2026_Q3.xlsx",
     "https://www.dol.gov/sites/dolgov/files/ETA/oflc/pdfs/LCA_Disclosure_Data_FY2025_Q4.xlsx"
   ],
   "employer_count": 60026,
   "company_counts": {
-    "confirmed": 315,
-    "likely": 515,
-    "not_found": 604,
+    "confirmed": 321,
+    "likely": 529,
+    "not_found": 615,
     "unknown": 2
   },
   "companies": {
+    "Stantec": {
+      "status": "likely",
+      "matched_name": "Stantec Architecture Inc.",
+      "certified_lca_count": 25
+    },
+    "Connecticut Chapter of the American Planning Association (CCAPA)": {
+      "status": "likely",
+      "matched_name": "American Planning Association",
+      "certified_lca_count": 1
+    },
+    "AECOM": {
+      "status": "confirmed",
+      "matched_name": "AECOM",
+      "certified_lca_count": 1
+    },
+    "Market Recruitment": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "tdm recruitment": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Clearwater Analytics": {
+      "status": "confirmed",
+      "matched_name": "Clearwater Analytics, LLC",
+      "certified_lca_count": 44
+    },
+    "Frontify": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "CloudBees": {
+      "status": "confirmed",
+      "matched_name": "CloudBees, Inc.",
+      "certified_lca_count": 3
+    },
+    "The Access Group": {
+      "status": "likely",
+      "matched_name": "Access Dental Center Inc",
+      "certified_lca_count": 1
+    },
+    "Aria Partners": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Workiva": {
+      "status": "confirmed",
+      "matched_name": "Workiva, Inc",
+      "certified_lca_count": 2
+    },
+    "Nexthink": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Instaffo": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Johnson Controls": {
+      "status": "confirmed",
+      "matched_name": "JOHNSON CONTROLS, INC.",
+      "certified_lca_count": 61
+    },
+    "ServiceTitan": {
+      "status": "confirmed",
+      "matched_name": "ServiceTitan, Inc.",
+      "certified_lca_count": 47
+    },
+    "Salesforce": {
+      "status": "confirmed",
+      "matched_name": "Salesforce, Inc.",
+      "certified_lca_count": 2004
+    },
+    "RemoteHunter": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "State of Tennessee": {
+      "status": "likely",
+      "matched_name": "State of Tennessee Department of Agriculture",
+      "certified_lca_count": 1
+    },
+    "JPMorganChase": {
+      "status": "likely",
+      "matched_name": "Morgan Corp.",
+      "certified_lca_count": 2
+    },
+    "Atlassian": {
+      "status": "likely",
+      "matched_name": "Atlassian US, Inc.",
+      "certified_lca_count": 246
+    },
+    "Dover Fueling Solutions": {
+      "status": "likely",
+      "matched_name": "Dover Corporation",
+      "certified_lca_count": 5
+    },
+    "Wordly": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Cardinal Health": {
+      "status": "confirmed",
+      "matched_name": "Cardinal Health",
+      "certified_lca_count": 167
+    },
+    "Vitalize": {
+      "status": "likely",
+      "matched_name": "Revitalize Industries LLC",
+      "certified_lca_count": 1
+    },
+    "CBTS": {
+      "status": "likely",
+      "matched_name": "CBTS Technology Solutions LLC d/b/a CBTS",
+      "certified_lca_count": 14
+    },
+    "Juniper Square": {
+      "status": "confirmed",
+      "matched_name": "JUNIPER SQUARE INC.",
+      "certified_lca_count": 33
+    },
+    "Flai": {
+      "status": "likely",
+      "matched_name": "Flair Tech Solutions Inc",
+      "certified_lca_count": 23
+    },
+    "LandPro Equipment, LLC": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "North Northamptonshire Council": {
+      "status": "likely",
+      "matched_name": "North, Inc.",
+      "certified_lca_count": 6
+    },
+    "HUMAN": {
+      "status": "likely",
+      "matched_name": "Humana Inc.",
+      "certified_lca_count": 339
+    },
+    "Barclays": {
+      "status": "likely",
+      "matched_name": "Barclays Services Corp.",
+      "certified_lca_count": 614
+    },
+    "Procentia - Pensions Software Solutions": {
+      "status": "likely",
+      "matched_name": "SOLUTIONS INC",
+      "certified_lca_count": 1
+    },
+    "Unily": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Hightouch": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Santee Cooper": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "InstantServe LLC": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "BrightSpring Health Services": {
+      "status": "likely",
+      "matched_name": "Corporation Service Company",
+      "certified_lca_count": 21
+    },
+    "Puget Sound Energy": {
+      "status": "confirmed",
+      "matched_name": "Puget Sound Energy, Inc.",
+      "certified_lca_count": 13
+    },
+    "Catapult": {
+      "status": "likely",
+      "matched_name": "Catapult Design",
+      "certified_lca_count": 2
+    },
+    "Procore Technologies": {
+      "status": "confirmed",
+      "matched_name": "Procore Technologies, Inc",
+      "certified_lca_count": 29
+    },
+    "JPS Health Network": {
+      "status": "likely",
+      "matched_name": "Group Health, Inc.",
+      "certified_lca_count": 41
+    },
+    "HID": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
     "Keyloop": {
       "status": "not_found",
       "matched_name": null,
@@ -61,11 +271,6 @@
       "status": "likely",
       "matched_name": "SOLUTIONS INC",
       "certified_lca_count": 1
-    },
-    "RemoteHunter": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
     },
     "Haystack": {
       "status": "not_found",
@@ -261,11 +466,6 @@
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
-    },
-    "Salesforce": {
-      "status": "confirmed",
-      "matched_name": "Salesforce, Inc.",
-      "certified_lca_count": 2004
     },
     "3Shape": {
       "status": "likely",
@@ -1447,11 +1647,6 @@
       "matched_name": "CARE",
       "certified_lca_count": 1
     },
-    "AECOM": {
-      "status": "confirmed",
-      "matched_name": "AECOM",
-      "certified_lca_count": 1
-    },
     "SportsKey": {
       "status": "not_found",
       "matched_name": null,
@@ -1611,11 +1806,6 @@
       "status": "likely",
       "matched_name": "Hartford HealthCare Corporation",
       "certified_lca_count": 9
-    },
-    "Procore Technologies": {
-      "status": "confirmed",
-      "matched_name": "Procore Technologies, Inc",
-      "certified_lca_count": 29
     },
     "Brex": {
       "status": "confirmed",
@@ -2417,11 +2607,6 @@
       "matched_name": "SOUTHERN METHODIST UNIVERSITY",
       "certified_lca_count": 41
     },
-    "ServiceTitan": {
-      "status": "confirmed",
-      "matched_name": "ServiceTitan, Inc.",
-      "certified_lca_count": 47
-    },
     "Weave": {
       "status": "likely",
       "matched_name": "CoreWeave, Inc.",
@@ -2586,11 +2771,6 @@
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
-    },
-    "Stantec": {
-      "status": "likely",
-      "matched_name": "Stantec Architecture Inc.",
-      "certified_lca_count": 25
     },
     "Pleo": {
       "status": "not_found",
@@ -3677,11 +3857,6 @@
       "matched_name": "Mears Group Inc.",
       "certified_lca_count": 1
     },
-    "Barclays": {
-      "status": "likely",
-      "matched_name": "Barclays Services Corp.",
-      "certified_lca_count": 614
-    },
     "MEERAB GROUP": {
       "status": "likely",
       "matched_name": "Meera Inc",
@@ -3691,11 +3866,6 @@
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
-    },
-    "Catapult": {
-      "status": "likely",
-      "matched_name": "Catapult Design",
-      "certified_lca_count": 2
     },
     "Amerit Consulting": {
       "status": "likely",
@@ -3997,11 +4167,6 @@
       "matched_name": "Securly, Inc.",
       "certified_lca_count": 1
     },
-    "Hightouch": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
     "Oakridge Staffing": {
       "status": "confirmed",
       "matched_name": "Oakridge Staffing LLC",
@@ -4281,11 +4446,6 @@
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
-    },
-    "Johnson Controls": {
-      "status": "confirmed",
-      "matched_name": "JOHNSON CONTROLS, INC.",
-      "certified_lca_count": 61
     },
     "L2L": {
       "status": "not_found",
@@ -7183,11 +7343,6 @@
       "certified_lca_count": 0
     },
     "UES": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Baxter International Inc.": {
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
