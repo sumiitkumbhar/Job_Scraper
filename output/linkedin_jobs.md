@@ -1,81 +1,51 @@
 # 🔥 LinkedIn — Sumit's Planning & PropTech Roles
-*Last updated: 2026-10-05 22:39 UTC*
+*Last updated: 2026-10-06 02:53 UTC*
 
-**18 new role(s)** since last run · 18 total in last 1h
+**10 new role(s)** since last run · 11 total in last 1h
 
-### [Planning Officer](https://www.linkedin.com/jobs/view/4474001000/) — North Northamptonshire Council
-- 📍 **Location:** Thrapston, England, United Kingdom
-- 🕒 **Posted:** 2026-10-05
-
-### [Principal Development Management Officer](https://www.linkedin.com/jobs/view/4473697226/) — North Northamptonshire Council
-- 📍 **Location:** Thrapston, England, United Kingdom
-- 🕒 **Posted:** 2026-10-05
-
-### [Senior Customer Success Associate - Employee Experience Channels](https://www.linkedin.com/jobs/view/4475865641/) — JPMorganChase
-- 📍 **Location:** Bournemouth, England, United Kingdom
-- 🕒 **Posted:** 2026-10-05
-
-### [Customer Success Engineer](https://www.linkedin.com/jobs/view/4473681762/) — HUMAN
-- 📍 **Location:** London, England, United Kingdom
-- 🕒 **Posted:** 2026-10-05
-
-### [Customer Success Manager- Barclaycard Payments BPL](https://www.linkedin.com/jobs/view/4473698181/) — Barclays
-- 📍 **Location:** Northampton, England, United Kingdom
-- 🕒 **Posted:** 2026-10-05
-
-### [Implementation Consultant](https://www.linkedin.com/jobs/view/4475865945/) — Procentia - Pensions Software Solutions
-- 📍 **Location:** Bristol, England, United Kingdom
-- 🕒 **Posted:** 2026-10-05
-
-### [Implementation Consultant - Payroll](https://www.linkedin.com/jobs/view/4475868982/) — Procentia - Pensions Software Solutions
-- 📍 **Location:** Bristol, England, United Kingdom
-- 🕒 **Posted:** 2026-10-05
-
-### [Senior Customer Success Manager](https://www.linkedin.com/jobs/view/4473693287/) — Unily
+### [Customer Success Manager](https://www.linkedin.com/jobs/view/4474651853/) — Haystack
 - 📍 **Location:** London Area, United Kingdom
-- 🕒 **Posted:** 2026-10-05
+- 🕒 **Posted:** 2026-10-06
 
-### [Customer Success Engineer](https://www.linkedin.com/jobs/view/4475877473/) — Hightouch
-- 📍 **Location:** London, England, United Kingdom
-- 🕒 **Posted:** 2026-10-05
+### [Customer Success Associate (Technical Support Level 1 or 2)](https://www.linkedin.com/jobs/view/4476129314/) — Wordly
+- 📍 **Location:** United Kingdom
+- 🕒 **Posted:** 2026-10-06
 
-### [Capital Material Planning Analyst](https://www.linkedin.com/jobs/view/4474633367/) — Santee Cooper
-- 📍 **Location:** Moncks Corner, SC
-- 💰 **Salary:** $67,720 - $84,640
-- 🕒 **Posted:** 2026-10-05
+### [Senior Urban Planning Project Manager](https://www.linkedin.com/jobs/view/4474666101/) — AECOM
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $125000 to $165000
+- 🕒 **Posted:** 2026-10-06
 
-### [GIS Analyst - LOCAL ONLY](https://www.linkedin.com/jobs/view/4474627816/) — InstantServe LLC
-- 📍 **Location:** Lansing, MI
-- 💰 **Salary:** $50.00/hr - $55.00/hr
-- 🕒 **Posted:** 2026-10-05
+### [Customer Success Senior Consultant WaveMark](https://www.linkedin.com/jobs/view/4474001715/) — Cardinal Health
+- 📍 **Location:** Portland, OR
+- 💰 **Salary:** $141,000 - $161,120
+- 🕒 **Posted:** 2026-10-06
 
-### [GIS ANALYST](https://www.linkedin.com/jobs/view/4471352021/) — Santee Cooper
-- 📍 **Location:** Myrtle Beach, SC
-- 💰 **Salary:** $93,830 - $117,290
-- 🕒 **Posted:** 2026-10-05
+### [VP, Customer Success & Delivery](https://www.linkedin.com/jobs/view/4476131238/) — Vitalize
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $250,000.00/yr - $280,000.00/yr
+- 🕒 **Posted:** 2026-10-06
 
-### [Senior Financial Planning Analyst](https://www.linkedin.com/jobs/view/4474618943/) — BrightSpring Health Services
-- 📍 **Location:** Louisville, KY
-- 🕒 **Posted:** 2026-10-05
+### [Customer Success Manager](https://www.linkedin.com/jobs/view/4474662271/) — CBTS
+- 📍 **Location:** Dublin, OH
+- 💰 **Salary:** $55,000-86,000
+- 🕒 **Posted:** 2026-10-06
 
-### [Regulatory Compliance Consultant - Wildfire Risk Management](https://www.linkedin.com/jobs/view/4474627753/) — Puget Sound Energy
-- 📍 **Location:** Bothell, WA
-- 💰 **Salary:** $94,300.00 - $156,900.00
-- 🕒 **Posted:** 2026-10-05
+### [Customer Success Manager, Scaled Mid-Market](https://www.linkedin.com/jobs/view/4476127367/) — Juniper Square
+- 📍 **Location:** United States
+- 💰 **Salary:** $86,000 - $95,000 USD
+- 🕒 **Posted:** 2026-10-06
 
-### [Customer Success Specialist](https://www.linkedin.com/jobs/view/4474629575/) — Catapult
-- 📍 **Location:** Miami, FL
-- 💰 **Salary:** $49,990- $117,976 per year
-- 🕒 **Posted:** 2026-10-05
+### [Customer Success Manager - Florida](https://www.linkedin.com/jobs/view/4476132221/) — Flai
+- 📍 **Location:** Florida, United States
+- 💰 **Salary:** $85,000.00/yr - $135,000.00/yr
+- 🕒 **Posted:** 2026-10-06
 
-### [Customer Success Outcomes Senior Analyst (Remote)](https://www.linkedin.com/jobs/view/4475876973/) — Procore Technologies
-- 📍 **Location:** Austin, TX
-- 🕒 **Posted:** 2026-10-05
+### [Customer Success Senior Consultant WaveMark](https://www.linkedin.com/jobs/view/4474002625/) — Cardinal Health
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $141,000 - $161,120
+- 🕒 **Posted:** 2026-10-06
 
-### [Senior Compliance Analyst](https://www.linkedin.com/jobs/view/4475878801/) — JPS Health Network
-- 📍 **Location:** Fort Worth, TX
-- 🕒 **Posted:** 2026-10-05
-
-### [Customer Success Adoption Manager](https://www.linkedin.com/jobs/view/4473693504/) — HID
-- 📍 **Location:** Austin, TX
-- 🕒 **Posted:** 2026-10-05
+### [Integrated Solutions Consultant](https://www.linkedin.com/jobs/view/4476117732/) — LandPro Equipment, LLC
+- 📍 **Location:** Batavia, NY
+- 🕒 **Posted:** 2026-10-06
