@@ -1,14 +1,182 @@
 {
-  "updated_at": "2026-10-05T14:02:54.236264+00:00",
-  "register_source": "https://assets.publishing.service.gov.uk/media/6ac36b2111ed58342ad8e45e/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-10-05.csv",
-  "register_org_count": 126566,
+  "updated_at": "2026-10-06T13:02:13.450250+00:00",
+  "register_source": "https://assets.publishing.service.gov.uk/media/6ac4b79911ed58342ad8e4c5/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-10-06.csv",
+  "register_org_count": 126579,
   "company_counts": {
-    "confirmed": 239,
-    "likely": 626,
-    "not_found": 569,
+    "confirmed": 247,
+    "likely": 638,
+    "not_found": 580,
     "unknown": 2
   },
   "companies": {
+    "Stantec": {
+      "status": "confirmed",
+      "matched_name": "Stantec UK Ltd"
+    },
+    "Connecticut Chapter of the American Planning Association (CCAPA)": {
+      "status": "likely",
+      "matched_name": "Asso Ltd"
+    },
+    "AECOM": {
+      "status": "confirmed",
+      "matched_name": "AECOM LIMITED"
+    },
+    "Market Recruitment": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "tdm recruitment": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Clearwater Analytics": {
+      "status": "confirmed",
+      "matched_name": "Clearwater Analytics, Ltd."
+    },
+    "Frontify": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "CloudBees": {
+      "status": "confirmed",
+      "matched_name": "CloudBees UK Limited"
+    },
+    "The Access Group": {
+      "status": "confirmed",
+      "matched_name": "Access Group Ltd"
+    },
+    "Aria Partners": {
+      "status": "likely",
+      "matched_name": "Partners Group (UK) Ltd."
+    },
+    "Workiva": {
+      "status": "confirmed",
+      "matched_name": "Workiva UK Ltd"
+    },
+    "Nexthink": {
+      "status": "confirmed",
+      "matched_name": "Nexthink Limited"
+    },
+    "Instaffo": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Johnson Controls": {
+      "status": "likely",
+      "matched_name": "JOHNS&CO"
+    },
+    "ServiceTitan": {
+      "status": "likely",
+      "matched_name": "Vice UK Limited"
+    },
+    "Salesforce": {
+      "status": "confirmed",
+      "matched_name": "Salesforce UK Limited"
+    },
+    "RemoteHunter": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "State of Tennessee": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "JPMorganChase": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Atlassian": {
+      "status": "likely",
+      "matched_name": "Atlassian (UK) Operations Limited"
+    },
+    "Dover Fueling Solutions": {
+      "status": "confirmed",
+      "matched_name": "Dover Fueling Solutions UK Ltd"
+    },
+    "Wordly": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Cardinal Health": {
+      "status": "likely",
+      "matched_name": "Cardinal Health U.K. 432 Limited"
+    },
+    "Vitalize": {
+      "status": "likely",
+      "matched_name": "VITAL LIMITED"
+    },
+    "CBTS": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Juniper Square": {
+      "status": "likely",
+      "matched_name": "Juni Limited"
+    },
+    "Flai": {
+      "status": "likely",
+      "matched_name": "FLAIR ADVERTISEMENT LTD"
+    },
+    "LandPro Equipment, LLC": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "North Northamptonshire Council": {
+      "status": "likely",
+      "matched_name": "Hamptons"
+    },
+    "HUMAN": {
+      "status": "likely",
+      "matched_name": "Action for Humanity"
+    },
+    "Barclays": {
+      "status": "likely",
+      "matched_name": "Barclays Bank PLC"
+    },
+    "Procentia - Pensions Software Solutions": {
+      "status": "likely",
+      "matched_name": "ENTIA LTD"
+    },
+    "Unily": {
+      "status": "confirmed",
+      "matched_name": "Unily Group Limited"
+    },
+    "Hightouch": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Santee Cooper": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "InstantServe LLC": {
+      "status": "likely",
+      "matched_name": "Antser Holdings Limited"
+    },
+    "BrightSpring Health Services": {
+      "status": "likely",
+      "matched_name": "Vice UK Limited"
+    },
+    "Puget Sound Energy": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Catapult": {
+      "status": "likely",
+      "matched_name": "Catapult Enterprises Ltd"
+    },
+    "Procore Technologies": {
+      "status": "likely",
+      "matched_name": "Core"
+    },
+    "JPS Health Network": {
+      "status": "likely",
+      "matched_name": "WORK LIMITED"
+    },
+    "HID": {
+      "status": "confirmed",
+      "matched_name": "HID Group UK Ltd"
+    },
     "Keyloop": {
       "status": "confirmed",
       "matched_name": "Keyloop (UK) Limited"
@@ -46,10 +214,6 @@
       "matched_name": null
     },
     "Base-2 Solutions": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "RemoteHunter": {
       "status": "not_found",
       "matched_name": null
     },
@@ -208,10 +372,6 @@
     "WorkBuzz": {
       "status": "likely",
       "matched_name": "WORK LIMITED"
-    },
-    "Salesforce": {
-      "status": "confirmed",
-      "matched_name": "Salesforce UK Limited"
     },
     "3Shape": {
       "status": "not_found",
@@ -1157,10 +1317,6 @@
       "status": "likely",
       "matched_name": "Care & Co Ltd"
     },
-    "AECOM": {
-      "status": "confirmed",
-      "matched_name": "AECOM LIMITED"
-    },
     "SportsKey": {
       "status": "likely",
       "matched_name": "UK PORTS LTD"
@@ -1288,10 +1444,6 @@
     "The Hartford": {
       "status": "likely",
       "matched_name": "Hartford Care Group Limited"
-    },
-    "Procore Technologies": {
-      "status": "likely",
-      "matched_name": "Core"
     },
     "Brex": {
       "status": "likely",
@@ -1933,10 +2085,6 @@
       "status": "not_found",
       "matched_name": null
     },
-    "ServiceTitan": {
-      "status": "likely",
-      "matched_name": "Vice UK Limited"
-    },
     "Weave": {
       "status": "likely",
       "matched_name": "Coreweave UK Limited"
@@ -2068,10 +2216,6 @@
     "Vivid Consulting": {
       "status": "not_found",
       "matched_name": null
-    },
-    "Stantec": {
-      "status": "confirmed",
-      "matched_name": "Stantec UK Ltd"
     },
     "Pleo": {
       "status": "likely",
@@ -2941,10 +3085,6 @@
       "status": "confirmed",
       "matched_name": "Mears Group PLC"
     },
-    "Barclays": {
-      "status": "likely",
-      "matched_name": "Barclays Bank PLC"
-    },
     "MEERAB GROUP": {
       "status": "not_found",
       "matched_name": null
@@ -2952,10 +3092,6 @@
     "Griffith Foods": {
       "status": "confirmed",
       "matched_name": "Griffith Foods Limited"
-    },
-    "Catapult": {
-      "status": "likely",
-      "matched_name": "Catapult Enterprises Ltd"
     },
     "Amerit Consulting": {
       "status": "likely",
@@ -3197,10 +3333,6 @@
       "status": "not_found",
       "matched_name": null
     },
-    "Hightouch": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "Oakridge Staffing": {
       "status": "not_found",
       "matched_name": null
@@ -3424,10 +3556,6 @@
     "Harvest Midstream Company": {
       "status": "not_found",
       "matched_name": null
-    },
-    "Johnson Controls": {
-      "status": "likely",
-      "matched_name": "JOHNS&CO"
     },
     "L2L": {
       "status": "not_found",
@@ -5748,10 +5876,6 @@
     "UES": {
       "status": "not_found",
       "matched_name": null
-    },
-    "Baxter International Inc.": {
-      "status": "likely",
-      "matched_name": "CO INTERNATIONAL LTD"
     }
   }
 }
