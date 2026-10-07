@@ -1,17 +1,149 @@
 {
-  "updated_at": "2026-10-06T13:02:13.450250+00:00",
-  "register_source": "https://assets.publishing.service.gov.uk/media/6ac4b79911ed58342ad8e4c5/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-10-06.csv",
-  "register_org_count": 126579,
+  "updated_at": "2026-10-07T12:56:34.200495+00:00",
+  "register_source": "https://assets.publishing.service.gov.uk/media/6ac60ad235adbc27761df954/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-10-07.csv",
+  "register_org_count": 126595,
   "company_counts": {
-    "confirmed": 247,
-    "likely": 638,
-    "not_found": 580,
+    "confirmed": 249,
+    "likely": 648,
+    "not_found": 585,
     "unknown": 2
   },
   "companies": {
     "Stantec": {
       "status": "confirmed",
       "matched_name": "Stantec UK Ltd"
+    },
+    "ICON": {
+      "status": "likely",
+      "matched_name": "Aion Silicon Ltd"
+    },
+    "Guestia": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "LV digital": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "BONISOFT Technologies": {
+      "status": "likely",
+      "matched_name": "FT Technologies (UK) Ltd"
+    },
+    "IP Dynamics GmbH": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "TrueFoundry": {
+      "status": "likely",
+      "matched_name": "Found Group Limited"
+    },
+    "Deloitte": {
+      "status": "confirmed",
+      "matched_name": "Deloitte LLP"
+    },
+    "CCI- Computer Consultants International, Inc.": {
+      "status": "likely",
+      "matched_name": "CO INTERNATIONAL LTD"
+    },
+    "Clark Construction Group": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Katapult": {
+      "status": "confirmed",
+      "matched_name": "Katapult Ltd"
+    },
+    "Shamrock Foods Company": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "WENDEL Companies": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Mission Technologies, a division of HII": {
+      "status": "likely",
+      "matched_name": "Ion Technologies Ltd"
+    },
+    "Federal Express Corporation": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Swooped": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "ACA Group": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Spreetail": {
+      "status": "confirmed",
+      "matched_name": "Spreetail UK Limited"
+    },
+    "CVS Health": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Sprouts Farmers Market": {
+      "status": "likely",
+      "matched_name": "The Sprout Group Limited"
+    },
+    "Xcel Energy": {
+      "status": "likely",
+      "matched_name": "Excel Energy ltd"
+    },
+    "CommanderAI": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Blee": {
+      "status": "likely",
+      "matched_name": "Castlechain Ltd t/a Bleeding Heart"
+    },
+    "Rosendin": {
+      "status": "likely",
+      "matched_name": "ROSEN(UK)"
+    },
+    "Compass": {
+      "status": "confirmed",
+      "matched_name": "Compass Group Plc"
+    },
+    "Eventide Asset Management": {
+      "status": "likely",
+      "matched_name": "Asset UK Limited"
+    },
+    "HTC Global Services": {
+      "status": "likely",
+      "matched_name": "LOBA GROUP LIMITED"
+    },
+    "Michels Corporation": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "InstantServe LLC": {
+      "status": "likely",
+      "matched_name": "Antser Holdings Limited"
+    },
+    "Zimperium": {
+      "status": "likely",
+      "matched_name": "Imperium group Limited"
+    },
+    "Palo Alto Networks": {
+      "status": "confirmed",
+      "matched_name": "PALO ALTO NETWORKS (UK) LIMITED"
+    },
+    "Sofar Ocean": {
+      "status": "likely",
+      "matched_name": "Sofa-UK LTD"
+    },
+    "Armis": {
+      "status": "likely",
+      "matched_name": "ARMIS SECURITY UK LIMITED"
+    },
+    "Commure": {
+      "status": "not_found",
+      "matched_name": null
     },
     "Connecticut Chapter of the American Planning Association (CCAPA)": {
       "status": "likely",
@@ -149,10 +281,6 @@
       "status": "not_found",
       "matched_name": null
     },
-    "InstantServe LLC": {
-      "status": "likely",
-      "matched_name": "Antser Holdings Limited"
-    },
     "BrightSpring Health Services": {
       "status": "likely",
       "matched_name": "Vice UK Limited"
@@ -205,10 +333,6 @@
       "status": "likely",
       "matched_name": "SiteMinder Distribution Limited"
     },
-    "Deloitte": {
-      "status": "confirmed",
-      "matched_name": "Deloitte LLP"
-    },
     "TalentHop": {
       "status": "not_found",
       "matched_name": null
@@ -256,10 +380,6 @@
     "Teledyne Technologies Incorporated": {
       "status": "likely",
       "matched_name": "Edyn Limited"
-    },
-    "Swooped": {
-      "status": "not_found",
-      "matched_name": null
     },
     "Greater Lincolnshire Combined County Authority": {
       "status": "likely",
@@ -577,10 +697,6 @@
       "status": "not_found",
       "matched_name": null
     },
-    "CVS Health": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "Interhyp Gruppe": {
       "status": "not_found",
       "matched_name": null
@@ -696,10 +812,6 @@
     "Heartland Business Systems": {
       "status": "likely",
       "matched_name": "System ltd"
-    },
-    "Compass": {
-      "status": "confirmed",
-      "matched_name": "Compass Group Plc"
     },
     "Siteimprove": {
       "status": "confirmed",
@@ -869,10 +981,6 @@
       "status": "not_found",
       "matched_name": null
     },
-    "Palo Alto Networks": {
-      "status": "confirmed",
-      "matched_name": "PALO ALTO NETWORKS (UK) LIMITED"
-    },
     "Fagron": {
       "status": "not_found",
       "matched_name": null
@@ -904,10 +1012,6 @@
     "STATION F": {
       "status": "likely",
       "matched_name": "Fry Station Ltd T/A Fry Station Fish and Chip Shop"
-    },
-    "ACA Group": {
-      "status": "not_found",
-      "matched_name": null
     },
     "Bankors": {
       "status": "not_found",
@@ -1112,10 +1216,6 @@
     "Gartner": {
       "status": "confirmed",
       "matched_name": "Gartner UK Limited"
-    },
-    "Clark Construction Group": {
-      "status": "not_found",
-      "matched_name": null
     },
     "Lectra": {
       "status": "confirmed",
@@ -1896,10 +1996,6 @@
     "Vantor": {
       "status": "likely",
       "matched_name": "Vantor Technologies UK Ltd"
-    },
-    "Mission Technologies, a division of HII": {
-      "status": "likely",
-      "matched_name": "Ion Technologies Ltd"
     },
     "Evlo AI": {
       "status": "not_found",
@@ -2761,10 +2857,6 @@
       "status": "likely",
       "matched_name": "WORK LIMITED"
     },
-    "Shamrock Foods Company": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "Nsight Health": {
       "status": "likely",
       "matched_name": "EXECUTIVE INSIGHT HEALTHCARE CONSULTANTS LTD"
@@ -3296,10 +3388,6 @@
     "Relativity": {
       "status": "likely",
       "matched_name": "Relativity Global LLC"
-    },
-    "Xcel Energy": {
-      "status": "likely",
-      "matched_name": "Excel Energy ltd"
     },
     "Altura Search": {
       "status": "likely",
@@ -4254,10 +4342,6 @@
       "matched_name": null
     },
     "Carollo Engineers": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Federal Express Corporation": {
       "status": "not_found",
       "matched_name": null
     },
@@ -5858,22 +5942,6 @@
       "matched_name": null
     },
     "U.S. Coast Guard": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Alignerr": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Office of Energy Infrastructure Safety": {
-      "status": "likely",
-      "matched_name": "Office Holdings Limited"
-    },
-    "Kentucky Energy & Environment Cabinet": {
-      "status": "likely",
-      "matched_name": "The Cabin (UK) Ltd"
-    },
-    "UES": {
       "status": "not_found",
       "matched_name": null
     }
