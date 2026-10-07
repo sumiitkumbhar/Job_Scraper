@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-06T13:30:40.491545+00:00",
+  "updated_at": "2026-10-07T13:40:12.504695+00:00",
   "source_files": [
     "https://www.dol.gov/media/LCA_Disclosure_Data_FY2026_Q3.xlsx",
     "https://www.dol.gov/sites/dolgov/files/ETA/oflc/pdfs/LCA_Disclosure_Data_FY2025_Q4.xlsx"
   ],
   "employer_count": 60026,
   "company_counts": {
-    "confirmed": 321,
-    "likely": 529,
-    "not_found": 615,
+    "confirmed": 326,
+    "likely": 537,
+    "not_found": 619,
     "unknown": 2
   },
   "companies": {
@@ -16,6 +16,171 @@
       "status": "likely",
       "matched_name": "Stantec Architecture Inc.",
       "certified_lca_count": 25
+    },
+    "ICON": {
+      "status": "likely",
+      "matched_name": "Samsung Austin Semiconductor, LLC.",
+      "certified_lca_count": 265
+    },
+    "Guestia": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "LV digital": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "BONISOFT Technologies": {
+      "status": "likely",
+      "matched_name": "iSoft LLC",
+      "certified_lca_count": 6
+    },
+    "IP Dynamics GmbH": {
+      "status": "likely",
+      "matched_name": "Dynamics, Inc.",
+      "certified_lca_count": 2
+    },
+    "TrueFoundry": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Deloitte": {
+      "status": "confirmed",
+      "matched_name": "Deloitte LLP",
+      "certified_lca_count": 11
+    },
+    "CCI- Computer Consultants International, Inc.": {
+      "status": "likely",
+      "matched_name": "Ulta, Inc.",
+      "certified_lca_count": 20
+    },
+    "Clark Construction Group": {
+      "status": "confirmed",
+      "matched_name": "CLARK CONSTRUCTION GROUP, LLC",
+      "certified_lca_count": 7
+    },
+    "Katapult": {
+      "status": "confirmed",
+      "matched_name": "Katapult Group, Inc.",
+      "certified_lca_count": 2
+    },
+    "Shamrock Foods Company": {
+      "status": "confirmed",
+      "matched_name": "Shamrock Foods Company",
+      "certified_lca_count": 6
+    },
+    "WENDEL Companies": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Mission Technologies, a division of HII": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Federal Express Corporation": {
+      "status": "confirmed",
+      "matched_name": "Federal Express Corporation",
+      "certified_lca_count": 590
+    },
+    "Swooped": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "ACA Group": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Spreetail": {
+      "status": "confirmed",
+      "matched_name": "Spreetail, LLC",
+      "certified_lca_count": 9
+    },
+    "CVS Health": {
+      "status": "likely",
+      "matched_name": "Group Health, Inc.",
+      "certified_lca_count": 41
+    },
+    "Sprouts Farmers Market": {
+      "status": "likely",
+      "matched_name": "Farmers Group, Inc.",
+      "certified_lca_count": 85
+    },
+    "Xcel Energy": {
+      "status": "likely",
+      "matched_name": "Xcel Energy Services, Inc.",
+      "certified_lca_count": 9
+    },
+    "CommanderAI": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Blee": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Rosendin": {
+      "status": "likely",
+      "matched_name": "Rosendin Electric Inc.",
+      "certified_lca_count": 6
+    },
+    "Compass": {
+      "status": "confirmed",
+      "matched_name": "Compass, Inc.",
+      "certified_lca_count": 5
+    },
+    "Eventide Asset Management": {
+      "status": "likely",
+      "matched_name": "Eventide Inc.",
+      "certified_lca_count": 1
+    },
+    "HTC Global Services": {
+      "status": "confirmed",
+      "matched_name": "HTC GLOBAL SERVICES INC.",
+      "certified_lca_count": 396
+    },
+    "Michels Corporation": {
+      "status": "likely",
+      "matched_name": "Michels Construction, Inc.",
+      "certified_lca_count": 3
+    },
+    "InstantServe LLC": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Zimperium": {
+      "status": "confirmed",
+      "matched_name": "Zimperium, Inc.",
+      "certified_lca_count": 4
+    },
+    "Palo Alto Networks": {
+      "status": "confirmed",
+      "matched_name": "Palo Alto Networks, Inc.",
+      "certified_lca_count": 522
+    },
+    "Sofar Ocean": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Armis": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Commure": {
+      "status": "confirmed",
+      "matched_name": "Commure, Inc.",
+      "certified_lca_count": 49
     },
     "Connecticut Chapter of the American Planning Association (CCAPA)": {
       "status": "likely",
@@ -187,11 +352,6 @@
       "matched_name": null,
       "certified_lca_count": 0
     },
-    "InstantServe LLC": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
     "BrightSpring Health Services": {
       "status": "likely",
       "matched_name": "Corporation Service Company",
@@ -257,11 +417,6 @@
       "matched_name": null,
       "certified_lca_count": 0
     },
-    "Deloitte": {
-      "status": "confirmed",
-      "matched_name": "Deloitte LLP",
-      "certified_lca_count": 11
-    },
     "TalentHop": {
       "status": "likely",
       "matched_name": "Talent Corporation, LLC",
@@ -321,11 +476,6 @@
       "status": "likely",
       "matched_name": "E-Technologies Group, LLC.",
       "certified_lca_count": 23
-    },
-    "Swooped": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
     },
     "Greater Lincolnshire Combined County Authority": {
       "status": "not_found",
@@ -722,11 +872,6 @@
       "matched_name": "Bask Health Inc",
       "certified_lca_count": 3
     },
-    "CVS Health": {
-      "status": "likely",
-      "matched_name": "Group Health, Inc.",
-      "certified_lca_count": 41
-    },
     "Interhyp Gruppe": {
       "status": "not_found",
       "matched_name": null,
@@ -871,11 +1016,6 @@
       "status": "confirmed",
       "matched_name": "Heartland Business Systems LLC",
       "certified_lca_count": 1
-    },
-    "Compass": {
-      "status": "confirmed",
-      "matched_name": "Compass, Inc.",
-      "certified_lca_count": 5
     },
     "Siteimprove": {
       "status": "not_found",
@@ -1087,11 +1227,6 @@
       "matched_name": "Jobright Inc.",
       "certified_lca_count": 1
     },
-    "Palo Alto Networks": {
-      "status": "confirmed",
-      "matched_name": "Palo Alto Networks, Inc.",
-      "certified_lca_count": 522
-    },
     "Fagron": {
       "status": "likely",
       "matched_name": "Fagron Holding USA, LLC",
@@ -1128,11 +1263,6 @@
       "certified_lca_count": 0
     },
     "STATION F": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "ACA Group": {
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
@@ -1391,11 +1521,6 @@
       "status": "confirmed",
       "matched_name": "Gartner Inc",
       "certified_lca_count": 39
-    },
-    "Clark Construction Group": {
-      "status": "confirmed",
-      "matched_name": "CLARK CONSTRUCTION GROUP, LLC",
-      "certified_lca_count": 7
     },
     "Lectra": {
       "status": "likely",
@@ -2368,11 +2493,6 @@
       "certified_lca_count": 0
     },
     "Vantor": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Mission Technologies, a division of HII": {
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
@@ -3452,11 +3572,6 @@
       "matched_name": null,
       "certified_lca_count": 0
     },
-    "Shamrock Foods Company": {
-      "status": "confirmed",
-      "matched_name": "Shamrock Foods Company",
-      "certified_lca_count": 6
-    },
     "Nsight Health": {
       "status": "likely",
       "matched_name": "Group Health, Inc.",
@@ -4121,11 +4236,6 @@
       "status": "likely",
       "matched_name": "Relativity ODA LLC",
       "certified_lca_count": 27
-    },
-    "Xcel Energy": {
-      "status": "likely",
-      "matched_name": "Xcel Energy Services, Inc.",
-      "certified_lca_count": 9
     },
     "Altura Search": {
       "status": "likely",
@@ -5321,11 +5431,6 @@
       "status": "confirmed",
       "matched_name": "CAROLLO ENGINEERS, INC.",
       "certified_lca_count": 20
-    },
-    "Federal Express Corporation": {
-      "status": "confirmed",
-      "matched_name": "Federal Express Corporation",
-      "certified_lca_count": 590
     },
     "The Wheel Group": {
       "status": "likely",
@@ -7323,26 +7428,6 @@
       "certified_lca_count": 0
     },
     "U.S. Coast Guard": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Alignerr": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Office of Energy Infrastructure Safety": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Kentucky Energy & Environment Cabinet": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "UES": {
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
