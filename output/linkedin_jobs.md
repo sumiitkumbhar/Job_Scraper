@@ -1,73 +1,87 @@
 # 🔥 LinkedIn — Sumit's Planning & PropTech Roles
-*Last updated: 2026-10-06 21:01 UTC*
+*Last updated: 2026-10-07 00:39 UTC*
 
-**15 new role(s)** since last run · 15 total in last 1h
+**18 new role(s)** since last run · 18 total in last 1h
 
-### [Consultant Town Planner](https://www.linkedin.com/jobs/view/4475119108/) — AECOM
-- 📍 **Location:** Basingstoke, England, United Kingdom
-- 🕒 **Posted:** 2026-10-06
+### [Supply Planning Analyst](https://www.linkedin.com/jobs/view/4476514193/) — Shamrock Foods Company
+- 📍 **Location:** Phoenix, AZ
+- 🕒 **Posted:** 2026-10-07
 
-### [Consultant Town Planner](https://www.linkedin.com/jobs/view/4474998852/) — AECOM
-- 📍 **Location:** London, England, United Kingdom
-- 🕒 **Posted:** 2026-10-06
+### [GIS Analyst](https://www.linkedin.com/jobs/view/4473502469/) — WENDEL Companies
+- 📍 **Location:** Rochester, NY
+- 💰 **Salary:** $32.21 - $59.13
+- 🕒 **Posted:** 2026-10-07
 
-### [GIS Analyst](https://www.linkedin.com/jobs/view/4475103574/) — HTC Global Services
-- 📍 **Location:** Lansing, MI
-- 🕒 **Posted:** 2026-10-06
+### [Engineer Planning Analyst 3 - 30543](https://www.linkedin.com/jobs/view/4475147052/) — Mission Technologies, a division of HII
+- 📍 **Location:** Bremerton, WA
+- 💰 **Salary:** $78,000.00 - $83,358.00
+- 🕒 **Posted:** 2026-10-07
 
-### [Senior Urban Planning Project Manager](https://www.linkedin.com/jobs/view/4474666101/) — AECOM
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $125000 to $165000
-- 🕒 **Posted:** 2026-10-06
+### [Customer Success Manager](https://www.linkedin.com/jobs/view/4470071387/) — Propeller
+- 📍 **Location:** Denver, CO
+- 💰 **Salary:** $70,000-$80,000
+- 🕒 **Posted:** 2026-10-07
 
-### [Construction Technology Specialist - Michels Road & Stone, Inc.](https://www.linkedin.com/jobs/view/4474409366/) — Michels Corporation
-- 📍 **Location:** Lomira, WI
-- 🕒 **Posted:** 2026-10-06
+### [Regional Solutions Consultant- Print Sales](https://www.linkedin.com/jobs/view/4476517172/) — Federal Express Corporation
+- 📍 **Location:** Phoenix, AZ
+- 🕒 **Posted:** 2026-10-07
 
-### [GIS Analyst](https://www.linkedin.com/jobs/view/4474996998/) — InstantServe LLC
-- 📍 **Location:** Lansing, MI
-- 💰 **Salary:** $40.00/hr - $45.00/hr
-- 🕒 **Posted:** 2026-10-06
-
-### [Sr. Customer Success Manager (Public Sector, SLED, Civilian) - Washington D.C.](https://www.linkedin.com/jobs/view/4413810383/) — Zimperium
-- 📍 **Location:** Washington DC-Baltimore Area
-- 🕒 **Posted:** 2026-10-06
-
-### [Senior Customer Success Engineer - MIM](https://www.linkedin.com/jobs/view/4474409408/) — Palo Alto Networks
-- 📍 **Location:** Burbank, CA
-- 💰 **Salary:** $112,900.00 - $182,600.00/yr
-- 🕒 **Posted:** 2026-10-06
-
-### [Defense Customer Success Lead](https://www.linkedin.com/jobs/view/4476335821/) — Sofar Ocean
+### [Senior Customer Success Manager, Strategic - East](https://www.linkedin.com/jobs/view/4476521157/) — Swooped
 - 📍 **Location:** United States
-- 💰 **Salary:** $100,000 - $150,000
+- 💰 **Salary:** $100,000.00/yr - $150,000.00/yr
+- 🕒 **Posted:** 2026-10-07
+
+### [Senior Compliance Analyst (MS)](https://www.linkedin.com/jobs/view/4474408882/) — ACA Group
+- 📍 **Location:** Medford, OR
+- 💰 **Salary:** $60,000.00 - $75,000.00
+- 🕒 **Posted:** 2026-10-07
+
+### [Senior Compliance Analyst (MS)](https://www.linkedin.com/jobs/view/4474424204/) — ACA Group
+- 📍 **Location:** Idaho, United States
+- 💰 **Salary:** $60,000.00 - $75,000.00
+- 🕒 **Posted:** 2026-10-07
+
+### [Trade Compliance Analyst](https://www.linkedin.com/jobs/view/4476507665/) — Spreetail
+- 📍 **Location:** Nebraska, United States
+- 🕒 **Posted:** 2026-10-07
+
+### [Implementation Consultant II](https://www.linkedin.com/jobs/view/4466415357/) — Paylocity
+- 📍 **Location:** Pittsford, NY
+- 💰 **Salary:** $54,000 -$77,100/yr
+- 🕒 **Posted:** 2026-10-07
+
+### [Resource Planning Analyst](https://www.linkedin.com/jobs/view/4476339941/) — CVS Health
+- 📍 **Location:** Austin, TX
+- 💰 **Salary:** $43,888.00 - $102,081.00
+- 🕒 **Posted:** 2026-10-07
+
+### [Space Planning Analyst II](https://www.linkedin.com/jobs/view/4475141300/) — Sprouts Farmers Market
+- 📍 **Location:** Phoenix, AZ
 - 🕒 **Posted:** 2026-10-06
 
-### [Senior Technical Customer Success Manager](https://www.linkedin.com/jobs/view/4476376660/) — Armis
-- 📍 **Location:** Colorado, United States
-- 💰 **Salary:** $102,000.00/yr - $159,000.00/yr
+### [Gas Resource Planning Analyst](https://www.linkedin.com/jobs/view/4476505400/) — Xcel Energy
+- 📍 **Location:** Denver Metropolitan Area
+- 💰 **Salary:** $84,900.00 to $120,566.00 per year
 - 🕒 **Posted:** 2026-10-06
 
-### [Senior Customer Success Manager, Strategic](https://www.linkedin.com/jobs/view/4476372611/) — Tebra
-- 📍 **Location:** Corona del Mar, CA
-- 💰 **Salary:** $113,500 USD - $129,500 USD
+### [Customer Success Associate | Revenue Adoption & Growth @ AI Startup](https://www.linkedin.com/jobs/view/4475134527/) — CommanderAI
+- 📍 **Location:** Marina del Rey, CA
 - 🕒 **Posted:** 2026-10-06
 
-### [Compliance Analyst](https://www.linkedin.com/jobs/view/4467743575/) — Pelham Berkeley Search
-- 📍 **Location:** Greenwich, CT
-- 💰 **Salary:** $90,000-$125,000
+### [Founding Customer Success Manager](https://www.linkedin.com/jobs/view/4476509213/) — Blee
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-10-06
 
-### [Analyst or Lead Analyst – Real Estate Technology Infrastructure - Operations](https://www.linkedin.com/jobs/view/4475108756/) — Hines
-- 📍 **Location:** Houston, TX
+### [IT Customer Success Manager](https://www.linkedin.com/jobs/view/4475143200/) — Rosendin
+- 📍 **Location:** Sterling, VA
+- 💰 **Salary:** $110,000.00/yr - $130,000.00/yr
 - 🕒 **Posted:** 2026-10-06
 
-### [Senior Customer Success Engineer - MIM](https://www.linkedin.com/jobs/view/4474407442/) — Palo Alto Networks
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $112,900.00 - $182,600.00/yr
+### [Customer Success & Office Coordinator](https://www.linkedin.com/jobs/view/4476509120/) — Compass
+- 📍 **Location:** Miami Beach, FL
 - 🕒 **Posted:** 2026-10-06
 
-### [Senior Customer Success Manager, Ambient](https://www.linkedin.com/jobs/view/4459913003/) — Commure
-- 📍 **Location:** Mountain View, CA
-- 💰 **Salary:** $100,000.00/yr - $140,000.00/yr
+### [Compliance Analyst](https://www.linkedin.com/jobs/view/4475146012/) — Eventide Asset Management
+- 📍 **Location:** Boston, MA
+- 💰 **Salary:** $85,000.00/yr - $110,000.00/yr
 - 🕒 **Posted:** 2026-10-06
