@@ -1,35 +1,28 @@
 # 🏛 Priority Employers — Sumit's Planning & PropTech Roles
-*Last updated: 2026-10-06 11:00 UTC*
+*Last updated: 2026-10-07 11:42 UTC*
 
-**7 new role(s)** since last run · 7 total in last 24h
+**6 new role(s)** since last run · 7 total in last 24h
 
-### [Consultant Town Planner](https://www.linkedin.com/jobs/view/4474040493/) — AECOM
+### [Consultant Town Planner](https://www.linkedin.com/jobs/view/4474998852/) — AECOM
+- 📍 **Location:** London, England, United Kingdom
+- 🕒 **Posted:** 2026-10-07
+
+### [Customer Success Manager](https://www.linkedin.com/jobs/view/4459928916/) — Street Group
+- 📍 **Location:** Manchester, England, United Kingdom
+- 🕒 **Posted:** 2026-10-07
+
+### [Graduate Urban Designer - Community Development - 2027 (Bristol)](https://www.linkedin.com/jobs/view/4447999670/) — Stantec
+- 📍 **Location:** Bristol, England, United Kingdom
+- 🕒 **Posted:** 2026-10-06
+
+### [Strategic Planning Consultant](https://www.linkedin.com/jobs/view/4467208888/) — Buro Happold
 - 📍 **Location:** London, England, United Kingdom
 - 🕒 **Posted:** 2026-10-06
 
-### [Urban Planner (Designer)](https://www.linkedin.com/jobs/view/4476115708/) — Stantec
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $102,200.00 - $148,200.00 Annually
+### [Senior/Principal Planning Consultant](https://www.linkedin.com/jobs/view/4467276681/) — Arup
+- 📍 **Location:** Birmingham, England, United Kingdom
 - 🕒 **Posted:** 2026-10-06
 
-### [Senior Urban Planning Project Manager](https://www.linkedin.com/jobs/view/4474666101/) — AECOM
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $125000 to $165000
-- 🕒 **Posted:** 2026-10-06
-
-### [Graduate Planner (Major Projects) - Water - 2027 (Glasgow)](https://www.linkedin.com/jobs/view/4447699939/) — Stantec
-- 📍 **Location:** Glasgow, Scotland, United Kingdom
-- 🕒 **Posted:** 2026-10-05
-
-### [Export Compliance Analyst](https://www.linkedin.com/jobs/view/4448523226/) — Smith
-- 📍 **Location:** Amsterdam, North Holland, Netherlands
-- 🕒 **Posted:** 2026-10-05
-
-### [Town Planner](https://www.linkedin.com/jobs/view/4475844096/) — Connecticut Chapter of the American Planning Association (CCAPA)
-- 📍 **Location:** Stonington, ME
-- 💰 **Salary:** $84,470.08 to $115,431.22
-- 🕒 **Posted:** 2026-10-05
-
-### [Customer Success Outcomes Senior Analyst (Remote)](https://www.linkedin.com/jobs/view/4475876973/) — Procore Technologies
+### [Senior Customer Success Manager](https://www.linkedin.com/jobs/view/4449676643/) — ICON
 - 📍 **Location:** Austin, TX
-- 🕒 **Posted:** 2026-10-05
+- 🕒 **Posted:** 2026-10-06
