@@ -1,17 +1,182 @@
 {
-  "updated_at": "2026-10-07T13:40:12.504695+00:00",
+  "updated_at": "2026-10-08T13:47:50.694781+00:00",
   "source_files": [
     "https://www.dol.gov/media/LCA_Disclosure_Data_FY2026_Q3.xlsx",
     "https://www.dol.gov/sites/dolgov/files/ETA/oflc/pdfs/LCA_Disclosure_Data_FY2025_Q4.xlsx"
   ],
   "employer_count": 60026,
   "company_counts": {
-    "confirmed": 326,
-    "likely": 537,
-    "not_found": 619,
-    "unknown": 2
+    "confirmed": 331,
+    "likely": 529,
+    "not_found": 626,
+    "unknown": 1
   },
   "companies": {
+    "Keysight Technologies": {
+      "status": "confirmed",
+      "matched_name": "KEYSIGHT TECHNOLOGIES, INC.",
+      "certified_lca_count": 118
+    },
+    "Mott MacDonald": {
+      "status": "confirmed",
+      "matched_name": "Mott MacDonald Group Inc.",
+      "certified_lca_count": 25
+    },
+    "Gearset": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "M Group Technology & Communications": {
+      "status": "likely",
+      "matched_name": "The Unica Group, Inc",
+      "certified_lca_count": 8
+    },
+    "Solvares Group": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Intel": {
+      "status": "confirmed",
+      "matched_name": "Intel Corporation",
+      "certified_lca_count": 2012
+    },
+    "Jobgether": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "TalentHop": {
+      "status": "likely",
+      "matched_name": "Talent Corporation, LLC",
+      "certified_lca_count": 1
+    },
+    "Baxter International Inc.": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "APTNEXUS": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "VetJobs": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "OPENRED": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "HDR": {
+      "status": "confirmed",
+      "matched_name": "HDR, Inc.",
+      "certified_lca_count": 7
+    },
+    "Workday Talent Hub": {
+      "status": "likely",
+      "matched_name": "Workday, Inc.",
+      "certified_lca_count": 308
+    },
+    "Copado": {
+      "status": "confirmed",
+      "matched_name": "Copado, Inc.",
+      "certified_lca_count": 5
+    },
+    "Swooped": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Haystack": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Owner.com": {
+      "status": "confirmed",
+      "matched_name": "Owner.com, Inc.",
+      "certified_lca_count": 3
+    },
+    "ServiceNow": {
+      "status": "confirmed",
+      "matched_name": "ServiceNow, Inc.",
+      "certified_lca_count": 660
+    },
+    "SHI International Corp.": {
+      "status": "confirmed",
+      "matched_name": "SHI International Corp.",
+      "certified_lca_count": 1
+    },
+    "Birdeye": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Tembo": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Exemplar Luxury Group": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "ArborMetrics Solutions, LLC": {
+      "status": "likely",
+      "matched_name": "SOLUTIONS INC",
+      "certified_lca_count": 1
+    },
+    "V Group Inc.": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Realtor.com": {
+      "status": "likely",
+      "matched_name": "REAL Holdings LLC",
+      "certified_lca_count": 2
+    },
+    "Unanet": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Vertosoft": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Auto-Owners Insurance": {
+      "status": "not_found",
+      "matched_name": null,
+      "certified_lca_count": 0
+    },
+    "Uniti Group Inc.": {
+      "status": "likely",
+      "matched_name": "Mercy Clinic Springfield Communities",
+      "certified_lca_count": 28
+    },
+    "Booz Allen Hamilton": {
+      "status": "confirmed",
+      "matched_name": "Booz Allen Hamilton Inc.",
+      "certified_lca_count": 11
+    },
+    "Clark Construction Group": {
+      "status": "confirmed",
+      "matched_name": "CLARK CONSTRUCTION GROUP, LLC",
+      "certified_lca_count": 7
+    },
+    "Robert Half": {
+      "status": "confirmed",
+      "matched_name": "Robert Half Inc.",
+      "certified_lca_count": 17
+    },
     "Stantec": {
       "status": "likely",
       "matched_name": "Stantec Architecture Inc.",
@@ -57,11 +222,6 @@
       "matched_name": "Ulta, Inc.",
       "certified_lca_count": 20
     },
-    "Clark Construction Group": {
-      "status": "confirmed",
-      "matched_name": "CLARK CONSTRUCTION GROUP, LLC",
-      "certified_lca_count": 7
-    },
     "Katapult": {
       "status": "confirmed",
       "matched_name": "Katapult Group, Inc.",
@@ -86,11 +246,6 @@
       "status": "confirmed",
       "matched_name": "Federal Express Corporation",
       "certified_lca_count": 590
-    },
-    "Swooped": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
     },
     "ACA Group": {
       "status": "not_found",
@@ -417,20 +572,10 @@
       "matched_name": null,
       "certified_lca_count": 0
     },
-    "TalentHop": {
-      "status": "likely",
-      "matched_name": "Talent Corporation, LLC",
-      "certified_lca_count": 1
-    },
     "Base-2 Solutions": {
       "status": "likely",
       "matched_name": "SOLUTIONS INC",
       "certified_lca_count": 1
-    },
-    "Haystack": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
     },
     "PVcase": {
       "status": "not_found",
@@ -453,11 +598,6 @@
       "certified_lca_count": 0
     },
     "City of Gresham": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Jobgether": {
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
@@ -747,11 +887,6 @@
       "matched_name": "Devon Energy Production Company, LP",
       "certified_lca_count": 3
     },
-    "Realtor.com": {
-      "status": "likely",
-      "matched_name": "REAL Holdings LLC",
-      "certified_lca_count": 2
-    },
     "Heim": {
       "status": "likely",
       "matched_name": "Guggenheim Securities, LLC",
@@ -826,11 +961,6 @@
       "status": "likely",
       "matched_name": "Crossword Staffing Solutions LLC",
       "certified_lca_count": 4
-    },
-    "Uniti Group Inc.": {
-      "status": "likely",
-      "matched_name": "Mercy Clinic Springfield Communities",
-      "certified_lca_count": 28
     },
     "KinderCare Learning Companies": {
       "status": "likely",
@@ -1302,11 +1432,6 @@
       "matched_name": null,
       "certified_lca_count": 0
     },
-    "ServiceNow": {
-      "status": "confirmed",
-      "matched_name": "ServiceNow, Inc.",
-      "certified_lca_count": 660
-    },
     "WSP in the U.S.": {
       "status": "not_found",
       "matched_name": null,
@@ -1506,11 +1631,6 @@
       "status": "likely",
       "matched_name": "Core One Physical Therapy and Chiropractic",
       "certified_lca_count": 2
-    },
-    "VetJobs": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
     },
     "Teamwork.com": {
       "status": "not_found",
@@ -1801,11 +1921,6 @@
       "status": "confirmed",
       "matched_name": "Neuron7.ai, Inc.",
       "certified_lca_count": 2
-    },
-    "Keysight Technologies": {
-      "status": "confirmed",
-      "matched_name": "KEYSIGHT TECHNOLOGIES, INC.",
-      "certified_lca_count": 118
     },
     "AtkinsR\u00e9alis": {
       "status": "likely",
@@ -2621,11 +2736,6 @@
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
-    },
-    "M Group Technology & Communications": {
-      "status": "likely",
-      "matched_name": "The Unica Group, Inc",
-      "certified_lca_count": 8
     },
     "WSP in the UK & Ireland": {
       "status": "not_found",
@@ -3606,11 +3716,6 @@
       "status": "likely",
       "matched_name": "SAICON CONSULTANTS, INC.",
       "certified_lca_count": 30
-    },
-    "Mott MacDonald": {
-      "status": "confirmed",
-      "matched_name": "Mott MacDonald Group Inc.",
-      "certified_lca_count": 25
     },
     "Skanska": {
       "status": "likely",
@@ -5182,11 +5287,6 @@
       "matched_name": null,
       "certified_lca_count": 0
     },
-    "HDR": {
-      "status": "confirmed",
-      "matched_name": "HDR, Inc.",
-      "certified_lca_count": 7
-    },
     "OpenGov Inc.": {
       "status": "confirmed",
       "matched_name": "OpenGov, Inc.",
@@ -5206,11 +5306,6 @@
       "status": "not_found",
       "matched_name": null,
       "certified_lca_count": 0
-    },
-    "SHI International Corp.": {
-      "status": "confirmed",
-      "matched_name": "SHI International Corp.",
-      "certified_lca_count": 1
     },
     "ARC Intelligence": {
       "status": "likely",
@@ -7351,86 +7446,6 @@
       "status": "likely",
       "matched_name": "Quant Inc.",
       "certified_lca_count": 2
-    },
-    "Inotivco": {
-      "status": "likely",
-      "matched_name": "Inotiv, Inc.",
-      "certified_lca_count": 1
-    },
-    "CDMS": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Barr": {
-      "status": "likely",
-      "matched_name": "Barracuda Networks, Inc.",
-      "certified_lca_count": 6
-    },
-    "Bayer": {
-      "status": "likely",
-      "matched_name": "Bayer CropScience LP",
-      "certified_lca_count": 4
-    },
-    "GondolaBio": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Barton & Loguidice, D.P.C.": {
-      "status": "likely",
-      "matched_name": "Barton LLP",
-      "certified_lca_count": 1
-    },
-    "ONYX Exposure Science, LLC": {
-      "status": "likely",
-      "matched_name": "Science Corporation",
-      "certified_lca_count": 5
-    },
-    "\u683c\u5170\u8fbe\u516c\u53f8": {
-      "status": "unknown",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "Altria": {
-      "status": "likely",
-      "matched_name": "Altria Client Services LLC",
-      "certified_lca_count": 11
-    },
-    "UL Research Institutes": {
-      "status": "likely",
-      "matched_name": "Search Institute",
-      "certified_lca_count": 1
-    },
-    "Sasol": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "dsm-firmenich": {
-      "status": "likely",
-      "matched_name": "Firmenich Incorporated",
-      "certified_lca_count": 2
-    },
-    "Syngenta": {
-      "status": "likely",
-      "matched_name": "Syngenta Crop Protection LLC",
-      "certified_lca_count": 18
-    },
-    "The Scotts Miracle-Gro Company": {
-      "status": "likely",
-      "matched_name": "The Scotts Company LLC",
-      "certified_lca_count": 13
-    },
-    "Ddcdine": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
-    },
-    "U.S. Coast Guard": {
-      "status": "not_found",
-      "matched_name": null,
-      "certified_lca_count": 0
     }
   }
 }
