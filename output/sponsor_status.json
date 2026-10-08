@@ -1,14 +1,146 @@
 {
-  "updated_at": "2026-10-07T12:56:34.200495+00:00",
-  "register_source": "https://assets.publishing.service.gov.uk/media/6ac60ad235adbc27761df954/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-10-07.csv",
-  "register_org_count": 126595,
+  "updated_at": "2026-10-08T13:04:58.108569+00:00",
+  "register_source": "https://assets.publishing.service.gov.uk/media/6ac755faec9d3aba1e013a1d/SP_-_Worker_and_Temporary_Worker_Web_Register_-_2026-10-08.csv",
+  "register_org_count": 126604,
   "company_counts": {
-    "confirmed": 249,
+    "confirmed": 251,
     "likely": 648,
-    "not_found": 585,
-    "unknown": 2
+    "not_found": 587,
+    "unknown": 1
   },
   "companies": {
+    "Keysight Technologies": {
+      "status": "confirmed",
+      "matched_name": "Keysight Technologies UK Limited"
+    },
+    "Mott MacDonald": {
+      "status": "confirmed",
+      "matched_name": "Mott MacDonald Ltd"
+    },
+    "Gearset": {
+      "status": "confirmed",
+      "matched_name": "Gearset Limited"
+    },
+    "M Group Technology & Communications": {
+      "status": "likely",
+      "matched_name": "Communications Inc"
+    },
+    "Solvares Group": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Intel": {
+      "status": "likely",
+      "matched_name": "Activate Intelligence Limited"
+    },
+    "Jobgether": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "TalentHop": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Baxter International Inc.": {
+      "status": "likely",
+      "matched_name": "CO INTERNATIONAL LTD"
+    },
+    "APTNEXUS": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "VetJobs": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "OPENRED": {
+      "status": "likely",
+      "matched_name": "The Open Group Limited"
+    },
+    "HDR": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Workday Talent Hub": {
+      "status": "likely",
+      "matched_name": "WORK LIMITED"
+    },
+    "Copado": {
+      "status": "confirmed",
+      "matched_name": "Copado Limited"
+    },
+    "Swooped": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Haystack": {
+      "status": "likely",
+      "matched_name": "Hays PLC"
+    },
+    "Owner.com": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "ServiceNow": {
+      "status": "confirmed",
+      "matched_name": "ServiceNow UK Limited"
+    },
+    "SHI International Corp.": {
+      "status": "likely",
+      "matched_name": "CO INTERNATIONAL LTD"
+    },
+    "Birdeye": {
+      "status": "confirmed",
+      "matched_name": "Birdeye UK Limited"
+    },
+    "Tembo": {
+      "status": "confirmed",
+      "matched_name": "Tembo Ltd"
+    },
+    "Exemplar Luxury Group": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "ArborMetrics Solutions, LLC": {
+      "status": "likely",
+      "matched_name": "Metric Group Ltd"
+    },
+    "V Group Inc.": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Realtor.com": {
+      "status": "likely",
+      "matched_name": "Real Group Ltd"
+    },
+    "Unanet": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Vertosoft": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Auto-Owners Insurance": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Uniti Group Inc.": {
+      "status": "likely",
+      "matched_name": "ACORN DAY OPPORTUNITIES LTD"
+    },
+    "Booz Allen Hamilton": {
+      "status": "likely",
+      "matched_name": "BOOZ ALLEN HAMILTON INTERNATIONAL (U.K.) LTD"
+    },
+    "Clark Construction Group": {
+      "status": "not_found",
+      "matched_name": null
+    },
+    "Robert Half": {
+      "status": "confirmed",
+      "matched_name": "Robert Half Limited"
+    },
     "Stantec": {
       "status": "confirmed",
       "matched_name": "Stantec UK Ltd"
@@ -45,10 +177,6 @@
       "status": "likely",
       "matched_name": "CO INTERNATIONAL LTD"
     },
-    "Clark Construction Group": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "Katapult": {
       "status": "confirmed",
       "matched_name": "Katapult Ltd"
@@ -66,10 +194,6 @@
       "matched_name": "Ion Technologies Ltd"
     },
     "Federal Express Corporation": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Swooped": {
       "status": "not_found",
       "matched_name": null
     },
@@ -333,17 +457,9 @@
       "status": "likely",
       "matched_name": "SiteMinder Distribution Limited"
     },
-    "TalentHop": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "Base-2 Solutions": {
       "status": "not_found",
       "matched_name": null
-    },
-    "Haystack": {
-      "status": "likely",
-      "matched_name": "Hays PLC"
     },
     "PVcase": {
       "status": "confirmed",
@@ -362,10 +478,6 @@
       "matched_name": null
     },
     "City of Gresham": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Jobgether": {
       "status": "not_found",
       "matched_name": null
     },
@@ -597,10 +709,6 @@
       "status": "not_found",
       "matched_name": null
     },
-    "Realtor.com": {
-      "status": "likely",
-      "matched_name": "Real Group Ltd"
-    },
     "Heim": {
       "status": "likely",
       "matched_name": "Alzheimer's Research UK"
@@ -660,10 +768,6 @@
     "Sword": {
       "status": "likely",
       "matched_name": "AgileBits UK Ltd trading as 1Password"
-    },
-    "Uniti Group Inc.": {
-      "status": "likely",
-      "matched_name": "ACORN DAY OPPORTUNITIES LTD"
     },
     "KinderCare Learning Companies": {
       "status": "likely",
@@ -1041,10 +1145,6 @@
       "status": "likely",
       "matched_name": "Data Inc UK Ltd"
     },
-    "ServiceNow": {
-      "status": "confirmed",
-      "matched_name": "ServiceNow UK Limited"
-    },
     "WSP in the U.S.": {
       "status": "not_found",
       "matched_name": null
@@ -1204,10 +1304,6 @@
     "Core One": {
       "status": "likely",
       "matched_name": "Core"
-    },
-    "VetJobs": {
-      "status": "not_found",
-      "matched_name": null
     },
     "Teamwork.com": {
       "status": "likely",
@@ -1440,10 +1536,6 @@
     "Neuron7.ai": {
       "status": "not_found",
       "matched_name": null
-    },
-    "Keysight Technologies": {
-      "status": "confirmed",
-      "matched_name": "Keysight Technologies UK Limited"
     },
     "AtkinsR\u00e9alis": {
       "status": "not_found",
@@ -2096,10 +2188,6 @@
     "Sacramento Suburban Water District": {
       "status": "not_found",
       "matched_name": null
-    },
-    "M Group Technology & Communications": {
-      "status": "likely",
-      "matched_name": "Communications Inc"
     },
     "WSP in the UK & Ireland": {
       "status": "not_found",
@@ -2884,10 +2972,6 @@
     "SAIC": {
       "status": "likely",
       "matched_name": "ioMosaic International Limited"
-    },
-    "Mott MacDonald": {
-      "status": "confirmed",
-      "matched_name": "Mott MacDonald Ltd"
     },
     "Skanska": {
       "status": "confirmed",
@@ -4145,10 +4229,6 @@
       "status": "not_found",
       "matched_name": null
     },
-    "HDR": {
-      "status": "not_found",
-      "matched_name": null
-    },
     "OpenGov Inc.": {
       "status": "likely",
       "matched_name": "The Open Group Limited"
@@ -4164,10 +4244,6 @@
     "Austal USA": {
       "status": "not_found",
       "matched_name": null
-    },
-    "SHI International Corp.": {
-      "status": "likely",
-      "matched_name": "CO INTERNATIONAL LTD"
     },
     "ARC Intelligence": {
       "status": "not_found",
@@ -5880,70 +5956,6 @@
     "Quanta Infrastructure Solutions Group": {
       "status": "likely",
       "matched_name": "Quant Group Ltd"
-    },
-    "Inotivco": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "CDMS": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Barr": {
-      "status": "likely",
-      "matched_name": "16 Barrack Ltd TA Saffron Indian Restaurant & Pizza Place"
-    },
-    "Bayer": {
-      "status": "confirmed",
-      "matched_name": "Bayer plc"
-    },
-    "GondolaBio": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "Barton & Loguidice, D.P.C.": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "ONYX Exposure Science, LLC": {
-      "status": "likely",
-      "matched_name": "Science (UK) Limited"
-    },
-    "\u683c\u5170\u8fbe\u516c\u53f8": {
-      "status": "unknown",
-      "matched_name": null
-    },
-    "Altria": {
-      "status": "likely",
-      "matched_name": "Altria Ventures UK Ltd"
-    },
-    "UL Research Institutes": {
-      "status": "likely",
-      "matched_name": "UK Search Limited"
-    },
-    "Sasol": {
-      "status": "confirmed",
-      "matched_name": "Sasol UK Limited"
-    },
-    "dsm-firmenich": {
-      "status": "likely",
-      "matched_name": "Firmenich UK Ltd"
-    },
-    "Syngenta": {
-      "status": "confirmed",
-      "matched_name": "Syngenta Limited"
-    },
-    "The Scotts Miracle-Gro Company": {
-      "status": "likely",
-      "matched_name": "S&MI Ltd"
-    },
-    "Ddcdine": {
-      "status": "not_found",
-      "matched_name": null
-    },
-    "U.S. Coast Guard": {
-      "status": "not_found",
-      "matched_name": null
     }
   }
 }
