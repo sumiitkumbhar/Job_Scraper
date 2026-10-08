@@ -1,28 +1,24 @@
 # 🏛 Priority Employers — Sumit's Planning & PropTech Roles
-*Last updated: 2026-10-07 11:42 UTC*
+*Last updated: 2026-10-08 11:19 UTC*
 
-**6 new role(s)** since last run · 7 total in last 24h
+**5 new role(s)** since last run · 5 total in last 24h
 
-### [Consultant Town Planner](https://www.linkedin.com/jobs/view/4474998852/) — AECOM
-- 📍 **Location:** London, England, United Kingdom
+### [EDA Customer Success Manager](https://www.linkedin.com/jobs/view/4474808034/) — Keysight Technologies
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-10-08
+
+### [Graduate Town Planner - Community Development - 2027 (Cambridge)](https://www.linkedin.com/jobs/view/4447998983/) — Stantec
+- 📍 **Location:** Cambridge, England, United Kingdom
 - 🕒 **Posted:** 2026-10-07
 
-### [Customer Success Manager](https://www.linkedin.com/jobs/view/4459928916/) — Street Group
-- 📍 **Location:** Manchester, England, United Kingdom
+### [Graduate Town Planner - Community Development - 2027 (Edinburgh / Glasgow)](https://www.linkedin.com/jobs/view/4448216101/) — Stantec
+- 📍 **Location:** Edinburgh, Scotland, United Kingdom
 - 🕒 **Posted:** 2026-10-07
 
-### [Graduate Urban Designer - Community Development - 2027 (Bristol)](https://www.linkedin.com/jobs/view/4447999670/) — Stantec
-- 📍 **Location:** Bristol, England, United Kingdom
-- 🕒 **Posted:** 2026-10-06
+### [Senior Town Planner](https://www.linkedin.com/jobs/view/4459167585/) — Mott MacDonald
+- 📍 **Location:** Cardiff, Wales, United Kingdom
+- 🕒 **Posted:** 2026-10-07
 
-### [Strategic Planning Consultant](https://www.linkedin.com/jobs/view/4467208888/) — Buro Happold
-- 📍 **Location:** London, England, United Kingdom
-- 🕒 **Posted:** 2026-10-06
-
-### [Senior/Principal Planning Consultant](https://www.linkedin.com/jobs/view/4467276681/) — Arup
-- 📍 **Location:** Birmingham, England, United Kingdom
-- 🕒 **Posted:** 2026-10-06
-
-### [Senior Customer Success Manager](https://www.linkedin.com/jobs/view/4449676643/) — ICON
-- 📍 **Location:** Austin, TX
-- 🕒 **Posted:** 2026-10-06
+### [Senior / Principal Town Planner](https://www.linkedin.com/jobs/view/4459165783/) — Mott MacDonald
+- 📍 **Location:** Liverpool, England, United Kingdom
+- 🕒 **Posted:** 2026-10-07
