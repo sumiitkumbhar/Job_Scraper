@@ -1,62 +1,59 @@
 # 🔥 LinkedIn — Sumit's Planning & PropTech Roles
-*Last updated: 2026-10-08 01:35 UTC*
+*Last updated: 2026-10-08 08:05 UTC*
 
-**13 new role(s)** since last run · 13 total in last 1h
+**12 new role(s)** since last run · 12 total in last 1h
 
-### [Customer Success Lead](https://www.linkedin.com/jobs/view/4474497250/) — OPENRED
-- 📍 **Location:** Rotterdam, South Holland, Netherlands
+### [Associate Town Planner](https://www.linkedin.com/jobs/view/4477111599/) — Vivid Resourcing
+- 📍 **Location:** Newcastle Upon Tyne, England, United Kingdom
 - 🕒 **Posted:** 2026-10-08
 
-### [Senior Urban Designer](https://www.linkedin.com/jobs/view/4475710801/) — HDR
-- 📍 **Location:** Denver, CO
-- 💰 **Salary:** $114,114.00 - $163,020.00
+### [Customer Success Manager - SMB](https://www.linkedin.com/jobs/view/4450815098/) — Gearset
+- 📍 **Location:** Cambridge, England, United Kingdom
 - 🕒 **Posted:** 2026-10-08
 
-### [Client Solutions Consultant - Engine by Starling](https://www.linkedin.com/jobs/view/4476945974/) — Women in Tech
-- 📍 **Location:** Charlotte, NC
+### [Senior OT Security Compliance Consultant](https://www.linkedin.com/jobs/view/4472792208/) — M Group Technology & Communications
+- 📍 **Location:** London, England, United Kingdom
 - 🕒 **Posted:** 2026-10-08
 
-### [Workday Financial Planning Analyst](https://www.linkedin.com/jobs/view/4476956767/) — Workday Talent Hub
-- 📍 **Location:** Lakeland, FL
-- 💰 **Salary:** $80,000 - $85,000,
+### [Technical Solutions Consultant (m/w/d)](https://www.linkedin.com/jobs/view/4475753957/) — Solvares Group
+- 📍 **Location:** Munich, Bavaria, Germany
 - 🕒 **Posted:** 2026-10-08
 
-### [Sr Customer Success Manager](https://www.linkedin.com/jobs/view/4474498243/) — Copado
-- 📍 **Location:** New Orleans, LA
+### [Sr. Planning Analyst](https://www.linkedin.com/jobs/view/4475761609/) — Intel
+- 📍 **Location:** Phoenix, AZ
+- 💰 **Salary:** $107,990.00 - 152,460.00
 - 🕒 **Posted:** 2026-10-08
 
-### [Sr Customer Success Manager](https://www.linkedin.com/jobs/view/4474496350/) — Copado
-- 📍 **Location:** Denver, CO
-- 🕒 **Posted:** 2026-10-08
-
-### [Customer Success Manager w/ Commercial Construction Experience](https://www.linkedin.com/jobs/view/4476970028/) — Swooped
+### [Customer Success Specialist](https://www.linkedin.com/jobs/view/4477110842/) — Jobgether
 - 📍 **Location:** United States
+- 💰 **Salary:** $70,000–$80,000
 - 🕒 **Posted:** 2026-10-08
 
-### [Customer Success Associate](https://www.linkedin.com/jobs/view/4475730008/) — Haystack
+### [Customer Success Manager](https://www.linkedin.com/jobs/view/4475762653/) — TalentHop
 - 📍 **Location:** United States
-- 💰 **Salary:** $110,000 - $130,000
+- 💰 **Salary:** $110,000.00/yr - $120,000.00/yr
 - 🕒 **Posted:** 2026-10-08
 
-### [Senior Technical Account Manager - Customer Success (AMER)](https://www.linkedin.com/jobs/view/4476968155/) — Swooped
+### [Enterprise Customer Success Manager](https://www.linkedin.com/jobs/view/4475760782/) — TalentHop
 - 📍 **Location:** United States
+- 💰 **Salary:** $125,000.00/yr - $145,000.00/yr
 - 🕒 **Posted:** 2026-10-08
 
-### [Senior Manager of Customer Success (Enterprise)](https://www.linkedin.com/jobs/view/4423005543/) — Owner.com
-- 📍 **Location:** United States
-- 💰 **Salary:** $170-$200k USD
+### [Sr. Trade and Compliance Analyst (Hybrid),](https://www.linkedin.com/jobs/view/4475764647/) — Baxter International Inc.
+- 📍 **Location:** Deerfield, IL
+- 💰 **Salary:** $76,000 - $104,500 annually
 - 🕒 **Posted:** 2026-10-08
 
-### [Sr Customer Success Manager](https://www.linkedin.com/jobs/view/4476961639/) — ServiceNow
-- 📍 **Location:** Addison, TX
+### [Cybersecurity Compliance Analyst II](https://www.linkedin.com/jobs/view/4475772297/) — APTNEXUS
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $80,000 to $100,000 annually
 - 🕒 **Posted:** 2026-10-08
 
-### [Customer Success Manager, Strategic (US/Canada)](https://www.linkedin.com/jobs/view/4441947067/) — Owner.com
-- 📍 **Location:** United States
-- 💰 **Salary:** $125,500-$137,000
+### [Operations Compliance Analyst - Secaucus, NJ](https://www.linkedin.com/jobs/view/4477109718/) — VetJobs
+- 📍 **Location:** Secaucus, NJ
 - 🕒 **Posted:** 2026-10-08
 
-### [Customer Success Manager - Digital](https://www.linkedin.com/jobs/view/4474496331/) — SHI International Corp.
-- 📍 **Location:** Austin, TX
-- 💰 **Salary:** $80,000 - $120,000
+### [Senior Cybersecurity Compliance Analyst](https://www.linkedin.com/jobs/view/4475779121/) — APTNEXUS
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $115,000 to $140,000 annually
 - 🕒 **Posted:** 2026-10-08
