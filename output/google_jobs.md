@@ -1,5 +1,5 @@
 # 🔎 Google Jobs — Sumit's Planning & PropTech Roles
-*Last updated: 2026-10-07 21:32 UTC*
+*Last updated: 2026-10-08 21:30 UTC*
 
 **0 new role(s)** since last run · 4 total in last 24h
 
